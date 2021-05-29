@@ -3,10 +3,66 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
+et:
+  languageCode: et
+  contentDir: content/et
+  title: Lastefotograaf Tallinnas
+  params:
+    description: Vastündinu, laste ja beebi fotograaf Tallinnas - Viktoria Iljin
+  menu:
+    main:
+      - name: Minust
+        url: '#about'
+        weight: 30
+      - name: Portfoolio ja hinnad
+        url: '#projects'
+        weight: 10
+      - name: Blogi
+        url: '#posts'
+        weight: 20
+      - name: Kontakt
+        url: '#contact'
+        weight: 40
+ru:
+  languageCode: ru
+  contentDir: content/ru
+  title: Фотограф новорожденных
+  params:
+    description: Фотограф новорожденных и малышей в Таллинне - Виктория Ильин
+  menu:  
+    main:
+      - name: Обо мне
+        url: '#about'
+        weight: 30
+      - name: Портфолио и цены
+        url: '#projects'
+        weight: 10
+      - name: Блог
+        url: '#posts'
+        weight: 20
+      - name: Контакт
+        url: '#contact'
+        weight: 40
 en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  languageCode: en
+  contentDir: content/en
+  title: Newborn photographer
+  params:
+    description: Newborn and babies photographer in Tallinn - Viktoria Iljin
+  menu:
+    main:
+      - name: About me
+        url: '#about'
+        weight: 30
+      - name: Portfolio and prices
+        url: '#projects'
+        weight: 10
+      - name: Blog
+        url: '#posts'
+        weight: 20
+      - name: Contact
+        url: '#contact'
+        weight: 40
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
