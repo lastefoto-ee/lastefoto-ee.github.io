@@ -7,8 +7,7 @@
 &lt;p>
 &lt;figure id="figure-family-photosession">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Family photosession" srcset="
+&lt;div class="w-100" >&lt;img alt="Family photosession" srcset="
 /en/project/family/family-photosession-1_hu6de518ef1b99426366703187632ddfc7_114104_558be7756f4679f189dde5be109ad997.jpg 400w,
 /en/project/family/family-photosession-1_hu6de518ef1b99426366703187632ddfc7_114104_a3a0818b6ed1acce7aace63bb2e0efe2.jpg 760w,
 /en/project/family/family-photosession-1_hu6de518ef1b99426366703187632ddfc7_114104_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -21,8 +20,7 @@ Family photosession
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-family-photosession-in-tallinn">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Family photosession in Tallinn" srcset="
+&lt;div class="w-100" >&lt;img alt="Family photosession in Tallinn" srcset="
 /en/project/family/family-photosession-2_hu2858f0e334b5ae0fdd21c1b5d7f52b21_117502_6fa0c68ad56a4482667593fc560e3487.jpg 400w,
 /en/project/family/family-photosession-2_hu2858f0e334b5ae0fdd21c1b5d7f52b21_117502_7350abaaa3477e0008850ee42a9450ed.jpg 760w,
 /en/project/family/family-photosession-2_hu2858f0e334b5ae0fdd21c1b5d7f52b21_117502_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -35,8 +33,7 @@ Family photosession in Tallinn
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-family-outdoor-photosession">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Family outdoor photosession" srcset="
+&lt;div class="w-100" >&lt;img alt="Family outdoor photosession" srcset="
 /en/project/family/family-photosession-3_huf038bb2215233ab49d7a1426427725f1_180274_268665309b6df84f3af76454949cc910.jpg 400w,
 /en/project/family/family-photosession-3_huf038bb2215233ab49d7a1426427725f1_180274_25d4978f12bfb055145e4e6597209ac5.jpg 760w,
 /en/project/family/family-photosession-3_huf038bb2215233ab49d7a1426427725f1_180274_1200x1200_fit_q75_lanczos.jpg 1200w"

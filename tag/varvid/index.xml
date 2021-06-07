@@ -10,8 +10,7 @@
 &lt;p>
 &lt;figure id="figure-värvidega-fotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Värvidega fotosessioon Tallinnas" srcset="
+&lt;div class="w-100" >&lt;img alt="Värvidega fotosessioon Tallinnas" srcset="
 /project/varvid/fotosessioon-soodavate-varvidega-1_hu23ea0e8385aa505f0af2f33b6eb8c755_158005_13c35c1207316357e1105a9d773b2374.jpg 400w,
 /project/varvid/fotosessioon-soodavate-varvidega-1_hu23ea0e8385aa505f0af2f33b6eb8c755_158005_d6df05d5011b16d5653b8c6cac86610e.jpg 760w,
 /project/varvid/fotosessioon-soodavate-varvidega-1_hu23ea0e8385aa505f0af2f33b6eb8c755_158005_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -24,8 +23,7 @@ Värvidega fotosessioon Tallinnas
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-lastefotosessioon-söödavate-värvidega-stuudios">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Lastefotosessioon söödavate värvidega stuudios" srcset="
+&lt;div class="w-100" >&lt;img alt="Lastefotosessioon söödavate värvidega stuudios" srcset="
 /project/varvid/fotosessioon-soodavate-varvidega-2_hub0d732d3d62747ad369737388483e044_109362_4c1a0029280195b5e4f4a61dda952217.jpg 400w,
 /project/varvid/fotosessioon-soodavate-varvidega-2_hub0d732d3d62747ad369737388483e044_109362_1613b4b3dc3b13c8850af46f5a0ab785.jpg 760w,
 /project/varvid/fotosessioon-soodavate-varvidega-2_hub0d732d3d62747ad369737388483e044_109362_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -38,8 +36,7 @@ Lastefotosessioon söödavate värvidega stuudios
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-lastefotosessioon-värvidega">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Lastefotosessioon värvidega" srcset="
+&lt;div class="w-100" >&lt;img alt="Lastefotosessioon värvidega" srcset="
 /project/varvid/fotosessioon-soodavate-varvidega-3_hu919e8bece7a790286d681438487b6585_137928_9de98060387d13fdb5bf1c3d7583a67f.jpg 400w,
 /project/varvid/fotosessioon-soodavate-varvidega-3_hu919e8bece7a790286d681438487b6585_137928_c2dd23fb04713229522391356710fc64.jpg 760w,
 /project/varvid/fotosessioon-soodavate-varvidega-3_hu919e8bece7a790286d681438487b6585_137928_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -52,8 +49,7 @@ Lastefotosessioon värvidega
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-lastefotosessioon-söödavate-värvidega-stuudios">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Lastefotosessioon söödavate värvidega stuudios" srcset="
+&lt;div class="w-100" >&lt;img alt="Lastefotosessioon söödavate värvidega stuudios" srcset="
 /project/varvid/fotosessioon-soodavate-varvidega-4_hu5dcb2d3646d6a90c791e86aeefec2bc4_113134_0ef572cb05d47ea5ae771e01c30f1445.jpg 400w,
 /project/varvid/fotosessioon-soodavate-varvidega-4_hu5dcb2d3646d6a90c791e86aeefec2bc4_113134_7a9f8250b0311f5d33e11dd2b0d4dfa9.jpg 760w,
 /project/varvid/fotosessioon-soodavate-varvidega-4_hu5dcb2d3646d6a90c791e86aeefec2bc4_113134_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -66,8 +62,7 @@ Lastefotosessioon söödavate värvidega stuudios
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-värvidega-fotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Värvidega fotosessioon Tallinnas" srcset="
+&lt;div class="w-100" >&lt;img alt="Värvidega fotosessioon Tallinnas" srcset="
 /project/varvid/fotosessioon-soodavate-varvidega-5_hu43f41036b804db27626255c1a75cbbd6_81917_e697b5432af5b5628db633671d7f01d1.jpg 400w,
 /project/varvid/fotosessioon-soodavate-varvidega-5_hu43f41036b804db27626255c1a75cbbd6_81917_39eeaf7cc6ef42d1df102f6c9e904236.jpg 760w,
 /project/varvid/fotosessioon-soodavate-varvidega-5_hu43f41036b804db27626255c1a75cbbd6_81917_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -80,8 +75,7 @@ Värvidega fotosessioon Tallinnas
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-lastefotosessioon-värvidega">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Lastefotosessioon värvidega" srcset="
+&lt;div class="w-100" >&lt;img alt="Lastefotosessioon värvidega" srcset="
 /project/varvid/fotosessioon-soodavate-varvidega-6_hu681d9258adc8e4f81b49cf984b407a14_119721_629a419f3e8d11acbac38dee3e0ebd2e.jpg 400w,
 /project/varvid/fotosessioon-soodavate-varvidega-6_hu681d9258adc8e4f81b49cf984b407a14_119721_4acb70598ec9b1f1b5dd4aedb2f79f33.jpg 760w,
 /project/varvid/fotosessioon-soodavate-varvidega-6_hu681d9258adc8e4f81b49cf984b407a14_119721_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -94,8 +88,7 @@ Lastefotosessioon värvidega
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-lastefotosessioon-söödavate-värvidega-stuudios">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Lastefotosessioon söödavate värvidega stuudios" srcset="
+&lt;div class="w-100" >&lt;img alt="Lastefotosessioon söödavate värvidega stuudios" srcset="
 /project/varvid/fotosessioon-soodavate-varvidega-7_hu7f1dd8e7e4cc7bc272b9f82aee3626b0_182866_ff0ccc7a3c8c064acae20d4ed453918f.jpg 400w,
 /project/varvid/fotosessioon-soodavate-varvidega-7_hu7f1dd8e7e4cc7bc272b9f82aee3626b0_182866_3e136be2596b8fa4354c1aa46594aae9.jpg 760w,
 /project/varvid/fotosessioon-soodavate-varvidega-7_hu7f1dd8e7e4cc7bc272b9f82aee3626b0_182866_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -108,8 +101,7 @@ Lastefotosessioon söödavate värvidega stuudios
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-värvidega-fotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Värvidega fotosessioon Tallinnas" srcset="
+&lt;div class="w-100" >&lt;img alt="Värvidega fotosessioon Tallinnas" srcset="
 /project/varvid/fotosessioon-soodavate-varvidega-8_huc624eb70c2a07794d24e476bc9c6f4ac_172221_eced88617b12711c202ff88f22249392.jpg 400w,
 /project/varvid/fotosessioon-soodavate-varvidega-8_huc624eb70c2a07794d24e476bc9c6f4ac_172221_fb90bf440127ae7f5b2cfc1dc39a6354.jpg 760w,
 /project/varvid/fotosessioon-soodavate-varvidega-8_huc624eb70c2a07794d24e476bc9c6f4ac_172221_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -122,8 +114,7 @@ Värvidega fotosessioon Tallinnas
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-lastefotosessioon-värvidega">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Lastefotosessioon värvidega" srcset="
+&lt;div class="w-100" >&lt;img alt="Lastefotosessioon värvidega" srcset="
 /project/varvid/fotosessioon-soodavate-varvidega-9_hu3fb966ec6178fce99607bc23546d4471_94785_6ef0a1b685618053af0ba9602af8773d.jpg 400w,
 /project/varvid/fotosessioon-soodavate-varvidega-9_hu3fb966ec6178fce99607bc23546d4471_94785_31d7bda43daadfc401731d62a5a9c44a.jpg 760w,
 /project/varvid/fotosessioon-soodavate-varvidega-9_hu3fb966ec6178fce99607bc23546d4471_94785_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -136,8 +127,7 @@ Lastefotosessioon värvidega
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-lastefotosessioon-söödavate-värvidega-stuudios">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Lastefotosessioon söödavate värvidega stuudios" srcset="
+&lt;div class="w-100" >&lt;img alt="Lastefotosessioon söödavate värvidega stuudios" srcset="
 /project/varvid/fotosessioon-soodavate-varvidega-10_hu762c3ece6f04001d9508258aadaa1b83_119626_d368d48cab2848398ecd17a3bba88f9e.jpg 400w,
 /project/varvid/fotosessioon-soodavate-varvidega-10_hu762c3ece6f04001d9508258aadaa1b83_119626_2c218e64a862e19a88b6f3b866ace98e.jpg 760w,
 /project/varvid/fotosessioon-soodavate-varvidega-10_hu762c3ece6f04001d9508258aadaa1b83_119626_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -150,8 +140,7 @@ Lastefotosessioon söödavate värvidega stuudios
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-värvidega-fotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Värvidega fotosessioon Tallinnas" srcset="
+&lt;div class="w-100" >&lt;img alt="Värvidega fotosessioon Tallinnas" srcset="
 /project/varvid/fotosessioon-soodavate-varvidega-11_hu32c97460176bdd13ca2bc86a055010a1_332672_a2f44c0435b238d7516fd6efbcbcea53.jpg 400w,
 /project/varvid/fotosessioon-soodavate-varvidega-11_hu32c97460176bdd13ca2bc86a055010a1_332672_602f640bf6199ca5f6f114703f9c187a.jpg 760w,
 /project/varvid/fotosessioon-soodavate-varvidega-11_hu32c97460176bdd13ca2bc86a055010a1_332672_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -164,8 +153,7 @@ Värvidega fotosessioon Tallinnas
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-lastefotosessioon-söödavate-värvidega-stuudios">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Lastefotosessioon söödavate värvidega stuudios" srcset="
+&lt;div class="w-100" >&lt;img alt="Lastefotosessioon söödavate värvidega stuudios" srcset="
 /project/varvid/fotosessioon-soodavate-varvidega-12_huda07972e9454de75f3d9ab6b3175ee94_237304_104897664f687bbb02760939dd2db96d.jpg 400w,
 /project/varvid/fotosessioon-soodavate-varvidega-12_huda07972e9454de75f3d9ab6b3175ee94_237304_d49464c8fc42a542416ed87eb0a5d8b8.jpg 760w,
 /project/varvid/fotosessioon-soodavate-varvidega-12_huda07972e9454de75f3d9ab6b3175ee94_237304_1200x1200_fit_q75_lanczos.jpg 1200w"

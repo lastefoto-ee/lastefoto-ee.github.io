@@ -7,8 +7,7 @@
 &lt;p>
 &lt;figure id="figure-laste-välifotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Laste välifotosessioon Tallinnas" srcset="
+&lt;div class="w-100" >&lt;img alt="Laste välifotosessioon Tallinnas" srcset="
 /project/lapsed/laste-fotosessioon-1_huc56a75ffc7032c368a93de0a07b3542f_138455_acc2557c852fe442e46882ee9fffe90e.jpg 400w,
 /project/lapsed/laste-fotosessioon-1_huc56a75ffc7032c368a93de0a07b3542f_138455_029e98114ea577583b8b142bfbdd2f83.jpg 760w,
 /project/lapsed/laste-fotosessioon-1_huc56a75ffc7032c368a93de0a07b3542f_138455_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -21,8 +20,7 @@ Laste välifotosessioon Tallinnas
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-lastefotosessioon-rotermanni-kvartalis">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Lastefotosessioon Rotermanni kvartalis" srcset="
+&lt;div class="w-100" >&lt;img alt="Lastefotosessioon Rotermanni kvartalis" srcset="
 /project/lapsed/laste-fotosessioon-2_hu6fbefbff9fb8cb41f445737c844ee3fb_122254_75b0414e36882f56558e972556bb91c0.jpg 400w,
 /project/lapsed/laste-fotosessioon-2_hu6fbefbff9fb8cb41f445737c844ee3fb_122254_588f520c82d1de07ed19d593718c4d04.jpg 760w,
 /project/lapsed/laste-fotosessioon-2_hu6fbefbff9fb8cb41f445737c844ee3fb_122254_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -35,8 +33,7 @@ Lastefotosessioon Rotermanni kvartalis
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-lastepildistamine-vabaõhumuuseumis">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Lastepildistamine Vabaõhumuuseumis" srcset="
+&lt;div class="w-100" >&lt;img alt="Lastepildistamine Vabaõhumuuseumis" srcset="
 /project/lapsed/laste-fotosessioon-3_hu45148af0ba723b38c494df39fdc06900_157516_6fc1306b97d1899bba70e6b513a40671.jpg 400w,
 /project/lapsed/laste-fotosessioon-3_hu45148af0ba723b38c494df39fdc06900_157516_3a3c7b99286c55cd2bf09a8e5d45d01e.jpg 760w,
 /project/lapsed/laste-fotosessioon-3_hu45148af0ba723b38c494df39fdc06900_157516_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -49,8 +46,7 @@ Lastepildistamine Vabaõhumuuseumis
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-laste-kodune-fotosessioon">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Laste kodune fotosessioon" srcset="
+&lt;div class="w-100" >&lt;img alt="Laste kodune fotosessioon" srcset="
 /project/lapsed/laste-fotosessioon-4_hu1c47d8a9fa1e453aaa79a01d05d77338_95014_55fe564aaa3248125f51dc49a7a34d31.jpg 400w,
 /project/lapsed/laste-fotosessioon-4_hu1c47d8a9fa1e453aaa79a01d05d77338_95014_af6e30f441d56217b1e047ef986fa9d8.jpg 760w,
 /project/lapsed/laste-fotosessioon-4_hu1c47d8a9fa1e453aaa79a01d05d77338_95014_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -63,8 +59,7 @@ Laste kodune fotosessioon
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-lastepilt">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Lastepilt" srcset="
+&lt;div class="w-100" >&lt;img alt="Lastepilt" srcset="
 /project/lapsed/laste-fotosessioon-4_hu1c47d8a9fa1e453aaa79a01d05d77338_95014_55fe564aaa3248125f51dc49a7a34d31.jpg 400w,
 /project/lapsed/laste-fotosessioon-4_hu1c47d8a9fa1e453aaa79a01d05d77338_95014_af6e30f441d56217b1e047ef986fa9d8.jpg 760w,
 /project/lapsed/laste-fotosessioon-4_hu1c47d8a9fa1e453aaa79a01d05d77338_95014_1200x1200_fit_q75_lanczos.jpg 1200w"

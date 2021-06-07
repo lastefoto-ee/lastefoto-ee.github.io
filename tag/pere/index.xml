@@ -7,8 +7,7 @@
 &lt;p>
 &lt;figure id="figure-pere-välifotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Pere välifotosessioon Tallinnas" srcset="
+&lt;div class="w-100" >&lt;img alt="Pere välifotosessioon Tallinnas" srcset="
 /project/pere/pere-fotosessioon-1_hu6de518ef1b99426366703187632ddfc7_114104_ca2406fa52e9f69e3d4c95f94a96a4c1.jpg 400w,
 /project/pere/pere-fotosessioon-1_hu6de518ef1b99426366703187632ddfc7_114104_a6f27937bf6e9f36a1bf2c2c7fe1630d.jpg 760w,
 /project/pere/pere-fotosessioon-1_hu6de518ef1b99426366703187632ddfc7_114104_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -21,8 +20,7 @@ Pere välifotosessioon Tallinnas
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-perefotosessioon-männi-pargis">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Perefotosessioon Männi pargis" srcset="
+&lt;div class="w-100" >&lt;img alt="Perefotosessioon Männi pargis" srcset="
 /project/pere/pere-fotosessioon-2_hu2858f0e334b5ae0fdd21c1b5d7f52b21_117502_b977a0225cbfbd66695112e3563f030c.jpg 400w,
 /project/pere/pere-fotosessioon-2_hu2858f0e334b5ae0fdd21c1b5d7f52b21_117502_2d107b23924d87e759d9e0856c1ce356.jpg 760w,
 /project/pere/pere-fotosessioon-2_hu2858f0e334b5ae0fdd21c1b5d7f52b21_117502_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -35,8 +33,7 @@ Perefotosessioon Männi pargis
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-perepildid">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Perepildid" srcset="
+&lt;div class="w-100" >&lt;img alt="Perepildid" srcset="
 /project/pere/pere-fotosessioon-3_huf038bb2215233ab49d7a1426427725f1_180274_d281c2d337906398f755bb6961b319bc.jpg 400w,
 /project/pere/pere-fotosessioon-3_huf038bb2215233ab49d7a1426427725f1_180274_15d19ff7720399d939231b0cdf3b8c9b.jpg 760w,
 /project/pere/pere-fotosessioon-3_huf038bb2215233ab49d7a1426427725f1_180274_1200x1200_fit_q75_lanczos.jpg 1200w"

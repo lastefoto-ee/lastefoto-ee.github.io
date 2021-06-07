@@ -9,8 +9,7 @@
 &lt;p>
 &lt;figure id="figure-beebi-esimese-sünnipäeva-fotosessioon">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Beebi esimese sünnipäeva fotosessioon" srcset="
+&lt;div class="w-100" >&lt;img alt="Beebi esimese sünnipäeva fotosessioon" srcset="
 /project/cake-smash/cake-smash-fotosessioon-1_hu29a3ce0c903a06bf8b0e6f0f85ecee0a_136397_9648edad34b5011bf67324320c935c54.jpg 400w,
 /project/cake-smash/cake-smash-fotosessioon-1_hu29a3ce0c903a06bf8b0e6f0f85ecee0a_136397_fefee2b0887a2b4db01f328f49ec5d88.jpg 760w,
 /project/cake-smash/cake-smash-fotosessioon-1_hu29a3ce0c903a06bf8b0e6f0f85ecee0a_136397_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -23,8 +22,7 @@ Beebi esimese sünnipäeva fotosessioon
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-cake-smash-fotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Cake smash fotosessioon Tallinnas" srcset="
+&lt;div class="w-100" >&lt;img alt="Cake smash fotosessioon Tallinnas" srcset="
 /project/cake-smash/cake-smash-fotosessioon-2_hu948a66aac2b8ebbec101321b0da325a7_20177_7617016744df14073e17ff293525ef57.jpg 400w,
 /project/cake-smash/cake-smash-fotosessioon-2_hu948a66aac2b8ebbec101321b0da325a7_20177_f4e6731d517945293e73fff6f68a3c55.jpg 760w,
 /project/cake-smash/cake-smash-fotosessioon-2_hu948a66aac2b8ebbec101321b0da325a7_20177_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -37,8 +35,7 @@ Cake smash fotosessioon Tallinnas
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-cake-smash-fotosessioon-stuudios">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Cake smash fotosessioon stuudios" srcset="
+&lt;div class="w-100" >&lt;img alt="Cake smash fotosessioon stuudios" srcset="
 /project/cake-smash/cake-smash-fotosessioon-3_hu20ebab59c5a5a1f1877b43dc28749894_72236_8902a53d39b2a47dd466fcdd93b88e7c.jpg 400w,
 /project/cake-smash/cake-smash-fotosessioon-3_hu20ebab59c5a5a1f1877b43dc28749894_72236_397b66201d81b37859634e33ede726a4.jpg 760w,
 /project/cake-smash/cake-smash-fotosessioon-3_hu20ebab59c5a5a1f1877b43dc28749894_72236_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -51,8 +48,7 @@ Cake smash fotosessioon stuudios
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-stuudio-cake-smash-pildistamine">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Stuudio cake smash pildistamine" srcset="
+&lt;div class="w-100" >&lt;img alt="Stuudio cake smash pildistamine" srcset="
 /project/cake-smash/cake-smash-fotosessioon-4_hu882019444de2d09e714412b2ce383f8f_160989_0b8e5752691e3e06f5835180acb383b5.jpg 400w,
 /project/cake-smash/cake-smash-fotosessioon-4_hu882019444de2d09e714412b2ce383f8f_160989_fe91f595a209bb3f895fa989b33be107.jpg 760w,
 /project/cake-smash/cake-smash-fotosessioon-4_hu882019444de2d09e714412b2ce383f8f_160989_1200x1200_fit_q75_lanczos.jpg 1200w"

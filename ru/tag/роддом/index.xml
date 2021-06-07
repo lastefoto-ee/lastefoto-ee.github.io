@@ -11,8 +11,7 @@
 &lt;p>
 &lt;figure id="figure-фотосессия-новорожденного-в-роддоме">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Фотосессия новорожденного в роддоме" srcset="
+&lt;div class="w-100" >&lt;img alt="Фотосессия новорожденного в роддоме" srcset="
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-1_hu9ddcdb63294e3c7c5ca718f761a816e5_66287_45f2999ce1ba74609908e63ac7585a96.jpg 400w,
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-1_hu9ddcdb63294e3c7c5ca718f761a816e5_66287_58bdaedc8f6ff246b3478fceaab2bf95.jpg 760w,
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-1_hu9ddcdb63294e3c7c5ca718f761a816e5_66287_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -25,8 +24,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-съемка-новорожденного-в-роддоме-таллинна">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Съемка новорожденного в роддоме Таллинна" srcset="
+&lt;div class="w-100" >&lt;img alt="Съемка новорожденного в роддоме Таллинна" srcset="
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-2_hu16a2d90f4c14629db4279276fb8e71b6_131351_0d4ddb61e0f6b67ec5c3094d3efc260a.jpg 400w,
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-2_hu16a2d90f4c14629db4279276fb8e71b6_131351_9607c6d322b1785f676fe099623a48c8.jpg 760w,
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-2_hu16a2d90f4c14629db4279276fb8e71b6_131351_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -39,8 +37,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-фотосессия-новорожденного-малыша-в-роддоме-pelgulinna">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Фотосессия новорожденного малыша в роддоме Pelgulinna" srcset="
+&lt;div class="w-100" >&lt;img alt="Фотосессия новорожденного малыша в роддоме Pelgulinna" srcset="
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-3_huce5563e1f314331b4909645ea34288ee_84003_bdb57e0154f15d9068b2bee315da8ba0.jpg 400w,
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-3_huce5563e1f314331b4909645ea34288ee_84003_cdf12062458fb2f250183af6ed88fc13.jpg 760w,
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-3_huce5563e1f314331b4909645ea34288ee_84003_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -53,8 +50,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-фотосессия-малыша-в-роддоме">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Фотосессия малыша в роддоме" srcset="
+&lt;div class="w-100" >&lt;img alt="Фотосессия малыша в роддоме" srcset="
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-4_hue6afb102403ac04bf14f56e192ea1d80_94411_295e536442d5a2e2ca4c5dea30b21039.jpg 400w,
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-4_hue6afb102403ac04bf14f56e192ea1d80_94411_02d38a12f9481222c1b6ade605257067.jpg 760w,
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-4_hue6afb102403ac04bf14f56e192ea1d80_94411_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -67,8 +63,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-фотосессия-новорожденного-малыша-в-роддоме-в-таллинне">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Фотосессия новорожденного малыша в роддоме в Таллинне" srcset="
+&lt;div class="w-100" >&lt;img alt="Фотосессия новорожденного малыша в роддоме в Таллинне" srcset="
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-5_hu00a290decc9ce1aee2f9b08466861e63_95233_ef1ec3f951fd1080edaa8910979efe7c.jpg 400w,
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-5_hu00a290decc9ce1aee2f9b08466861e63_95233_43ba45321bbaac56cb605d13f35a7655.jpg 760w,
 /ru/project/%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC/%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-%D1%80%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5-5_hu00a290decc9ce1aee2f9b08466861e63_95233_1200x1200_fit_q75_lanczos.jpg 1200w"

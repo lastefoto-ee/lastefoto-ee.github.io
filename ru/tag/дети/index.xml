@@ -7,8 +7,7 @@
 &lt;p>
 &lt;figure id="figure-детская-фотосессия-в-таллинне">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Детская фотосессия в Таллинне" srcset="
+&lt;div class="w-100" >&lt;img alt="Детская фотосессия в Таллинне" srcset="
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-1_huc56a75ffc7032c368a93de0a07b3542f_138455_a5d293b2c962b72b8aaefd8135ca3fdd.jpg 400w,
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-1_huc56a75ffc7032c368a93de0a07b3542f_138455_50276013256ac485e0f831fb2d06dc7e.jpg 760w,
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-1_huc56a75ffc7032c368a93de0a07b3542f_138455_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -21,8 +20,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-детская-фотосессия-в-квартале-ротерманн">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Детская фотосессия в квартале Ротерманн" srcset="
+&lt;div class="w-100" >&lt;img alt="Детская фотосессия в квартале Ротерманн" srcset="
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-2_hu6fbefbff9fb8cb41f445737c844ee3fb_122254_9a874f461c846da64cc2b0c79aef0978.jpg 400w,
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-2_hu6fbefbff9fb8cb41f445737c844ee3fb_122254_803e3423fc9a8a45cf440def211d39d8.jpg 760w,
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-2_hu6fbefbff9fb8cb41f445737c844ee3fb_122254_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -35,8 +33,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-фотосессия-на-природе">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Фотосессия на природе" srcset="
+&lt;div class="w-100" >&lt;img alt="Фотосессия на природе" srcset="
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-3_hu45148af0ba723b38c494df39fdc06900_157516_cfec1ffb34d04de6592a1c618e7e6a83.jpg 400w,
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-3_hu45148af0ba723b38c494df39fdc06900_157516_d797dd14383d1eb2b9a10edbed0819eb.jpg 760w,
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-3_hu45148af0ba723b38c494df39fdc06900_157516_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -49,8 +46,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-детская-домашняя-фотосессия">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Детская домашняя фотосессия" srcset="
+&lt;div class="w-100" >&lt;img alt="Детская домашняя фотосессия" srcset="
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-4_hu1c47d8a9fa1e453aaa79a01d05d77338_95014_7d13a7f8a9446181cbc3e47dd8480cd9.jpg 400w,
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-4_hu1c47d8a9fa1e453aaa79a01d05d77338_95014_953f2f90a1298a0feb7654d812745add.jpg 760w,
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-4_hu1c47d8a9fa1e453aaa79a01d05d77338_95014_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -63,8 +59,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-детская-фотография">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Детская фотография" srcset="
+&lt;div class="w-100" >&lt;img alt="Детская фотография" srcset="
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-5_hu144f7f6910d0cbe5d150b2895cbd9c85_162191_e9e12a8f42c1a72e0c6e177fff718b4f.jpg 400w,
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-5_hu144f7f6910d0cbe5d150b2895cbd9c85_162191_7704241ecf414688ad794a866651d922.jpg 760w,
 /ru/project/%D0%B4%D0%B5%D1%82%D0%B8/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-5_hu144f7f6910d0cbe5d150b2895cbd9c85_162191_1200x1200_fit_q75_lanczos.jpg 1200w"

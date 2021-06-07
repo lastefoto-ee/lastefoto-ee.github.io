@@ -25,8 +25,7 @@
 &lt;p>
 &lt;figure id="figure-baby-photosession">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Baby photosession" srcset="
+&lt;div class="w-100" >&lt;img alt="Baby photosession" srcset="
 /en/project/babies/baby-photosession-1_hu0b2258c95fa53fce1775a457f58b10c2_67119_52e6c3714661417e8d862dfe878027d9.jpg 400w,
 /en/project/babies/baby-photosession-1_hu0b2258c95fa53fce1775a457f58b10c2_67119_7a65f2467c0d26e121671bafaa151c2f.jpg 760w,
 /en/project/babies/baby-photosession-1_hu0b2258c95fa53fce1775a457f58b10c2_67119_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -39,8 +38,7 @@ Baby photosession
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession-in-tallinn">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Baby photosession in Tallinn" srcset="
+&lt;div class="w-100" >&lt;img alt="Baby photosession in Tallinn" srcset="
 /en/project/babies/baby-photosession-2_hu72721249cb6817662fa0b564bc787968_670162_565b770f282d56e9d9e17d60110f7f6b.jpg 400w,
 /en/project/babies/baby-photosession-2_hu72721249cb6817662fa0b564bc787968_670162_cc299caffec60e53038cd0ce0d01eedf.jpg 760w,
 /en/project/babies/baby-photosession-2_hu72721249cb6817662fa0b564bc787968_670162_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -53,8 +51,7 @@ Baby photosession in Tallinn
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-photosession-of-your-baby">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Photosession of your baby" srcset="
+&lt;div class="w-100" >&lt;img alt="Photosession of your baby" srcset="
 /en/project/babies/baby-photosession-3_huf193e8b7b630549cc317063a6993c3a0_157317_03136da3df4f97e02ae834cf1770b393.jpg 400w,
 /en/project/babies/baby-photosession-3_huf193e8b7b630549cc317063a6993c3a0_157317_85e62cca5169e72c0ad1057b439a1286.jpg 760w,
 /en/project/babies/baby-photosession-3_huf193e8b7b630549cc317063a6993c3a0_157317_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -67,8 +64,7 @@ Photosession of your baby
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession-at-lastefoto-studio">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Baby photosession at LasteFoto studio" srcset="
+&lt;div class="w-100" >&lt;img alt="Baby photosession at LasteFoto studio" srcset="
 /en/project/babies/baby-photosession-4_hu5f909d8e889a54f2a635ebfbc41ee322_111194_9560f53b253c6057b2c1d20e903f8a9b.jpg 400w,
 /en/project/babies/baby-photosession-4_hu5f909d8e889a54f2a635ebfbc41ee322_111194_c0695314d88a280a91bddf796d0ce488.jpg 760w,
 /en/project/babies/baby-photosession-4_hu5f909d8e889a54f2a635ebfbc41ee322_111194_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -81,8 +77,7 @@ Baby photosession at LasteFoto studio
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Baby photosession" srcset="
+&lt;div class="w-100" >&lt;img alt="Baby photosession" srcset="
 /en/project/babies/baby-photosession-5_hu5010c6f38ba309680bc37b0d02832e0d_17698_a53b21a196d973da13e42db8ed912c44.jpg 400w,
 /en/project/babies/baby-photosession-5_hu5010c6f38ba309680bc37b0d02832e0d_17698_f2ef8bbaf17f1de9f8719907fec5bb8f.jpg 760w,
 /en/project/babies/baby-photosession-5_hu5010c6f38ba309680bc37b0d02832e0d_17698_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -95,8 +90,7 @@ Baby photosession
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession-in-studio">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Baby photosession in studio" srcset="
+&lt;div class="w-100" >&lt;img alt="Baby photosession in studio" srcset="
 /en/project/babies/baby-photosession-6_hub1de734ff5be5825c809b38c006b71d8_242289_21674afc3f17fe542aeaf24a4a7d727c.jpg 400w,
 /en/project/babies/baby-photosession-6_hub1de734ff5be5825c809b38c006b71d8_242289_2d541e6965c5e00b9c8d982c092380c4.jpg 760w,
 /en/project/babies/baby-photosession-6_hub1de734ff5be5825c809b38c006b71d8_242289_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -109,8 +103,7 @@ Baby photosession in studio
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Baby photosession" srcset="
+&lt;div class="w-100" >&lt;img alt="Baby photosession" srcset="
 /en/project/babies/baby-photosession-7_hu139496f385271d687ddee8428c31c08a_267828_4ce2dbef9e3252cba0c6fe830c11e1b3.jpg 400w,
 /en/project/babies/baby-photosession-7_hu139496f385271d687ddee8428c31c08a_267828_829cac88a65288a20fadd7867a80deb1.jpg 760w,
 /en/project/babies/baby-photosession-7_hu139496f385271d687ddee8428c31c08a_267828_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -123,8 +116,7 @@ Baby photosession
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession-in-tallinn">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Baby photosession in Tallinn" srcset="
+&lt;div class="w-100" >&lt;img alt="Baby photosession in Tallinn" srcset="
 /en/project/babies/baby-photosession-8_huee0515585fc467a0ddc4686da01a1442_492520_53fa7269d2e10ba66a6cdc7ee3d45405.jpg 400w,
 /en/project/babies/baby-photosession-8_huee0515585fc467a0ddc4686da01a1442_492520_63b746fb5ee56dfa8a79987a88843d39.jpg 760w,
 /en/project/babies/baby-photosession-8_huee0515585fc467a0ddc4686da01a1442_492520_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -137,8 +129,7 @@ Baby photosession in Tallinn
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-photosession-of-your-baby">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Photosession of your baby" srcset="
+&lt;div class="w-100" >&lt;img alt="Photosession of your baby" srcset="
 /en/project/babies/baby-photosession-9_hua0f3bcf3c083d25cc02fe99d471fd957_80952_42b66f24f8c49b927c0b26faccd2c538.jpg 400w,
 /en/project/babies/baby-photosession-9_hua0f3bcf3c083d25cc02fe99d471fd957_80952_c258904779a7eb59977da061a81adb23.jpg 760w,
 /en/project/babies/baby-photosession-9_hua0f3bcf3c083d25cc02fe99d471fd957_80952_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -151,8 +142,7 @@ Photosession of your baby
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession-at-lastefoto-studio">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Baby photosession at LasteFoto studio" srcset="
+&lt;div class="w-100" >&lt;img alt="Baby photosession at LasteFoto studio" srcset="
 /en/project/babies/baby-photosession-10_hu4966fcbc9ccc449cf355eb5979d8359a_1358111_141f91f7740f448729ec2ff0a06b190f.jpg 400w,
 /en/project/babies/baby-photosession-10_hu4966fcbc9ccc449cf355eb5979d8359a_1358111_dabd8ca7b70f176d967f24e478d2095c.jpg 760w,
 /en/project/babies/baby-photosession-10_hu4966fcbc9ccc449cf355eb5979d8359a_1358111_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -165,8 +155,7 @@ Baby photosession at LasteFoto studio
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Baby photosession" srcset="
+&lt;div class="w-100" >&lt;img alt="Baby photosession" srcset="
 /en/project/babies/baby-photosession-11_hud8cb746b4d9fbc6225ea5192f546d0bb_110859_fc5c38cdf86fd5a71e85e870fb1513a5.jpg 400w,
 /en/project/babies/baby-photosession-11_hud8cb746b4d9fbc6225ea5192f546d0bb_110859_2c4ea976315b1eed7ff3021d1161bdd9.jpg 760w,
 /en/project/babies/baby-photosession-11_hud8cb746b4d9fbc6225ea5192f546d0bb_110859_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -179,8 +168,7 @@ Baby photosession
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession-in-studio">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Baby photosession in studio" srcset="
+&lt;div class="w-100" >&lt;img alt="Baby photosession in studio" srcset="
 /en/project/babies/baby-photosession-12_hu0e4bf29f0132c5c0d44a27fec16c4b5d_343633_33974cb1440ffab1446263c1eedcc740.jpg 400w,
 /en/project/babies/baby-photosession-12_hu0e4bf29f0132c5c0d44a27fec16c4b5d_343633_53feb6867998dd13c5eb29f63e07c018.jpg 760w,
 /en/project/babies/baby-photosession-12_hu0e4bf29f0132c5c0d44a27fec16c4b5d_343633_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -193,8 +181,7 @@ Baby photosession in studio
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Baby photosession" srcset="
+&lt;div class="w-100" >&lt;img alt="Baby photosession" srcset="
 /en/project/babies/baby-photosession-13_hu8035bd28b28629dee71c9b8273f8f2f0_209541_d1e5ef82da1cd2326fabb2d77b9cd626.jpg 400w,
 /en/project/babies/baby-photosession-13_hu8035bd28b28629dee71c9b8273f8f2f0_209541_d66d6fff109649f06899fc026b8f2b02.jpg 760w,
 /en/project/babies/baby-photosession-13_hu8035bd28b28629dee71c9b8273f8f2f0_209541_1200x1200_fit_q75_lanczos.jpg 1200w"
@@ -207,8 +194,7 @@ Baby photosession
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession-in-tallinn">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >
-&lt;img alt="Baby photosession in Tallinn" srcset="
+&lt;div class="w-100" >&lt;img alt="Baby photosession in Tallinn" srcset="
 /en/project/babies/baby-photosession-14_hub61fa242e469f46a5e20c1578c4f7ffa_458544_3f64c0755eeea1b59917c345c08c5640.jpg 400w,
 /en/project/babies/baby-photosession-14_hub61fa242e469f46a5e20c1578c4f7ffa_458544_96a955f0534c2d1ece5e749c941481c5.jpg 760w,
 /en/project/babies/baby-photosession-14_hub61fa242e469f46a5e20c1578c4f7ffa_458544_1200x1200_fit_q75_lanczos.jpg 1200w"
