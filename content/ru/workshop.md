@@ -22,50 +22,50 @@ header:
   caption: ""
   image: ""
 ---
-## [Sasha Bunaeva](#Sasha%20Bunaeva)
+## [Саша Бунаева](https://www.lastefoto.ee/ru/workshop#Sasha%20Bunaeva)
 https://bunaeva.com
 ### 2021-04-04 я прошла онлайн-курс [Сашы Бунаевой](https://bunaeva.com), основательницы направления **фотосессии беременности в стиле Vogue**.
 Саша - известный фотограф беременности и материнства с 2010 года. Саша Бунаева работает в Самаре и Москве, является спикером фотофорумов и наставником на мастер-классах.
 
-## [Newborn Retreat](#Newborn%20Retreat)
+## [Newborn Retreat](https://www.lastefoto.ee/ru/workshop#Newborn%20Retreat)
 https://themilkyway.ca
 ### 2021-01-31 я успешно прошла онлайн-курс [Newborn Retreat](https://themilkyway.ca)
 Newborn Retreat - это мероприятие профессиональных фотографов, на котором они делятся своими знаниями о фотосессиях беременности и новорожденных.
 
-## [Newborn Forum](#Newborn%20Forum)
+## [Newborn Forum](https://www.lastefoto.ee/ru/workshop#Newborn%20Forum)
 https://www.instagram.com/newbornforum/
 ### 2020-02-02 я участвовала в [Newborn Forum](https://www.instagram.com/newbornforum/) (Москва, Россия)
 Форум новорожденных - это суперпрофессиональное мероприятие, на котором фотографы беременных и новорожденных делятся своей мудростью.
 
-## [Tatiana Guliaeva](#Tatiana%20Guliaeva)
+## [Татьяна Гуляева](https://www.lastefoto.ee/ru/workshop#Tatiana%20Guliaeva)
 https://guliaeva.ru
 ### 2020-02-02 на [Newborn Forum](https://www.instagram.com/newbornforum/) я посетила мастер-класс [Татьяны Гуляевой](https://guliaeva.ru)
 Татьяна - профессиональный фотограф новорожденных с большим опытом преподавания в России.
 
-## [Natalya Ignatova](#Natalya%20Ignatova)
+## [Наталья Игнатова]](https://www.lastefoto.ee/ru/workshop#Natalya%20Ignatova)
 https://www.instagram.com/mynewbornbeauty/
 ### 2020-02-02 находясь на [Newborn Forum](https://www.instagram.com/newbornforum/) я посетила семинар [Натальи Игнатовой](https://www.instagram.com/mynewbornbeauty/), основательницы движения фотографии новорожденных в России.
 ### 2018-11-11 я начала курс в онлайн-школе Натальи Игнатовой, где я до сих пор учусь.
 Наталья - известный фотограф новорожденных и наставник, преподающий по всему миру.
 
-## [Anna Potemkina](#Anna%20Potemkina)
+## [Анна Потемкина](https://www.lastefoto.ee/ru/workshop#Anna%20Potemkina)
 https://annapotemkina.com
 ### 2019-09-09 я огранизовала и приняла участие в мастер классе по съемке новорожденных и детей до одного года от [Анны Потемкиной](https://annapotemkina.com)
 Анна - фотограф новорожденных из Ростова-на-Дону, известная своими работами. Она сфотографировала более 900 младенцев. Она также является международным лектором и спикером на крупнейших форумах по фотографии новорожденных.
 
-## [Olesya Kovalchuk](#Olesya%20Kovalchuk)
+## [Олеся Ковальчук](https://www.lastefoto.ee/ru/workshop#Olesya%20Kovalchuk)
 https://ok-academy.ru/newbornphoto
 ### 12.12.2018 я участвовала в мастер-классе **Фотосессия новорожденных** от [Олеси Ковальчук](https://ok-academy.ru/newbornphoto)
 ### 2017-03-03 я принимала участие в мастер-классе Олеси Ковальчук, где научилась делать крутые фотографии новорожденных.
 Олеся фотографирует новорожденных с 2011 года. С 2015 года преподает в Беларуси и за рубежом.
 
-## [Natali Gorbachenko](#Natali%20Gorbachenko)
+## [Наталия Горбаченко](https://www.lastefoto.ee/ru/workshop#Natali%20Gorbachenko)
 https://gorbachenko.com
 ### 2018-09-09 я приняла участие в воркшопе по фотографированию новорожденных от [Наталии Горбаченко](https://gorbachenko.com)
 ### 2017-09-09 я с удовольствием участвовала в воркшопе Наталии Горбаченко.
 Наталия - большой профессионал в детской и семейной фотографии, основательница мастер-класса «Съемка новорожденных от А до Я», судья международных фотоконкурсов в номинации «НОВОРОЖДЕННЫЕ».
 
-## [Karina Kiel](Karina%20Kiel)
+## [Карина Киль](https://www.lastefoto.ee/ru/workshop#Karina%20Kiel)
 https://karina-kiel.com
 ### 12.12.2017 я приняла участие в мастер-классе по постановочной детской фотографии от [Karina Kiel](https://karina-kiel.com)
 Карина - известный фотограф в постановочной детской и семейной нише. За последние годы она провела сотни мастер-классов в России и за рубежом, обучив тысячи студентов.
