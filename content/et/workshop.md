@@ -1,5 +1,5 @@
 ---
-title: Minu saavutused - koolitused, foorumid ja workshopid
+title: Minu saavutused - koolitused, foorumid ja workshop'id
 summary: mulle meeldib õppida uusi asju ja kasvada erialaselt 
 date: "2021-05-25T00:00:00+01:00"
 draft: false
