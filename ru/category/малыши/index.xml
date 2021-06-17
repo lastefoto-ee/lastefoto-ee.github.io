@@ -10,12 +10,27 @@
 &lt;/ul>
 &lt;p>Малыши постарше - частые гости моей студии. 🥰&lt;/p>
 &lt;p>Вы только окунитесь в эти глаза! 😍&lt;/p>
-&lt;p>&lt;img src="./fotosessiya-malysha-1.jpg" alt="фотосессия малыша">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./fotosessiya-malysha-1.jpg" alt="фотосессия малыша" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>С подросшими малышами на фотосессии действует точное такое же правило как и на съемке с новорожденными -&lt;/p>
 &lt;h2 id="спокойная-мама--спокойным-малыш">спокойная мама = спокойным малыш&lt;/h2>
-&lt;p>&lt;img src="./fotosessiya-malysha-2.jpg" alt="фотосессия малыша в Таллинне">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./fotosessiya-malysha-2.jpg" alt="фотосессия малыша в Таллинне" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Идите на съемку с улыбкой и со спокойным сердцем (да-да, не нужно паники), рассказывайте малышу куда и для чего вы идете, пусть он видит вашу уверенность и отличное настроение!&lt;/p>
-&lt;p>&lt;img src="./fotosessiya-malysha-3.jpg" alt="фотосессия малыша в студии">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./fotosessiya-malysha-3.jpg" alt="фотосессия малыша в студии" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;ul class="cta-group">
 &lt;li>
 &lt;a href="https://www.lastefoto.ee/ru/#contact" class="btn btn-primary px-3 py-3">Запишись на фотосессию малыша&lt;/a>

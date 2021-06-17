@@ -10,12 +10,27 @@ or see how the Cake smash photo session goes &lt;i class="fas fa-angle-right">&l
 &lt;/ul>
 &lt;p>Older kids are frequent guests of my studio. 🥰&lt;/p>
 &lt;p>Just dive into those eyes! 😍&lt;/p>
-&lt;p>&lt;img src="./baby-photosession-1.jpg" alt="baby photo session">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./baby-photosession-1.jpg" alt="baby photo session" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>With grown-up babies in a photoshoot the exact same rule applies as in shooting with newborns -&lt;/p>
 &lt;h2 id="calm-mom--calm-baby">calm mom = calm baby&lt;/h2>
-&lt;p>&lt;img src="./baby-photosession-2.jpg" alt="Baby photosession in Tallinn">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./baby-photosession-2.jpg" alt="Baby photosession in Tallinn" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Go to the shooting with a smile and a calm heart (yes, no need to panic), tell your kid where and why you are going, let him see your confidence and good mood!&lt;/p>
-&lt;p>&lt;img src="./baby-photosession-3.jpg" alt="Baby session in the studio">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./baby-photosession-3.jpg" alt="Baby session in the studio" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;ul class="cta-group">
 &lt;li>
 &lt;a href="https://www.lastefoto.ee/en/#contact" class="btn btn-primary px-3 py-3">Book a baby photo session&lt;/a>

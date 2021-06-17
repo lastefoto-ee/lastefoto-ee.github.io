@@ -1752,12 +1752,27 @@ või vaata kuidas toimub Cake Smash fotosessioon &lt;i class="fas fa-angle-right
 &lt;/ul>
 &lt;p>Vanemad beebid on minu stuudio sagedased külalised. 🥰&lt;/p>
 &lt;p>Ahh, need silmad! 😍&lt;/p>
-&lt;p>&lt;img src="./beebi-fotosessioon-1.jpg" alt="Beebi fotosessioon">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebi-fotosessioon-1.jpg" alt="Beebi fotosessioon" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Suuremate beebidega pildistamisel kehtib täpselt sama reegel, nagu vastsündinutega pildistamisel -&lt;/p>
 &lt;h2 id="rahulik-ema--rahulik-beebi">rahulik ema = rahulik beebi&lt;/h2>
-&lt;p>&lt;img src="./beebi-fotosessioon-2.jpg" alt="Beebi pildistamine Tallinnas">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebi-fotosessioon-2.jpg" alt="Beebi pildistamine Tallinnas" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Minge fotosessioonile naeratuse ja rahuliku südamega (jah, paanikat pole vaja), öelge beebile, kuhu ja milleks sinna lähete, laske tal näha teie enesekindlust ja suurepärast meeleolu!&lt;/p>
-&lt;p>&lt;img src="./beebi-fotosessioon-3.jpg" alt="Beebi fotosessioon stuudios">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebi-fotosessioon-3.jpg" alt="Beebi fotosessioon stuudios" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;ul class="cta-group">
 &lt;li>
 &lt;a href="https://www.lastefoto.ee/#contact" class="btn btn-primary px-3 py-3">Telli beebifotosessioon&lt;/a>
@@ -1878,17 +1893,17 @@ Kui kaadris olevad inimesed on positiivsed ja on valmis fotosessioonist aktiivse
 &lt;/blockquote>
 &lt;p>&lt;em>Üldiselt ärge mõelge kellaajale, vaid mõelge meeleolule ja nautige toimuvat.&lt;/em>&lt;/p>
 &lt;div class="gallery">
-&lt;a data-fancybox="gallery-silhouette" href="https://www.lastefoto.ee/media/albums/silhouette/pregnancy-photosession-11.jpg" >
-&lt;img src="https://www.lastefoto.ee/media/albums/silhouette/pregnancy-photosession-11_hu2b0b139f6d4413f46b328a2af113ffbd_238894_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="pregnancy-photosession-11.jpg" width="127" height="190">
+&lt;a data-fancybox="gallery-siluett" href="https://www.lastefoto.ee/media/albums/siluett/beebiootuse-fotosessioon-11.jpg" data-caption="Beebiootuse fotosessioon stuudios">
+&lt;img src="https://www.lastefoto.ee/media/albums/siluett/beebiootuse-fotosessioon-11_hu2b0b139f6d4413f46b328a2af113ffbd_238894_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="Beebiootuse fotosessioon stuudios" width="127" height="190">
 &lt;/a>
-&lt;a data-fancybox="gallery-silhouette" href="https://www.lastefoto.ee/media/albums/silhouette/pregnancy-photosession-12.jpg" >
-&lt;img src="https://www.lastefoto.ee/media/albums/silhouette/pregnancy-photosession-12_huea73987cb66cf2bfe6f5336c36c3067d_571503_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="pregnancy-photosession-12.jpg" width="127" height="190">
+&lt;a data-fancybox="gallery-siluett" href="https://www.lastefoto.ee/media/albums/siluett/beebiootuse-fotosessioon-12.jpg" data-caption="Beebiootuse fotosessioon Tallinnas">
+&lt;img src="https://www.lastefoto.ee/media/albums/siluett/beebiootuse-fotosessioon-12_huea73987cb66cf2bfe6f5336c36c3067d_571503_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="Beebiootuse fotosessioon Tallinnas" width="127" height="190">
 &lt;/a>
-&lt;a data-fancybox="gallery-silhouette" href="https://www.lastefoto.ee/media/albums/silhouette/pregnancy-photosession-13.jpg" >
-&lt;img src="https://www.lastefoto.ee/media/albums/silhouette/pregnancy-photosession-13_hue5871ee6dd794ca017edabbfb9605a56_217321_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="pregnancy-photosession-13.jpg" width="127" height="190">
+&lt;a data-fancybox="gallery-siluett" href="https://www.lastefoto.ee/media/albums/siluett/beebiootuse-fotosessioon-13.jpg" data-caption="Beebiootusefotosessioon Tallinna stuudios">
+&lt;img src="https://www.lastefoto.ee/media/albums/siluett/beebiootuse-fotosessioon-13_hue5871ee6dd794ca017edabbfb9605a56_217321_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="Beebiootusefotosessioon Tallinna stuudios" width="127" height="190">
 &lt;/a>
-&lt;a data-fancybox="gallery-silhouette" href="https://www.lastefoto.ee/media/albums/silhouette/pregnancy-photosession-14.jpg" >
-&lt;img src="https://www.lastefoto.ee/media/albums/silhouette/pregnancy-photosession-14_hube615c7a3c94d5e712db1e2857739584_435235_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="pregnancy-photosession-14.jpg" width="127" height="190">
+&lt;a data-fancybox="gallery-siluett" href="https://www.lastefoto.ee/media/albums/siluett/beebiootuse-fotosessioon-14.jpg" data-caption="Beebiootuse fotosessioon Vogue stiilis">
+&lt;img src="https://www.lastefoto.ee/media/albums/siluett/beebiootuse-fotosessioon-14_hube615c7a3c94d5e712db1e2857739584_435235_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="Beebiootuse fotosessioon Vogue stiilis" width="127" height="190">
 &lt;/a>
 &lt;/div>
 &lt;p>&lt;ul class="cta-group">
@@ -2207,19 +2222,54 @@ Neid saab kanda ülaosaga kleidi või pükste peal või kanda palja keha peal - 
 &lt;li>triikige või aurutage kõiki riideid.&lt;/li>
 &lt;/ul></description></item><item><title>Beebiootuse fotosessioon Vogue stiilis</title><link>https://www.lastefoto.ee/post/beebiootuse-fotosessioon-vogue-stiilis/</link><pubDate>Tue, 23 Feb 2021 17:45:53 +0200</pubDate><guid>https://www.lastefoto.ee/post/beebiootuse-fotosessioon-vogue-stiilis/</guid><description>&lt;p>See on vä-ä-äga ilus: ainult tulevane ema ja kõhuke.&lt;/p>
 &lt;h2 id="lakoonilised-stiilsed-pildid-">Lakoonilised, stiilsed pildid ❤️&lt;/h2>
-&lt;p>&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-1.jpg" alt="beebiootuse fotosessioon">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-1.jpg" alt="beebiootuse fotosessioon" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Seda kirjutades jooksevad mu nahale hanemunad: minu jaoks on raseduse pildistamine siiski eriline.&lt;/p>
-&lt;p>&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-2.jpg" alt="beebiootuse pildistamine">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-2.jpg" alt="beebiootuse pildistamine" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Ja kui see on ka elegantses Vogue stiilis, siis on see lihtsalt vaimustus!&lt;/p>
-&lt;p>&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-3.jpg" alt="beebiootuse fotosessioon Tallinnas">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-3.jpg" alt="beebiootuse fotosessioon Tallinnas" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Registreerusin veebikoolitusele selle suuna asutaja Sasha Bunaeva juures! Need pildid on tehtud koolituse raames.&lt;/p>
-&lt;p>&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-4.jpg" alt="beebiootuse fotosessioon Vogue stiilis Tallinnas">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-4.jpg" alt="beebiootuse fotosessioon Vogue stiilis Tallinnas" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Esimesene kodutöö ja esimesed valguse skeemid. Ma olen õnnelik ❤️&lt;/p>
-&lt;p>&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-5.jpg" alt="lapseootuse pildistamine">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-5.jpg" alt="lapseootuse pildistamine" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>See on täpselt selline fotograafia, mis mulle väga meeldib ja mida ma tahan arendada ja tulevastele emadele pakkuda. 😍&lt;/p>
-&lt;p>&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-6.jpg" alt="lapseootuse pildistamine Tallinna stuudios">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-6.jpg" alt="lapseootuse pildistamine Tallinna stuudios" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Ees on veel kolm kodutööd ja diplomitöö, kuid saate juba praegu selles suunas fotosessiooni broneerida. Kui see on teie esimene rasedus, siis ootan teid, kui teil on 20–27 nädal.&lt;/p>
-&lt;p>&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-7.jpg" alt="beebiootuse fotosessioon Tallinnas">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebiootuse-fotosessioon-vogue-stiilis-7.jpg" alt="beebiootuse fotosessioon Tallinnas" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>See saab olema väga lahe, ma juba tunnen seda! ❤&lt;/p></description></item><item><title>Beebifotosessioon söödavate värvidega Tallinnas</title><link>https://www.lastefoto.ee/post/beebifotosessioon-soodavate-varvidega-tallinnas/</link><pubDate>Thu, 06 Aug 2020 17:45:53 +0200</pubDate><guid>https://www.lastefoto.ee/post/beebifotosessioon-soodavate-varvidega-tallinnas/</guid><description>&lt;p>Kas teie beebi loob seintele veetlevaid plekke peedipüree abiga ega ole joonistamise suhtes ükskõikne?
 Siis fotosessioon &lt;strong>Noor abstraktsionist&lt;/strong> lõuendi ja söödavate värvidega - on just see, mis on vaja teie väikese geeniuse potentsiaali näitamiseks.&lt;/p>
 &lt;ul>
@@ -2228,71 +2278,191 @@ Siis fotosessioon &lt;strong>Noor abstraktsionist&lt;/strong> lõuendi ja sööd
 &lt;li>Lõuend teie beebi meistriteosega - kingituseks&lt;/li>
 &lt;/ul>
 &lt;p>Kuigi seda tüüpi fotosessioon on Tallinnas absoluutne uudsus, on mul juba õnnestunud piisavalt pildistada, et teha huvitavaid järeldusi.&lt;/p>
-&lt;p>&lt;img src="./beebifotosessioon-s%C3%B6%C3%B6davate-v%C3%A4rvidega-tallinnas-1.jpg" alt="beebi fotosessioon värvidega">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebifotosessioon-s%c3%b6%c3%b6davate-v%c3%a4rvidega-tallinnas-1.jpg" alt="beebi fotosessioon värvidega" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;h1 id="nagu-cake-smash-fotosessioonil-ei-tee-kõik-lapsed-kohe-räpaseid-asju-ja-see-on-okei">Nagu “Cake smash!” fotosessioonil, ei tee kõik lapsed kohe «räpaseid» asju. Ja see on okei.&lt;/h1>
-&lt;p>&lt;img src="./beebifotosessioon-s%C3%B6%C3%B6davate-v%C3%A4rvidega-tallinnas-2.jpg" alt="beebifotosessioon söödavate värvidega">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebifotosessioon-s%c3%b6%c3%b6davate-v%c3%a4rvidega-tallinnas-2.jpg" alt="beebifotosessioon söödavate värvidega" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Kõik inimesed vajavad uue ruumi ja inimesega kohanemiseks aega, eriti väikesed.&lt;/p>
-&lt;p>&lt;img src="./beebifotosessioon-s%C3%B6%C3%B6davate-v%C3%A4rvidega-tallinnas-3.jpg" alt="beebifotosessioon värvidega">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebifotosessioon-s%c3%b6%c3%b6davate-v%c3%a4rvidega-tallinnas-3.jpg" alt="beebifotosessioon värvidega" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Võtan seda aega alati varuga ja võtan arvesse ka lisapause joomiseks-söömiseks-pissimiseks. Seega, ärge muretsege, meil on kindlasti aega kõigeks, isegi kui laps kohe värvi ei haara.&lt;/p>
-&lt;p>&lt;img src="./beebifotosessioon-s%C3%B6%C3%B6davate-v%C3%A4rvidega-tallinnas-4.jpg" alt="beebi pildistamine värvidega">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebifotosessioon-s%c3%b6%c3%b6davate-v%c3%a4rvidega-tallinnas-4.jpg" alt="beebi pildistamine värvidega" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;h1 id="üllatavalt-aga-mitte-kõik-lapsed-armastavad-määrduda-just-eile-oli-mul-fotosessioon-väikse-printsessiga-kes-ei-tahtnud-oma-magusaid-sõrmi-määrida">Üllatavalt, aga mitte kõik lapsed armastavad määrduda. Just eile oli mul fotosessioon väikse printsessiga, kes ei tahtnud oma magusaid sõrmi määrida.&lt;/h1>
-&lt;p>&lt;img src="./beebifotosessioon-s%C3%B6%C3%B6davate-v%C3%A4rvidega-tallinnas-5.jpg" alt="beebi pildistamine värvidega">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebifotosessioon-s%c3%b6%c3%b6davate-v%c3%a4rvidega-tallinnas-5.jpg" alt="beebi pildistamine värvidega" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Kuid leidsime lahenduse. Maalisime kõigi võimalike vahenditega: kasutatud oli lusikas, mänguasjahaamer, sõõrik mooniseemnetega ja isegi tükk pappi. Ja tulemus on suurepärane!&lt;/p>
-&lt;p>&lt;img src="./beebifotosessioon-s%C3%B6%C3%B6davate-v%C3%A4rvidega-tallinnas-6.jpg" alt="beebi pildistamine söödavate värvidega">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebifotosessioon-s%c3%b6%c3%b6davate-v%c3%a4rvidega-tallinnas-6.jpg" alt="beebi pildistamine söödavate värvidega" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Seetõttu ärge muretsege, kui midagi ei lähe kavandatud stsenaariumi järgi: eksprompt on reeglina veelgi huvitavam!&lt;/p>
-&lt;p>&lt;img src="./beebifotosessioon-s%C3%B6%C3%B6davate-v%C3%A4rvidega-tallinnas-7.jpg" alt="beebifotosessioon söödavate värvidega">&lt;/p></description></item><item><title>Vastsündinu fotosessioon - parim kingitus värsketele vanematele</title><link>https://www.lastefoto.ee/post/vastsundinu-fotosessioon-parim-kingitus-varsketele-vanematele/</link><pubDate>Sun, 28 Jun 2020 17:45:53 +0200</pubDate><guid>https://www.lastefoto.ee/post/vastsundinu-fotosessioon-parim-kingitus-varsketele-vanematele/</guid><description>&lt;p>Räägitakse, et parim kingitus - on kingitus, mida inimene ise endale ei osta.&lt;/p>
-&lt;p>&lt;img src="./vastsundinu-fotosessioon-1.jpg" alt="vastsündinu fotosessioon Tallinnas">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebifotosessioon-s%c3%b6%c3%b6davate-v%c3%a4rvidega-tallinnas-7.jpg" alt="beebifotosessioon söödavate värvidega" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Vastsündinu fotosessioon - parim kingitus värsketele vanematele</title><link>https://www.lastefoto.ee/post/vastsundinu-fotosessioon-parim-kingitus-varsketele-vanematele/</link><pubDate>Sun, 28 Jun 2020 17:45:53 +0200</pubDate><guid>https://www.lastefoto.ee/post/vastsundinu-fotosessioon-parim-kingitus-varsketele-vanematele/</guid><description>&lt;p>Räägitakse, et parim kingitus - on kingitus, mida inimene ise endale ei osta.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./vastsundinu-fotosessioon-1.jpg" alt="vastsündinu fotosessioon Tallinnas" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Enamik emasid, kes tulevad minu juurde vastsündinu fotosessioonile, tunnistavad, et vaevalt nad ise oleks beebi fotosessiooni kasuks otsustanud. Argiaskeldusis - enne sünnitust ja pärast seda - ei teki kuidagi mõtet, et oleks tore jäädvustada beebi esimestel elupäevadel.&lt;/p>
-&lt;p>&lt;img src="./vastsundinu-fotosessioon-2.jpg" alt="vastsündinu pildistamine">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./vastsundinu-fotosessioon-2.jpg" alt="vastsündinu pildistamine" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Kuid kui on tähelepanelik sõbranna/ema/õde, kes kingib kinkekaardi vastsündinu fotosessioonile, siis lõpuks osutub see täpselt selliseks kingituseks, mis jääb meelde kogu eluks. Lõppude lõpuks professionaalsed pildid on küllastunud emaduse hellusest ja õrnusest… Ja need on palju väärtuslikumad kui mähkmed ja kõristid.&lt;/p>
-&lt;p>&lt;img src="./vastsundinu-fotosessioon-3.jpg" alt="vastsündinu pildistamine stuudos Tallinnas">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./vastsundinu-fotosessioon-3.jpg" alt="vastsündinu pildistamine stuudos Tallinnas" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Nii et kinkige oma armastatud tüdrukutele emotsioone, kinkige tundeid &amp;hellip; Need on igavesti. ❤️&lt;/p></description></item><item><title>Beebi fotosessioon: mälestuse värv. Beebifotograafi soovitused.</title><link>https://www.lastefoto.ee/post/beebi-fotosessioon-malestuse-varv-beebi-fotograafi-soovitused/</link><pubDate>Sun, 19 Apr 2020 17:45:53 +0200</pubDate><guid>https://www.lastefoto.ee/post/beebi-fotosessioon-malestuse-varv-beebi-fotograafi-soovitused/</guid><description>&lt;p>Rääkisin juba beebi fotosessiooni kõige sobivamaks ajast, kõige armsatest poosidest&amp;hellip; Ja täna tahan puudutada värvi teemat.&lt;/p>
-&lt;p>&lt;img src="./beebi-fotosessioon-1.jpg" alt="beebi fotosessioon">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebi-fotosessioon-1.jpg" alt="beebi fotosessioon" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Enne beebifotosessiooni saavad vanemad minult küsimustiku, mille üheks punktiks on värvi valimine, milles fotosessioon toimub. Mul on umbes 15 värvi, mille hulgast saate valida.&lt;/p>
-&lt;p>&lt;img src="./beebi-fotosessioon-2.jpg" alt="beebi fotosessioon Tallinnas">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebi-fotosessioon-2.jpg" alt="beebi fotosessioon Tallinnas" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Näib, et kõik on lihtne: abikaasa lemmiku jalgpalli meeskonna värv - punane, ka mulle alati meeldis see värv: energiline, särav &amp;hellip; valime selle!&lt;/p>
-&lt;p>&lt;img src="./beebi-fotosessioon-3.jpg" alt="beebi fotosessioon Tallinna stuudios">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebi-fotosessioon-3.jpg" alt="beebi fotosessioon Tallinna stuudios" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>AGA.&lt;/p>
 &lt;p>Kas roospunased pildid sobivad teie maja interjööri? Ja kui beebi sündis punaka nahatooniga, kas olete kindel, et soovite seda rõivaste ja rekvisiidide abil veelgi rõhutada? Või on parem seda punetust rohelisega tasandada?&lt;/p>
-&lt;p>&lt;img src="./beebi-fotosessioon-4.jpg" alt="beebi pildistamine stuudios">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebi-fotosessioon-4.jpg" alt="beebi pildistamine stuudios" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Need on sellised peensused, millistest te isegi ei mõtle. Aga nüüd, kui te neist teate, mis värvile teie valik langeks? Kas jääte truuks klassikale? Või valite julgemad/ekstravagantsemad värvid?&lt;/p>
-&lt;p>&lt;img src="./beebi-fotosessioon-5.jpg" alt="beebi pildistamine Tallinnas">&lt;/p></description></item><item><title>Cake Smash, ehk esimese sünnipäeva fotosessioon</title><link>https://www.lastefoto.ee/post/cake-smash-ehk-esimese-sunnipaeva-fotosessioon/</link><pubDate>Wed, 29 Jan 2020 17:45:53 +0200</pubDate><guid>https://www.lastefoto.ee/post/cake-smash-ehk-esimese-sunnipaeva-fotosessioon/</guid><description>&lt;h2 id="nii-lahedad-need-üheaastased-lapsed-on">Nii lahedad need üheaastased lapsed on!&lt;/h2>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebi-fotosessioon-5.jpg" alt="beebi pildistamine Tallinnas" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Cake Smash, ehk esimese sünnipäeva fotosessioon</title><link>https://www.lastefoto.ee/post/cake-smash-ehk-esimese-sunnipaeva-fotosessioon/</link><pubDate>Wed, 29 Jan 2020 17:45:53 +0200</pubDate><guid>https://www.lastefoto.ee/post/cake-smash-ehk-esimese-sunnipaeva-fotosessioon/</guid><description>&lt;h2 id="nii-lahedad-need-üheaastased-lapsed-on">Nii lahedad need üheaastased lapsed on!&lt;/h2>
 &lt;p>On tõeline soov jäädvustada nende ebakindlad sammud ja pilk, mis on täis põnevust uskumatutest avastustest, mis juhtuvad iga sekundit väikese inimese elus!
 Seepärast valivad paljud vanemad &lt;strong>CAKE SMASH&lt;/strong> fotosessiooni esemese sünnipäeva jäädvustamiseks!&lt;/p>
-&lt;p>&lt;img src="./cake-smash-esimese-s%C3%BCnnip%C3%A4eva-fotosessioon-1.jpg" alt="cake smash fotosessioon stuudios">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./cake-smash-esimese-s%c3%bcnnip%c3%a4eva-fotosessioon-1.jpg" alt="cake smash fotosessioon stuudios" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Värviline glasuur põskedel, hele naer ja võimalus määrida kõike ümbritsevat - kas see pole iga sünnipäevalapse soov?
 Kuid sellel fotosessioonil on paar nüanssi, millest peaksite eelnevalt teadma, et tegelikkus ei kalduks teie värvikatest ootustest kõrvale.&lt;/p>
-&lt;p>&lt;img src="./cake-smash-esimese-s%C3%BCnnip%C3%A4eva-fotosessioon-2.jpg" alt="cake smash fotosessioon stuudios">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./cake-smash-esimese-s%c3%bcnnip%c3%a4eva-fotosessioon-2.jpg" alt="cake smash fotosessioon stuudios" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;ul>
 &lt;li>On olemas võimalus, et teie, tavaliselt aktiivne ja uudishimulik beebi, kardab torti.
 See on tõesti suur ja hirmutav asi. Nii et ole valmis liituma oma lapsega tordi hävitusel!&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="./cake-smash-esimese-s%C3%BCnnip%C3%A4eva-fotosessioon-3.jpg" alt="cake smash fotosessioon stuudios">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./cake-smash-esimese-s%c3%bcnnip%c3%a4eva-fotosessioon-3.jpg" alt="cake smash fotosessioon stuudios" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;ul>
 &lt;li>Tore, kui teil on kaasas kaks riidekomplekti: üks imearmsate perepiltide jaoks fotosessiooni alguses ja teine - ​​kreemjas määrduvate plekkide jaoks.&lt;/li>
 &lt;li>Kuna fotosessioon on väga emotsionaalne sündmus, eriti kui lubatakse midagi näole ja põrandale määrida, on parem teha fotosessiooni paar nädalat enne sünnipäeva, muidu võib laps kogeda liiga palju muljeid.&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="./cake-smash-esimese-s%C3%BCnnip%C3%A4eva-fotosessioon-4.jpg" alt="cake smash fotosessioon stuudios">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./cake-smash-esimese-s%c3%bcnnip%c3%a4eva-fotosessioon-4.jpg" alt="cake smash fotosessioon stuudios" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;ul>
 &lt;li>Samal põhjusel arvestage fotosessiooni aja valimisel kindlasti lapse une- ja ärkveloleku rütmi, et väsimus ei mõjutaks meie lõbusaid kaadreid.&lt;/li>
 &lt;li>Ma saan ise sobiva tordi eest hoolitseda. Kuid kui soovite tingimata enda oma tuua, siis konsulteerige minuga eelnevalt: räägin teile peensustest, mis on CAKE SMASH fotosessiooni visuaalse komponendi jaoks olulised.&lt;/li>
 &lt;/ul></description></item><item><title>Kuidas valida vastsündinu fotograafi</title><link>https://www.lastefoto.ee/post/kuidas-valida-vastsundinu-fotograafi/</link><pubDate>Wed, 29 Jan 2020 17:45:53 +0200</pubDate><guid>https://www.lastefoto.ee/post/kuidas-valida-vastsundinu-fotograafi/</guid><description>&lt;p>Vastsündinu fotograafi valimine - on päris oluline asi. Vastsündinu pildistamise turg kasvab väga kiiresti ja vastsündinu fotograafe on väga palju. Kuidas teha õige valiku?
 Teie mitte lihtsalt valite fotograafi, teie valite spetsialisti, kes professionaalselt ja turvaliselt pildistab teie beebi.&lt;/p>
-&lt;p>&lt;img src="./vastsundinu-fotograaf-1.jpg" alt="vastsündinu pildistamine">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./vastsundinu-fotograaf-1.jpg" alt="vastsündinu pildistamine" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;ul>
 &lt;li>Alusatge fotograafi otsingut olles beebiootel. Kui beebi sünnib, teil ei ole selleks lihtsalt aega. Ja vastsündinu fotosessiooniks ideaalne periood (4-15 päevi) jookseb nähtamatult.&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="./vastsundinu-fotograaf-2.jpg" alt="vastsündinu fotosessioon">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./vastsundinu-fotograaf-2.jpg" alt="vastsündinu fotosessioon" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;ul>
 &lt;li>Valige fotograafi, kes spetsialiseerub vastsündinu pildistamisel. Vaadake portfoolio läbi. Kui vajalik, küsige fotograafi näidata ühe sessiooni seeriat, nii saate paremini aru kas antud pildistamise stiil sobib teile või mitte.&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="./vastsundinu-fotograaf-3.jpg" alt="vastsündinu pildistamine Tallinnas">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./vastsundinu-fotograaf-3.jpg" alt="vastsündinu pildistamine Tallinnas" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;ul>
 &lt;li>Lugege teiste kliente arvamusi. Küsige kui kaua fotograaf vastsündinuid pildistab, kus ja kelle juures õppis.&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="./vastsundinu-fotograaf-4.jpg" alt="vastsündinu fotosessioon stuudios Tallinnas">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./vastsundinu-fotograaf-4.jpg" alt="vastsündinu fotosessioon stuudios Tallinnas" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;ul>
 &lt;li>Ärge valige fotograafi, baseerudes ainult vastsündinu fotosessiooni hinnal. Vastsündinu fotosessiooni hind ei saa madal olla - peale vajaliku rekvisiidi, mis on vaja osta ja fotosessiooniks ette valmistada, professionaalne vastsündinu fotograaf õpib erinevatel kallidel workshop&amp;rsquo;idel, et mitte ainult rõõmustada teid ilusate piltidega vaid tagada teie beebi turvalisust fotosessiooni ajal. Turvalisus - on kõige olulisem vastsündinu fotosessioonil. Fotosessiooni hind on muidugi väga tähtis, aga ärge tehke seda peamiseks kriteeriumiks.&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="./vastsundinu-fotograaf-5.jpg" alt="vastsündinu pildistamine stuudios">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./vastsundinu-fotograaf-5.jpg" alt="vastsündinu pildistamine stuudios" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Valige fotograafi, kes kingib pilte, mille peale vaadates, saate meenutada kui pisike teie beebi oli, millised peenikesed sõrmed  ja magusad varbad tal olid. ❤️&lt;/p></description></item></channel></rss>

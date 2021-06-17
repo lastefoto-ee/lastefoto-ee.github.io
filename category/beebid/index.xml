@@ -10,12 +10,27 @@ või vaata kuidas toimub Cake Smash fotosessioon &lt;i class="fas fa-angle-right
 &lt;/ul>
 &lt;p>Vanemad beebid on minu stuudio sagedased külalised. 🥰&lt;/p>
 &lt;p>Ahh, need silmad! 😍&lt;/p>
-&lt;p>&lt;img src="./beebi-fotosessioon-1.jpg" alt="Beebi fotosessioon">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebi-fotosessioon-1.jpg" alt="Beebi fotosessioon" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Suuremate beebidega pildistamisel kehtib täpselt sama reegel, nagu vastsündinutega pildistamisel -&lt;/p>
 &lt;h2 id="rahulik-ema--rahulik-beebi">rahulik ema = rahulik beebi&lt;/h2>
-&lt;p>&lt;img src="./beebi-fotosessioon-2.jpg" alt="Beebi pildistamine Tallinnas">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebi-fotosessioon-2.jpg" alt="Beebi pildistamine Tallinnas" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Minge fotosessioonile naeratuse ja rahuliku südamega (jah, paanikat pole vaja), öelge beebile, kuhu ja milleks sinna lähete, laske tal näha teie enesekindlust ja suurepärast meeleolu!&lt;/p>
-&lt;p>&lt;img src="./beebi-fotosessioon-3.jpg" alt="Beebi fotosessioon stuudios">&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./beebi-fotosessioon-3.jpg" alt="Beebi fotosessioon stuudios" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;ul class="cta-group">
 &lt;li>
 &lt;a href="https://www.lastefoto.ee/#contact" class="btn btn-primary px-3 py-3">Telli beebifotosessioon&lt;/a>
