@@ -140,7 +140,7 @@ Kui kaadris olevad inimesed on positiivsed ja on valmis fotosessioonist aktiivse
 
 _Üldiselt ärge mõelge kellaajale, vaid mõelge meeleolule ja nautige toimuvat._
 
-{{< gallery album="silhouette" >}}
+{{< gallery album="siluett" >}}
 
 {{< cta cta_text="Registreeru fotopäevale" cta_link="/#contact" cta_new_tab="true" >}}
 Vastame teie päringule 24 tunni jooksul.
