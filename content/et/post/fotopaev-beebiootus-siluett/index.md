@@ -42,16 +42,16 @@ categories:
   - beebiootus
 
 gallery_item:
-- album: silhouette
+- album: siluett
   image: beebiootuse-fotosessioon-11.jpg
   caption: Beebiootuse fotosessioon stuudios
-- album: silhouette
+- album: siluett
   image: beebiootuse-fotosessioon-12.jpg
   caption: Beebiootuse fotosessioon Tallinnas
-- album: silhouette
+- album: siluett
   image: beebiootuse-fotosessioon-13.jpg
   caption: Beebiootusefotosessioon Tallinna stuudios
-- album: silhouette
+- album: siluett
   image: beebiootuse-fotosessioon-14.jpg
   caption: Beebiootuse fotosessioon Vogue stiilis
 - album: siluetid

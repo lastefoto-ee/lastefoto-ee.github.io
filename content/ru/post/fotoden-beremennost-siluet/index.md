@@ -43,16 +43,16 @@ categories:
 
 
 gallery_item:
-- album: silhouette
+- album: siluety
   image: fotosessiya-beremennosti-11.jpg
   caption: Фотосессия беременности в студии 
-- album: silhouette
+- album: siluety
   image: fotosessiya-beremennosti-12.jpg
   caption: Фотосессия беременности в Таллинне
-- album: silhouette
+- album: siluety
   image: fotosessiya-beremennosti-13.jpg
   caption: Фотосессия беременности в студии в Таллинне
-- album: silhouette
+- album: siluety
   image: fotosessiya-beremennosti-14.jpg
   caption: Фотосессия беременности в стиле Vogue
 - album: siluet
