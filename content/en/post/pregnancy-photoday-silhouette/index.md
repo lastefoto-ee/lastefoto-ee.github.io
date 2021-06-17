@@ -144,7 +144,7 @@ A photo day is a bustle, haste, unexpected delays and incidents. It happens that
 
 _In general, do not think about the time, think about the mood and enjoy what is happening._
 
-{{< gallery album="silhouette" >}}
+{{< gallery album="silhouettes" >}}
 
 {{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" >}}
 We will respond to your inquiry within 24 hours.
