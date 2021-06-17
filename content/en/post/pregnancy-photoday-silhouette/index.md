@@ -42,43 +42,7 @@ categories:
   - pregnancy
 
 
-gallery_item:
-- album: silhouette
-  image: pregnancy-photosession-11.jpg
-  caption: Pregnancy photosession in the studio
-- album: silhouette
-  image: pregnancy-photosession-12.jpg
-  caption: Pregnancy photo session in Tallinn
-- album: silhouette
-  image: pregnancy-photosession-13.jpg
-  caption: Pregnancy session 
-- album: silhouette
-  image: pregnancy-photosession-14.jpg
-  caption: Prepnancy session in the style of Vogue
-- album: silhouettes
-  image: pregnancy-photosession-10.jpg
-  caption: Prepnancy session in the Vogue style
-- album: silhouettes
-  image: pregnancy-photosession-5.jpg
-  caption: Prepnancy photosession in the style of Vogue
-- album: silhouettes
-  image: pregnancy-photosession-4.jpg
-  caption: Pregnancy photosession in Tallinn
-- album: silhouettes
-  image: pregnancy-photosession-3.jpg
-  caption: Pregnancy photosession
-- album: silhouettes
-  image: pregnancy-photosession-7.jpg
-  caption: Pregnancy photosession in Tallinn
-- album: silhouettes
-  image: pregnancy-photosession-6.jpg
-  caption: Pregnancy session in Vogue style
-- album: silhouettes
-  image: pregnancy-photosession-8.jpg
-  caption: Pregnancy photosession in Tallinn
-- album: silhouettes
-  image: pregnancy-photosession-9.jpg
-  caption: Pregnancy photo session in the style of Vogue
+
 
 ---
 {{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" cta_alt_text="or find out more about the newborn photosession" cta_alt_link="/en/post/how-to-choose-a-newborn-photographer/" cta_alt_new_tab="false" >}}
@@ -118,7 +82,7 @@ _Recording on a prepaid basis of 20€. If the photosession is canceled less tha
 ## What is silhouette photography?
 
 Please see examples. These are the silhouettes:
-{{< gallery album="silhouettes" >}}
+
 
 {{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" >}}
 
@@ -144,7 +108,7 @@ A photo day is a bustle, haste, unexpected delays and incidents. It happens that
 
 _In general, do not think about the time, think about the mood and enjoy what is happening._
 
-{{< gallery album="silhouettes" >}}
+1
 
 {{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" >}}
 We will respond to your inquiry within 24 hours.
