@@ -39,10 +39,6 @@ tags:
 categories:
   - малыши
 
-gallery_item:
-- album: mama-i-malysh
-  image: fotosessiya-malysha-4.jpg
-  caption: Фотосессия новорожденного в студии 
 ---
 {{< cta cta_text="Запишись на фотосессию Мама и малыш" cta_link="/ru/#contact" cta_new_tab="true" cta_alt_text="или посмотри как проходит фотосессия Cake smash" cta_alt_link="/ru/post/cake-smash-pervaya-fotosessiya/" cta_alt_new_tab="false" >}}
 
@@ -60,6 +56,7 @@ gallery_item:
 
 {{< figure src="./fotosessiya-malysha-3.jpg" title="Фотосессия мама и малыш в Таллинне" >}}
 
-Спокойствие. Вы в надежных руках! Обычно по прошествии 10-15 минут, малыши осваиваются и остается только ловить их лучезарные улыбки! 
+Спокойствие. Вы в надежных руках! Обычно по прошествии 10-15 минут, малыши осваиваются и остается только ловить их лучезарные улыбки!
 
-{{< gallery album="mama-i-malysh" >}}
+{{< gallery album="mamaimalysh" >}}
+
