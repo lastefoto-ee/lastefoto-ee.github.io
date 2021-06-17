@@ -85,7 +85,7 @@ gallery_item:
   caption: Фотосессия малыша в Таллинне
 - album: mama-i-malysh
   image: fotosessiya-malysha-18.jpg
-  caption: Фотосессия малыша в студим
+  caption: Фотосессия малыша в студии
 - album: mama-i-malysh
   image: fotosessiya-malysha-19.jpg
   caption: Фотосессия малыша в Таллинне
@@ -121,3 +121,5 @@ gallery_item:
 Спокойствие. Вы в надежных руках! Обычно по прошествии 10-15 минут, малыши осваиваются и остается только ловить их лучезарные улыбки! 
 
 {{< gallery album="mama-i-malysh" >}}
+
+{{< cta cta_text="Запишись на фотосессию Мама и малыш" cta_link="/ru/#contact" cta_new_tab="false" >}}
