@@ -2,7 +2,9 @@
 title: Kasva minuga
 summary: fotosessioonid
 tags:
-- vastsündinud, beebid, cake smash
+- vastsündinud
+- beebid
+- cake smash
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

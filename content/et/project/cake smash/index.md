@@ -44,3 +44,14 @@ Fotosessiooni hind **170**€
 {{< figure src="cake-smash-fotosessioon-2.jpg" title="Cake smash fotosessioon Tallinnas" >}}
 {{< figure src="cake-smash-fotosessioon-3.jpg" title="Cake smash fotosessioon stuudios" >}}
 {{< figure src="cake-smash-fotosessioon-4.jpg" title="Stuudio cake smash pildistamine" >}}
+{{< figure src="cake-smash-fotosessioon-5.jpg" title="Cake smash fotosessioon" >}}
+{{< figure src="cake-smash-fotosessioon-6.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
+{{< figure src="cake-smash-fotosessioon-7.jpg" title="Cake smash fotosessioon Tallinnas" >}}
+{{< figure src="cake-smash-fotosessioon-8.jpg" title="Cake smash fotosessioon" >}}
+{{< figure src="cake-smash-fotosessioon-9.jpg" title="Stuudio cake smash pildistamine" >}}
+{{< figure src="cake-smash-fotosessioon-10.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
+{{< figure src="cake-smash-fotosessioon-11.jpg" title="Cake smash fotosessioon Tallinnas" >}}
+{{< figure src="cake-smash-fotosessioon-12.jpg" title="Cake smash fotosessioone" >}}
+{{< figure src="cake-smash-fotosessioon-13.jpg" title="Stuudio cake smash pildistamine" >}}
+{{< figure src="cake-smash-fotosessioon-14.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
+{{< figure src="cake-smash-fotosessioon-15.jpg" title="Cake smash fotosessioon Tallinnas" >}}

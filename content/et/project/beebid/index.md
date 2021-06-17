@@ -60,6 +60,7 @@ _Soovi korral piltide valik toimub Tellija poolt_
 
 Hind **140**€ 
 
+{{< figure src="beebi-fotosessioon-15.jpg" title="Beebipildistamine Tallinna stuudios" >}}
 {{< figure src="beebi-fotosessioon-1.jpg" title="Beebi fotosessioon" >}}
 {{< figure src="beebi-fotosessioon-2.jpg" title="Beebi fotosessioon Tallinnas" >}}
 {{< figure src="beebi-fotosessioon-3.jpg" title="Beebipildistamine" >}}
@@ -71,6 +72,7 @@ Hind **140**€
 {{< figure src="beebi-fotosessioon-9.jpg" title="Beebipildistamine" >}}
 {{< figure src="beebi-fotosessioon-10.jpg" title="Beebi pildistamine Tallinna stuudios" >}}
 {{< figure src="beebi-fotosessioon-11.jpg" title="Beebipildid" >}}
+{{< figure src="beebi-fotosessioon-16.jpg" title="Beebi pildistamine Tallinna stuudio" >}}
 {{< figure src="beebi-fotosessioon-12.jpg" title="Beebifotosessioon" >}}
 {{< figure src="beebi-fotosessioon-13.jpg" title="Beebi fotosessioon Tallinnas" >}}
 {{< figure src="beebi-fotosessioon-14.jpg" title="Beebipildistamine Tallinna stuudios" >}}
