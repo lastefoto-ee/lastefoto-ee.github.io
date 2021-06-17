@@ -1073,6 +1073,19 @@ Cake smash fotosessioon Tallinnas
 &lt;/ul>
 &lt;p>Hind &lt;strong>140&lt;/strong>€&lt;/p>
 &lt;p>
+&lt;figure id="figure-beebipildistamine-tallinna-stuudios">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Beebipildistamine Tallinna stuudios" srcset="
+/project/beebid/beebi-fotosessioon-15_hu1315614013e8de26aff2862316ec5003_695057_d0a3e9b5024527c0e9f070e55837f544.jpg 400w,
+/project/beebid/beebi-fotosessioon-15_hu1315614013e8de26aff2862316ec5003_695057_8b1a1a9330df5345f60abe3116ff36f6.jpg 760w,
+/project/beebid/beebi-fotosessioon-15_hu1315614013e8de26aff2862316ec5003_695057_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/beebid/beebi-fotosessioon-15_hu1315614013e8de26aff2862316ec5003_695057_d0a3e9b5024527c0e9f070e55837f544.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Beebipildistamine Tallinna stuudios
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-beebi-fotosessioon">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Beebi fotosessioon" srcset="
@@ -1215,6 +1228,19 @@ height="507"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Beebipildid
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-beebi-pildistamine-tallinna-stuudio">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Beebi pildistamine Tallinna stuudio" srcset="
+/project/beebid/beebi-fotosessioon-16_hufb38de791a9599f7bb1640dc84ac6d5a_434026_7b86cf2d8c0f3114e8e7243923eaa801.jpg 400w,
+/project/beebid/beebi-fotosessioon-16_hufb38de791a9599f7bb1640dc84ac6d5a_434026_b2b9ef416ff0e8b9e38800a14de2d8e7.jpg 760w,
+/project/beebid/beebi-fotosessioon-16_hufb38de791a9599f7bb1640dc84ac6d5a_434026_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/beebid/beebi-fotosessioon-16_hufb38de791a9599f7bb1640dc84ac6d5a_434026_7b86cf2d8c0f3114e8e7243923eaa801.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Beebi pildistamine Tallinna stuudio
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-beebifotosessioon">
 &lt;div class="d-flex justify-content-center">
@@ -1382,10 +1408,10 @@ Perepildid
 &lt;figure id="figure-beebi-esimese-sünnipäeva-fotosessioon">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Beebi esimese sünnipäeva fotosessioon" srcset="
-/project/cake-smash/cake-smash-fotosessioon-1_hu29a3ce0c903a06bf8b0e6f0f85ecee0a_136397_9648edad34b5011bf67324320c935c54.jpg 400w,
-/project/cake-smash/cake-smash-fotosessioon-1_hu29a3ce0c903a06bf8b0e6f0f85ecee0a_136397_fefee2b0887a2b4db01f328f49ec5d88.jpg 760w,
-/project/cake-smash/cake-smash-fotosessioon-1_hu29a3ce0c903a06bf8b0e6f0f85ecee0a_136397_1200x1200_fit_q75_lanczos.jpg 1200w"
-src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-1_hu29a3ce0c903a06bf8b0e6f0f85ecee0a_136397_9648edad34b5011bf67324320c935c54.jpg"
+/project/cake-smash/cake-smash-fotosessioon-1_hu4302b6a2685d4f6765dc5808020533fe_143490_7bc0143b686eaef226ec6969561760b6.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-1_hu4302b6a2685d4f6765dc5808020533fe_143490_6a73104bc9307984a24e0b30a89d8790.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-1_hu4302b6a2685d4f6765dc5808020533fe_143490_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-1_hu4302b6a2685d4f6765dc5808020533fe_143490_7bc0143b686eaef226ec6969561760b6.jpg"
 width="760"
 height="507"
 loading="lazy" data-zoomable />&lt;/div>
@@ -1395,12 +1421,12 @@ Beebi esimese sünnipäeva fotosessioon
 &lt;figure id="figure-cake-smash-fotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Cake smash fotosessioon Tallinnas" srcset="
-/project/cake-smash/cake-smash-fotosessioon-2_hu948a66aac2b8ebbec101321b0da325a7_20177_7617016744df14073e17ff293525ef57.jpg 400w,
-/project/cake-smash/cake-smash-fotosessioon-2_hu948a66aac2b8ebbec101321b0da325a7_20177_f4e6731d517945293e73fff6f68a3c55.jpg 760w,
-/project/cake-smash/cake-smash-fotosessioon-2_hu948a66aac2b8ebbec101321b0da325a7_20177_1200x1200_fit_q75_lanczos.jpg 1200w"
-src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-2_hu948a66aac2b8ebbec101321b0da325a7_20177_7617016744df14073e17ff293525ef57.jpg"
+/project/cake-smash/cake-smash-fotosessioon-2_hu29a3ce0c903a06bf8b0e6f0f85ecee0a_136397_3a343add80328703a6b5780e36d6a43e.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-2_hu29a3ce0c903a06bf8b0e6f0f85ecee0a_136397_7644b8456d251deaebb36abc1874d3fe.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-2_hu29a3ce0c903a06bf8b0e6f0f85ecee0a_136397_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-2_hu29a3ce0c903a06bf8b0e6f0f85ecee0a_136397_3a343add80328703a6b5780e36d6a43e.jpg"
 width="760"
-height="506"
+height="507"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Cake smash fotosessioon Tallinnas
@@ -1408,10 +1434,10 @@ Cake smash fotosessioon Tallinnas
 &lt;figure id="figure-cake-smash-fotosessioon-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Cake smash fotosessioon stuudios" srcset="
-/project/cake-smash/cake-smash-fotosessioon-3_hu20ebab59c5a5a1f1877b43dc28749894_72236_8902a53d39b2a47dd466fcdd93b88e7c.jpg 400w,
-/project/cake-smash/cake-smash-fotosessioon-3_hu20ebab59c5a5a1f1877b43dc28749894_72236_397b66201d81b37859634e33ede726a4.jpg 760w,
-/project/cake-smash/cake-smash-fotosessioon-3_hu20ebab59c5a5a1f1877b43dc28749894_72236_1200x1200_fit_q75_lanczos.jpg 1200w"
-src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-3_hu20ebab59c5a5a1f1877b43dc28749894_72236_8902a53d39b2a47dd466fcdd93b88e7c.jpg"
+/project/cake-smash/cake-smash-fotosessioon-3_huf75cbe903bd0a29f3025828e36c235fc_85160_e41550988268778a0f8b485928e02cc0.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-3_huf75cbe903bd0a29f3025828e36c235fc_85160_4542bc86d6152ded91ccf4f2a5a0c2ae.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-3_huf75cbe903bd0a29f3025828e36c235fc_85160_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-3_huf75cbe903bd0a29f3025828e36c235fc_85160_e41550988268778a0f8b485928e02cc0.jpg"
 width="760"
 height="507"
 loading="lazy" data-zoomable />&lt;/div>
@@ -1421,15 +1447,158 @@ Cake smash fotosessioon stuudios
 &lt;figure id="figure-stuudio-cake-smash-pildistamine">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Stuudio cake smash pildistamine" srcset="
-/project/cake-smash/cake-smash-fotosessioon-4_hu882019444de2d09e714412b2ce383f8f_160989_0b8e5752691e3e06f5835180acb383b5.jpg 400w,
-/project/cake-smash/cake-smash-fotosessioon-4_hu882019444de2d09e714412b2ce383f8f_160989_fe91f595a209bb3f895fa989b33be107.jpg 760w,
-/project/cake-smash/cake-smash-fotosessioon-4_hu882019444de2d09e714412b2ce383f8f_160989_1200x1200_fit_q75_lanczos.jpg 1200w"
-src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-4_hu882019444de2d09e714412b2ce383f8f_160989_0b8e5752691e3e06f5835180acb383b5.jpg"
+/project/cake-smash/cake-smash-fotosessioon-4_hufd5bd4cdb9c0e6288698932e21ab2896_147630_e6395adf7e6d5a155efd440ace01730c.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-4_hufd5bd4cdb9c0e6288698932e21ab2896_147630_afe9d41daa82ee2a312defdaef37adfb.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-4_hufd5bd4cdb9c0e6288698932e21ab2896_147630_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-4_hufd5bd4cdb9c0e6288698932e21ab2896_147630_e6395adf7e6d5a155efd440ace01730c.jpg"
 width="760"
 height="507"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Stuudio cake smash pildistamine
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-cake-smash-fotosessioon">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Cake smash fotosessioon" srcset="
+/project/cake-smash/cake-smash-fotosessioon-5_hub927ffc20249015ba88b123f2ea1b30a_112491_3dd884cb00a1378365a3d0ce52a26e88.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-5_hub927ffc20249015ba88b123f2ea1b30a_112491_c2f6e7cfc39186b36b25135b9ed933cc.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-5_hub927ffc20249015ba88b123f2ea1b30a_112491_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-5_hub927ffc20249015ba88b123f2ea1b30a_112491_3dd884cb00a1378365a3d0ce52a26e88.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Cake smash fotosessioon
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-beebi-esimese-sünnipäeva-fotosessioon">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Beebi esimese sünnipäeva fotosessioon" srcset="
+/project/cake-smash/cake-smash-fotosessioon-6_hu601e7f70ba85d4f258371729570b92e5_262896_f8c811502a1a03bd3c2989d32c778a9f.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-6_hu601e7f70ba85d4f258371729570b92e5_262896_2f12c657392c149290e3e14fc49bbec6.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-6_hu601e7f70ba85d4f258371729570b92e5_262896_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-6_hu601e7f70ba85d4f258371729570b92e5_262896_f8c811502a1a03bd3c2989d32c778a9f.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Beebi esimese sünnipäeva fotosessioon
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-cake-smash-fotosessioon-tallinnas">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Cake smash fotosessioon Tallinnas" srcset="
+/project/cake-smash/cake-smash-fotosessioon-7_hue5e5a03bb4d16af9c6b5350a814486b5_280365_dfc78e9355012e3be701186061c25046.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-7_hue5e5a03bb4d16af9c6b5350a814486b5_280365_935c6ba5dcb5f55011a20ede79692c16.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-7_hue5e5a03bb4d16af9c6b5350a814486b5_280365_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-7_hue5e5a03bb4d16af9c6b5350a814486b5_280365_dfc78e9355012e3be701186061c25046.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Cake smash fotosessioon Tallinnas
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-cake-smash-fotosessioon">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Cake smash fotosessioon" srcset="
+/project/cake-smash/cake-smash-fotosessioon-8_hu6d3f9072040ef8ec8963b1337647de58_133809_3fce0d30f7fe0fa3bef3417b877fe0fc.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-8_hu6d3f9072040ef8ec8963b1337647de58_133809_80b896828a62a1ac7d04118247773ee3.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-8_hu6d3f9072040ef8ec8963b1337647de58_133809_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-8_hu6d3f9072040ef8ec8963b1337647de58_133809_3fce0d30f7fe0fa3bef3417b877fe0fc.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Cake smash fotosessioon
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-stuudio-cake-smash-pildistamine">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Stuudio cake smash pildistamine" srcset="
+/project/cake-smash/cake-smash-fotosessioon-9_hu20ebab59c5a5a1f1877b43dc28749894_72236_e363b87895d7974263e081152c520831.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-9_hu20ebab59c5a5a1f1877b43dc28749894_72236_caaa967a986aa75a9ba6e7ddb2d1b23a.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-9_hu20ebab59c5a5a1f1877b43dc28749894_72236_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-9_hu20ebab59c5a5a1f1877b43dc28749894_72236_e363b87895d7974263e081152c520831.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Stuudio cake smash pildistamine
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-beebi-esimese-sünnipäeva-fotosessioon">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Beebi esimese sünnipäeva fotosessioon" srcset="
+/project/cake-smash/cake-smash-fotosessioon-10_hu9b5649dee489bd08e4c34a4673e8cfb4_86456_5d3674ac4a32242e7ea606fc2cec542e.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-10_hu9b5649dee489bd08e4c34a4673e8cfb4_86456_4078309e80dc75aa509b41ef351a84c3.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-10_hu9b5649dee489bd08e4c34a4673e8cfb4_86456_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-10_hu9b5649dee489bd08e4c34a4673e8cfb4_86456_5d3674ac4a32242e7ea606fc2cec542e.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Beebi esimese sünnipäeva fotosessioon
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-cake-smash-fotosessioon-tallinnas">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Cake smash fotosessioon Tallinnas" srcset="
+/project/cake-smash/cake-smash-fotosessioon-11_hu948a66aac2b8ebbec101321b0da325a7_20177_ac43b83dc59b4f6574dd02c56f4e2ca3.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-11_hu948a66aac2b8ebbec101321b0da325a7_20177_817babab8c14674cb8203ab3ca1ca0e7.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-11_hu948a66aac2b8ebbec101321b0da325a7_20177_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-11_hu948a66aac2b8ebbec101321b0da325a7_20177_ac43b83dc59b4f6574dd02c56f4e2ca3.jpg"
+width="760"
+height="506"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Cake smash fotosessioon Tallinnas
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-cake-smash-fotosessioone">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Cake smash fotosessioone" srcset="
+/project/cake-smash/cake-smash-fotosessioon-12_huec40de41d7435c3c186185dd4c6564cc_158313_46aab9a856a34b93a737aa5830df42d7.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-12_huec40de41d7435c3c186185dd4c6564cc_158313_05d75740fd5443569be84adb4840fa16.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-12_huec40de41d7435c3c186185dd4c6564cc_158313_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-12_huec40de41d7435c3c186185dd4c6564cc_158313_46aab9a856a34b93a737aa5830df42d7.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Cake smash fotosessioone
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-stuudio-cake-smash-pildistamine">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Stuudio cake smash pildistamine" srcset="
+/project/cake-smash/cake-smash-fotosessioon-13_hu882019444de2d09e714412b2ce383f8f_160989_be95d4583d5474f3efc756f577095434.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-13_hu882019444de2d09e714412b2ce383f8f_160989_a3344f7779f6ba4fb9f23006fe5f8b15.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-13_hu882019444de2d09e714412b2ce383f8f_160989_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-13_hu882019444de2d09e714412b2ce383f8f_160989_be95d4583d5474f3efc756f577095434.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Stuudio cake smash pildistamine
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-beebi-esimese-sünnipäeva-fotosessioon">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Beebi esimese sünnipäeva fotosessioon" srcset="
+/project/cake-smash/cake-smash-fotosessioon-14_hu25f63ebd679a6dc32e5d660daa052796_300006_bc8748f51c2538e539c8d88c3a53abf1.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-14_hu25f63ebd679a6dc32e5d660daa052796_300006_a688df3a57cfcfea79cdcdd28a82bb79.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-14_hu25f63ebd679a6dc32e5d660daa052796_300006_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-14_hu25f63ebd679a6dc32e5d660daa052796_300006_bc8748f51c2538e539c8d88c3a53abf1.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Beebi esimese sünnipäeva fotosessioon
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-cake-smash-fotosessioon-tallinnas">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Cake smash fotosessioon Tallinnas" srcset="
+/project/cake-smash/cake-smash-fotosessioon-15_hu36309a3dc3dc7f590883837f2763022c_305549_6a8e882138fcd81e5562661c1c4149e2.jpg 400w,
+/project/cake-smash/cake-smash-fotosessioon-15_hu36309a3dc3dc7f590883837f2763022c_305549_3e0ee669f0d14a1679bdda76d4c00ceb.jpg 760w,
+/project/cake-smash/cake-smash-fotosessioon-15_hu36309a3dc3dc7f590883837f2763022c_305549_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/cake-smash/cake-smash-fotosessioon-15_hu36309a3dc3dc7f590883837f2763022c_305549_6a8e882138fcd81e5562661c1c4149e2.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Cake smash fotosessioon Tallinnas
 &lt;/figcaption>&lt;/figure>&lt;/p></description></item><item><title>Värvid</title><link>https://www.lastefoto.ee/project/varvid/</link><pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate><guid>https://www.lastefoto.ee/project/varvid/</guid><description>&lt;h1 id="fotosessioon-noor-abstraktsionist">Fotosessioon &amp;ldquo;Noor abstraktsionist&amp;rdquo;&lt;/h1>
 &lt;ul>
 &lt;li>40-minutiline fotosessioon LasteFoto stuudios&lt;/li>

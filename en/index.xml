@@ -1068,6 +1068,19 @@ Cake smash photosession in studio
 &lt;/ul>
 &lt;p>Price &lt;strong>140&lt;/strong> €&lt;/p>
 &lt;p>
+&lt;figure id="figure-baby-photosession-at-lastefoto-studio">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Baby photosession at LasteFoto studio" srcset="
+/en/project/babies/baby-photosession-15_hu1315614013e8de26aff2862316ec5003_695057_6074e124d5e5c2d40824ee03d7f9dec1.jpg 400w,
+/en/project/babies/baby-photosession-15_hu1315614013e8de26aff2862316ec5003_695057_2a657c86c16496d92207a8f87d674881.jpg 760w,
+/en/project/babies/baby-photosession-15_hu1315614013e8de26aff2862316ec5003_695057_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/en/project/babies/baby-photosession-15_hu1315614013e8de26aff2862316ec5003_695057_6074e124d5e5c2d40824ee03d7f9dec1.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Baby photosession at LasteFoto studio
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Baby photosession" srcset="
@@ -1210,6 +1223,19 @@ height="507"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Baby photosession
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-baby-photosession-in-tallinn">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Baby photosession in Tallinn" srcset="
+/en/project/babies/baby-photosession-16_hufb38de791a9599f7bb1640dc84ac6d5a_434026_985968d101c8abf784863f65f1682d84.jpg 400w,
+/en/project/babies/baby-photosession-16_hufb38de791a9599f7bb1640dc84ac6d5a_434026_dc3d64d096e9f63868c92683aab71a33.jpg 760w,
+/en/project/babies/baby-photosession-16_hufb38de791a9599f7bb1640dc84ac6d5a_434026_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/en/project/babies/baby-photosession-16_hufb38de791a9599f7bb1640dc84ac6d5a_434026_985968d101c8abf784863f65f1682d84.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Baby photosession in Tallinn
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession-in-studio">
 &lt;div class="d-flex justify-content-center">
