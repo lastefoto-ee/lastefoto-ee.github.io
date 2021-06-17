@@ -35,12 +35,74 @@ authors:
 tags:
   - фотосессия малыша
   - малыш
+  - мама и малыш
 
 categories:
   - малыши
 
+gallery_item:
+- album: mama-i-malysh
+  image: fotosessiya-malysha-4.jpg
+  caption: Фотосессия малыша в студии 
+- album: mama-i-malysh
+  image: fotosessiya-malysha-5.jpg
+  caption: Фотосессия малыша в Таллинне
+- album: mama-i-malysh
+  image: fotosessiya-malysha-6.jpg
+  caption: Фотосессия малыша 
+- album: mama-i-malysh
+  image: fotosessiya-malysha-7.jpg
+  caption: Фотосессия малыша в студии
+- album: mama-i-malysh
+  image: fotosessiya-malysha-8.jpg
+  caption: Фотосессия малыша в Таллинне
+- album: mama-i-malysh
+  image: fotosessiya-malysha-9.jpg
+  caption: Фотосессия малыша
+- album: mama-i-malysh
+  image: fotosessiya-malysha-10.jpg
+  caption: Фотосессия малыша в Таллинне
+- album: mama-i-malysh
+  image: fotosessiya-malysha-11.jpg
+  caption: Фотосессия малыша в студии
+- album: mama-i-malysh
+  image: fotosessiya-malysha-12.jpg
+  caption: Фотосессия малыша 
+- album: mama-i-malysh
+  image: fotosessiya-malysha-13.jpg
+  caption: Фотосессия малыша в Таллинне
+- album: mama-i-malysh
+  image: fotosessiya-malysha-14.jpg
+  caption: Фотосессия малыша в студии
+- album: mama-i-malysh
+  image: fotosessiya-malysha-15.jpg
+  caption: Фотосессия малыша 
+- album: mama-i-malysh
+  image: fotosessiya-malysha-16.jpg
+  caption: Фотосессия малыша
+- album: mama-i-malysh
+  image: fotosessiya-malysha-17.jpg
+  caption: Фотосессия малыша в Таллинне
+- album: mama-i-malysh
+  image: fotosessiya-malysha-18.jpg
+  caption: Фотосессия малыша в студим
+- album: mama-i-malysh
+  image: fotosessiya-malysha-19.jpg
+  caption: Фотосессия малыша в Таллинне
+- album: mama-i-malysh
+  image: fotosessiya-malysha-20.jpg
+  caption: Фотосессия малыша в студии
+- album: mama-i-malysh
+  image: fotosessiya-malysha-21.jpg
+  caption: Фотосессия малыша
+- album: mama-i-malysh
+  image: fotosessiya-malysha-22.jpg
+  caption: Фотосессия малыша в Таллинне
+- album: mama-i-malysh
+  image: fotosessiya-malysha-23.jpg
+  caption: Фотосессия малыша в студии
 ---
-{{< cta cta_text="Запишись на фотосессию Мама и малыш" cta_link="/ru/#contact" cta_new_tab="true" cta_alt_text="или посмотри как проходит фотосессия Cake smash" cta_alt_link="/ru/post/cake-smash-pervaya-fotosessiya/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Запишись на фотосессию Мама и малыш" cta_link="/ru/#contact" cta_new_tab="false" >}}
 
 Как проходят такие съемки, как правило, лучше никому не слышать. Съемка малышей от трех месяцев до года чаще всего похожа на цирк. Мяуканье, мычание, рычание, чихание - это топ в списке тех навыков, которые необходимо освоить фотографу. Хорошо, если в роли такого аниматора, выступает папа/старший брат/сестра/бабушка. Но чаще всего это сам фотограф. 
 
@@ -56,7 +118,6 @@ categories:
 
 {{< figure src="./fotosessiya-malysha-3.jpg" title="Фотосессия мама и малыш в Таллинне" >}}
 
-Спокойствие. Вы в надежных руках! Обычно по прошествии 10-15 минут, малыши осваиваются и остается только ловить их лучезарные улыбки!
+Спокойствие. Вы в надежных руках! Обычно по прошествии 10-15 минут, малыши осваиваются и остается только ловить их лучезарные улыбки! 
 
-{{< gallery album="mamaimalysh" >}}
-
+{{< gallery album="mama-i-malysh" >}}
