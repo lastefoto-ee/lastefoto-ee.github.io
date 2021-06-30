@@ -82,6 +82,7 @@ _soovi korral piltide valik toimub Tellija poolt_
 
 Fotosessiooni hind **385**€ 
 
+{{< figure src="vastsundinu-fotosessioon-49.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
 {{< figure src="vastsundinu-fotosessioon-48.jpg" title="Vastsündinud kaksikute fotosessioon stuudios Tallinnas" >}}
 {{< figure src="vastsundinu-fotosessioon-1.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
 {{< figure src="vastsundinu-fotosessioon-47.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}

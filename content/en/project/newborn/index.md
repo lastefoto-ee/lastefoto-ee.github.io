@@ -77,6 +77,7 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 
 Price **385**€
 
+{{< figure src="newborn-photosession-49.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-48.jpg" title="Newborn twins photo session in studio" >}}
 {{< figure src="newborn-photosession-1.jpg" title="Newborn photosession" >}}
 {{< figure src="newborn-photosession-47.jpg" title="Newborn photosession" >}}
