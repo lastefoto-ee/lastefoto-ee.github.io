@@ -351,6 +351,19 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/ul>
 &lt;p>Price &lt;strong>385&lt;/strong>€&lt;/p>
 &lt;p>
+&lt;figure id="figure-newborn-photosession-in-tallinn">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Newborn photosession in Tallinn" srcset="
+/en/project/newborn/newborn-photosession-49_hu000e04fcbe8510a5fbe4f65cee049aab_177670_bdf3c85e89577236ee694f18588ae903.jpg 400w,
+/en/project/newborn/newborn-photosession-49_hu000e04fcbe8510a5fbe4f65cee049aab_177670_e2b806c06a1caccd59c324b527deca8d.jpg 760w,
+/en/project/newborn/newborn-photosession-49_hu000e04fcbe8510a5fbe4f65cee049aab_177670_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/en/project/newborn/newborn-photosession-49_hu000e04fcbe8510a5fbe4f65cee049aab_177670_bdf3c85e89577236ee694f18588ae903.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Newborn photosession in Tallinn
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-newborn-twins-photo-session-in-studio">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Newborn twins photo session in studio" srcset="
