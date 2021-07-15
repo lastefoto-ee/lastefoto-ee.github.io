@@ -21,22 +21,74 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
 weight: 1
 
 gallery_item:
 - album: beremennost-portfolio
-  image: фотосессия-беременности-1.jpg
+  image: fotosessiya-beremennosti-1.jpg
   caption: Фотосессия беременности в студии 
 - album: beremennost-portfolio
-  image: фотосессия-беременности-2.jpg
-  caption: Фотосессия беременности в студии 
+  image: fotosessiya-beremennosti-2.jpg
+  caption: Фотосессия беременности в стиле Vogue
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-3.jpg
+  caption: Фотосессия беременности в Таллинне
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-4.jpg
+  caption: Фотосессия беременности в студии в стиле Vogue
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-5.jpg
+  caption: Студийная фотосессия беременности
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-6.jpg
+  caption: Фотосессия беременности в стиле Vogue
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-7.jpg
+  caption: Фотосессия беременности в студии
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-8.jpg
+  caption: Фотосессия беременности в Таллинне
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-9.jpg
+  caption: Фотосессия беременности в студии в стиле Vogue
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-10.jpg
+  caption: Студийная фотосессия беременности
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-11.jpg
+  caption: Фотосессия беременности в стиле Vogue
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-12.jpg
+  caption: Фотосессия беременности в студии
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-13.jpg
+  caption: Фотосессия беременности в Таллинне
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-14.jpg
+  caption: Фотосессия беременности в студии в стиле Vogue
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-15.jpg
+  caption: Студийная фотосессия беременности
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-16.jpg
+  caption: Фотосессия беременности в стиле Vogue
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-17.jpg
+  caption: Фотосессия беременности в студии
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-18.jpg
+  caption: Фотосессия беременности в Таллинне
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-19.jpg
+  caption: Фотосессия беременности в студии в стиле Vogue
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-20.jpg
+  caption: Студийная фотосессия беременности
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-20.jpg
+  caption: Фотосессия беременности в стиле Vogue  
+ 
 
 ---
 ## Фотосессия беременности - Пакет S
@@ -75,27 +127,4 @@ gallery_item:
 
 Цена **345**€
 
-
 {{< gallery album="beremennost-portfolio" >}}
-
-{{< figure src="фотосессия-беременности-16.jpg" title="Фотография беременности в стиле Vogue" >}}
-{{< figure src="фотосессия-беременности-1.jpg" title="Фотосессия беременности в стиле Vogue" >}}
-{{< figure src="фотосессия-беременности-2.jpg" title="Фотосессия беременности в Таллинне" >}}
-{{< figure src="фотосессия-беременности-3.jpg" title="Фотосессия беременности в студии в стиле Vogue" >}}
-{{< figure src="фотосессия-беременности-18.jpg" title="Фотография беременности в стиле Vogue" >}}
-{{< figure src="фотосессия-беременности-4.jpg" title="Студийная фотосессия беременности" >}}
-{{< figure src="фотосессия-беременности-5.jpg" title="Фотография беременности" >}}
-{{< figure src="фотосессия-беременности-6.jpg" title="Фотография беременности в стиле Vogue" >}}
-{{< figure src="фотосессия-беременности-21.jpg" title="Фотосессия беременности в студии в стиле Vogue" >}}
-{{< figure src="фотосессия-беременности-7.jpg" title="Фотография беременности в Таллинне" >}}
-{{< figure src="фотосессия-беременности-8.jpg" title="Фотосессия беременности в студии в стиле Vogue" >}}
-{{< figure src="фотосессия-беременности-9.jpg" title="Студийная фотосессия беременности" >}}
-{{< figure src="фотосессия-беременности-10.jpg" title="Фотография беременности" >}}
-{{< figure src="фотосессия-беременности-11.jpg" title="Фотосессия беременности в стиле Vogue" >}}
-{{< figure src="фотосессия-беременности-12.jpg" title="Фотография беременности в Таллинне" >}}
-{{< figure src="фотосессия-беременности-19.jpg" title="Фотография беременности" >}}
-{{< figure src="фотосессия-беременности-13.jpg" title="Фотосессия беременности в студии в стиле Vogue" >}}
-{{< figure src="фотосессия-беременности-14.jpg" title="Студийная фотосессия беременности" >}}
-{{< figure src="фотосессия-беременности-15.jpg" title="Фотография беременности" >}}
-{{< figure src="фотосессия-беременности-20.jpg" title="Фотография беременности" >}}
-{{< figure src="фотосессия-беременности-17.jpg" title="Фотография беременности в стиле Vogue" >}}
