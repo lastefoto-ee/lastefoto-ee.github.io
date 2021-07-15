@@ -41,7 +41,6 @@ tags:
 categories:
   - беременность
 
-
 gallery_item:
 - album: siluety
   image: fotosessiya-beremennosti-11.jpg
