@@ -1,5 +1,5 @@
 ---
-title: Дети
+title: Семья
 summary: фотосессии
 tags:
 - дети
@@ -29,21 +29,44 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 6
+weight: 8
+
+gallery_item:
+- album: semya-portfolio
+  image: detskaya-fotosessiya-1.jpg
+  caption: Детская фотосессия в Таллинне
+- album: semya-portfolio
+  image: detskaya-fotosessiya-2.jpg
+  caption: Детская фотосессия в квартале Ротерманн
+- album: semya-portfolio
+  image: detskaya-fotosessiya-3.jpg
+  caption: Фотосессия на природе
+- album: semya-portfolio
+  image: detskaya-fotosessiya-4.jpg
+  caption: Детская фотосессия
+- album: semya-portfolio
+  image: detskaya-fotosessiya-5.jpg
+  caption: Детская фотография
+- album: semya-portfolio
+  image: detskaya-fotosessiya-6.jpg
+  caption: Детская фотосессия в Таллинне
+- album: semya-portfolio
+  image: semeinaya-fotosessiya-1.jpg
+  caption: Семейная фотосессия на природе в Таллинне
+- album: semya-portfolio
+  image: semeinaya-fotosessiya-2.jpg
+  caption: Семейная фотосессия с малышом
+- album: semya-portfolio
+  image: semeinaya-fotosessiya-3.jpg
+  caption: Семейная фото-прогулка в Таллинне
 ---
 
 ## Семейная фотосессия
+_только для постоянных клиентов_
 
-* 1 час съемки на прогулке или в студии (аренда студии в некоторых случаях может оплачиваться отдельно);
+* фотосессия продолжительностью 1 час на природе или в студии (в некоторых случаях аренда студии может оплачиваться отдельно);
 * 20 диги-фотографий в обработке с детальной ретушью, подготовленные для печати и размещения в интернете (без потери качества)
 
 Стоимость **120**€
 
-{{< figure src="detskaya-fotosessiya-1.jpg" title="Детская фотосессия в Таллинне" >}}
-{{< figure src="detskaya-fotosessiya-2.jpg" title="Детская фотосессия в квартале Ротерманн" >}}
-{{< figure src="detskaya-fotosessiya-3.jpg" title="Фотосессия на природе" >}}
-{{< figure src="detskaya-fotosessiya-4.jpg" title="Детская фотосессия" >}}
-{{< figure src="detskaya-fotosessiya-5.jpg" title="Детская фотография" >}}
-{{< figure src="semeinaya-fotosessiya-1.jpg" title="Семейная фотосессия на природе в Таллинне" >}}
-{{< figure src="semeinaya-fotosessiya-2.jpg" title="Семейная фотосессия с малышом" >}}
-{{< figure src="semeinaya-fotosessiya-3.jpg" title="Семейная фотосессия в Таллинне" >}}
+{{< gallery album="semya-portfolio" >}}
