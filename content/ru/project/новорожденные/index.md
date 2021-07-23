@@ -3,7 +3,7 @@ title: Newborn
 summary: новорожденные
 tags:
 - новорожденные
-date: "2021-05-24T00:00:00Z"
+date: "2021-07-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -78,6 +78,17 @@ _по желанию выбор фотографий на ретушь осущ�
 
 Стоимость фотосессии **385**€ 
 
+{{< figure src="fotosessiya-novorozhdennykh-50.jpg" title="Съемка новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-53.jpg" title="Фотосессия новорожденного в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-52.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-55.jpg" title="Фотосессия новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-59.jpg" title="Фотосессия новорожденной малышки в студии в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-60.jpg" title="Фотосессия новорожденного в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-58.jpg" title="Фотосессия новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-51.jpg" title="Фотосессия новорожденной малышки в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-57.jpg" title="Съемка новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-56.jpg" title="Фотосессия новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-54.jpg" title="Фотосессия новорожденных в Таллинне" >}}
 {{< figure src="fotosessiya-novorozhdennykh-49.jpg" title="Фотосессия новорожденного в студии" >}}
 {{< figure src="fotosessiya-novorozhdennykh-48.jpg" title="Фотосессия новорожденных малышек в студии в Таллинне" >}}
 {{< figure src="fotosessiya-novorozhdennykh-1.jpg" title="Фотосессия новорожденного в студии" >}}
@@ -121,7 +132,7 @@ _по желанию выбор фотографий на ретушь осущ�
 {{< figure src="fotosessiya-novorozhdennykh-38.jpg" title="Фотосессия новорожденного малыша в студии" >}}
 {{< figure src="fotosessiya-novorozhdennykh-39.jpg" title="Съемка новорожденных в Таллинне" >}}
 {{< figure src="fotosessiya-novorozhdennykh-40.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykhх-41.jpg" title="Фотосессия новорожденного в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-41.jpg" title="Фотосессия новорожденного в студии" >}}
 {{< figure src="fotosessiya-novorozhdennykh-42.jpg" title="Фотосессия новорожденных в Таллинне" >}}
 {{< figure src="fotosessiya-novorozhdennykh-43.jpg" title="Фотосессия новорожденного малыша в студии" >}}
 {{< figure src="fotosessiya-novorozhdennykh-44.jpg" title="Съемка новорожденных в Таллинне" >}}

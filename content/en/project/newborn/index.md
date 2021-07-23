@@ -3,7 +3,7 @@ title: Newborn
 summary: photosessions
 tags:
 - newborn
-date: "2021-05-24T00:00:00Z"
+date: "2021-07-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -77,6 +77,18 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 
 Price **385**€
 
+{{< figure src="newborn-photosession-50.jpg" title="Newborn photosession in Tallinn" >}}
+{{< figure src="newborn-photosession-53.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photosession-52.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-55.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photosession-59.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-60.jpg" title="Newborn photosession" >}}
+{{< figure src="newborn-photosession-58.jpg" title="Newborn photosession in Tallinn" >}}
+{{< figure src="newborn-photosession-51.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photosession-57.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-56.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photosession-54.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-41.jpg" title="Newborn photosession" >}}
 {{< figure src="newborn-photosession-49.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-48.jpg" title="Newborn twins photo session in studio" >}}
 {{< figure src="newborn-photosession-1.jpg" title="Newborn photosession" >}}

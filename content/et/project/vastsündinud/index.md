@@ -3,7 +3,7 @@ title: Vastsündinud
 summary: fotosessioonid
 tags:
 - vastsündinud
-date: "2021-05-24T00:00:00Z"
+date: "2021-07-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -82,6 +82,18 @@ _soovi korral piltide valik toimub Tellija poolt_
 
 Fotosessiooni hind **385**€ 
 
+{{< figure src="vastsundinu-fotosessioon-50.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-53.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-52.jpg" title="Vastsündinu pilt" >}}
+{{< figure src="vastsundinu-fotosessioon-55.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-59.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-60.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-58.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-51.jpg" title="Vastsündinu pilt" >}}
+{{< figure src="vastsundinu-fotosessioon-57.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-56.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-54.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-31.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
 {{< figure src="vastsundinu-fotosessioon-49.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
 {{< figure src="vastsundinu-fotosessioon-48.jpg" title="Vastsündinud kaksikute fotosessioon stuudios Tallinnas" >}}
 {{< figure src="vastsundinu-fotosessioon-1.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
