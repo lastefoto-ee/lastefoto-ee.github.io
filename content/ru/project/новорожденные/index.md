@@ -3,7 +3,7 @@ title: Newborn
 summary: новорожденные
 tags:
 - новорожденные
-date: "2021-07-23T00:00:00Z"
+date: "2021-07-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -78,6 +78,7 @@ _по желанию выбор фотографий на ретушь осущ�
 
 Стоимость фотосессии **385**€ 
 
+{{< figure src="fotosessiya-novorozhdennykh-61.jpg" title="Фотосессия новорожденных в Таллинне" >}}
 {{< figure src="fotosessiya-novorozhdennykh-50.jpg" title="Съемка новорожденных в Таллинне" >}}
 {{< figure src="fotosessiya-novorozhdennykh-53.jpg" title="Фотосессия новорожденного в студии" >}}
 {{< figure src="fotosessiya-novorozhdennykh-52.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}

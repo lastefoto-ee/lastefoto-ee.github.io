@@ -3,7 +3,7 @@ title: Newborn
 summary: photosessions
 tags:
 - newborn
-date: "2021-07-23T00:00:00Z"
+date: "2021-07-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -77,17 +77,18 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 
 Price **385**€
 
+{{< figure src="newborn-photosession-61.jpg" title="Newborn babygirl photosession in studio" >}}
 {{< figure src="newborn-photosession-50.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-53.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-52.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-52.jpg" title="Newborn babygirl photosession in studio" >}}
 {{< figure src="newborn-photosession-55.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-59.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-59.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-60.jpg" title="Newborn photosession" >}}
 {{< figure src="newborn-photosession-58.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-51.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-57.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-57.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-56.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-54.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-54.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-41.jpg" title="Newborn photosession" >}}
 {{< figure src="newborn-photosession-49.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-48.jpg" title="Newborn twins photo session in studio" >}}
@@ -95,46 +96,46 @@ Price **385**€
 {{< figure src="newborn-photosession-47.jpg" title="Newborn photosession" >}}
 {{< figure src="newborn-photosession-2.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-3.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-4.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-4.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-5.jpg" title="Newborn picture" >}}
 {{< figure src="newborn-photosession-6.jpg" title="Newborn photosession" >}}
 {{< figure src="newborn-photosession-7.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-8.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-9.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-10.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-10.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-11.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-12.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-12.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-13.jpg" title="Newborn photosession" >}}
 {{< figure src="newborn-photosession-14.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-15.jpg" title="Newborn studio session" >}}
 {{< figure src="newborn-photosession-16.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-17.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-17.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-18.jpg" title="Newborn photosession" >}}
 {{< figure src="newborn-photosession-19.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-20.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-21.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-21.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-22.jpg" title="Newborn picture" >}}
 {{< figure src="newborn-photosession-23.jpg" title="Newborn photosession" >}}
 {{< figure src="newborn-photosession-24.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-25.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-26.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-26.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-27.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-28.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-28.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-29.jpg" title="Newborn photosession" >}}
 {{< figure src="newborn-photosession-30.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-31.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-32.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-32.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-33.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-34.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-34.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-35.jpg" title="Newborn photosession" >}}
 {{< figure src="newborn-photosession-36.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-37.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-38.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-38.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-39.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-40.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-40.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-41.jpg" title="Newborn photosession" >}}
 {{< figure src="newborn-photosession-42.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-43.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-44.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-44.jpg" title="Newborn baby photosession in studio" >}}
 {{< figure src="newborn-photosession-45.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-46.jpg" title="Newborn babyboy photosession in studio" >}}
+{{< figure src="newborn-photosession-46.jpg" title="Newborn baby photosession in studio" >}}
