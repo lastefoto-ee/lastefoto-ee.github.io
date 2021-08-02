@@ -86,10 +86,14 @@ gallery_item:
   image: fotosessiya-beremennosti-20.jpg
   caption: Студийная фотосессия беременности
 - album: beremennost-portfolio
-  image: fotosessiya-beremennosti-20.jpg
+  image: fotosessiya-beremennosti-21.jpg
   caption: Фотосессия беременности в стиле Vogue  
- 
-
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-22.jpg
+  caption: Фотосессия беременности в студии 
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-23.jpg
+  caption: Фотосессия беременности в студии в стиле Vogue 
 ---
 ## Фотосессия беременности - Пакет S
 

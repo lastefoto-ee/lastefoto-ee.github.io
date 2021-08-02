@@ -30,8 +30,80 @@ url_video: ""
 slides: ""
 weight: 1
 
+gallery_item:
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-1.jpg
+  caption: Beebiootusefotosessioon Vogue stiilis
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-2.jpg
+  caption: Beebiootusefotosessioon Tallinnas
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-3.jpg
+  caption: Beebiootuse fotosessioon stuudios
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-4.jpg
+  caption: Vogue stiilis beebiootuse pildistamine
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-5.jpg
+  caption: Beebiootuse pilt Vogue stiilis
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-6.jpg
+  caption: Beebiootusefotosessioon
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-7.jpg
+  caption: Beebiootuse pildistamine
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-8.jpg
+  caption: Beebiootusefotosessioon Vogue stiilis
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-9.jpg
+  caption: Beebiootusefotosessioon Tallinnas
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-10.jpg
+  caption: Beebiootuse fotosessioon stuudios
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-11.jpg
+  caption: Vogue stiilis beebiootuse pildistamine
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-12.jpg
+  caption: Beebiootuse pilt Vogue stiilis
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-13.jpg
+  caption: Beebiootusefotosessioon 
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-14.jpg
+  caption: Beebiootuse pildistamine
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-15.jpg
+  caption: Beebiootusefotosessioon Vogue stiilis
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-16.jpg
+  caption: Beebiootusefotosessioon Tallinnas
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-17.jpg
+  caption: Beebiootuse fotosessioon stuudios
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-18.jpg
+  caption: Vogue stiilis beebiootuse pildistamine
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-19.jpg
+  caption: Beebiootusefotosessioon 
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-1.jpg
+  caption: Beebiootuse pilt Vogue stiilis
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-20.jpg
+  caption: Beebiootuse pildistamine
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-21.jpg
+  caption: Beebiootusefotosessioon Vogue stiilis
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-22.jpg
+  caption: Beebiootusefotosessioon Tallinnas
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-23.jpg
+  caption: Beebiootuse fotosessioon stuudios
 ---
-
 # Beebiootusefotosessioon - Pakett S
 
 * 1-2 erinevat set-upi 
@@ -65,19 +137,4 @@ Fotosessiooni hind **235**€
 
 Fotosessiooni hind **345**€
 
-{{< figure src="beebi-ootuse-fotosessioon-1.jpg" title="Beebiootusefotosessioon Vogue stiilis" >}}
-{{< figure src="beebi-ootuse-fotosessioon-2.jpg" title="Beebiootusefotosessioon Tallinnas" >}}
-{{< figure src="beebi-ootuse-fotosessioon-3.jpg" title="Beebiootuse fotosessioon stuudios" >}}
-{{< figure src="beebi-ootuse-fotosessioon-4.jpg" title="Vogue stiilis beebiootuse pildistamine" >}}
-{{< figure src="beebi-ootuse-fotosessioon-5.jpg" title="Beebiootuse pilt Vogue stiilis" >}}
-{{< figure src="beebi-ootuse-fotosessioon-6.jpg" title="Beebiootusefotosessioon" >}}
-{{< figure src="beebi-ootuse-fotosessioon-7.jpg" title="Beebiootusefotosessioon Tallinnas" >}}
-{{< figure src="beebi-ootuse-fotosessioon-8.jpg" title="Beebiootuse fotosessioon stuudios" >}}
-{{< figure src="beebi-ootuse-fotosessioon-9.jpg" title="Beebiootuse pildistamine" >}}
-{{< figure src="beebi-ootuse-fotosessioon-10.jpg" title="Beebiootuse fotosessioon" >}}
-{{< figure src="beebi-ootuse-fotosessioon-11.jpg" title="Beebiootusefotosessioon Vogue stiilis" >}}
-{{< figure src="beebi-ootuse-fotosessioon-12.jpg" title="Beebiootusefotosessioon Tallinnas" >}}
-{{< figure src="beebi-ootuse-fotosessioon-13.jpg" title="Beebiootusefotosessioon" >}}
-{{< figure src="beebi-ootuse-fotosessioon-14.jpg" title="Beebiootuse pildistamine Tallinnas" >}}
-{{< figure src="beebi-ootuse-fotosessioon-15.jpg" title="Beebiootuse fotosessioon Tallinnas" >}}
-{{< figure src="beebi-ootuse-fotosessioon-16.jpg" title="Beebiootuse fotosessioon Vogue stiilis Tallinnas" >}}
+{{< gallery album="beebiootus-portfolio" >}}
