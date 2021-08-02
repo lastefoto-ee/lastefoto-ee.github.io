@@ -3,7 +3,7 @@ title: Pregnancy
 summary: photosessions
 tags:
 - pregnancy
-date: "2021-05-13T00:00:00Z"
+date: "2021-08-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,8 +30,77 @@ url_video: ""
 slides: ""
 weight: 1
 
+gallery_item:
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-1.jpg
+  caption: Pregnancy photosession in style of Vogue 
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-2.jpg
+  caption: Pregnancy photosession in Tallinn
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-3.jpg
+  caption: Pregnancy photosession in studio in Vogue style
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-4.jpg
+  caption: Pregnancy session
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-5.jpg
+  caption: Pregnancy photosession in style of Vogue   
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-6.jpg
+  caption: Pregnancy photosession in Tallinn
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-7.jpg
+  caption: Pregnancy photosession in studio in Vogue style
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-8.jpg
+  caption: Pregnancy session
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-9.jpg
+  caption: Pregnancy photosession in style of Vogue 
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-10.jpg
+  caption: Pregnancy photosession in Tallinn
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-11.jpg
+  caption: Pregnancy photosession in studio in Vogue style
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-12.jpg
+  caption: Pregnancy session
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-13.jpg
+  caption: Pregnancy photosession in style of Vogue   
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-14.jpg
+  caption: Pregnancy photosession in Tallinn
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-15.jpg
+  caption: Pregnancy photosession in studio in Vogue style
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-16.jpg
+  caption: Pregnancy session
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-17.jpg
+  caption: Pregnancy photosession in style of Vogue 
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-18.jpg
+  caption: Pregnancy photosession in Tallinn
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-19.jpg
+  caption: Pregnancy photosession in studio in Vogue style
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-20.jpg
+  caption: Pregnancy session
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-21.jpg
+  caption: Pregnancy photosession in style of Vogue   
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-22.jpg
+  caption: Pregnancy photosession in Tallinn
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-23.jpg
+  caption: Pregnancy photosession in studio in Vogue style
 ---
-
 ## Pregnancy photosession - Package S
 
 * 1-2 set ups
@@ -65,19 +134,4 @@ Price **235** €
 
 Price **345** €
 
-{{< figure src="pregnancy-photosession-1.jpg" title="Pregnancy photosession in style of Vogue" >}}
-{{< figure src="pregnancy-photosession-2.jpg" title="Pregnancy photosession in Tallinn" >}}
-{{< figure src="pregnancy-photosession-3.jpg" title="Pregnancy photosession in studio in Vogue style" >}}
-{{< figure src="pregnancy-photosession-4.jpg" title="Pregnancy session" >}}
-{{< figure src="pregnancy-photosession-5.jpg" title="Pregnancy photosession in style of Vogue" >}}
-{{< figure src="pregnancy-photosession-6.jpg" title="Pregnancy photosession in Tallinn" >}}
-{{< figure src="pregnancy-photosession-7.jpg" title="Pregnancy photosession in studio in Vogue style" >}}
-{{< figure src="pregnancy-photosession-8.jpg" title="Pregnancy photography" >}}
-{{< figure src="pregnancy-photosession-9.jpg" title="Pregnancy photosession in style of Vogue" >}}
-{{< figure src="pregnancy-photosession-10.jpg" title="Pregnancy photosession in Tallinn" >}}
-{{< figure src="pregnancy-photosession-11.jpg" title="Pregnancy photosession in studio in Vogue style" >}}
-{{< figure src="pregnancy-photosession-12.jpg" title="Pregnancy photography" >}}
-{{< figure src="pregnancy-photosession-13.jpg" title="Pregnancy photosession in style of Vogue" >}}
-{{< figure src="pregnancy-photosession-14.jpg" title="Pregnancy photosession in Tallinn" >}}
-{{< figure src="pregnancy-photosession-15.jpg" title="Pregnancy photosession in studio in Vogue style" >}}
-{{< figure src="pregnancy-photosession-16.jpg" title="Pregnancy photography" >}}
+{{< gallery album="pregnancy-portfolio" >}}
