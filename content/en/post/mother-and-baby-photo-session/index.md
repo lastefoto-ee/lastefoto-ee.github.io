@@ -120,6 +120,6 @@ Each photo session is a new experience for a baby. If at home the baby is usuall
 
 Calmness. You are in good hands! Usually, after 10-15 minutes, the kids get used to it and all that remains is to catch their radiant smiles!
 
-{{< gallery album="mama-i-malysh" >}}
+{{< gallery album="mother-and-baby" >}}
 
 {{< cta cta_text="Capture mom and baby special moments" cta_link="/en/#contact" cta_new_tab="false" >}}
