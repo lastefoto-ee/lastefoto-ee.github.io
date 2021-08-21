@@ -31,7 +31,7 @@ item:
   organization_url: "/workshop#Newborn%20Retreat"
   title: 'Välismaa tippfotograafide online koolitus lapseootuse ja vastsündinute pildistamise kohta'
   url: "/workshop#Newborn%20Retreat"
-- certificate_url: "https://www.lastefoto.ee/pregnancy-certificate-Bunaeva.jpg"
+- certificate_url: "https://www.lastefoto.ee/certificate-Bunaeva-Vogue.jpg"
   date_end: ""
   date_start: "2021-04-05"
   description: 'Suuna "Beebiootuse fotosessioon Vogue stiilis" asutaja veebikursus - Sasha Bunaeva'
