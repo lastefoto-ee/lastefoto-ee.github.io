@@ -26,7 +26,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2021-01-31"
-  description: 'Suurte kogemustega professionaalsed lapseootuse ja vastsündinud beebide fotograafid jagasid oma kogemusi.'
+  description: 'Suurte kogemustega professionaalsed lapseootuse ja vastsündinud beebide fotograafid jagasid oma kogemusi'
   organization: The Milky Way
   organization_url: "/workshop#Newborn%20Retreat"
   title: 'Välismaa tippfotograafide online koolitus lapseootuse ja vastsündinute pildistamise kohta'
