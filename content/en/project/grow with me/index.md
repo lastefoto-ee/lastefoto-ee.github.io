@@ -45,7 +45,7 @@ As a result, you will receive:
 * 1 photo of your choice, printed on canvas with a stretcher 40x60;
 * a photobook in hardcover with premium class sheets, made up of the best photographs in your opinion, format 30x30 (10 spreads).
 
-Price **760** €
+Price **760** € (_980€ from September 2021_)
 _It is possible to pay in parts_
 
 How it goes:

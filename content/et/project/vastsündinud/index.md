@@ -45,7 +45,7 @@ _soovi korral piltide valik toimub Tellija poolt_
 * kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk. 
 * lisapildi töötlus 10€ / pilt. 
 
-Fotosessiooni hind **160**€ 
+Fotosessiooni hind **160**€ (_185€ alates septembrist 2021_)
 
 
 ## Vastsündinu fotosessioon - Pakett M 
@@ -62,7 +62,7 @@ _soovi korral piltide valik toimub Tellija poolt_
 * kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk.
 * lisapildi töötlus 9€ / pilt. 
 
-Fotosessiooni hind **250**€ 
+Fotosessiooni hind **250**€ (_290€ alates septembrist 2021_)
 
 
 ## Vastsündinu fotosessioon - Pakett L 
@@ -80,7 +80,7 @@ _soovi korral piltide valik toimub Tellija poolt_
 * kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk.
 * lisapildi töötlus 8€ / pilt. 
 
-Fotosessiooni hind **385**€ 
+Fotosessiooni hind **385**€ (_410€ alates septembrist 2021_)
 
 {{< figure src="vastsundinu-fotosessioon-61.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
 {{< figure src="vastsundinu-fotosessioon-50.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
