@@ -38,6 +38,19 @@
 &lt;/ul>
 &lt;p>Price &lt;strong>385&lt;/strong>€ (&lt;em>410€ from September 2021&lt;/em>)&lt;/p>
 &lt;p>
+&lt;figure id="figure-newborn-picture">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Newborn picture" srcset="
+/en/project/newborn/newborn-photosession-62_hu8b7cf95912c0c2867b0eb4919999eee4_879786_8d13a09faacbdc5a302d65659cb7c3da.jpg 400w,
+/en/project/newborn/newborn-photosession-62_hu8b7cf95912c0c2867b0eb4919999eee4_879786_d864557d97b46a8797e776f3cf0b4496.jpg 760w,
+/en/project/newborn/newborn-photosession-62_hu8b7cf95912c0c2867b0eb4919999eee4_879786_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/en/project/newborn/newborn-photosession-62_hu8b7cf95912c0c2867b0eb4919999eee4_879786_8d13a09faacbdc5a302d65659cb7c3da.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Newborn picture
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-newborn-babygirl-photosession-in-studio">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Newborn babygirl photosession in studio" srcset="
@@ -47,6 +60,19 @@
 src="https://www.lastefoto.ee/en/project/newborn/newborn-photosession-61_hu0a416ddfeec0a039c2a8aeb8a1f6220c_545507_a5f3222e1a1ba308864c171af18a3597.jpg"
 width="760"
 height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Newborn babygirl photosession in studio
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-newborn-babygirl-photosession-in-studio">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Newborn babygirl photosession in studio" srcset="
+/en/project/newborn/newborn-photosession-63_hu402341c56992942cdba9ad343a5cd304_477510_1ebdaaab23bff20258273aef3e2f97e0.jpg 400w,
+/en/project/newborn/newborn-photosession-63_hu402341c56992942cdba9ad343a5cd304_477510_718ae27be64d696c7f534967126ec9a2.jpg 760w,
+/en/project/newborn/newborn-photosession-63_hu402341c56992942cdba9ad343a5cd304_477510_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/en/project/newborn/newborn-photosession-63_hu402341c56992942cdba9ad343a5cd304_477510_1ebdaaab23bff20258273aef3e2f97e0.jpg"
+width="507"
+height="760"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Newborn babygirl photosession in studio
