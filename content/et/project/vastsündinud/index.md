@@ -85,6 +85,7 @@ Fotosessiooni hind **385**€ (_410€ alates septembrist 2021_)
 {{< figure src="vastsundinu-fotosessioon-62.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
 {{< figure src="vastsundinu-fotosessioon-61.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
 {{< figure src="vastsundinu-fotosessioon-63.jpg" title="Vastsündinu pilt" >}}
+{{< figure src="vastsundinu-fotosessioon-64.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
 {{< figure src="vastsundinu-fotosessioon-50.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
 {{< figure src="vastsundinu-fotosessioon-53.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
 {{< figure src="vastsundinu-fotosessioon-52.jpg" title="Vastsündinu pilt" >}}

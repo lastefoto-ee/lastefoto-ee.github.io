@@ -81,6 +81,7 @@ _по желанию выбор фотографий на ретушь осущ�
 {{< figure src="fotosessiya-novorozhdennykh-62.jpg" title="Фотосессия новорожденной малышки в студии в Таллинне" >}}
 {{< figure src="fotosessiya-novorozhdennykh-61.jpg" title="Фотосессия новорожденных в Таллинне" >}}
 {{< figure src="fotosessiya-novorozhdennykh-63.jpg" title="Съемка новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-64.jpg" title="Фотосессия новорожденного в студии" >}}
 {{< figure src="fotosessiya-novorozhdennykh-50.jpg" title="Съемка новорожденных в Таллинне" >}}
 {{< figure src="fotosessiya-novorozhdennykh-53.jpg" title="Фотосессия новорожденного в студии" >}}
 {{< figure src="fotosessiya-novorozhdennykh-52.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}

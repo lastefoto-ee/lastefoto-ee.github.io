@@ -42,6 +42,7 @@ weight: 6
 
 Фотосессия cake smash в студии в Таллинне. Продолжительность фотосессии 1 час. 
 
+{{< figure src="cake-smash-фотосессия-16.jpg" title="Фотосессия первого дня рождения в студии" >}}
 {{< figure src="cake-smash-фотосессия-1.jpg" title="Сake smash фотосессия в Таллинне" >}}
 {{< figure src="cake-smash-фотосессия-2.jpg" title="Фотосессия cake smash в студии" >}}
 {{< figure src="cake-smash-фотосессия-3.jpg" title="Фотосессия первого дня рождения в студии" >}}

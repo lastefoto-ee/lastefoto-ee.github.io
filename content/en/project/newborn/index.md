@@ -80,6 +80,7 @@ Price **385**€ (_410€ from September 2021_)
 {{< figure src="newborn-photosession-62.jpg" title="Newborn picture" >}}
 {{< figure src="newborn-photosession-61.jpg" title="Newborn babygirl photosession in studio" >}}
 {{< figure src="newborn-photosession-63.jpg" title="Newborn babygirl photosession in studio" >}}
+{{< figure src="newborn-photosession-64.jpg" title="Newborn photosession" >}}
 {{< figure src="newborn-photosession-50.jpg" title="Newborn photosession in Tallinn" >}}
 {{< figure src="newborn-photosession-53.jpg" title="Newborn studio session" >}}
 {{< figure src="newborn-photosession-52.jpg" title="Newborn babygirl photosession in studio" >}}

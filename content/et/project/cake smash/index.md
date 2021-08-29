@@ -40,6 +40,7 @@ weight: 8
 
 Fotosessiooni hind **170**€ 
 
+{{< figure src="cake-smash-fotosessioon-16.jpg" title="Cake smash fotosessioon Tallinnas" >}}
 {{< figure src="cake-smash-fotosessioon-1.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
 {{< figure src="cake-smash-fotosessioon-2.jpg" title="Cake smash fotosessioon Tallinnas" >}}
 {{< figure src="cake-smash-fotosessioon-3.jpg" title="Cake smash fotosessioon stuudios" >}}

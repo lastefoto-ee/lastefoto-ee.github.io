@@ -67,6 +67,7 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 
 Price **140** €
 
+{{< figure src="baby-photosession-17.jpg" title="Baby photosession" >}}
 {{< figure src="baby-photosession-15.jpg" title="Baby photosession at LasteFoto studio" >}}
 {{< figure src="baby-photosession-1.jpg" title="Baby photosession" >}}
 {{< figure src="baby-photosession-2.jpg" title="Baby photosession in Tallinn" >}}
