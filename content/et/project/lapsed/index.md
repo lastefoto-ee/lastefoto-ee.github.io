@@ -42,4 +42,4 @@ Fotosessiooni hind **120**€
 {{< figure src="laste-fotosessioon-2.jpg" title="Lastefotosessioon Rotermanni kvartalis" >}}
 {{< figure src="laste-fotosessioon-3.jpg" title="Lastepildistamine Vabaõhumuuseumis" >}}
 {{< figure src="laste-fotosessioon-4.jpg" title="Laste kodune fotosessioon" >}}
-{{< figure src="laste-fotosessioon-4.jpg" title="Lastepilt" >}}
+{{< figure src="laste-fotosessioon-5.jpg" title="Lastepilt" >}}
