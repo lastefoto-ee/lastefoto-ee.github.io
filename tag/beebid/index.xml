@@ -94,6 +94,19 @@ Cake smash fotosessioon Tallinnas
 &lt;/ul>
 &lt;p>Hind &lt;strong>140&lt;/strong>€&lt;/p>
 &lt;p>
+&lt;figure id="figure-beebi-fotosessioon-tallinnas">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Beebi fotosessioon Tallinnas" srcset="
+/project/beebid/beebi-fotosessioon-17_hube5808a5a21af2321b330d676edd9071_693386_585bee30378d26e25c1a5e17fa0bb76f.jpg 400w,
+/project/beebid/beebi-fotosessioon-17_hube5808a5a21af2321b330d676edd9071_693386_53d85233b14b2abfddd8bfe10159523a.jpg 760w,
+/project/beebid/beebi-fotosessioon-17_hube5808a5a21af2321b330d676edd9071_693386_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/beebid/beebi-fotosessioon-17_hube5808a5a21af2321b330d676edd9071_693386_585bee30378d26e25c1a5e17fa0bb76f.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Beebi fotosessioon Tallinnas
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-beebipildistamine-tallinna-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Beebipildistamine Tallinna stuudios" srcset="

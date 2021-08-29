@@ -80,6 +80,19 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Съемка новорожденных в Таллинне
 &lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-фотосессия-новорожденного-в-студии">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Фотосессия новорожденного в студии" srcset="
+/ru/project/%D0%BD%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5/fotosessiya-novorozhdennykh-64_hubd4a57457dbe57d2128138eefa130ea9_1641709_950ade942f0aac61a334b0e401c4428c.jpg 400w,
+/ru/project/%D0%BD%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5/fotosessiya-novorozhdennykh-64_hubd4a57457dbe57d2128138eefa130ea9_1641709_c6e8fb54005788837c47f7eb4235e3b3.jpg 760w,
+/ru/project/%D0%BD%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5/fotosessiya-novorozhdennykh-64_hubd4a57457dbe57d2128138eefa130ea9_1641709_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/ru/project/%D0%BD%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5/fotosessiya-novorozhdennykh-64_hubd4a57457dbe57d2128138eefa130ea9_1641709_950ade942f0aac61a334b0e401c4428c.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Фотосессия новорожденного в студии
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-съемка-новорожденных-в-таллинне">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Съемка новорожденных в Таллинне" srcset="

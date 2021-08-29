@@ -8,6 +8,19 @@
 &lt;p>Стоимость &lt;strong>170&lt;/strong>€&lt;/p>
 &lt;p>Фотосессия cake smash в студии в Таллинне. Продолжительность фотосессии 1 час.&lt;/p>
 &lt;p>
+&lt;figure id="figure-фотосессия-первого-дня-рождения-в-студии">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Фотосессия первого дня рождения в студии" srcset="
+/ru/project/cake-smash/cake-smash-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-16_huda3423210772f3f01029d658ecf6e393_977321_cf62ed4a9e415d97a2a281e96c18fbfc.jpg 400w,
+/ru/project/cake-smash/cake-smash-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-16_huda3423210772f3f01029d658ecf6e393_977321_23461284be07542ed05e92313df6d06f.jpg 760w,
+/ru/project/cake-smash/cake-smash-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-16_huda3423210772f3f01029d658ecf6e393_977321_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/ru/project/cake-smash/cake-smash-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-16_huda3423210772f3f01029d658ecf6e393_977321_cf62ed4a9e415d97a2a281e96c18fbfc.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Фотосессия первого дня рождения в студии
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-сake-smash-фотосессия-в-таллинне">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Сake smash фотосессия в Таллинне" srcset="

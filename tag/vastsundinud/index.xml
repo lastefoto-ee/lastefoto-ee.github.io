@@ -80,6 +80,19 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu pilt
 &lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-vastsündinu-fotosessioon-tallinnas">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Vastsündinu fotosessioon Tallinnas" srcset="
+/project/vastsundinud/vastsundinu-fotosessioon-64_hubd4a57457dbe57d2128138eefa130ea9_1641709_3fe866e5f978ff9446b6c4ad25b9607e.jpg 400w,
+/project/vastsundinud/vastsundinu-fotosessioon-64_hubd4a57457dbe57d2128138eefa130ea9_1641709_135846e87ed6062ba99b8c5a9fcfb803.jpg 760w,
+/project/vastsundinud/vastsundinu-fotosessioon-64_hubd4a57457dbe57d2128138eefa130ea9_1641709_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/vastsundinud/vastsundinu-fotosessioon-64_hubd4a57457dbe57d2128138eefa130ea9_1641709_3fe866e5f978ff9446b6c4ad25b9607e.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Vastsündinu fotosessioon Tallinnas
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-vastsündinu-pildistamine-tallinna-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu pildistamine Tallinna stuudios" srcset="

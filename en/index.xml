@@ -252,6 +252,19 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Newborn babygirl photosession in studio
 &lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-newborn-photosession">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Newborn photosession" srcset="
+/en/project/newborn/newborn-photosession-64_hubd4a57457dbe57d2128138eefa130ea9_1641709_a8e038da234f99e24c413ff712012a6b.jpg 400w,
+/en/project/newborn/newborn-photosession-64_hubd4a57457dbe57d2128138eefa130ea9_1641709_2d3c4829bf0c79f13c32c6fd3d95e235.jpg 760w,
+/en/project/newborn/newborn-photosession-64_hubd4a57457dbe57d2128138eefa130ea9_1641709_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/en/project/newborn/newborn-photosession-64_hubd4a57457dbe57d2128138eefa130ea9_1641709_a8e038da234f99e24c413ff712012a6b.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Newborn photosession
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-newborn-photosession-in-tallinn">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Newborn photosession in Tallinn" srcset="
@@ -1138,6 +1151,19 @@ Cake smash photosession in studio
 &lt;/ul>
 &lt;p>Price &lt;strong>140&lt;/strong> €&lt;/p>
 &lt;p>
+&lt;figure id="figure-baby-photosession">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Baby photosession" srcset="
+/en/project/babies/baby-photosession-17_hube5808a5a21af2321b330d676edd9071_693386_38ad51dc57b5779e8994d0c98c6d311f.jpg 400w,
+/en/project/babies/baby-photosession-17_hube5808a5a21af2321b330d676edd9071_693386_5d192ad258a9862dec70e0a6583e25d0.jpg 760w,
+/en/project/babies/baby-photosession-17_hube5808a5a21af2321b330d676edd9071_693386_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/en/project/babies/baby-photosession-17_hube5808a5a21af2321b330d676edd9071_693386_38ad51dc57b5779e8994d0c98c6d311f.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Baby photosession
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photosession-at-lastefoto-studio">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Baby photosession at LasteFoto studio" srcset="
@@ -1470,6 +1496,58 @@ Family outdoor photosession
 &lt;/ul>
 &lt;p>Price &lt;strong>170&lt;/strong> €&lt;/p>
 &lt;p>
+&lt;figure id="figure-baby-first-birthday">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Baby first birthday" srcset="
+/en/project/cake-smash/cake-smash-photosession-16_huda3423210772f3f01029d658ecf6e393_977321_631bf44bb83967f80aab03b7ce09a332.jpg 400w,
+/en/project/cake-smash/cake-smash-photosession-16_huda3423210772f3f01029d658ecf6e393_977321_3d945f38f30804300506c406ef9ef8ba.jpg 760w,
+/en/project/cake-smash/cake-smash-photosession-16_huda3423210772f3f01029d658ecf6e393_977321_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/en/project/cake-smash/cake-smash-photosession-16_huda3423210772f3f01029d658ecf6e393_977321_631bf44bb83967f80aab03b7ce09a332.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Baby first birthday
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-cakesmash-photosession-at-lastefoto-studio">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Cakesmash photosession at LasteFoto studio" srcset="
+/en/project/cake-smash/cake-smash-photosession-15_hu36309a3dc3dc7f590883837f2763022c_305549_12cfacde32fc0f4b2217c571be8323d4.jpg 400w,
+/en/project/cake-smash/cake-smash-photosession-15_hu36309a3dc3dc7f590883837f2763022c_305549_512ae3d85dfc23126a26f72dfe5b41ec.jpg 760w,
+/en/project/cake-smash/cake-smash-photosession-15_hu36309a3dc3dc7f590883837f2763022c_305549_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/en/project/cake-smash/cake-smash-photosession-15_hu36309a3dc3dc7f590883837f2763022c_305549_12cfacde32fc0f4b2217c571be8323d4.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Cakesmash photosession at LasteFoto studio
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-cakesmash-photosession">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Cakesmash photosession" srcset="
+/en/project/cake-smash/cake-smash-photosession-14_hu25f63ebd679a6dc32e5d660daa052796_300006_777e17da6a10c9cb5d6d73ef7a0d3afc.jpg 400w,
+/en/project/cake-smash/cake-smash-photosession-14_hu25f63ebd679a6dc32e5d660daa052796_300006_f6ceb7c5f7385ec10b0b11096548b4dc.jpg 760w,
+/en/project/cake-smash/cake-smash-photosession-14_hu25f63ebd679a6dc32e5d660daa052796_300006_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/en/project/cake-smash/cake-smash-photosession-14_hu25f63ebd679a6dc32e5d660daa052796_300006_777e17da6a10c9cb5d6d73ef7a0d3afc.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Cakesmash photosession
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-cakesmash-photosession-in-tallinn">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Cakesmash photosession in Tallinn" srcset="
+/en/project/cake-smash/cake-smash-photosession-13_hu882019444de2d09e714412b2ce383f8f_160989_54f0ab1ce4d9d32ee98343095fbd2e3f.jpg 400w,
+/en/project/cake-smash/cake-smash-photosession-13_hu882019444de2d09e714412b2ce383f8f_160989_93ca0174ff78263b847be4398ae9edea.jpg 760w,
+/en/project/cake-smash/cake-smash-photosession-13_hu882019444de2d09e714412b2ce383f8f_160989_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/en/project/cake-smash/cake-smash-photosession-13_hu882019444de2d09e714412b2ce383f8f_160989_54f0ab1ce4d9d32ee98343095fbd2e3f.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Cakesmash photosession in Tallinn
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-cakesmash-photosession">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Cakesmash photosession" srcset="
