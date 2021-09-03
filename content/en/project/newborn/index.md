@@ -44,7 +44,7 @@ _if desired, the choice of photos for retouching is carried out by you_
 * USB drive with all retouched photos in individually designed package;
 * retouching of additional photos 10 € / photo
 
-Price **160**€ (_185€ from September 2021_)
+Price **185**€ 
 
 ## Newborn photo session - Package M
 
@@ -59,7 +59,7 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 * USB drive with all retouched photos in individually designed package;
 * retouching of additional photos 9 € / photo
 
-Price **250**€ (_290€ from September 2021_)
+Price **290**€ 
 
 ## Newborn Photoshoot - Package L
 
@@ -75,7 +75,7 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 * USB drive with all retouched photos in individually designed package;
 * retouching of additional photos 8 € / photo
 
-Price **385**€ (_410€ from September 2021_)
+Price **410**€ 
 
 {{< figure src="newborn-photosession-62.jpg" title="Newborn picture" >}}
 {{< figure src="newborn-photosession-61.jpg" title="Newborn babygirl photosession in studio" >}}
