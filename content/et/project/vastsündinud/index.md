@@ -53,7 +53,7 @@ Fotosessiooni käigus pildistan 5-14 päeva beebit poseerimiseks mõeldud padja 
 
 Fotosessioon sisaldab: 
 * beebi pildistamine poseerimispadja peal (beanbag'il) ja rekvisiidis 
-* 15 töödeldud digi- ja paberpilti 10x15cm. 
+* 17 töödeldud digi- ja paberpilti 10x15cm. 
 _soovi korral piltide valik toimub Tellija poolt_ 
 * fotod pereliikmetega ning ühine perepilt. 
 * pildistamine LasteFoto vastsündinu stuudios 2-3 tunni jooksul (Peterburi tee 46, Tallinn). 
@@ -69,7 +69,7 @@ Fotosessiooni käigus pildistan 5-14 päeva beebit poseerimiseks mõeldud padja 
 
 Fotosessioon sisaldab: 
 * beebi pildistamine poseerimispadja peal (beanbag'il) ja rekvisiidis 
-* 25 töödeldud digi- ja paberpilti 10x15cm.
+* 30 töödeldud digi- ja paberpilti 10x15cm.
 _soovi korral piltide valik toimub Tellija poolt_ 
 * fotod pereliikmetega ning ühine perepilt. 
 * pildistamine Lastefoto vastsündinu stuudios 2-3 tunni jooksul (Peterburi tee 46, Tallinn). 

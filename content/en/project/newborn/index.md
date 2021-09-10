@@ -52,7 +52,7 @@ The main bias is done on a newborn (5-14 days), I photograph him in various pose
 
 The photo session includes:
 * photo session of a newborn on a posing pillow (beanbag) and in the props
-* 15 retouched digital and printed photos 10x15cm;
+* 17 retouched digital and printed photos 10x15cm;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * family shots and photos with siblings
 * shooting for 2-3 hours in the LasteFoto newborn studio (Peterburi tee 46, Tallinn);
@@ -67,7 +67,7 @@ The main bias is done on a newborn (5-14 days), I photograph him in various pose
 
 The photo session includes:
 * photo session of a newborn on a posing pillow (beanbag) and in the props
-* 25 retouched digital and printed photos 10x15cm;
+* 30 retouched digital and printed photos 10x15cm;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * family shots and photos with siblings
 * shooting for 2-3 hours in the LasteFoto newborn studio (Peterburi tee 46, Tallinn);
