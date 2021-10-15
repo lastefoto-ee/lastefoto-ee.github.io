@@ -5,7 +5,7 @@
 
 title: Lastefoto # Website name
 baseurl: 'https://www.lastefoto.ee/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Viktoria Iljin' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

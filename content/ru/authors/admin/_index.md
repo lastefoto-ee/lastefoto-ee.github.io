@@ -6,7 +6,7 @@ title: Виктория Ильин
 superuser: true
 
 # Role/position/tagline
-role: Фотограф новорожденных
+role: Фотограф новорожденных и беременных
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,13 @@ organizations:
   url: "https://www.lastefoto.ee/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Фотограф новорожденных и детей старшего возраста в Таллине создаст красивую и неповторимую историю вашей семьи
+bio: Фотограф новорожденных и беременных в Таллине создаст красивую и неповторимую историю вашей семьи.
 
 # Interests to show in About widget
 interests:
 - Фотография
 - Пост-обработка
-- Open-source
+- GitHub
 
 # Education to show in About widget
 education:
@@ -84,7 +84,7 @@ email: "viktoria.iljin@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Здравствуйте! Я Виктория - фотограф новорожденных и беременности в стиле Vogue из Таллинна.
+Здравствуйте! Я Виктория - фотограф новорожденных и беременных из Таллинна.
 
 Профессионально занимаюсь фотографией с 2016 года. Шестой год мамы доверяют мне своих новорожденных малышей, за это время я сфотографировала более 400 крох. 
 

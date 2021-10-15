@@ -8,7 +8,7 @@ et:
   contentDir: content/et
   title: LasteFotograaf
   params:
-    description: Vastündinu, laste ja beebi fotograaf Tallinnas - Viktoria Iljin
+    description: Vastündinu ja lapseootuse fotograaf Tallinnas - Viktoria Iljin
   menu:
     main:
       - name: Minust
@@ -28,7 +28,7 @@ ru:
   contentDir: content/ru
   title: Фотограф новорожденных
   params:
-    description: Фотограф новорожденных и малышей в Таллинне - Виктория Ильин
+    description: Фотограф новорожденных и беременных в Таллинне - Виктория Ильин
   menu:  
     main:
       - name: Обо мне
@@ -48,7 +48,7 @@ en:
   contentDir: content/en
   title: Newborn photographer
   params:
-    description: Newborn and babies photographer in Tallinn - Viktoria Iljin
+    description: Newborn and pregnancy photographer in Tallinn - Viktoria Iljin
   menu:
     main:
       - name: About me

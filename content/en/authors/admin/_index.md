@@ -6,7 +6,7 @@ title: Viktoria Iljin
 superuser: true
 
 # Role/position/tagline
-role: Newborn and babies photographer
+role: Newborn and pregnancy photographer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,12 @@ organizations:
   url: "https://www.lastefoto.ee/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Newborn and babies photographer in Tallinn, Estonia.
+bio: Newborn and pregnancy photographer in Tallinn, Estonia.
 
 # Interests to show in About widget
 interests:
 - Photography
 - Photoshop
-- Emmedetiim
 - GitHub
 
 # Education to show in About widget

@@ -8,14 +8,14 @@
 theme: Strawberry
 day_night: false
 font: native
-font_size: XL
+font_size: L
 
 # SEO
 
 site_type: LocalBusiness
 local_business_type: 'ProfessionalService'
 org_name: 'Fotograaf Viktoria Iljin'
-description: 'Vastündinu, beebi ja lastefotograaf Tallinnas - Viktoria Iljin'
+description: 'Vastündinu ja lapseootuse fotograaf Tallinnas - Viktoria Iljin'
 twitter: 'lastefoto'
 
 # Contact (edit or remove options as required)
