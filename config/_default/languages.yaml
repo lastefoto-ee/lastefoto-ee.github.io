@@ -26,7 +26,7 @@ et:
 ru:
   languageCode: ru
   contentDir: content/ru
-  title: Фотограф новорожденных
+  title: Виктория Ильин
   params:
     description: Фотограф новорожденных и беременных в Таллинне - Виктория Ильин
   menu:  
@@ -46,7 +46,7 @@ ru:
 en:
   languageCode: en
   contentDir: content/en
-  title: Newborn photographer
+  title: Viktoria Iljin
   params:
     description: Newborn and pregnancy photographer in Tallinn - Viktoria Iljin
   menu:
