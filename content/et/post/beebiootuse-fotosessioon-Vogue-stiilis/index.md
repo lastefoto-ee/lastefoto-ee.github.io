@@ -7,8 +7,8 @@ summary: "Ilus beebiootuse fotosessioon"
 authors: ["admin"]
 tags: ["beebiootus", "lapseootus", "Vogue"]
 categories: ["beebiootus"]
-date: 2021-02-23T17:45:53+02:00
-lastmod: 2021-02-23T17:45:53+02:00
+date: "2021-10-06T10:00:53+03:00"
+lastmod: "2021-10-06T10:00:53+03:00"
 featured: false
 draft: false
 

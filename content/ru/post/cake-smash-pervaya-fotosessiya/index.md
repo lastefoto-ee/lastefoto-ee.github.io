@@ -7,8 +7,8 @@ summary: "Фото-подарок на первый день рождения"
 authors: ["admin"]
 tags: ["малыш", "cake smash", "первый день рождения", "фотосессия малыша"]
 categories: ["cake smash"]
-date: 2020-01-29T17:45:53+02:00
-lastmod: 2020-01-29T17:45:53+02:00
+date: "2021-10-01T10:00:53+03:00"
+lastmod: "2021-10-01T10:00:53+03:00"
 featured: false
 draft: false
 

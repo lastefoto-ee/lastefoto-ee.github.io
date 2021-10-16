@@ -7,8 +7,8 @@ summary: "Kingitus, mis jääb igaveseks"
 authors: ["admin"]
 tags: ["vastsündinu fotosessioon", "vastsündinu pildistamine", "vastsündinu pildistamine stuudios"]
 categories: ["vastsündinud"]
-date: 2020-06-28T17:45:53+02:00
-lastmod: 2021-05-23T17:45:53+02:00
+date: "2021-10-05T10:00:53+03:00"
+lastmod: "2021-10-05T10:00:53+03:00"
 featured: true
 draft: false
 

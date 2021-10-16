@@ -7,8 +7,8 @@ summary: "Mida teada enne fotosessioonile tulekut"
 authors: ["admin"]
 tags: ["värvidega fotosessioon", "lastefotosessioon värvidega", "pildistamine värvidega"]
 categories: ["Värvid"]
-date: 2020-08-06T17:45:53+02:00
-lastmod: 2020-08-06T17:45:53+02:00
+date: "2021-10-04T10:00:53+03:00"
+lastmod: "2021-10-04T10:00:53+03:00"
 featured: true
 draft: false
 

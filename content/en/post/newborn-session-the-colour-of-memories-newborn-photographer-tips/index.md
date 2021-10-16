@@ -7,8 +7,8 @@ summary: "How and what for to choose the color of a photo shoot"
 authors: ["admin"]
 tags: ["newborn photosession", "newborn", "baby session"]
 categories: ["newborn"]
-date: 2020-04-19T17:45:53+02:00
-lastmod: 2021-05-23T17:45:53+02:00
+date: "2021-10-03T10:00:53+03:00"
+lastmod: "2021-10-03T10:00:53+03:00"
 featured: true
 draft: false
 

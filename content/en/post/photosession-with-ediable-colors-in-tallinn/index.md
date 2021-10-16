@@ -7,8 +7,8 @@ summary: "Features of shooting with edible colors"
 authors: ["admin"]
 tags: ["session with colors"]
 categories: ["colors"]
-date: 2020-08-06T17:45:53+02:00
-lastmod: 2021-01-25T17:45:53+02:00
+date: "2021-10-04T10:00:53+03:00"
+lastmod: "2021-10-04T10:00:53+03:00"
 featured: true
 draft: false
 

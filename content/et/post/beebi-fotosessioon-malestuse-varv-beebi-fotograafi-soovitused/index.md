@@ -7,8 +7,8 @@ summary: "Kuidas ja milleks valida beebifotosessiooni värvi"
 authors: ["admin"]
 tags: ["beebi fotosessioon", "beebi pildistamine", "beebi sessioon", "vastsündinu fotosessioon"]
 categories: ["vastsündinud"]
-date: 2020-04-19T17:45:53+02:00
-lastmod: 2021-05-23T17:45:53+02:00
+date: "2021-10-03T10:00:53+03:00"
+lastmod: "2021-10-03T10:00:53+03:00"
 featured: true
 draft: false
 
