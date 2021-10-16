@@ -32,4 +32,6 @@ weight: 1
 
 [Lae üles pildid](https://www.dropbox.com/request/YulJbiklGcffXMoB7DFo), mida soovid printida, lisades oma nime ja e-posti aadressi. Vali soovitud suurus ja koopiate arv, maksa ja ära muretse millegi pärast ❤️
 
-<a data-dpd-type="button" data-text="osta A5 (15х20сm)" data-variant="price-right" data-button-size="dpd-large" data-bg-color="ed11cc" data-bg-color-hover="ff1ff6" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://lastefoto-ee.dpdcart.com/cart/add?product_id=216666&amp;method_id=236178">osta A5 (15х20сm)</a><script src="https://lastefoto-ee.dpdcart.com/dpd.js"></script>
+## Lisa korvi Klaaspilt
+
+<a data-dpd-type="button" data-text="A5 (15х20сm)" data-variant="price-right" data-button-size="dpd-large" data-bg-color="ed11cc" data-bg-color-hover="ff1ff6" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://lastefoto-ee.dpdcart.com/cart/add?product_id=216666&amp;method_id=236178">A5 (15х20сm)</a><script src="https://lastefoto-ee.dpdcart.com/dpd.js"></script>
