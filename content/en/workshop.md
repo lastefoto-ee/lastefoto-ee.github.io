@@ -1,7 +1,7 @@
 ---
 title: My achievments - workshops, forums and master classes
 summary: I love to study new things and grow professionally
-date: "2021-05-25T00:00:00+01:00"
+date: "2021-10-16T09:37:53+03:00"
 draft: false
 share: false
 commentable: false

@@ -16,7 +16,7 @@ rsync -av ../themes/academic/exampleSite/config/ ../config/
 rsync -av ../themes/academic/exampleSite/static/admin/ ../static/admin/
 
 # Install demo user
-rsync -av ../themes/academic/exampleSite/content/authors/ ../content/authors/
+rsync -av ../themes/academic//content/authors/ ../content/authors/
 
 # Install page sharer button customizer
 rsync -av ../themes/academic/data/page_sharer.toml ../data/

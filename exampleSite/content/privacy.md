@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-date: "2018-06-28T00:00:00+01:00"
+date: "2030-06-01T13:00:00Z"
 draft: true
 share: false
 commentable: false
