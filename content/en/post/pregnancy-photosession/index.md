@@ -1,5 +1,5 @@
 ---
-title: Vogue style pregnancy photosession in Tallinn
+title: Vogue style pregnancy photo session in Tallinn
 subtitle: Stylish pregnancy photo session
 
 # Summary for listings and search engines
