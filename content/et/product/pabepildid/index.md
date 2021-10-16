@@ -2,7 +2,7 @@
 title: Paberpildid
 summary: tippkvaliteetsel täispuuvillasel paberil
 tags:
-- paberpildidи
+- paberpildid
 - trükised
 
 date: "2021-10-15T16:32:14+03:00"
