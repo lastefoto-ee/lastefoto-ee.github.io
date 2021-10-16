@@ -7,7 +7,7 @@ widget: portfolio
 headless: false
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
 title: Магазин
 subtitle: Сохрани любимые пиксели в реальном мире

@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 15
 
 title: Portfoolio
 subtitle: 'ja hinnad'
