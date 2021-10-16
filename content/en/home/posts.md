@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: My articles
-subtitle: 100% baby photo related
+subtitle: Newborn and pregnancy photography related posts
 
 content:
   # Page type to display. E.g. post, talk, publication...
