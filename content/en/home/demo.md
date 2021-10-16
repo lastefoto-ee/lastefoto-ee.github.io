@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Small Things"
-subtitle = "Big Happiness"
+title = "small things"
+subtitle = "BIG HAPPINESS"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
