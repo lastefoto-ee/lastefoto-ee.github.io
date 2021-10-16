@@ -10,10 +10,10 @@ projects:
   - новорожденные
 
 # Date published
-date: "2021-10-16T09:05:53+03:00"
+date: "2021-10-05T09:05:53+03:00"
 
 # Date updated
-lastmod: "2021-10-16T09:05:53+03:00"
+lastmod: "2021-10-05T09:05:53+03:00"
 
 # Is this an unpublished draft?
 draft: false

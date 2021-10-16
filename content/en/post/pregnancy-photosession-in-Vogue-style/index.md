@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Pregnancy photosession in Vogue style"
+title: "Vogue style Pregnancy session in Tallinn"
 subtitle: "Beautiful pregnancy photosession"
 summary: "Beautiful pregnancy photosession"
 authors: ["admin"]
 tags: ["pregnancy photosession", "pregnancy", "Vogue"]
 categories: ["pregnancy"]
-date: 2021-02-23T17:45:53+02:00
-lastmod: 2021-02-23T17:45:53+02:00
+date: "2021-10-06T09:31:53+03:00"
+lastmod: "2021-10-06T09:31:53+03:00"
 featured: false
 draft: false
 

@@ -1,5 +1,5 @@
 ---
-title: What to wear for a pregnancy photo shoot
+title: What to wear for a Vogue style pregnancy photo shoot
 subtitle: Preparing for a pregnancy photoshoot
 
 # Summary for listings and search engines
@@ -10,10 +10,10 @@ projects:
   - pregnancy
 
 # Date published
-date: "2021-10-16T09:28:53+03:00"
+date: "2021-10-08T09:28:53+03:00"
 
 # Date updated
-lastmod: "2021-10-16T09:28:53+03:00"
+lastmod: "2021-10-08T09:28:53+03:00"
 
 # Is this an unpublished draft?
 draft: false

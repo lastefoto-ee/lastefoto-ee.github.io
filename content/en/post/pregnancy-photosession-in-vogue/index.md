@@ -1,5 +1,5 @@
 ---
-title: Pregnancy photo session in the style of Vogue
+title: Pregnancy photo session in Vogue style in Tallinn
 subtitle: Stylish pregnancy photos 
 
 # Summary for listings and search engines
@@ -10,10 +10,10 @@ projects:
   - pregnancy
 
 # Date published
-date: "2021-10-16T09:31:53+03:00"
+date: "2021-10-14T09:31:53+03:00"
 
 # Date updated
-lastmod: "2021-10-16T09:31:53+03:00"
+lastmod: "2021-10-14T09:31:53+03:00"
 
 # Is this an unpublished draft?
 draft: false

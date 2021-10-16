@@ -1,5 +1,5 @@
 ---
-title: Newborn photo session - why is it important to sign up for a photo session in advance
+title: Newborn photo session - why is it important to book a photo session in advance
 subtitle: Early booking of a newborn photo shoot
 
 # Summary for listings and search engines
@@ -10,10 +10,10 @@ projects:
   - newborn
 
 # Date published
-date: "2021-10-16T09:30:53+03:00"
+date: "2021-10-09T09:30:53+03:00"
 
 # Date updated
-lastmod: "2021-10-16T09:30:53+03:00"
+lastmod: "2021-10-09T09:30:53+03:00"
 
 # Is this an unpublished draft?
 draft: false
