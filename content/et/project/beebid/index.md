@@ -12,11 +12,7 @@ image:
   caption: Photo by Viktoria Iljin
   focal_point: Smart
 
-links:
-- icon: facebook
-  icon_pack: fab
-  name: Jälgi mind Facebook'is
-  url: https://facebook.com/lastefoto
+links: []
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -31,7 +27,6 @@ slides: ""
 weight: 5
 
 ---
-
 ## Beebi fotosessioon (4-11 kuud) - Pakett S 
 
 Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis. Ühistpilti ega võtteid pereliikmetega antud paketi raames ei tee. 

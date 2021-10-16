@@ -2,8 +2,9 @@
 title: Grow with me
 summary: photosessions
 tags:
-- newborn, babies
-date: "2020-04-27T00:00:00Z"
+- newborn
+- babies
+date: "2021-10-16T09:45:19+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,11 +13,7 @@ image:
   caption: Photo by Viktoria Iljin
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/lastefoto
+links: []
 url_code: ""
 url_pdf: ""
 url_slides: ""

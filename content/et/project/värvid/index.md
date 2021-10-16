@@ -12,11 +12,7 @@ image:
   caption: Photo by Viktoria iljin
   focal_point: Smart
 
-links:
-- icon: facebook
-  icon_pack: fab
-  name: Jälgi mind Facebook'is
-  url: https://facebook.com/lastefoto
+links: []
 url_code: ""
 url_pdf: ""
 url_slides: ""
