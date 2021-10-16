@@ -3,7 +3,7 @@ title: Newborn
 summary: новорожденные
 tags:
 - новорожденные
-date: "2021-07-29T00:00:00Z"
+date: "2021-10-16T09:49:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,11 +12,7 @@ image:
   caption: Photo by Viktoria Iljin
   focal_point: Smart
 
-links:
-- icon: instagram
-  icon_pack: fab
-  name: Instagram 
-  url: https://instagram.com/lastefoto.ee
+links: []
 url_code: ""
 url_pdf: ""
 url_slides: ""

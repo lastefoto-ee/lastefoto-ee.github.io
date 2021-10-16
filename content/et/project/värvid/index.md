@@ -3,7 +3,7 @@ title: Värvid
 summary: fotosessioonid
 tags:
 - värvid
-date: "2021-04-28T00:00:00Z"
+date: "2021-10-16T09:54:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
