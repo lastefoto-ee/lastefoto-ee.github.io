@@ -41,7 +41,7 @@ Pakett sisaldab:
 * tort ja õhupallid (15 tk) "Cake smash" fotosessiooniks; 
 * kõikide fotodega individuaalselt kujundatud pakendis USB-mälupulka; 
 * teie valikul üks foto prinditud lõuendile raami mõõtudega 40х60; 
-* teie poolt valitud parimate fotode alusel koostatud "Premium" klassi fotoraamat, mõõtudega 30х30 (20 lehte). 
+* teie poolt valitud parimate fotode alusel koostatud "Premium" klassi fotoraamat, mõõtudega 30х30cm (20 lehte). 
 
 Paketi hind **980**€ 
 _Paketi eest on võimalik maksta osade kaupa_

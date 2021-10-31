@@ -40,7 +40,7 @@ As a result, you will receive:
 * cake and balloons (15 pcs) for a photo shoot in the "Cake smash" style;
 * USB drive with all photos in individually designed packaging;
 * 1 photo of your choice, printed on canvas with a stretcher 40x60;
-* a photobook in hardcover with premium class sheets, made up of the best photographs in your opinion, format 30x30 (10 spreads).
+* a photobook in hardcover with premium class sheets, made up of the best photographs in your opinion, format 30x30cm (20 spreads).
 
 Price **980** € 
 _It is possible to pay in parts_
