@@ -6,14 +6,14 @@ subtitle: Мой первый годик
 summary: Фотосессии малышки в течение первого года жизни
 
 # Link this post with a project
-projects: 
-  - малыши
+projects:
+  - расти со мной
 
 # Date published
-date: "2021-10-31T09:08:53+03:00"
+date: "2021-10-30T09:08:53+03:00"
 
 # Date updated
-lastmod: "2021-10-31T09:08:53+03:00"
+lastmod: "2021-10-30T09:08:53+03:00"
 
 # Is this an unpublished draft?
 draft: false
@@ -41,7 +41,9 @@ tags:
   - фотосессия новорожденного
 
 categories:
+  - новорожденные
   - малыши
+  - cake smash
 ---
 {{< cta cta_text="Запишись на фото-проект Мой первый годик" cta_link="/ru/#contact" cta_new_tab="false" >}}
 
