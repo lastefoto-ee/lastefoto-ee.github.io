@@ -83,7 +83,7 @@ highlight_name: false
 ---
 Hi! I'm Viktoria - a newborn and pregnancy photographer in Tallinn, Estonia.
 
-I have been professionally engaged in newborn photography since 2016. For sixth years mothers trust me with their newborn babies, during that time I have photographed more than 600 newborn babies.
+I have been professionally engaged in newborn photography since 2016. For sixth years mothers trust me with their newborn babies, during that time I have photographed more than 500 newborn babies.
 
 A newborn photo session in the first two weeks of a baby's life is an amazing, incomparable type of shooting. Elegant minimalism, simplicity and pithiness allow you to focus only on the baby. Such photos touch to the depths of the soul!
 
