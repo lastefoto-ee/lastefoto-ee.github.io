@@ -27,7 +27,7 @@ profile: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [новорожденные]
+projects: [novorozhdjonnye]
 ---
 Выбор фотографа для своего малыша - дело очень ответственное. Рынок фотосъемки новорожденных развивается очень быстро и большое количество фотографов предлагают свои услуги. 
 

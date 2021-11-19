@@ -7,7 +7,7 @@ summary: Стильные фотографии мамы с малышкой
 
 # Link this post with a project
 projects: 
-  - малыши
+  - malyshi
 
 # Date published
 date: "2021-10-13T09:06:53+03:00"

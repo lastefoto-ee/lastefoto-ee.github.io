@@ -7,7 +7,7 @@ summary: Фотосессии малышки в течение первого г
 
 # Link this post with a project
 projects:
-  - расти со мной
+  - rasti-so-mnoi
 
 # Date published
 date: "2021-10-31T16:59:53+03:00"

@@ -7,7 +7,7 @@ summary: Раннее бронирование фотосессии новоро
 
 # Link this post with a project
 projects: 
-  - новорожденные
+  - novorozhdjonnye
 
 # Date published
 date: "2021-10-09T09:03:53+03:00"

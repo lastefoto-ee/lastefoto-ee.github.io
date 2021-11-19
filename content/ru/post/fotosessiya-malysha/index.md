@@ -7,7 +7,7 @@ summary: Съемка малыша в студии Таллинна
 
 # Link this post with a project
 projects: 
-  - малыши
+  - malyshi
 
 # Date published
 date: "2021-10-12T09:07:53+03:00"

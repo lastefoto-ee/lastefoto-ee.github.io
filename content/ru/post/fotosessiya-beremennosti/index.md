@@ -7,7 +7,7 @@ summary: Стильная фотосессия беременности
 
 # Link this post with a project
 projects: 
-  - беременность
+  - beremennost
 
 # Date published
 date: "2021-10-11T09:09:53+03:00"

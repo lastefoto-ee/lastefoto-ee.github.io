@@ -27,7 +27,7 @@ profile: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [беременность]
+projects: [beremennost]
 ---
 Это о-о-очень красиво: только будущая мама и её животик... 
 ## Лаконично, стильно, силуэтно. ❤️
