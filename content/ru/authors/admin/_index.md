@@ -63,7 +63,7 @@ social:
   link: https://facebook.com/lastefoto
 - icon: instagram
   icon_pack: fab
-  link: https://instagram.com/lastefoto.ee
+  link: https://instagram.com/viktoriailjin
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lastefoto
