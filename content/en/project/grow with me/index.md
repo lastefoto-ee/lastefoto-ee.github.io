@@ -48,7 +48,7 @@ _It is possible to pay in parts_
 How it goes:
 During the first year of a child's life, we meet with you 4 times. The best time to shoot is the first 14 days of a child's life, then at three months, half a year and a year for a "Cake smash" photo session.
 
-After each photo session for 6 weeks, I will create a web gallery of the pictures I have taken, which you can share if you wish. The final result (canvas, photo book, paper images and USB stick) will be delivered within two months after the last photo session. All photo sessions will be held in Tallinn. By agreement, photo sessions can be held elsewhere. Make-up artist, florist and decorator services can be arranged at an additional cost.
+After each photo session for 6 weeks, I will create a web gallery of the pictures I have taken, which you can share if you wish. The final result (canvas, photo book, paper images and USB stick) will be delivered within two months after the last photo session. All photo sessions will be held in Tallinn. By agreement, photo sessions can be held elsewhere. Make-up, florist and decorator services can be arranged at an additional cost.
 
 {{< figure src="grow-up-with-me-1.jpg" title="Newborn photosession" >}}
 {{< figure src="grow-up-with-me-2.jpg" title="Baby photosession in Tallinn" >}}
