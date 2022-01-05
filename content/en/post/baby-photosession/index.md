@@ -3,7 +3,7 @@ title: Baby photosession
 subtitle: Baby session in Tallinn
 
 # Summary for listings and search engines
-summary: Baby photo session in Tallinn
+summary: Baby photo session in studio
 
 # Link this post with a project
 projects: 
