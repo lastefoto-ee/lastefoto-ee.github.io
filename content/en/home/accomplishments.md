@@ -37,7 +37,7 @@ item:
   description: 'Online course of the founder of the direction "Pregnancy photoshoot in the style of Vogue" - Sasha Bunaeva'
   organization: Sasha Bunaeva
   organization_url: "/en/workshop#Sasha%20Bunaeva"
-  title: 'Online course "Pregnancy photosession in the Vogue style"'
+  title: 'Online course "Pregnancy photo shoot in the Vogue style"'
   url: "/en/workshop#Sasha%20Bunaeva"
 - certificate_url: "https://www.lastefoto.ee/newborn-forum-participation.jpg"
   date_end: ""
@@ -101,7 +101,7 @@ item:
   description: "Participation at Art Photography workshop"
   organization: "Karina Kiel"
   organization_url: "/en/workshop#Karina%20Kiel"
-  title: "Staged photosession and art post-production"
+  title: "Staged photo shoot and art post-production"
   url: "/en/workshop#Karina%20Kiel" 
 - certificate_url: "https://www.lastefoto.ee/newborn-photography-from-a-to-z.jpg"
   date_end: ""

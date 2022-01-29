@@ -47,7 +47,7 @@ categories:
 gallery_item:
 - album: silhouette
   image: pregnancy-photosession-11.jpg
-  caption: Pregnancy photosession in the studio
+  caption: Pregnancy photo shoot in the studio
 - album: silhouette
   image: pregnancy-photosession-12.jpg
   caption: Pregnancy photo session in Tallinn
@@ -62,32 +62,32 @@ gallery_item:
   caption: Prepnancy session in the Vogue style
 - album: silhouettes
   image: pregnancy-photosession-5.jpg
-  caption: Prepnancy photosession in the style of Vogue
+  caption: Prepnancy photo shoot in the style of Vogue
 - album: silhouettes
   image: pregnancy-photosession-4.jpg
-  caption: Pregnancy photosession in Tallinn
+  caption: Pregnancy photo shoot in Tallinn
 - album: silhouettes
   image: pregnancy-photosession-3.jpg
-  caption: Pregnancy photosession
+  caption: Pregnancy photo shoot
 - album: silhouettes
   image: pregnancy-photosession-7.jpg
-  caption: Pregnancy photosession in Tallinn
+  caption: Pregnancy photo shoot in Tallinn
 - album: silhouettes
   image: pregnancy-photosession-6.jpg
   caption: Pregnancy session in Vogue style
 - album: silhouettes
   image: pregnancy-photosession-8.jpg
-  caption: Pregnancy photosession in Tallinn
+  caption: Pregnancy photo shoot in Tallinn
 - album: silhouettes
   image: pregnancy-photosession-9.jpg
   caption: Pregnancy photo session in the style of Vogue
 
 ---
-{{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" cta_alt_text="or find out more about the newborn photosession" cta_alt_link="/en/post/how-to-choose-a-newborn-photographer/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" cta_alt_text="or find out more about the newborn photo shoot" cta_alt_link="/en/post/how-to-choose-a-newborn-photographer/" cta_alt_new_tab="false" >}}
 
 {{< toc >}}
 
-## Who is the photosession for?
+## Who is the photo shoot for?
 - Pregnant ladies (26-32 weeks pregnant)
 
 ## When will the photo session take place??
@@ -101,12 +101,12 @@ Photo session time:
 
 - 12:00-12:30
 
-## How much does a photosession cost?
+## How much does a photo shoot cost?
 - Participation fee - 99€.
 
 Make-up and styling are paid separately, on request, the cost is 30€.
 
-_Recording on a prepaid basis of 20€. If the photosession is canceled less than 48 hours before the start of the photoday, the prepayment is not refundable._
+_Recording on a prepaid basis of 20€. If the photo shoot is canceled less than 48 hours before the start of the photoday, the prepayment is not refundable._
 
 {{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" >}}
 
@@ -125,7 +125,7 @@ Please see examples. These are the silhouettes:
 
 {{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" >}}
 
-## What to wear for a photosession?
+## What to wear for a photo shoot?
 - You will need underwear, bodysuits or tight-fitting clothing to shoot silhouettes.
 - If you wish, you can take nude photos.
 - For a photo _on a black background_, you need light underwear (nude, beige, white, pink, etc.). Black underwear and clothes are not suitable. You can wear light-colored jeans.

@@ -18,7 +18,10 @@ bio: Vastündinu ja lapseootuse fotograaf Tallinnas. Loome koos Teie pere ilusat
 
 # Interests to show in About widget
 interests:
-- Fotograafia
+- Vastündinu fotograafia
+- Beebi fotograafia
+- Lapseootuse fotograafia
+- Vastündinu pildistamise koolitaja
 - Photoshop
 - GitHub
 
@@ -64,9 +67,6 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/viktoriailjin/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/lastefoto
 - icon: github
   icon_pack: fab
   link: https://github.com/lastefoto-ee/
@@ -86,7 +86,7 @@ highlight_name: false
 ---
 Tere! Olen Viktoria - vastsündinud beebide ja lapseootuse fotograaf Tallinnas, Eestis.
 
-Professionaalselt olen tegelenud vastsündinu fotograafiaga alates 2016. aastast. Kuuendat aastat usaldavad emad mind oma vastsündinud beebisid, selle aja jooksul olen pildistanud üle 500 vastsündinut.
+Professionaalselt olen tegelenud vastsündinu fotograafiaga alates 2016. aastast. Juba pikka aega usaldavad emad mind oma vastsündinud beebisid, selle aja jooksul olen pildistanud üle 500 vastsündinut.
 
 Vastsündinu fotosessioon beebi esimesel kahel nädalal on imeline, võrreldamatu pildistamisviis. Elegantne minimalism, lihtsus ja lakoonilisus võimaldavad teil keskenduda ainult beebile. Sellised pildid puudutavad hingesügavust!
 
@@ -94,5 +94,5 @@ Töötan oma vastsündinud beebidele spetsialiseerinud stuudios, mille olen varu
 Kogutud parim rekvisiit ja originaalsed aksessuaarid kogu maailmast.
 
 Hea meelega avaldaksin teie loal ka teie fotosessioonipildid minu portfoolios. 
-
-Kohtumiseni fotosessioonil!
+{{< cta cta_text="Broneeri aeg kohe" cta_link="/#contact" cta_new_tab="true" >}}
+_voi kirjuta Facebook/WhatsApp messengeri, nupp on paremal allpool_

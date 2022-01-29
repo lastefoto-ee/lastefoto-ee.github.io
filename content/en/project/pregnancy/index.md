@@ -1,6 +1,6 @@
 ---
 title: Pregnancy 
-summary: photosessions
+summary: photo shoots
 tags:
 - pregnancy
 date: "2021-10-16T09:42:40+03:00"
@@ -29,75 +29,75 @@ weight: 1
 gallery_item:
 - album: pregnancy-portfolio
   image: pregnancy-photosession-1.jpg
-  caption: Pregnancy photosession in style of Vogue 
+  caption: Pregnancy photo shoot in style of Vogue 
 - album: pregnancy-portfolio
   image: pregnancy-photosession-2.jpg
-  caption: Pregnancy photosession in Tallinn
+  caption: Pregnancy photo shoot in Tallinn
 - album: pregnancy-portfolio
   image: pregnancy-photosession-3.jpg
-  caption: Pregnancy photosession in studio in Vogue style
+  caption: Pregnancy photo shoot in studio in Vogue style
 - album: pregnancy-portfolio
   image: pregnancy-photosession-4.jpg
   caption: Pregnancy session
 - album: pregnancy-portfolio
   image: pregnancy-photosession-5.jpg
-  caption: Pregnancy photosession in style of Vogue   
+  caption: Pregnancy photo shoot in style of Vogue   
 - album: pregnancy-portfolio
   image: pregnancy-photosession-6.jpg
-  caption: Pregnancy photosession in Tallinn
+  caption: Pregnancy photo shoot in Tallinn
 - album: pregnancy-portfolio
   image: pregnancy-photosession-7.jpg
-  caption: Pregnancy photosession in studio in Vogue style
+  caption: Pregnancy photo shoot in studio in Vogue style
 - album: pregnancy-portfolio
   image: pregnancy-photosession-8.jpg
   caption: Pregnancy session
 - album: pregnancy-portfolio
   image: pregnancy-photosession-9.jpg
-  caption: Pregnancy photosession in style of Vogue 
+  caption: Pregnancy photo shoot in style of Vogue 
 - album: pregnancy-portfolio
   image: pregnancy-photosession-10.jpg
-  caption: Pregnancy photosession in Tallinn
+  caption: Pregnancy photo shoot in Tallinn
 - album: pregnancy-portfolio
   image: pregnancy-photosession-11.jpg
-  caption: Pregnancy photosession in studio in Vogue style
+  caption: Pregnancy photo shoot in studio in Vogue style
 - album: pregnancy-portfolio
   image: pregnancy-photosession-12.jpg
   caption: Pregnancy session
 - album: pregnancy-portfolio
   image: pregnancy-photosession-13.jpg
-  caption: Pregnancy photosession in style of Vogue   
+  caption: Pregnancy photo shoot in style of Vogue   
 - album: pregnancy-portfolio
   image: pregnancy-photosession-14.jpg
-  caption: Pregnancy photosession in Tallinn
+  caption: Pregnancy photo shoot in Tallinn
 - album: pregnancy-portfolio
   image: pregnancy-photosession-15.jpg
-  caption: Pregnancy photosession in studio in Vogue style
+  caption: Pregnancy photo shoot in studio in Vogue style
 - album: pregnancy-portfolio
   image: pregnancy-photosession-16.jpg
   caption: Pregnancy session
 - album: pregnancy-portfolio
   image: pregnancy-photosession-17.jpg
-  caption: Pregnancy photosession in style of Vogue 
+  caption: Pregnancy photo shoot in style of Vogue 
 - album: pregnancy-portfolio
   image: pregnancy-photosession-18.jpg
-  caption: Pregnancy photosession in Tallinn
+  caption: Pregnancy photo shoot in Tallinn
 - album: pregnancy-portfolio
   image: pregnancy-photosession-19.jpg
-  caption: Pregnancy photosession in studio in Vogue style
+  caption: Pregnancy photo shoot in studio in Vogue style
 - album: pregnancy-portfolio
   image: pregnancy-photosession-20.jpg
   caption: Pregnancy session
 - album: pregnancy-portfolio
   image: pregnancy-photosession-21.jpg
-  caption: Pregnancy photosession in style of Vogue   
+  caption: Pregnancy photo shoot in style of Vogue   
 - album: pregnancy-portfolio
   image: pregnancy-photosession-22.jpg
-  caption: Pregnancy photosession in Tallinn
+  caption: Pregnancy photo shoot in Tallinn
 - album: pregnancy-portfolio
   image: pregnancy-photosession-23.jpg
-  caption: Pregnancy photosession in studio in Vogue style
+  caption: Pregnancy photo shoot in studio in Vogue style
 ---
-## Pregnancy photosession - Package S
+## Pregnancy photo shoot - Package S
 
 * 1-2 set ups
 * 10 digital photos 
@@ -107,7 +107,7 @@ gallery_item:
 
 Price **160** €
 
-## Pregnancy photosession - Package M
+## Pregnancy photo shoot - Package M
 
 * 2-3 set ups
 * silhouette on black and white backgrounds
@@ -118,7 +118,7 @@ Price **160** €
 
 Price **235** €
 
-## Pregnancy photosession - Package L
+## Pregnancy photo shoot - Package L
 
 * 2-3 set ups
 * silhouette on black and white backgrounds and silhouette on a colored background, if desired

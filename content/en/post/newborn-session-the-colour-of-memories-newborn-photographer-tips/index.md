@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Newborn photosession: the color of memories. Newborn photographer tips."
+title: "Newborn photo shoot: the color of memories. Newborn photographer tips."
 subtitle: "How and what for to choose the color of a photo shoot"
 summary: "How and what for to choose the color of a photo shoot"
 authors: ["admin"]
-tags: ["newborn photosession", "newborn", "baby session"]
+tags: ["newborn photo shoot", "newborn", "baby session"]
 categories: ["newborn"]
 date: "2021-10-03T10:00:53+03:00"
 lastmod: "2021-10-03T10:00:53+03:00"
@@ -31,7 +31,7 @@ projects: [newborn]
 ---
 I have already written about the most appropriate time to shoot a newborn, about the most touching poses ... And today I want to touch on the topic of color.
 
-![newborn photosession](./newborn-photographer-1.jpg)
+![newborn photo shoot](./newborn-photographer-1.jpg)
 
 Before the newborn session, parents receive a questionnaire from me, one of the points of which is the choice of the color in which the newborn photo session will take place. I have fifteen of them to choose from, both for boys and girls.
 
@@ -50,4 +50,4 @@ And if the baby was born with a distinctly reddish skin tone, are you sure you w
 There are such subtleties that you cannot immediately think of.
 But now that you know about them, what color would you choose? Classic blue/pink? Or something more extravagant?
 
-![newborn photosession in Tallinn](./newborn-photographer-5.jpg)
+![newborn photo shoot in Tallinn](./newborn-photographer-5.jpg)

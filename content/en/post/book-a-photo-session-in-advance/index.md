@@ -50,11 +50,11 @@ gallery_item:
   caption: Newborn session in Tallinn
 - album: newborn-photosession
   image: newborn-photosession-6.jpg
-  caption: Newborn photosession
+  caption: Newborn photo shoot
 ---
 The recommended age for a newborn photo shoot is the first two weeks of a baby's life.
 
-{{< figure src="./newborn-photosession-1.jpg" title="Newborn photosession in Tallinn" >}}
+{{< figure src="./newborn-photosession-1.jpg" title="Newborn photo shoot in Tallinn" >}}
 
 For the most part, newborn babies at this time
 
@@ -68,7 +68,7 @@ For the most part, newborn babies at this time
 
 {{< figure src="./newborn-photosession-2.jpg" title="Newborn photo session" >}}
 
-Of course, you can try to sign up for the newborn photosession upon the birth of the baby (call as soon as you get well, for 2-3 days), but in this case there is a risk that due to the workload I will not have time to organize everything before 14 days.
+Of course, you can try to sign up for the newborn photo shoot upon the birth of the baby (call as soon as you get well, for 2-3 days), but in this case there is a risk that due to the workload I will not have time to organize everything before 14 days.
 
 {{< figure src="./newborn-photosession-3.jpg" title="Newborn photo shoot in Tallinn" >}}
 

@@ -1,6 +1,6 @@
 ---
 title: Children
-summary: photosessions
+summary: photo shoots
 tags:
 - chidren
 date: "2021-10-16T09:46:17+03:00"
@@ -27,15 +27,15 @@ slides: ""
 weight: 6
 ---
 
-## Children photosession
+## Children photo shoot
 
 * 1 hour of shooting at your home, for a walk or in the studio (studio rent may be paid separately);
 * 20 digital photos processed with detailed retouching, prepared for printing and posting on the Internet (without loss of quality)
 
 Price **120** €
 
-{{< figure src="children-photosession-1.jpg" title="Children photosession" >}}
-{{< figure src="children-photosession-2.jpg" title="Children photosession in Tallinn" >}}
-{{< figure src="children-photosession-3.jpg" title="Children outdoor photosession" >}}
+{{< figure src="children-photosession-1.jpg" title="Children photo shoot" >}}
+{{< figure src="children-photosession-2.jpg" title="Children photo shoot in Tallinn" >}}
+{{< figure src="children-photosession-3.jpg" title="Children outdoor photo shoot" >}}
 {{< figure src="children-photosession-4.jpg" title="Children session in Tallinn" >}}
 {{< figure src="children-photosession-5.jpg" title="Children photo" >}}

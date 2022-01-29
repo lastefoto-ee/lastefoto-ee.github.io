@@ -35,7 +35,7 @@ authors:
   - admin
 
 tags:
-  - pregnancy photosession
+  - pregnancy photo shoot
   - Vogue
   - silhouettes
 
@@ -45,7 +45,7 @@ categories:
 ---
 There are pregnancy photo sessions that are inspiring, and this is one of them.
 
-{{< figure src="./pregnancy-photosession-1.jpg" title="Pregnancy photosession in Tallinn" >}}
+{{< figure src="./pregnancy-photosession-1.jpg" title="Pregnancy photo shoot in Tallinn" >}}
 
 A photo shoot of Tatyana's pregnancy inspired me to show the expectant mother from several sides, in several states. Sweet, elegant, brave, dreaming ..
 
@@ -55,11 +55,11 @@ Tatiana wrote to me after the photo session:
 
 > I saw myself again as I was before .. pretty and cute. Even with a belly 😍
 
-{{< figure src="./pregnancy-photosession-3.jpg" title="Pregnancy photosession in the style of Vogue" >}}
+{{< figure src="./pregnancy-photosession-3.jpg" title="Pregnancy photo shoot in the style of Vogue" >}}
 
 I am happy that I can give you not just "photos", but a real MEMORY of one of the most reverent periods in your life and show its beauty. ♥ ️
 
-{{< figure src="./pregnancy-photosession-4.jpg" title="Pregnancy photosession in the studio" >}}
+{{< figure src="./pregnancy-photosession-4.jpg" title="Pregnancy photo shoot in the studio" >}}
 
 Remember that you are beautiful. Very! And be sure to keep this memory in photographs as well.
 

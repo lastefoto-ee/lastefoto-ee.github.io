@@ -48,7 +48,7 @@ categories:
 ## Bodysuit
 _Perfect option_
 
-{{< figure src="./pregnancy-photoshoot-1.jpg" title="Pregnancy photosession in Vogue style in Tallinn" >}}
+{{< figure src="./pregnancy-photoshoot-1.jpg" title="Pregnancy photo shoot in Vogue style in Tallinn" >}}
 
 Perfectly emphasizes beautiful lines and curves of the figure. You can use it as an independent image or in combination with other items of clothing.
 
@@ -58,7 +58,7 @@ Bodysuits of bright colors or with prints will also look good, but please let me
 
 ## Lingerie
 
-{{< figure src="./pregnancy-photoshoot-2.jpg" title="Pregnancy photosession in Tallinn" >}}
+{{< figure src="./pregnancy-photoshoot-2.jpg" title="Pregnancy photo shoot in Tallinn" >}}
 
 For photos in lingerie, any type of underwear is suitable - basic, sports, smart.
 
@@ -78,13 +78,13 @@ _NO:_ Summer "floral print" dresses
 
 ## Basic dress
 
-{{< figure src="./pregnancy-photoshoot-4.jpg" title="Pregnancy photosession in Tallinn" >}}
+{{< figure src="./pregnancy-photoshoot-4.jpg" title="Pregnancy photo shoot in Tallinn" >}}
 
 A regular noodle dress - works great on its own and can also be a good basis for an image with outerwear, accessories, shoes.
 
 ## Shirt
 
-{{< figure src="./pregnancy-photoshoot-5.jpg" title="Pregnancy photosession in studio" >}}
+{{< figure src="./pregnancy-photoshoot-5.jpg" title="Pregnancy photo shoot in studio" >}}
 
 The shirt must be loose! Take a man's or a woman's, but a size or two larger than yours. It can be thrown over a bodysuit, underwear or a naked body - it will be very stylish.
 
@@ -102,7 +102,7 @@ Jeans/trousers may not be fully fastened on the belly, but they must be modern -
 
 ## Outerwear
 
-{{< figure src="./pregnancy-photoshoot-8.jpg" title="Pregnancy photosession in Tallinn" >}}
+{{< figure src="./pregnancy-photoshoot-8.jpg" title="Pregnancy photo shoot in Tallinn" >}}
 
 One of the advantages of the Vogue style is that we are not limited to the interior and can freely use outerwear in our set-ups.
 Trench, coat, fur or raincoat, leather or denim jacket.

@@ -1,6 +1,6 @@
 ---
 title: Cake smash
-summary: photosessions
+summary: photo shoots
 tags:
 - cake smash
 date: "2021-10-16T09:46:17+03:00"
@@ -27,7 +27,7 @@ slides: ""
 weight: 8
 ---
 
-## Photosession "Cake smash" / "Cake smash"
+## photo shoot "Cake smash" / "Cake smash"
 
 * 1 hour of shooting at LasteFoto studio;
 * cake;
@@ -37,18 +37,18 @@ weight: 8
 Price **170** €
 
 {{< figure src="cake-smash-photosession-16.jpg" title="Baby first birthday" >}}
-{{< figure src="cake-smash-photosession-15.jpg" title="Cakesmash photosession at LasteFoto studio" >}}
-{{< figure src="cake-smash-photosession-14.jpg" title="Cakesmash photosession" >}}
-{{< figure src="cake-smash-photosession-13.jpg" title="Cakesmash photosession in Tallinn" >}}
-{{< figure src="cake-smash-photosession-1.jpg" title="Cakesmash photosession" >}}
-{{< figure src="cake-smash-photosession-2.jpg" title="Cakesmash photosession in Tallinn" >}}
+{{< figure src="cake-smash-photosession-15.jpg" title="Cakesmash photo shoot at LasteFoto studio" >}}
+{{< figure src="cake-smash-photosession-14.jpg" title="Cakesmash photo shoot" >}}
+{{< figure src="cake-smash-photosession-13.jpg" title="Cakesmash photo shoot in Tallinn" >}}
+{{< figure src="cake-smash-photosession-1.jpg" title="Cakesmash photo shoot" >}}
+{{< figure src="cake-smash-photosession-2.jpg" title="Cakesmash photo shoot in Tallinn" >}}
 {{< figure src="cake-smash-photosession-3.jpg" title="Baby first birthday" >}}
-{{< figure src="cake-smash-photosession-4.jpg" title="Cakesmash photosession at LasteFoto studio" >}}
-{{< figure src="cake-smash-photosession-5.jpg" title="Cakesmash photosession" >}}
-{{< figure src="cake-smash-photosession-6.jpg" title="Cakesmash photosession in Tallinn" >}}
+{{< figure src="cake-smash-photosession-4.jpg" title="Cakesmash photo shoot at LasteFoto studio" >}}
+{{< figure src="cake-smash-photosession-5.jpg" title="Cakesmash photo shoot" >}}
+{{< figure src="cake-smash-photosession-6.jpg" title="Cakesmash photo shoot in Tallinn" >}}
 {{< figure src="cake-smash-photosession-7.jpg" title="Baby first birthday" >}}
-{{< figure src="cake-smash-photosession-8.jpg" title="Cakesmash photosession at LasteFoto studio" >}}
-{{< figure src="cake-smash-photosession-9.jpg" title="Cakesmash photosession" >}}
-{{< figure src="cake-smash-photosession-10.jpg" title="Cakesmash photosession in Tallinn" >}}
+{{< figure src="cake-smash-photosession-8.jpg" title="Cakesmash photo shoot at LasteFoto studio" >}}
+{{< figure src="cake-smash-photosession-9.jpg" title="Cakesmash photo shoot" >}}
+{{< figure src="cake-smash-photosession-10.jpg" title="Cakesmash photo shoot in Tallinn" >}}
 {{< figure src="cake-smash-photosession-11.jpg" title="Baby first birthday" >}}
-{{< figure src="cake-smash-photosession-12.jpg" title="Cakesmash photosession at LasteFoto studio" >}}
+{{< figure src="cake-smash-photosession-12.jpg" title="Cakesmash photo shoot at LasteFoto studio" >}}

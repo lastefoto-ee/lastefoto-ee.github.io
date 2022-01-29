@@ -14,11 +14,13 @@ organizations:
   url: "https://www.lastefoto.ee/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Newborn and pregnancy photographer in Tallinn, Estonia.
+bio: Hello! I'm Viktoria, a newborn and maternity photographer from Tallinn, Estonia. I've been photographing babies since 2016.
 
 # Interests to show in About widget
 interests:
-- Photography
+- Newborn photography
+- Pregnancy photography
+- Maternity photography
 - Photoshop
 - GitHub
 
@@ -28,7 +30,7 @@ education:
   - course: Newborn Retreat
     institution: themilkyway.ca
     year: 2021  
-  - course: Pregnancy photosession in the style of Vogue
+  - course: Vogue style Pregnancy photo shoot
     institution: bunaeva.com
     year: 2021  
   - course: NewbornForum workshops
@@ -61,9 +63,6 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/viktoriailjin/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/lastefoto
 - icon: github
   icon_pack: fab
   link: https://github.com/viktoriailjin/
@@ -81,15 +80,6 @@ email: "viktoria.iljin@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hi! I'm Viktoria - a newborn and pregnancy photographer in Tallinn, Estonia.
-
-I have been professionally engaged in newborn photography since 2016. For sixth years mothers trust me with their newborn babies, during that time I have photographed more than 500 newborn babies.
-
-A newborn photo session in the first two weeks of a baby's life is an amazing, incomparable type of shooting. Elegant minimalism, simplicity and pithiness allow you to focus only on the baby. Such photos touch to the depths of the soul!
-
-I work in my newborn studio, which I have equipped taking into account all the peculiarities and nuances of shooting newborns.
-Collected the best props and original accessories from all over the world.
-
-I would also be happy to publish your photo session pictures in my portfolio with your permission.
-
-See you at the photo session!
+Hi! I'm Viktoria, a newborn photographer in Tallinn, Estonia  since 2016. Mothers trust me with their newborn babies photo shoots for quite a while. I've photographed more than 500 newborn babies. A newborn photo shoot in the first two weeks of a baby's life is an amazing, incomparable type of shooting. Elegant minimalism, simplicity, and pithiness allow you to focus only on the baby. Such photos touch to the depths of the soul! I have collected the best props and original accessories from all over the world. I would also be happy to publish your photo shoot pictures in my portfolio with your permission.
+{{< cta cta_text="Drop me a line today to book your reservation" cta_link="/en/#contact" cta_new_tab="true" >}}
+_or use Facebook/WhatsApp button in the bottom right corner_

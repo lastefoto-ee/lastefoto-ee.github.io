@@ -1,9 +1,9 @@
 ---
 title: Maternity
-summary: hospital photosessions
+summary: hospital photo shoots
 tags:
 - matenity
-- hospital photosession
+- hospital photo shoot
 date: "2021-10-16T09:40:10+03:00"
 
 # Optional external URL for project (replaces project detail page).
@@ -39,10 +39,10 @@ The photo session includes:
 
 Price **170**€
 
-Maternity hospital photosessions in Ravi and Pelgulinna
+Maternity hospital photo shoots in Ravi and Pelgulinna
 
-{{< figure src="maternity-hospital-photosession-1.jpg" title="Maternity hospital photosession" >}}
-{{< figure src="maternity-hospital-photosession-2.jpg" title="Maternity hospital photosession in Pelgulinna" >}}
-{{< figure src="maternity-hospital-photosession-3.jpg" title="Maternity hospital outdoor photosession" >}}
+{{< figure src="maternity-hospital-photosession-1.jpg" title="Maternity hospital photo shoot" >}}
+{{< figure src="maternity-hospital-photosession-2.jpg" title="Maternity hospital photo shoot in Pelgulinna" >}}
+{{< figure src="maternity-hospital-photosession-3.jpg" title="Maternity hospital outdoor photo shoot" >}}
 {{< figure src="maternity-hospital-photosession-4.jpg" title="Maternity hospital session in Tallinn" >}}
 {{< figure src="maternity-hospital-photosession-5.jpg" title="2 days old baby in Pelgulinna" >}}

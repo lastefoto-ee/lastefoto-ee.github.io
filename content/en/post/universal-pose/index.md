@@ -1,5 +1,5 @@
 ---
-title: Newborn photosession - universal pose
+title: Newborn photo shoot - universal pose
 subtitle: Classic photos for newborn photo shoot
 
 # Summary for listings and search engines
@@ -56,7 +56,7 @@ And I am no exception: my favorite pose on the tummy.
 
 Insanely touching, with a touching deflection in the back and legs folded in a "bow", it is ideal for both near and distant shots... Photos in this pose are chosen by parents most often for printing.
 
-{{< figure src="./newborn-session-2.jpg" title="Newborn photosession" >}}
+{{< figure src="./newborn-session-2.jpg" title="Newborn photo shoot" >}}
 
 But, in spite of its seemingly naturalness, it is not so easy to lay the baby in this pose. Hypertonicity, colic, and insufficient experience of the photographer can interfere.
 But I always succeed.

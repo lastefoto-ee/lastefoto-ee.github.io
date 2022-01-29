@@ -36,10 +36,6 @@ directions: 'Boonus Meedia OÜ (registrikood 11268326)'
 office_hours: ''
 appointment_url: ''
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter
-    link: 'https://twitter.com/lastefoto'
   - icon: instagram
     icon_pack: fab
     name: Instagram

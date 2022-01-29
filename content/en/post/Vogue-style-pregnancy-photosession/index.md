@@ -2,10 +2,10 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Vogue style Pregnancy session in Tallinn"
-subtitle: "Beautiful pregnancy photosession"
-summary: "Beautiful pregnancy photosession"
+subtitle: "Beautiful pregnancy photo shoot"
+summary: "Beautiful pregnancy photo shoot"
 authors: ["admin"]
-tags: ["pregnancy photosession", "pregnancy", "Vogue"]
+tags: ["pregnancy photo shoot", "pregnancy", "Vogue"]
 categories: ["pregnancy"]
 date: "2021-10-06T09:31:53+03:00"
 lastmod: "2021-10-06T09:31:53+03:00"
@@ -33,30 +33,30 @@ It is ve-e-ery beautiful: only a pregnant woman and her tummy...
 
 ## Laconic, stylish ❤️
 
-![pregnancy photosession](./pregnancy-photosession-in-Vogue-style-1.jpg)
+![pregnancy photo shoot](./pregnancy-photosession-in-Vogue-style-1.jpg)
 
 As I write this, goosebumps are running down my skin: for me, however, photographing pregnancy is special.
 
-![pregnancy photosession in Tallinn](./pregnancy-photosession-in-Vogue-style-2.jpg)
+![pregnancy photo shoot in Tallinn](./pregnancy-photosession-in-Vogue-style-2.jpg)
 
 And if it is also in an elegant Vogue style, then it's just a delight!
 
-![pregnancy photosession in Vogue style in Tallinn](./pregnancy-photosession-in-Vogue-style-3.jpg)
+![pregnancy photo shoot in Vogue style in Tallinn](./pregnancy-photosession-in-Vogue-style-3.jpg)
 
 I signed up for online training with the founder of this direction, Sasha Bunaeva! These photos were taken as part of the training.
 
-![pregnancy photosession](./pregnancy-photosession-in-Vogue-style-4.jpg)
+![pregnancy photo shoot](./pregnancy-photosession-in-Vogue-style-4.jpg)
 
 First homework and first light schemes. I'm happy ❤️
 
-![pregnancy photosession in Tallinn](./pregnancy-photosession-in-Vogue-style-5.jpg)
+![pregnancy photo shoot in Tallinn](./pregnancy-photosession-in-Vogue-style-5.jpg)
 
 This is exactly the kind of photography that I really enjoy and which I want to develop and offer to future moms. 😍
 
-![pregnancy photosession in Vogue style in Tallinn](./pregnancy-photosession-in-Vogue-style-6.jpg)
+![pregnancy photo shoot in Vogue style in Tallinn](./pregnancy-photosession-in-Vogue-style-6.jpg)
 
 There are still three homework and a diploma ahead, but now you can book a photo session in this direction. If this is your first pregnancy, then I am waiting for you if you are 20 to 27 weeks pregnant.
 
-![pregnancy photosession](./pregnancy-photosession-in-Vogue-style-7.jpg)
+![pregnancy photo shoot](./pregnancy-photosession-in-Vogue-style-7.jpg)
 
 It will be very cool, I can already feel it! ❤

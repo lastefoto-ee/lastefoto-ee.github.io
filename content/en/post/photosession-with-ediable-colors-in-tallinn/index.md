@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Baby photosession with edible colors"
+title: "Baby photo shoot with edible colors"
 subtitle: "Features of shooting with edible colors"
 summary: "Features of shooting with edible colors"
 authors: ["admin"]
@@ -46,16 +46,16 @@ Although this type of photo shoot is an absolute novelty in Tallinn, I have alre
 
 All people need time to adapt to a new space, and small ones especially.
 
-![photosession with colors in Tallinn](./photosession-with-ediable-colors-3.jpg)
+! photo shoot with colors in Tallinn](./photosession-with-ediable-colors-3.jpg)
 
 I always take this time with a margin, and also take into account additional breaks for drinking-eating-peeing. So, if anything goes wrong, do not worry, we will definitely have time for everything, even if the baby does not immediately grab the paint.
 
-![photosession with colors](./photosession-with-ediable-colors-4.jpg)
+! photo shoot with colors](./photosession-with-ediable-colors-4.jpg)
 
 # Surprisingly but not all kids love getting dirty.
 Just yesterday I had a little princess on the session, who didn't want to get her sweet fingers dirty.
 
-![photosession with colors in Tallinn](./photosession-with-ediable-colors-5.jpg)
+! photo shoot with colors in Tallinn](./photosession-with-ediable-colors-5.jpg)
 
 But we found a way out. We painted with all available means: a spoon, a toy hammer, a bagel with poppy seeds and even a piece of cardboard were used. And the result is great!
 
@@ -63,7 +63,7 @@ But we found a way out. We painted with all available means: a spoon, a toy hamm
 
 So do not worry if something does not go according to the intended scenario: impromptu, as a rule, is even more interesting!
 
-![photosession with colors in Tallinn](./photosession-with-ediable-colors-7.jpg)
+! photo shoot with colors in Tallinn](./photosession-with-ediable-colors-7.jpg)
 
 Tell us if your children like to be smeared with something? What did they wash from for the longest time? Markers, huh?
 

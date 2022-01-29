@@ -1,6 +1,6 @@
 ---
 title: Family 
-summary: photosessions
+summary: photo shoots
 tags:
 - family
 date: "2021-10-16T09:46:17+03:00"
@@ -27,13 +27,13 @@ slides: ""
 weight: 7
 ---
 
-## Family photosession
+## Family photo shoot
 
 * 1 hour of shooting at your home, for a walk or in the studio (studio rent may be paid separately);
 * 20 digital photos processed with detailed retouching, prepared for printing and posting on the Internet (without loss of quality)
 
 Price **120** €
 
-{{< figure src="family-photosession-1.jpg" title="Family photosession" >}}
-{{< figure src="family-photosession-2.jpg" title="Family photosession in Tallinn" >}}
-{{< figure src="family-photosession-3.jpg" title="Family outdoor photosession" >}}
+{{< figure src="family-photosession-1.jpg" title="Family photo shoot" >}}
+{{< figure src="family-photosession-2.jpg" title="Family photo shoot in Tallinn" >}}
+{{< figure src="family-photosession-3.jpg" title="Family outdoor photo shoot" >}}
