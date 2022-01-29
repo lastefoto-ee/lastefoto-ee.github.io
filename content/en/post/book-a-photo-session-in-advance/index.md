@@ -1,5 +1,5 @@
 ---
-title: Newborn photo session - why is it important to book a photo session in advance
+title: Newborn photo shoot - why is it important to book a photo shoot in advance
 subtitle: Early booking of a newborn photo shoot
 
 # Summary for listings and search engines
@@ -35,7 +35,7 @@ authors:
   - admin
 
 tags:
-  - newborn photo session
+  - newborn photo shoot
   - newborn
 
 categories:
@@ -44,7 +44,7 @@ categories:
 gallery_item:
 - album: newborn-photosession
   image: fnewborn-photosession-4.jpg
-  caption: Newborn photo session in the studio
+  caption: Newborn photo shoot in the studio
 - album: newborn-photosession
   image: newborn-photosession-5.jpg
   caption: Newborn session in Tallinn
@@ -66,12 +66,12 @@ For the most part, newborn babies at this time
 
 🥰 they are not bothered by gazes yet
 
-{{< figure src="./newborn-photosession-2.jpg" title="Newborn photo session" >}}
+{{< figure src="./newborn-photosession-2.jpg" title="Newborn photo shoot" >}}
 
 Of course, you can try to sign up for the newborn photo shoot upon the birth of the baby (call as soon as you get well, for 2-3 days), but in this case there is a risk that due to the workload I will not have time to organize everything before 14 days.
 
 {{< figure src="./newborn-photosession-3.jpg" title="Newborn photo shoot in Tallinn" >}}
 
-Therefore, I strongly advise you to schedule a newborn photo session according to the PDB (preliminary date of birth), then I will have a reference point, and the chances of a quiet newborn shooting and beautiful pictures will increase significantly!
+Therefore, I strongly advise you to schedule a newborn photo shoot according to the PDB (preliminary date of birth), then I will have a reference point, and the chances of a quiet newborn shooting and beautiful pictures will increase significantly!
 
 {{< gallery album="newborn-photosession" >}}

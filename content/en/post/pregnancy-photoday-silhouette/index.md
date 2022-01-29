@@ -35,7 +35,7 @@ authors:
   - admin
 
 tags:
-  - pregnancy photo session
+  - pregnancy photo shoot
   - pregnancy
   - Vogue
   - photo day
@@ -50,7 +50,7 @@ gallery_item:
   caption: Pregnancy photo shoot in the studio
 - album: silhouette
   image: pregnancy-photosession-12.jpg
-  caption: Pregnancy photo session in Tallinn
+  caption: Pregnancy photo shoot in Tallinn
 - album: silhouette
   image: pregnancy-photosession-13.jpg
   caption: Pregnancy session 
@@ -80,7 +80,7 @@ gallery_item:
   caption: Pregnancy photo shoot in Tallinn
 - album: silhouettes
   image: pregnancy-photosession-9.jpg
-  caption: Pregnancy photo session in the style of Vogue
+  caption: Pregnancy photo shoot in the style of Vogue
 
 ---
 {{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" cta_alt_text="or find out more about the newborn photo shoot" cta_alt_link="/en/post/how-to-choose-a-newborn-photographer/" cta_alt_new_tab="false" >}}
@@ -90,7 +90,7 @@ gallery_item:
 ## Who is the photo shoot for?
 - Pregnant ladies (26-32 weeks pregnant)
 
-## When will the photo session take place??
+## When will the photo shoot take place??
 - May 28, 2021 from 09:00 to 16:00, in Tallinn
 
 Photo session time:
@@ -110,8 +110,8 @@ _Recording on a prepaid basis of 20€. If the photo shoot is canceled less than
 
 {{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" >}}
 
-## What is included in the cost of a photo session?
-- photo session within 30 minutes
+## What is included in the cost of a photo shoot?
+- photo shoot within 30 minutes
 - 7 digital photos with retouch (silhouettes on white and black backgrounds)
 - all other successful photos without processing
 - studio rent
@@ -136,7 +136,7 @@ Information for those who are going for a photoday
 {{% /callout %}}
 
 Please note that the time for changing clothes, rearranging lights and props is included in these 30 minutes.
-If you are late for shooting - the time of your photo session is reduced, you can extend the shooting only for an additional fee and only if the time after you is not busy.
+If you are late for shooting - the time of your photo shoot is reduced, you can extend the shooting only for an additional fee and only if the time after you is not busy.
 
 A photo day is a bustle, haste, unexpected delays and incidents. It happens that everyone is late: both clients and makeup artists. Sometimes the photographer gets carried away and forgets about time. The human factor operates exponentially. You can't do without it, really.
 

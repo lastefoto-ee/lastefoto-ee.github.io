@@ -33,13 +33,13 @@ Choosing a photographer for your newborn baby is a very responsible thing. The n
 
 _How not to be mistaken with the choice?_
 
-After all, you do not just choose a photographer, you choose a specialist who will make a photo session professionally and safely for the baby.
+After all, you do not just choose a photographer, you choose a specialist who will make a photo shoot professionally and safely for the baby.
 
 ![newborn photo shoot](./newborn-photographer-1.jpg)
 
-* Start looking for your photographer while you are pregnant. When the baby is born, you simply will not have time for this. And the ideal time (4-15 days) for a photo session of a newborn passes imperceptibly.
+* Start looking for your photographer while you are pregnant. When the baby is born, you simply will not have time for this. And the ideal time (4-15 days) for a photo shoot of a newborn passes imperceptibly.
 
-![newborn photo session in Tallinn](./newborn-photographer-2.jpg)
+![newborn photo shoot in Tallinn](./newborn-photographer-2.jpg)
 
 * Choose a photographer who specializes in newborn photography. Browse through the portfolio. If necessary, ask a photographer to show you a series of photo shoots so you can better understand if a particular style of photography is right for you.
 
@@ -49,9 +49,9 @@ After all, you do not just choose a photographer, you choose a specialist who wi
 
 ![newborn photo shoot in Tallinn](./newborn-photographer-4.jpg)
 
-* Don't choose a photographer based solely on the price of a photo shoot. The price of a newborn photo shoot cannot be low - in addition to the necessary props, which must be purchased and prepared for the photo shoot, a professional newborn photographer must study a lot in order not only to please you with beautiful pictures, but also to ensure the safety of your baby during the photo shoot. Safety is the most important thing in a newborn photo session.
+* Don't choose a photographer based solely on the price of a photo shoot. The price of a newborn photo shoot cannot be low - in addition to the necessary props, which must be purchased and prepared for the photo shoot, a professional newborn photographer must study a lot in order not only to please you with beautiful pictures, but also to ensure the safety of your baby during the photo shoot. Safety is the most important thing in a newborn photo shoot.
 
-Of course, the price of a newborn photo session is very important, but don't make it the main criterion.
+Of course, the price of a newborn photo shoot is very important, but don't make it the main criterion.
 
 ![newborn session in the studio](./newborn-photographer-5.jpg)
 

@@ -27,7 +27,7 @@ If the Photographer wishes to use the client's images on the website or on the P
 The collection of the user's personal data can occur in the following ways:
 
 - when sending contact information (including name, email address) on our website;
-- when filling out a questionnaire related to a photo session;
+- when filling out a questionnaire related to a photo shoot;
 - when using the website from customer account information or using cookies;
 - when making a purchase or order in our online store, storing personal contact information or information about purchasing preferences.
 

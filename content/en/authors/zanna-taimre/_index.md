@@ -1,6 +1,6 @@
 ---
 title: Zanna Taimre
-role: Thanks a lot for a nice photo session and beautiful pictures. 
+role: Thanks a lot for a nice photo shoot and beautiful pictures. 
 organizations: []
 bio: ""
 interests: []

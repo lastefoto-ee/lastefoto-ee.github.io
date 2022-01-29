@@ -33,12 +33,12 @@ gallery_item:
   caption: Baby photo shoot in Tallinn
 
 ---
-## Baby photo session (4-11 months) - Package S
+## Baby photo shoot (4-11 months) - Package S
 
 The main bias is on the baby, I photograph him from various angles on a posing pillow (beanbag) and props. Family shots are not included in this package.
 
-The photo session includes:
-* baby photo session on a posing pillow (beanbag) and in props
+The photo shoot includes:
+* baby photo shoot on a posing pillow (beanbag) and in props
 * 10 processed digital photos, prepared for printing and for posting on the Internet;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * shooting for 1 hour in the studio (Peterburi tee 46, Tallinn);
@@ -48,12 +48,12 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 Price **110** €
 
 
-## Baby photo session (4-11 months) - Package M
+## Baby photo shoot (4-11 months) - Package M
 
 The main bias is done on the baby, I photograph him from various angles on a posing pillow (beanbag) and props, we make general family photos and separate shots with mom-dad and brother-sister.
 
-The photo session includes:
-* baby photo session on a posing pillow (beanbag) and in props
+The photo shoot includes:
+* baby photo shoot on a posing pillow (beanbag) and in props
 * 15 processed digital photographs prepared for printing and for posting on the Internet;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * shooting for 1 hour in the studio (Peterburi tee 46, Tallinn);
@@ -66,13 +66,13 @@ Price **140** €
 {{< figure src="baby-photosession-15.jpg" title="Baby photo shoot at LasteFoto studio" >}}
 {{< figure src="baby-photosession-1.jpg" title="Baby photo shoot" >}}
 {{< figure src="baby-photosession-2.jpg" title="Baby photo shoot in Tallinn" >}}
-{{< figure src="baby-photosession-3.jpg" title= photo shoot of your baby" >}}
+{{< figure src="baby-photosession-3.jpg" title="Photo shoot of your baby" >}}
 {{< figure src="baby-photosession-4.jpg" title="Baby photo shoot at LasteFoto studio" >}}
 {{< figure src="baby-photosession-5.jpg" title="Baby photo shoot" >}}
 {{< figure src="baby-photosession-6.jpg" title="Baby photo shoot in studio" >}}
 {{< figure src="baby-photosession-7.jpg" title="Baby photo shoot" >}}
 {{< figure src="baby-photosession-8.jpg" title="Baby photo shoot in Tallinn" >}}
-{{< figure src="baby-photosession-9.jpg" title= photo shoot of your baby" >}}
+{{< figure src="baby-photosession-9.jpg" title="Photo shoot of your baby" >}}
 {{< figure src="baby-photosession-10.jpg" title="Baby photo shoot at LasteFoto studio" >}}
 {{< figure src="baby-photosession-11.jpg" title="Baby photo shoot" >}}
 {{< figure src="baby-photosession-16.jpg" title="Baby photo shoot in Tallinn" >}}

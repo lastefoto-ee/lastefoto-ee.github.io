@@ -33,9 +33,9 @@ I have already written about the most appropriate time to shoot a newborn, about
 
 ![newborn photo shoot](./newborn-photographer-1.jpg)
 
-Before the newborn session, parents receive a questionnaire from me, one of the points of which is the choice of the color in which the newborn photo session will take place. I have fifteen of them to choose from, both for boys and girls.
+Before the newborn session, parents receive a questionnaire from me, one of the points of which is the choice of the color in which the newborn photo shoot will take place. I have fifteen of them to choose from, both for boys and girls.
 
-![newborn photo session in Tallinn](./newborn-photographer-2.jpg)
+![newborn photo shoot in Tallinn](./newborn-photographer-2.jpg)
 
 It would seem that everything is simple: the color of my husband's favorite football team is red, I also always liked this color: energetic, bright ... take it!
 

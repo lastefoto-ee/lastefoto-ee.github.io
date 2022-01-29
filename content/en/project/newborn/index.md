@@ -32,8 +32,8 @@ weight: 3
 
 The main bias is done on the newborn (5-14 days), I photograph her/him in various positions/angles on a special posing pillow (beanbag). Family shots are not included in this package.
 
-The photo session includes:
-* photo session of a newborn on a posing pillow (beanbag)
+The photo shoot includes:
+* photo shoot of a newborn on a posing pillow (beanbag)
 * 7 retouched digital and printed photos 10x15cm;
 _if desired, the choice of photos for retouching is carried out by you_
 * shooting for 2 hours in the LasteFoto newborn studio (Peterburi tee 46, Tallinn);
@@ -42,12 +42,12 @@ _if desired, the choice of photos for retouching is carried out by you_
 
 Price **185**€ 
 
-## Newborn photo session - Package M
+## Newborn photo shoot - Package M
 
 The main bias is done on a newborn (5-14 days), I photograph him in various poses and angles on a posing pillow (beanbag) and in props, we make general family photos and separate frames with mom-dad and brother-sister.
 
-The photo session includes:
-* photo session of a newborn on a posing pillow (beanbag) and in the props
+The photo shoot includes:
+* photo shoot of a newborn on a posing pillow (beanbag) and in the props
 * 17 retouched digital and printed photos 10x15cm;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * family shots and photos with siblings
@@ -61,8 +61,8 @@ Price **290**€
 
 The main bias is done on a newborn (5-14 days), I photograph him in various poses and angles on a posing pillow (beanbag) and in props, we make general family photos and separate frames with mom-dad and brother-sister.
 
-The photo session includes:
-* photo session of a newborn on a posing pillow (beanbag) and in the props
+The photo shoot includes:
+* photo shoot of a newborn on a posing pillow (beanbag) and in the props
 * 30 retouched digital and printed photos 10x15cm;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * family shots and photos with siblings
@@ -90,7 +90,7 @@ Price **410**€
 {{< figure src="newborn-photosession-54.jpg" title="Newborn baby photo shoot in studio" >}}
 {{< figure src="newborn-photosession-41.jpg" title="Newborn photo shoot" >}}
 {{< figure src="newborn-photosession-49.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-48.jpg" title="Newborn twins photo session in studio" >}}
+{{< figure src="newborn-photosession-48.jpg" title="Newborn twins photo shoot in studio" >}}
 {{< figure src="newborn-photosession-1.jpg" title="Newborn photo shoot" >}}
 {{< figure src="newborn-photosession-47.jpg" title="Newborn photo shoot" >}}
 {{< figure src="newborn-photosession-2.jpg" title="Newborn photo shoot in Tallinn" >}}

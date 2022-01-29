@@ -15,8 +15,8 @@ header:
 
 The main bias is done on the newborn (5-14 days), I photograph her/him in various positions/angles on a special posing pillow (beanbag). Family shots are not included in this package.
 
-The photo session includes:
-* photo session of a newborn on a posing pillow (beanbag)
+The photo shoot includes:
+* photo shoot of a newborn on a posing pillow (beanbag)
 * 7 processed digital photographs prepared for printing and for posting on the Internet;
 _if desired, the choice of photos for retouching is carried out by you_
 * shooting for 2 hours in the studio (Peterburi tee 46, Tallinn);
@@ -26,12 +26,12 @@ _if desired, the choice of photos for retouching is carried out by you_
 
 ## [Buy 160€](https://payment.maksekeskus.ee/pay/1/link.html?shopId=67dc8517-aa4a-43be-9299-13d4a03231e8&amount=160&paymentId=S)
 
-## Newborn photo session - Package M
+## Newborn photo shoot - Package M
 
 The main bias is done on a newborn (5-14 days), I photograph him in various poses and angles on a posing pillow (beanbag) and in props, we make general family photos and separate frames with mom-dad and brother-sister.
 
-The photo session includes:
-* photo session of a newborn on a posing pillow (beanbag) and in the props
+The photo shoot includes:
+* photo shoot of a newborn on a posing pillow (beanbag) and in the props
 * 15 processed digital photographs prepared for printing and for posting on the Internet;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * family shots and photos with siblings
@@ -46,8 +46,8 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 
 The main bias is done on a newborn (5-14 days), I photograph him in various poses and angles on a posing pillow (beanbag) and in props, we make general family photos and separate frames with mom-dad and brother-sister.
 
-The photo session includes:
-* photo session of a newborn on a posing pillow (beanbag) and in the props
+The photo shoot includes:
+* photo shoot of a newborn on a posing pillow (beanbag) and in the props
 * 25 processed digital photos prepared for printing and for posting on the Internet;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * family shots and photos with siblings

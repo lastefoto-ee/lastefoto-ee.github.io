@@ -1,6 +1,6 @@
 ---
 title: Lisanna Kujala
-role: Thank you very much for such a pleasant and nice photo session! We definitely recommend you to other acquaintances as well.
+role: Thank you very much for such a pleasant and nice photo shoot! We definitely recommend you to other acquaintances as well.
 organizations: []
 bio: ""
 interests: []

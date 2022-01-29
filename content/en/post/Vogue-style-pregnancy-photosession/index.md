@@ -55,7 +55,7 @@ This is exactly the kind of photography that I really enjoy and which I want to 
 
 ![pregnancy photo shoot in Vogue style in Tallinn](./pregnancy-photosession-in-Vogue-style-6.jpg)
 
-There are still three homework and a diploma ahead, but now you can book a photo session in this direction. If this is your first pregnancy, then I am waiting for you if you are 20 to 27 weeks pregnant.
+There are still three homework and a diploma ahead, but now you can book a photo shoot in this direction. If this is your first pregnancy, then I am waiting for you if you are 20 to 27 weeks pregnant.
 
 ![pregnancy photo shoot](./pregnancy-photosession-in-Vogue-style-7.jpg)
 

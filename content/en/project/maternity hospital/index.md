@@ -32,7 +32,7 @@ weight: 2
 
 The birth of a child is an unforgettable day for every family, and discharge from the hospital is the first holiday of the baby and parents. Taking photos of this wonderful event will help capture your warmest and most reverent feelings.
 
-The photo session includes:
+The photo shoot includes:
 * 15 processed digital photographs prepared for printing and for posting on the Internet;
 * all successful shots with light and color correction;
 * USB drive with all photos in individually designed packaging;

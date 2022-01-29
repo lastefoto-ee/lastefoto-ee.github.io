@@ -5,10 +5,10 @@ weight: 10
 title: Capturing the moments that **matter** most
 hero_media: 
 cta:
-  label: '**Book a newborn photo session**'
+  label: '**Book a newborn photo shoot**'
   url: '#contact'
 cta_alt:
-  label: Learn about pregnancy photo session
+  label: Learn about pregnancy photo shoot
   url: https://www.lastefoto.ee/en/post/vogue-style-pregnancy-photo-session/
 cta_note:
   label: ''
@@ -20,6 +20,6 @@ design:
 advanced:
   css_class: 
 ---
-Watch two hours of a newborn photo session in one minute time lapse
+Watch two hours of a newborn photo shoot in one minute time lapse
 
 {{< video library="true" src="viktoria-iljin.mp4" controls="no" >}}

@@ -42,13 +42,13 @@ categories:
   - babies
 
 ---
-{{< cta cta_text="Book a baby photo session" cta_link="/en/#contact" cta_new_tab="true" cta_alt_text="or see how the Cake smash photo session goes" cta_alt_link="/en/post/cake-smash-first-photosession/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Book a baby photo shoot" cta_link="/en/#contact" cta_new_tab="true" cta_alt_text="or see how the Cake smash photo shoot goes" cta_alt_link="/en/post/cake-smash-first-photosession/" cta_alt_new_tab="false" >}}
 
 Older kids are frequent guests of my studio. 🥰
 
 Just dive into those eyes! 😍
 
-![baby photo session](./baby-photosession-1.jpg)
+![baby photo shoot](./baby-photosession-1.jpg)
 
 With grown-up babies in a photoshoot the exact same rule applies as in shooting with newborns -
 ## calm mom = calm baby
@@ -59,4 +59,4 @@ Go to the shooting with a smile and a calm heart (yes, no need to panic), tell y
 
 ![Baby session in the studio](./baby-photosession-3.jpg)
 
-{{< cta cta_text="Book a baby photo session" cta_link="/en/#contact" cta_new_tab="false" >}}
+{{< cta cta_text="Book a baby photo shoot" cta_link="/en/#contact" cta_new_tab="false" >}}

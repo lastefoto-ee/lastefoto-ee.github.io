@@ -1,5 +1,5 @@
 ---
-title: Vogue style pregnancy photo session in Tallinn
+title: Vogue style pregnancy photo shoot in Tallinn
 subtitle: Stylish pregnancy photos 
 
 # Summary for listings and search engines
@@ -42,20 +42,20 @@ tags:
 categories:
   - pregnancy
 ---
-{{< cta cta_text="Book pregnancy photo session" cta_link="/en/#contact" cta_new_tab="false" >}}
+{{< cta cta_text="Book pregnancy photo shoot" cta_link="/en/#contact" cta_new_tab="false" >}}
 
 Laconic, stylish, silhouette.
 
 _ONLY YOUR BEAUTY_ ❤️
 
-{{< figure src="./pregnancy-photosession-1.jpg" title="Pregnancy photo session in the style of Vogue in Tallinn" >}}
+{{< figure src="./pregnancy-photosession-1.jpg" title="Pregnancy photo shoot in the style of Vogue in Tallinn" >}}
 
 Why did I give up shooting pregnancy in studios with decorations?
 Of course, the decoration is beautiful! But the VOGUE style pregnancy photo shoot focuses on you! No tinsel distracting from the divine, soft silhouettes... You will not hide behind a beautiful sofa or a chic vase of flowers 🤷🏼‍♀️ You will always be relevant and beautiful in your photos, unlike the decor, which goes out of fashion every couple of years.
 
 {{< figure src="./pregnancy-photosession-2.jpg" title="Pregnancy photo shoot in Tallinn" >}}
 
-And to be honest, it's hard for me to work with decorations. All the poses that I suggest in Vogue-style pregnancy photo sessions are difficult to combine with beds/soft chairs, etc.
+And to be honest, it's hard for me to work with decorations. All the poses that I suggest in Vogue-style pregnancy photo shoots are difficult to combine with beds/soft chairs, etc.
 
 {{< figure src="./pregnancy-photosession-3.jpg" title="Pregnancy photo shoot in the studio" >}}
 
