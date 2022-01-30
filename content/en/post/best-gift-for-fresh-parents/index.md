@@ -3,7 +3,7 @@ title: Newborn photo shoot - a gift that will be remembered
 subtitle: A gift that will last forever
 
 # Summary for listings and search engines
-summary: The best gift for fresh parents
+summary: The best gift for new parents
 
 # Link this post with a project
 projects: 
@@ -41,6 +41,8 @@ tags:
 
 categories:
   - newborn
+
+
 ---
 
 No wonder they say that the best gift is the one that a person cannot buy for himself.

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Vogue style Pregnancy session in Tallinn"
+title: "Vogue style Pregnancy photo shoot in Tallinn"
 subtitle: "Beautiful pregnancy photo shoot"
 summary: "Beautiful pregnancy photo shoot"
 authors: ["admin"]
@@ -27,7 +27,15 @@ profile: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [pregnancy]
+projects: ["pregnancy"]
+commentable: true 
+
+links:
+  - icon_pack: fab
+    icon: link
+    name: Vogue style pregnancy photo shoot
+    url: 'https://www.lastefoto.ee/en/post/vogue-style-pregnancy-photo-session/'
+
 ---
 It is ve-e-ery beautiful: only a pregnant woman and her tummy...
 
