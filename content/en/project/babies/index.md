@@ -26,16 +26,10 @@ url_video: ""
 slides: ""
 weight: 5
 
-
-gallery_item:
-- album: /en/portfolio/babies
-  image: beebid-67.jpg
-  caption: Baby photo shoot in Tallinn
-
 ---
 ## Baby photo shoot (4-11 months) - Package S
 
-The main bias is on the baby, I photograph him from various angles on a posing pillow (beanbag) and props. Family shots are not included in this package.
+In this package, the baby is the main bias, I photograph him from various angles on a posing pillow (beanbag) and props. Family pictures are not included in this package.
 
 The photo shoot includes:
 * baby photo shoot on a posing pillow (beanbag) and in props
@@ -47,10 +41,12 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 
 Price **110** €
 
+{{< gallery album="baby" >}}
+
 
 ## Baby photo shoot (4-11 months) - Package M
 
-The main bias is done on the baby, I photograph him from various angles on a posing pillow (beanbag) and props, we make general family photos and separate shots with mom-dad and brother-sister.
+In this package, the baby is also the main bias, I photograph him from different angles on a posing pillow (beanbag) and props. We'll make general family photos and separate pictures with mom-dad and brother-sister.
 
 The photo shoot includes:
 * baby photo shoot on a posing pillow (beanbag) and in props
