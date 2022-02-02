@@ -2139,11 +2139,6 @@ teie valikul üks foto prinditud lõuendile raami mõõtudega 40х60cm
 &lt;/div>&lt;figcaption>
 Fotoprojekt Minu esimene eluaasta
 &lt;/figcaption>&lt;/figure>
-&lt;p>Emme tagasiside:&lt;/p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="./minu-esimene-eluaasta-tagasiside.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
 &lt;ul class="cta-group">
 &lt;li>
 &lt;a href="https://www.lastefoto.ee/#contact" class="btn btn-primary px-3 py-3">Registreeru fotoprojektile Minu esimene eluaasta&lt;/a>
