@@ -11,7 +11,7 @@ role: Newborn and pregnancy photographer
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Lastefoto.ee
-  url: "https://www.lastefoto.ee/"
+  url: "https://www.lastefoto.ee/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Hello! I'm Viktoria, a newborn and maternity photographer from Tallinn, Estonia. I've been photographing babies since 2016.
@@ -56,16 +56,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/LasteFoto/
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/viktoriailjin/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/viktoriailjin/
+  link: '/en/#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: info-circle
+  icon_pack: fas
+  link: '/en/#about'  # For a direct email link, use "mailto:test@example.org". 
+#- icon: facebook
+#  icon_pack: fab
+#  link: https://www.facebook.com/LasteFoto/
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://www.instagram.com/viktoriailjin/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -81,5 +82,5 @@ email: "viktoria.iljin@gmail.com"
 highlight_name: false
 ---
 Hi! I'm Viktoria, a newborn photographer in Tallinn, Estonia  since 2016. Mothers trust me with their newborn babies photo shoots for quite a while. I've photographed more than 500 newborn babies. A newborn photo shoot in the first two weeks of a baby's life is an amazing, incomparable type of shooting. Elegant minimalism, simplicity, and pithiness allow you to focus only on the baby. Such photos touch to the depths of the soul! I have collected the best props and original accessories from all over the world. I would also be happy to publish your photo shoot pictures in my portfolio with your permission.
-{{< cta cta_text="Drop me a line today to book your reservation" cta_link="/en/#contact" cta_new_tab="true" >}}
-_or use Facebook/WhatsApp button in the bottom right corner_
+{{< cta cta_text="Drop me a line to book your reservation today" cta_link="/en/#contact" cta_new_tab="true" >}}
+_You might want to use Facebook/WhatsApp button in the bottom right corner for faster answer, or simply call +37255599546_

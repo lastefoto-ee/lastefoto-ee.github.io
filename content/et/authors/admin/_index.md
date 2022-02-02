@@ -61,15 +61,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/LasteFoto/
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/viktoriailjin/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/lastefoto-ee/
+- icon: info-circle
+  icon_pack: fas
+  link: '/#about'
+- icon: baby
+  icon_pack: fas
+  link: '/en/project/babys-first-year/'
+
+#- icon: facebook
+#  icon_pack: fab
+#  link: https://www.facebook.com/LasteFoto/
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://www.instagram.com/viktoriailjin/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

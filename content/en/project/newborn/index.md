@@ -28,9 +28,10 @@ weight: 3
 
 ---
 
-## Newborn Photoshoot - Package S
+## Newborn Photo shoot - Package S
 
-The main bias is done on the newborn (5-14 days), I photograph her/him in various positions/angles on a special posing pillow (beanbag). Family shots are not included in this package.
+In this package, the newborn (5-14 days) is the main bias. I photograph him from various angles on a posing pillow (beanbag) and props. 
+Family shots are not included in this package.
 
 The photo shoot includes:
 * photo shoot of a newborn on a posing pillow (beanbag)
@@ -44,7 +45,7 @@ Price **185**€
 
 ## Newborn photo shoot - Package M
 
-The main bias is done on a newborn (5-14 days), I photograph him in various poses and angles on a posing pillow (beanbag) and in props, we make general family photos and separate frames with mom-dad and brother-sister.
+In this package, the newborn (5-14 days) is the main bias. I photograph him from various angles on a posing pillow (beanbag) and props.  We also take  general family photos and separate frames with mom-dad and brother-sister.
 
 The photo shoot includes:
 * photo shoot of a newborn on a posing pillow (beanbag) and in the props
@@ -57,9 +58,9 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 
 Price **290**€ 
 
-## Newborn Photoshoot - Package L
+## Newborn Photo shoot - Package L
 
-The main bias is done on a newborn (5-14 days), I photograph him in various poses and angles on a posing pillow (beanbag) and in props, we make general family photos and separate frames with mom-dad and brother-sister.
+In this package, the newborn (5-14 days) is the main bias. I photograph him from various angles on a posing pillow (beanbag) and props.  We also take  general family photos and separate frames with mom-dad and brother-sister.
 
 The photo shoot includes:
 * photo shoot of a newborn on a posing pillow (beanbag) and in the props

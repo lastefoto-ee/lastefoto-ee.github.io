@@ -41,9 +41,6 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 
 Price **110** €
 
-{{< gallery album="baby" >}}
-
-
 ## Baby photo shoot (4-11 months) - Package M
 
 In this package, the baby is also the main bias, I photograph him from different angles on a posing pillow (beanbag) and props. We'll make general family photos and separate pictures with mom-dad and brother-sister.

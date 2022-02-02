@@ -11,7 +11,7 @@ role: Фотограф новорожденных и беременных
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Lastefoto.ee
-  url: "https://www.lastefoto.ee/"
+  url: "https://www.lastefoto.ee/ru/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Фотограф новорожденных и беременных в Таллине создаст красивую и неповторимую историю вашей семьи.
@@ -60,16 +60,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: facebook
-  icon_pack: fab
-  link: https://facebook.com/lastefoto
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/viktoriailjin
-- icon: github
-  icon_pack: fab
-  link: https://github.com/lastefoto-ee
+  link: '/ru/#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: info-circle
+  icon_pack: fas
+  link: '/ru/#about'  # For a direct email link, use "mailto:test@example.org".
+#- icon: facebook
+#  icon_pack: fab
+#  link: https://facebook.com/lastefoto
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://instagram.com/viktoriailjin
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

@@ -1,6 +1,6 @@
 ---
-title: My achievments - workshops, forums and master classes
-summary: I love to study new things and grow professionally
+title: My achievments - workshops, forums and master classes that I had the opportunity to attend
+summary: I have had the opportunity to attend a number of workshops, forums and master classes that have helped me improve my skills as a newborn and maternity photographer.
 date: "2021-10-16T09:37:53+03:00"
 draft: false
 share: false

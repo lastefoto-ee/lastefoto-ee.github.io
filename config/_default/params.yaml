@@ -38,11 +38,11 @@ appointment_url: ''
 contact_links:
   - icon: instagram
     icon_pack: fab
-    name: Instagram
+    name: 'viktoriailjin'
     link: 'https://www.instagram.com/viktoriailjin/'
   - icon: facebook
     icon_pack: fab
-    name: Facebook
+    name: 'LasteFoto'
     link: 'https://www.facebook.com/LasteFoto/'
 
 # Site header
@@ -88,7 +88,7 @@ show_related:
 reading_time: false
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
@@ -114,6 +114,7 @@ comments:
   provider: ''
   commentable:
     post: true
+    page: true
     book: true
     project: true
     publication: true

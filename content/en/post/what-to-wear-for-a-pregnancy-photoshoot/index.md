@@ -50,7 +50,7 @@ _Perfect option_
 
 {{< figure src="./pregnancy-photoshoot-1.jpg" title="Pregnancy photo shoot in Vogue style in Tallinn" >}}
 
-Perfectly emphasizes beautiful lines and curves of the figure. You can use it as an independent image or in combination with other items of clothing.
+The bodysuit is a perfect way to emphasize the beautiful lines and curves of your figure. You can wear it as a standalone item or in combination with other clothing.
 
 _YES:_ Solid black or nude/beige bodysuit (also ideal for shooting silhouettes if you don't want to be photographed in lingerie or nude).
 
@@ -60,19 +60,19 @@ Bodysuits of bright colors or with prints will also look good, but please let me
 
 {{< figure src="./pregnancy-photoshoot-2.jpg" title="Pregnancy photo shoot in Tallinn" >}}
 
-For photos in lingerie, any type of underwear is suitable - basic, sports, smart.
+For lingerie photo shoots, any type of underwear is suitable. You can use basic, sports, or smart lingerie.
+To use under dresses, take smooth (without lace and appliqués), seamless nude/beige lingerie. 
+On top of the lingerie, you can put on an open shirt/jacket, put on jeans/trousers, or shoes.
 
-To use under dresses, take smooth (without lace and appliqués), seamless nude/beige lingerie.
-
-On top of the lingerie, you can put on an open shirt/jacket, put on jeans/trousers, shoes down.
 
 ## Plain dress
+
 _Emphasize the graceful lines of your figure_
 
 {{< figure src="./pregnancy-photoshoot-3.jpg" title="Pregnancy photoshoot in Vogue style in Tallinn" >}}
 
-_YES:_ Luxurious evening dresses are perfect for a Vogue-style pregnancy photo shoot.
-Even if it is not fully fastened, it does not matter, we will figure out how to hide it. 
+_YES:_ For a Vogue-style maternity photo shoot that is more timeless and classic, I suggest opting for a Luxurious evening dress.
+Although your dress cannot be fully fastened, it does not matter; we will figure out how to hide this fact.
 
 _NO:_ Summer "floral print" dresses
 

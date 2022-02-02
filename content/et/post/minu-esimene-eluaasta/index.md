@@ -143,8 +143,4 @@ Kujutage vaid ette, milline mälestus sellest saab!
 
 {{< figure src="./minu-esimene-eluaasta-karp-2.jpg" title="Fotoprojekt Minu esimene eluaasta" >}}
 
-Emme tagasiside:
-
-{{< figure src="./minu-esimene-eluaasta-tagasiside.jpg" >}}
-
 {{< cta cta_text="Registreeru fotoprojektile Minu esimene eluaasta" cta_link="/#contact" cta_new_tab="false" >}}

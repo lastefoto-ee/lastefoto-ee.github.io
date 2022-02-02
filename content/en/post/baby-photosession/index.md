@@ -29,8 +29,6 @@ image:
   placement: 1
   preview_only: false
 
-profile: false
-
 authors:
   - admin
 
