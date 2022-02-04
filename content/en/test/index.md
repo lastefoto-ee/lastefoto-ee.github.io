@@ -15,16 +15,16 @@ image:
   focal_point: Smart
 
 links:
-  - icon_pack: fab
-    icon: link
+  - icon_pack: fas
+    icon: baby
     name: Baby's First Year
     url: 'https://www.lastefoto.ee/en/project/babys-first-year/'
-  - icon_pack: fab
-    icon: link
+  - icon_pack: fas
+    icon: baby
     name: Newborn photography
     url: 'https://www.lastefoto.ee/en/project/newborn/'
-  - icon_pack: fab
-    icon: link
+  - icon_pack: fas
+    icon: baby-carriage
     name: Baby photoshoots
     url: 'https://www.lastefoto.ee/en/project/babies/'
 

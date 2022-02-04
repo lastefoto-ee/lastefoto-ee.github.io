@@ -63,6 +63,7 @@ ja kohtusime aasta jooksul projekti "Minu esimene aasta" raames neli korda. Ja n
 Ja millise raamatu ta kätte sai.. 🥰 
 
 ## Kõikide fotosessioonide tulemuse põhjal koostame fotoraamatu
+
 {{< video library="true" src="esimene-eluaasta-fotoraamat.mp4" controls="no" >}}
 
 Kujutage vaid ette: esimene fotosessioon, kui beebi on veel üsna väike.
@@ -109,7 +110,7 @@ siis saime jälle kokku ja tegime stiilse fotosessiooni "Ema ja beebi".
 
 {{< figure src="./ema-ja-beebi-fotosessioon-3.jpg" title="Ema ja beebi fotosessioon stuudios" >}}
 
-{{< figure src="./ema-ja-beebi-fotosessioon-4.jpg" title="СEma ja beebi pildistamine Tallinnas" >}}
+{{< figure src="./ema-ja-beebi-fotosessioon-4.jpg" title="Ema ja beebi pildistamine Tallinnas" >}}
 
 {{< figure src="./ema-ja-beebi-fotosessioon-5.jpg" title="Ema ja beebi fotosessioon stuudios Tallinnas" >}}
 

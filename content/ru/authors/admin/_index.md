@@ -64,12 +64,12 @@ social:
 - icon: info-circle
   icon_pack: fas
   link: '/ru/#about'  # For a direct email link, use "mailto:test@example.org".
-#- icon: facebook
-#  icon_pack: fab
-#  link: https://facebook.com/lastefoto
-#- icon: instagram
-#  icon_pack: fab
-#  link: https://instagram.com/viktoriailjin
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/LasteFoto/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/viktoriailjin/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -88,4 +88,4 @@ highlight_name: false
 C 2016 года мамочки доверяют мне своих новорожденных малышей, за это время я сфотографировала более 500 крох. 
 Фотосессия новорожденного в первые две недели жизни крохи - удивительный, ни с чем не сравнимый вид съёмки. Элегантный минимализм, простота и лаконичность позволяют концентрировать внимание только на младенце. Такие фотографии трогают до глубины души! Я работаю в своей студии LasteFoto, которую оборудовала с учетом всех особенностей и нюансов съемки новорожденных, и где собрала со всего мира лучший реквизит и оригинальные аксессуары.  С вашего разрешения я буду рада разместить ваши фотографии из фотосессии в моем портфолио.
 {{< cta cta_text="Запишись на фотосессию прямо сегодня" cta_link="/ru/#contact" cta_new_tab="true" >}}
-_или напиши мне через Facebook/WhatsApp, кпнопка находится справа внизу_
+_Можете написать мне через Facebook/WhatsApp, розовая кпнопка находится справа внизу экрана, или просто позвонить +37255599546_

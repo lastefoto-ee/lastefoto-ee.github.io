@@ -64,16 +64,12 @@ social:
 - icon: info-circle
   icon_pack: fas
   link: '/#about'
-- icon: baby
-  icon_pack: fas
-  link: '/en/project/babys-first-year/'
-
-#- icon: facebook
-#  icon_pack: fab
-#  link: https://www.facebook.com/LasteFoto/
-#- icon: instagram
-#  icon_pack: fab
-#  link: https://www.instagram.com/viktoriailjin/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/LasteFoto/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/viktoriailjin/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -99,4 +95,4 @@ Kogutud parim rekvisiit ja originaalsed aksessuaarid kogu maailmast.
 
 Hea meelega avaldaksin teie loal ka teie fotosessioonipildid minu portfoolios. 
 {{< cta cta_text="Broneeri aeg kohe" cta_link="/#contact" cta_new_tab="true" >}}
-_voi kirjuta Facebook/WhatsApp messengeri, nupp on paremal allpool_
+_voi kirjuta Facebook/WhatsApp messengeri, nupp on paremal allpool, või helista +37255599546_

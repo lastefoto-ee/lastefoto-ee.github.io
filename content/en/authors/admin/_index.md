@@ -60,12 +60,12 @@ social:
 - icon: info-circle
   icon_pack: fas
   link: '/en/#about'  # For a direct email link, use "mailto:test@example.org". 
-#- icon: facebook
-#  icon_pack: fab
-#  link: https://www.facebook.com/LasteFoto/
-#- icon: instagram
-#  icon_pack: fab
-#  link: https://www.instagram.com/viktoriailjin/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/LasteFoto/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/viktoriailjin/
 
 
 # Link to a PDF of your resume/CV.
