@@ -33,6 +33,7 @@ weight: 8
 * tort 
 * õhupallid (15 tk.) 
 * 20 töödeldud digipilti, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks. 
+* lisapildi töötlus 5€ / pilt
 
 Fotosessiooni hind **170**€ 
 

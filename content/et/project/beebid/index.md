@@ -43,7 +43,7 @@ Hind **110**€
 
 ## Beebi fotosessioon (4-11 kuud) - Pakett M 
 
-Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis, teeme ühist perepilti ja ka pilte emme-issiga ja õdede-vendadega. . 
+Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis, teeme ühist perepilti ja ka pilte emme-issiga ja õdede-vendadega.
 
 Fotosessioon sisaldab: 
 * beebi pildistamine poseerimise padja peal (beanbag'il) ja rekvisiidis

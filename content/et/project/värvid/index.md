@@ -33,6 +33,7 @@ weight: 9
 * söödavad värvid 
 * lõuend beebi meistriteosega - kingituseks 
 * 10 töödeldud digipilti, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks 
+* lisapildi töötlus 5€ / pilt
 
 Hind **120**€
 

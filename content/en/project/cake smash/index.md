@@ -33,6 +33,7 @@ weight: 8
 * cake;
 * balloons (15 pcs);
 * 20 digital photos processed with detailed retouching, prepared for printing and posting on the Internet (without loss of quality)
+* processing of additional photos 5 € / photo
 
 Price **170** €
 
