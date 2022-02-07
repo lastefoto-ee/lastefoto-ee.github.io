@@ -57,19 +57,23 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: info-circle
-  icon_pack: fas
-  link: '/#about'
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/LasteFoto/
+  link: '/#contact'
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/viktoriailjin/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/LasteFoto/
+- icon: facebook-messenger
+  icon_pack: fab
+  link: https://m.me/475649002567929
+- icon: whatsapp
+  icon_pack: fab
+  link: https://wa.me/37255599546
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -93,6 +97,10 @@ Vastsündinu fotosessioon beebi esimesel kahel nädalal on imeline, võrreldamat
 Töötan oma vastsündinud beebidele spetsialiseerinud stuudios, mille olen varustanud, võttes arvesse kõiki vastsündinute pildistamise omapärasid ja nüansse.
 Kogutud parim rekvisiit ja originaalsed aksessuaarid kogu maailmast.
 
-Hea meelega avaldaksin teie loal ka teie fotosessioonipildid minu portfoolios. 
-{{< cta cta_text="Broneeri aeg kohe" cta_link="/#contact" cta_new_tab="true" >}}
-_voi kirjuta Facebook/WhatsApp messengeri, nupp on paremal allpool, või helista +37255599546_
+Hea meelega avaldaksin teie loal ka teie fotosessioonipildid minu portfoolios.
+
+Kohtumiseni fotosessioonil!
+
+{{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="/project/vastsundinud/" cta_alt_new_tab="false" >}}
+
+_Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast, või helista +37255599546_

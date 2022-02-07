@@ -57,16 +57,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/en/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: info-circle
-  icon_pack: fas
-  link: '/en/#about'  # For a direct email link, use "mailto:test@example.org". 
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/LasteFoto/
+social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/viktoriailjin/
-
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/LasteFoto/
+- icon: facebook-messenger
+  icon_pack: fab
+  link: https://m.me/475649002567929
+- icon: whatsapp
+  icon_pack: fab
+  link: https://wa.me/37255599546
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -82,5 +85,9 @@ email: "viktoria.iljin@gmail.com"
 highlight_name: false
 ---
 Hi! I'm Viktoria, a newborn photographer in Tallinn, Estonia  since 2016. Mothers trust me with their newborn babies photo shoots for quite a while. I've photographed more than 500 newborn babies. A newborn photo shoot in the first two weeks of a baby's life is an amazing, incomparable type of shooting. Elegant minimalism, simplicity, and pithiness allow you to focus only on the baby. Such photos touch to the depths of the soul! I have collected the best props and original accessories from all over the world. I would also be happy to publish your photo shoot pictures in my portfolio with your permission.
-{{< cta cta_text="Drop me a line to book your reservation today" cta_link="/en/#contact" cta_new_tab="true" >}}
+
+See you at the photo session!
+
+{{< cta cta_text="💛 Capture your baby's growth - book a session today!" cta_link="/en/#contact" cta_new_tab="false" cta_alt_text="or learn more about 👶 newborn photo shoot" cta_alt_link="/en/project/newborn/" cta_alt_new_tab="false" >}}
+
 _You might want to use Facebook/WhatsApp button in the bottom right corner for faster answer, or simply call +37255599546_
