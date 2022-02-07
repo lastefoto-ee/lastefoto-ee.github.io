@@ -1,25 +1,49 @@
 ---
 widget: hero
-headless: true
 weight: 10
-title: Capturing the moments that **matter** most
-hero_media: 
+headless: true  # This file represents a page section.
+active: true
+# ... Put Your Section Options Here (title etc.) ...
+title: Introducing a perfect product for new parents!
+subtitle: Capture your baby’s growth and development in their first year with 4 photo shoots
+# Hero image (optional). Enter filename of an image in the assets/media/ folder.
+hero_media: 'hero3.png'
+
+# Call to action links (optional).
+#   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
+#   Remove a link/note by deleting a cta/note block.
 cta:
-  label: '**Book a newborn photo shoot**'
-  url: '#contact'
+  url: 'https://www.lastefoto.ee/en/project/babys-first-year/'
+  label: Baby's First Year
+  icon_pack: fas
+  icon: baby
 cta_alt:
-  label: Learn about pregnancy photo shoot
-  url: https://www.lastefoto.ee/en/post/vogue-style-pregnancy-photo-session/
+  url: 'https://www.lastefoto.ee/en/project/newborn/'
+  label:  or check the newborn photo session packages
+
+# Note. An optional note to show underneath the links.
 cta_note:
-  label: ''
+  label: 'We have a wide range of props and backdrops available, so you can create a truly unique photo session'
+
+author: admin
+
 design:
   background:
-    gradient_end: '#ff89bc'
-    gradient_start: '#ffbcd9'
+    #color: black
+    #gradient_start: '#00ff00'
+    #gradient_end: '#000000'
+    image: hero.jpg
+    #image_darken: 0.9
+    image_size: cover
+    image_position: right
+    image_parallax: true
     text_color_light: true
-advanced:
-  css_class: 
----
-Watch two hours of a newborn photo shoot in one minute time lapse
+  spacing:
+    padding: ["120px", "100", "120px", "100"]
 
-{{< video library="true" src="viktoria-iljin.mp4" controls="no" >}}
+#advanced:
+#  css_class: fullscreen
+
+author: admin
+---
+Capture your baby’s growth and development in their first year with 4 photo shoots

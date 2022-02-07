@@ -1,25 +1,49 @@
 ---
 widget: hero
-headless: true
 weight: 10
-title: Kõige **olulisemate** hetkede jäädvustamine
-hero_media: 
+headless: true  # This file represents a page section.
+active: true
+# ... Put Your Section Options Here (title etc.) ...
+title: Unikaalne pakkumine värsketele vanematele!
+
+# Hero image (optional). Enter filename of an image in the assets/media/ folder.
+hero_media: 'hero3.png'
+
+# Call to action links (optional).
+#   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
+#   Remove a link/note by deleting a cta/note block.
 cta:
-  label: '**Telli vastsündinu fotosessioon**'
-  url: '#contact'
+  url: 'https://www.lastefoto.ee/project/esimene-eluaasta/'
+  label: Beebi Esimene Eluaasta
+  icon_pack: fas
+  icon: baby
 cta_alt:
-  label: Tutvu lapseootuse fotosessiooniga
-  url: https://www.lastefoto.ee/post/beebiootuse-fotosessioon-vogue/
+  url: 'https://www.lastefoto.ee/project/vastsundinud/'
+  label:  või vaata vastsündinu fotosessiooni pakette
+
+# Note. An optional note to show underneath the links.
 cta_note:
-  label: ''
+  label: 'Meil on olemas lai valik rekvisiite, et luua tõeliselt ainulaadse fotosessiooni'
+
+author: admin
+
 design:
   background:
-    gradient_end: '#ff89bc'
-    gradient_start: '#ffbcd9'
+    #color: black
+    #gradient_start: '#00ff00'
+    #gradient_end: '#000000'
+    image: hero.jpg
+    #image_darken: 0.9
+    image_size: cover
+    image_position: right
+    image_parallax: true
     text_color_light: true
-advanced:
-  css_class: 
----
-Vaata kahetunnist vastsündinu fotosessiooni ühes minutis
+  spacing:
+    padding: ["120px", "100", "120px", "100"]
 
-{{< video library="true" src="viktoria-iljin.mp4" controls="no" >}}
+#advanced:
+#  css_class: fullscreen
+
+author: admin
+---
+Jäädvusta oma beebi kasvu ja arengut tema esimesel eluaastal nelja fotosessiooniga 

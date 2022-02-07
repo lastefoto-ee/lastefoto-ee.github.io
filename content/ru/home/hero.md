@@ -1,25 +1,48 @@
 ---
 widget: hero
-headless: true
 weight: 10
-title: Успей запечатлеть самые **важные** моменты
-hero_media: 
+headless: true  # This file represents a page section.
+active: true
+# ... Put Your Section Options Here (title etc.) ...
+title: Представляем идеальный продукт для молодых родителей!
+# Hero image (optional). Enter filename of an image in the assets/media/ folder.
+hero_media: 'hero3.png'
+
+# Call to action links (optional).
+#   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
+#   Remove a link/note by deleting a cta/note block.
 cta:
-  label: '**Забронируй фотосессию новорожденного**'
-  url: '#contact'
+  url: 'https://www.lastefoto.ee/ru/project/rasti-so-mnoi/'
+  label: Первый год жизни
+  icon_pack: fas
+  icon: baby
 cta_alt:
-  label: Узнай про фотосессию беременности
-  url: https://www.lastefoto.ee/ru/post/fotosessiya-beremennosti-v-vogue-stile/
+  url: 'https://www.lastefoto.ee/ru/project/novorozhdjonnye/'
+  label:  или ознакомься с пакетами фотосессии новорожденных 
+
+# Note. An optional note to show underneath the links.
 cta_note:
-  label: ''
+  label: 'У нас широкий выбор реквизита, чтобы создать действительно уникальную фотосессию. '
+
+author: admin
+
 design:
   background:
-    gradient_end: '#ff89bc'
-    gradient_start: '#ffbcd9'
+    #color: black
+    #gradient_start: '#00ff00'
+    #gradient_end: '#000000'
+    image: hero.jpg
+    #image_darken: 0.9
+    image_size: cover
+    image_position: right
+    image_parallax: true
     text_color_light: true
-advanced:
-  css_class: 
----
-Смотри как проходит два часа фотосессии новорожденного за одну минуту
+  spacing:
+    padding: ["120px", "100", "120px", "100"]
 
-{{< video library="true" src="viktoria-iljin.mp4" controls="no" >}}
+#advanced:
+#  css_class: fullscreen
+
+author: admin
+---
+Запечатли рост и развитие твоего ребенка в первый год жизни с помощью 4 фотосессий.
