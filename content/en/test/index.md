@@ -23,10 +23,6 @@ links:
     icon: baby
     name: Newborn photography
     url: 'https://www.lastefoto.ee/en/project/newborn/'
-  - icon_pack: fas
-    icon: baby-carriage
-    name: Baby photoshoots
-    url: 'https://www.lastefoto.ee/en/project/babies/'
 
 url_code: ""
 url_pdf: ""
@@ -41,6 +37,7 @@ slides: ""
 weight: 4
 
 ---
+{{< figure src="/tallinn/featured.jpg" title="Baby's First Year" >}}
 ## Introducing a perfect product for new parents!
 
 Capture your baby's growth and development in their first year with 4 photo shoots. Save precious memories for when they are a newborn, 3-month-old, 6-month-old, and 1-year-old.
