@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: Kontakt
-subtitle:
+subtitle: võta ühendust fotosessiooni broneerimist
 
 content:
   # Automatically link email and phone or display as text?
