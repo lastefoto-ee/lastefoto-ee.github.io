@@ -1,17 +1,18 @@
 ---
-title: Первый годик
-summary: запечатлей
+title: Первый год жизни малыша
+summary: На протяжение первого года жизни ребенка мы встречаемся с Вами 4 раза. Лучшее время для съемки – первые 14 дней жизни ребенка, затем в три месяца, в полугодие и в год на фотосессию в стиле “Cake smash”.
 tags:
 - новорожденные
 - малыши
 - cake smash
-date: "2021-10-16T09:47:53+03:00"
+- первый год жизни
+date: "2022-02-12T10:52:49+02:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by Viktoria Iljin
+  caption: Первый год жизни малыша by Viktoria Iljin
   focal_point: Smart
 
 links: []
