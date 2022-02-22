@@ -3,7 +3,7 @@ title: Cake smash
 summary: photo shoots
 tags:
 - cake smash
-date: "2021-10-16T09:46:17+03:00"
+date: "2022-02-22T09:46:17+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -37,6 +37,7 @@ weight: 8
 
 Price **170** €
 
+{{< figure src="cake-smash-photo-shoot-17.jpg" title="Cakesmash photo shoot" >}}
 {{< figure src="cake-smash-photosession-16.jpg" title="Baby first birthday" >}}
 {{< figure src="cake-smash-photosession-15.jpg" title="Cakesmash photo shoot at LasteFoto studio" >}}
 {{< figure src="cake-smash-photosession-14.jpg" title="Cakesmash photo shoot" >}}

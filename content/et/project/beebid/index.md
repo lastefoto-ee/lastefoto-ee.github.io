@@ -3,7 +3,7 @@ title: Beebid
 summary: fotosessioonid
 tags:
 - beebid
-date: "2021-10-16T10:00:53+03:00"
+date: "2022-02-22T10:00:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -55,6 +55,7 @@ _Soovi korral piltide valik toimub Tellija poolt_
 
 Hind **140**€ 
 
+{{< figure src="beebi-fotosessioon-18.jpg" title="Beebipildistamine" >}}
 {{< figure src="beebi-fotosessioon-17.jpg" title="Beebi fotosessioon Tallinnas" >}}
 {{< figure src="beebi-fotosessioon-15.jpg" title="Beebipildistamine Tallinna stuudios" >}}
 {{< figure src="beebi-fotosessioon-1.jpg" title="Beebi fotosessioon" >}}

@@ -3,7 +3,7 @@ title: Cake smash
 summary: fotosessioonid
 tags:
 - cake smash
-date: "2021-10-16T09:58:53+03:00"
+date: "2022-02-22T09:58:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -37,6 +37,7 @@ weight: 8
 
 Fotosessiooni hind **170**€ 
 
+{{< figure src="cake-smash-fotosessioon-17.jpg" title="Cake smash fotosessioon" >}}
 {{< figure src="cake-smash-fotosessioon-16.jpg" title="Cake smash fotosessioon Tallinnas" >}}
 {{< figure src="cake-smash-fotosessioon-1.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
 {{< figure src="cake-smash-fotosessioon-2.jpg" title="Cake smash fotosessioon Tallinnas" >}}
