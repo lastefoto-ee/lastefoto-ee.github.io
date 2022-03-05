@@ -3,7 +3,7 @@ title: Cake smash
 summary: photo shoots
 tags:
 - cake smash
-date: "2022-02-22T09:46:17+03:00"
+date: "2022-03-05T09:46:17+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -31,7 +31,7 @@ weight: 8
 
 * 1 hour of shooting at LasteFoto studio;
 * cake;
-* balloons (15 pcs);
+* balloons (10 pcs);
 * 20 digital photos processed with detailed retouching, prepared for printing and posting on the Internet (without loss of quality)
 * processing of additional photos 5 € / photo
 

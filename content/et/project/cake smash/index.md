@@ -3,7 +3,7 @@ title: Cake smash
 summary: fotosessioonid
 tags:
 - cake smash
-date: "2022-02-22T09:58:53+03:00"
+date: "2022-03-05T09:58:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -31,7 +31,7 @@ weight: 8
 
 * 1-tunnine fotosessioon LasteFoto stuudios 
 * tort 
-* õhupallid (15 tk.) 
+* õhupallid (10 tk.) 
 * 20 töödeldud digipilti, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks. 
 * lisapildi töötlus 5€ / pilt
 
