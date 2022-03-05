@@ -1,9 +1,9 @@
 ---
-title: Фотосессия на первый день рождения
-subtitle: Cake smash фотосессия в студии
+title: Esimese sünnipäeva fotosessioon
+subtitle: Cake smash fotosessioon stuudios
 
 # Summary for listings and search engines
-summary: Cake smash фотосессия в студии
+summary: Cake smash fotosessioon stuudios
 
 # Link this post with a project
 projects:
@@ -35,59 +35,59 @@ authors:
   - admin
 
 tags:
-  - малыш
+  - beebi
   - cake smash
-  - первый день рождения
-  - фотосессия малыша
+  - esimene sünnipäev
+  - beebi fotosessioon
 
 categories:
   - cake smash
 
 gallery_item:
-- album: cake-smash-fotosessija
-  image: cake-smash-fotosessija-1.jpg
-  caption: Фотосессия малыша в студии 
-- album: cake-smash-fotosessija
-  image: cake-smash-fotosessija-2.jpg
-  caption: Первый день рождения малыша
-- album: cake-smash-fotosessija
-  image: cake-smash-fotosessija-3.jpg
-  caption: Фотосессия на первый день рождения
-- album: cake-smash-fotosessija
-  image: cake-smash-fotosessija-4.jpg
-  caption: Фотосессия на первый день рождения в студии 
-- album: cake-smash-fotosessija
-  image: cake-smash-fotosessija-5.jpg
-  caption: Фотосессия cake smash в студии 
-- album: cake-smash-fotosessija
-  image: cake-smash-fotosessija-6.jpg
-  caption: Фотосессия cake smash в Таллинне 
-- album: cake-smash-fotosessija
-  image: cake-smash-fotosessija-7.jpg
-  caption: Фотосессия cake smash на первый день рождения
+- album: cake-smash-fotosessioon
+  image: cake-smash-fotosessioon-1.jpg
+  caption: Beebi fotosessioon stuudios
+- album: cake-smash-fotosessioon
+  image: cake-smash-fotosessioon-2.jpg
+  caption: Beebi esimene sünnipäev
+- album: cake-smash-fotosessioon
+  image: cake-smash-fotosessioon-3.jpg
+  caption: Esimese sünnipäeva fotosessioon
+- album: cake-smash-fotosessioon
+  image: cake-smash-fotosessioon-4.jpg
+  caption: Esimese sünnipäeva fotosessioon stuudios
+- album: cake-smash-fotosessioon
+  image: cake-smash-fotosessioon-5.jpg
+  caption: Cake smash fotosessioon stuudios
+- album: cake-smash-fotosessioon
+  image: cake-smash-fotosessioon-6.jpg
+  caption: Cake smash fotosessioon Tallinnas 
+- album: cake-smash-fotosessioon
+  image: cake-smash-fotosessioon-7.jpg
+  caption: Cake smash fotosessioon
 ---
-Вы только посмотрите как выросла! 😍
+Vaadake, kui suur Ta nüüd on 😍
 
-{{< figure src="./fotosessija-malysha-1.jpg" title="Фотосессия малышки на первый день рождения" >}}
+{{< figure src="./beebi-fotosessioon-1.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
 
-Впервые мы встретились с этой сладкой Булочкой год назад. Если быть совсем точной, то даже немного раньше. Еще в то время, когда она была у мамочки в животике. 😍 И вот прошел год и мы делаем фотосессию на Первый День Рождения в стиле cake smash или крушение тортика.
+Esimest korda kohtusime seda Magusat Kuklit aasta tagasi. Kui täiesti täpne olla, siis isegi veidi varem. Sel ajal, kui ta oli emme kõhus. 😍 Ja nüüd on aasta möödas ja teeme Esimese Sünnipäeva puhul pildistamise cake smash stiilis.
 
-Обычно в самом начале съемки мы повторяем кадры с newborn фотосессии. Делаем портреты крохи и кадры в реквизите, чтобы показать как малыш вырос за это время. 
+Tavaliselt kordame pildistamise alguses vastsündinu pildistamise kaadreid. Teeme beebist portreesid ja pilte rekvisiitides, et näidata, kuidas beebi selle aja jooksul kasvanud on.
 
-{{< figure src="./fotosessija-malysha-2.jpg" title="Фотосессия малышки в студии в Таллинне" >}}
+{{< figure src="./beebi-fotosessioon-2.jpg" title="Beebifotosessioon stuudios Tallinnas" >}}
 
-Далее обязательно делаем семейные кадры. 
+Seejärel teeme kindlasti perepilte
 
-{{< figure src="./fotosessija-malysha-3.jpg" title="Фотосессия семьи в студии" >}}
+{{< figure src="./beebi-fotosessioon-3.jpg" title="Perepildistamine stuudios" >}}
 
-И затем приступаем к самому интересному и увлекательному - к крушению тортика. Очень здорово наблюдать за реакцией малышей на тортик: кто-то смело начинает его крушить, кто-то немного побаивается. Здесь я всегда прошу родителей не настаивать и позволить малышу делать с тортом то, что именно ему в этот момент хочется. Может, аккуратно попробовать его крохотным пальчиком? Или пошлепать по нему пухлой ладошкой? А, может, и вовсе отвернуться и заняться чем-то более интересным. Пусть малыш проявит характер и сделает с первой сладостью все, что захочет. Ведь это его праздник! 😉
+Ja siis liigume kõige huvitavama ja põnevama juurde - koogi lõhkumiseni. Tore on jälgida laste reaktsiooni koogile: keegi hakkab julgelt lõhkuma, keegi kardab veidi. Siinkohal palun alati vanematel mitte peale hakata ja lasta beebil koogiga teha, mida ta sel hetkel tahab. Äkki õrnalt proovida pisikese näpuga? Või anda talle turske käega laks? Või võib-olla isegi ära pöörata ja teha midagi huvitavamat. Laske beebil iseloomu näidata ja teha esimese maiustusega, mida ta ise tahab. Lõppude lõpuks on see tema pidu! 😉
 
-{{< gallery album="cake-smash-fotosessija" >}}
 
-В конце фотосессии, если ребенок не боится воды, делаем кадры в ванночке. Малыши обычно с удовольствием играют с пенкой, брызгаются. В общем, резвятся в свое удольствие и устраивают в студии "небольшой потоп" 😍 
 
-{{< figure src="./fotosessija-malysha-4.jpg" title="Фотосессия малышки на первый день рождения" >}}
+Fotosessiooni lõpus, kui laps vett ei karda, teeme pilte ka vannis. Tavaliselt mängivad lapsed hea meelega vahuga, pritsivad vett. Üldiselt saavad mõnu ja teevad stuudios "väikest uputust" 😍
 
-Фотографий всегда получается много, хватает на хорошую фото-книгу. Так что не отказывайте себе в удовольствии сделать незабываемые кадры с первого дня рождения вашего пупсика! ❤️
+{{< figure src="./beebi-fotosessioon-4.jpg" title="Esimese sünnipäeva fotosessioon" >}}
 
-{{< cta cta_text="Запишись на фотосессию Cake Smash" cta_link="/ru/#contact" cta_new_tab="false" >}}
+Fotosid on alati palju, hea fotoraamatu jaoks piisab. Nii et ärge keelake endale rõõmu teha unustamatuid kaadreid oma beebi esimesest sünnipäevast! ❤️
+
+{{< cta cta_text="Broneeri Cake Smash fotosessioon" cta_link="/#contact" cta_new_tab="false" >}}
