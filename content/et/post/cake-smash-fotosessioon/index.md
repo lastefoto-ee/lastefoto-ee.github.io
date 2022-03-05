@@ -70,24 +70,24 @@ Vaadake, kui suur Ta nüüd on 😍
 
 {{< figure src="./beebi-fotosessioon-1.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
 
-Esimest korda kohtusime seda Magusat Kuklit aasta tagasi. Kui täiesti täpne olla, siis isegi veidi varem. Sel ajal, kui ta oli emme kõhus. 😍 Ja nüüd on aasta möödas ja teeme Esimese Sünnipäeva puhul pildistamise cake smash stiilis.
+Esimest korda kohtusime Musirulliga aasta tagasi. Kui täiesti täpne olla, siis isegi veidi varem. Sel ajal, kui ta oli emme kõhus. 😍 Ja nüüd on aasta möödas ja teeme Esimese Sünnipäeva puhul pildistamise cake smash stiilis.
 
 Tavaliselt kordame pildistamise alguses vastsündinu pildistamise kaadreid. Teeme beebist portreesid ja pilte rekvisiitides, et näidata, kuidas beebi selle aja jooksul kasvanud on.
 
 {{< figure src="./beebi-fotosessioon-2.jpg" title="Beebifotosessioon stuudios Tallinnas" >}}
 
-Seejärel teeme kindlasti perepilte
+Seejärel teeme kindlasti ka perepilte.
 
 {{< figure src="./beebi-fotosessioon-3.jpg" title="Perepildistamine stuudios" >}}
 
 Ja siis liigume kõige huvitavama ja põnevama juurde - koogi lõhkumiseni. Tore on jälgida laste reaktsiooni koogile: keegi hakkab julgelt lõhkuma, keegi kardab veidi. Siinkohal palun alati vanematel mitte peale hakata ja lasta beebil koogiga teha, mida ta sel hetkel tahab. Äkki õrnalt proovida pisikese näpuga? Või anda talle turske käega laks? Või võib-olla isegi ära pöörata ja teha midagi huvitavamat. Laske beebil iseloomu näidata ja teha esimese maiustusega, mida ta ise tahab. Lõppude lõpuks on see tema pidu! 😉
 
-
+{{< gallery album="cake-smash-fotosessioon" >}}
 
 Fotosessiooni lõpus, kui laps vett ei karda, teeme pilte ka vannis. Tavaliselt mängivad lapsed hea meelega vahuga, pritsivad vett. Üldiselt saavad mõnu ja teevad stuudios "väikest uputust" 😍
 
 {{< figure src="./beebi-fotosessioon-4.jpg" title="Esimese sünnipäeva fotosessioon" >}}
 
-Fotosid on alati palju, hea fotoraamatu jaoks piisab. Nii et ärge keelake endale rõõmu teha unustamatuid kaadreid oma beebi esimesest sünnipäevast! ❤️
+Fotosid on alati palju, piisab hea fotoraamatu jaoks. Nii et ärge keelake endale rõõmu teha unustamatuid kaadreid oma beebi esimesest sünnipäevast! ❤️
 
 {{< cta cta_text="Broneeri Cake Smash fotosessioon" cta_link="/#contact" cta_new_tab="false" >}}
