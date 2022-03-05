@@ -22,6 +22,11 @@ header:
   caption: ""
   image: ""
 ---
+## [Newborn Retreat](#Newborn%20Retreat)
+https://themilkyway.ca
+### 2022-01-31 I've sucessfully finished the Newborn Retreat online course
+The Newborn Retreat is a professional photographers event, where they share their pregnancy and newborn photography knowledge.
+
 ## [Sasha Bunaeva](#Sasha%20Bunaeva)
 https://bunaeva.com
 ### 2021-04-04 I have completed the online course of Sasha Bunaeva, who is the founder of **Pregnancy photoshoot in the Vogue style**

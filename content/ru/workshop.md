@@ -22,6 +22,11 @@ header:
   caption: ""
   image: ""
 ---
+## [Newborn Retreat](#Newborn%20Retreat)
+https://themilkyway.ca
+### 2022-01-31 я успешно прошла онлайн-курс Newborn Retreat.
+Newborn Retreat - это мероприятие профессиональных фотографов, на котором они делятся своими знаниями о фотосессиях беременности и новорожденных.
+
 ## [Sasha Bunaeva](#Sasha%20Bunaeva)
 https://bunaeva.com
 ### 2021-04-04 я прошла онлайн-курс Сашы Бунаевой, основательницы направления **фотосессии беременности в стиле Vogue**.

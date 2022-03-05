@@ -30,6 +30,9 @@ education:
   courses:
   - course: Newborn Retreat
     institution: themilkyway.ca
+    year: 2022  
+  - course: Newborn Retreat
+    institution: themilkyway.ca
     year: 2021  
   - course: Фотосессия беременности в стиле Vogue
     institution: bunaeva.com

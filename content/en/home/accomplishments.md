@@ -25,6 +25,14 @@ date_format: 2006-01-01
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2022-01-31"
+  description: 'Professional photographers shared their knowledge of pregnancy and newborn photography'
+  organization: The Milky Way
+  organization_url: "/en/workshop#Newborn%20Retreat"
+  title: 'Online course of foreign top photographers on photography of pregnancy and newborns'
+  url: "/en/workshop#Newborn%20Retreat"
+- certificate_url: ""
+  date_end: ""
   date_start: "2021-01-31"
   description: 'Professional photographers shared their knowledge of pregnancy and newborn photography'
   organization: The Milky Way

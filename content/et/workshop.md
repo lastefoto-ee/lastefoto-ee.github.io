@@ -22,6 +22,11 @@ header:
   caption: ""
   image: ""
 ---
+## [Newborn Retreat](#Newborn%20Retreat)
+https://themilkyway.ca
+### 2022-01-31 olen edukalt lõpetanud Newborn Retreat veebikursuse
+Newborn Retreat on professionaalsete fotograafide üritus, kus jagatakse beebiootuse ja vastsündinute fotograafia alaseid teadmisi.
+
 ## [Sasha Bunaeva](#Sasha%20Bunaeva)
 https://bunaeva.com
 ### 2021-04-04 olen läbinud Sasha Bunaeva veebikursuse, kes on **Beebiootusepildistamine Vogue stiilis** asutaja
