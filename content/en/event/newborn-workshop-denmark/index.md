@@ -70,7 +70,7 @@ A two-day workshop for a maximum of 12 participants. This event is hosted by [Ol
 
 Location: [Silkeborg](https://en.wikipedia.org/wiki/Silkeborg), 🇩🇰 Denmark
 
-Cost: 600 EUR
+Cost: 600€
 
 _A non refundable retainer of 200 EUR is due at the time of booking, with the remainder of 400 EUR due one month before the workshop. The final payment will be invoiced to you._
 
@@ -161,3 +161,6 @@ The first model (4 months old baby) will have a photo shoot without photographin
 **15:30** - Model 3 arrives (posing in props, posing on a beanbag, the selection of proper angles and lightning)
 
 **17:00** - Awarding certificates, hugs and goodbyes
+
+
+{{< cta cta_text="💛 Book your seat now for 200€" cta_link="https://buy.stripe.com/28o2c0801aWp21qfZ0" cta_new_tab="true" cta_alt_text="or pay the full amount of 600€" cta_alt_link="https://buy.stripe.com/fZe4k83JL0hL0Xm5kn" cta_alt_new_tab="true" >}}
