@@ -66,13 +66,15 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-A two-day workshop for a maximum of 12 participants. This event is hosted by [Olga Iljin](https://www.instagram.com/newborn.iljin/). If you have any questions about the event, please do not hesitate to contact her.
+A two-day workshop for a maximum of 12 participants. 
+
+This event is hosted by [Olga Iljin](https://www.instagram.com/newborn.iljin/). If you have any questions about the event, please do not hesitate to contact her.
 
 Location: [Silkeborg](https://en.wikipedia.org/wiki/Silkeborg), 🇩🇰 Denmark
 
 Cost: [600€](https://buy.stripe.com/fZe4k83JL0hL0Xm5kn)
 
-_A non refundable retainer of [200€](https://buy.stripe.com/28o2c0801aWp21qfZ0) is due at the time of booking, with the remainder of [400€](https://buy.stripe.com/3cs2c0dkl2pT35u7st) due one month before the workshop. The final payment will be invoiced to you._
+_A non refundable retainer of [200€](https://buy.stripe.com/28o2c0801aWp21qfZ0) is due at the time of booking, with the remainder of [400€](https://buy.stripe.com/3cs2c0dkl2pT35u7st) due one month before the workshop._
 
 **Important information**
 
