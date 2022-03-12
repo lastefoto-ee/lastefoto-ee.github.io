@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Newborn and baby photography workshop 🇩🇰 Denmark"
+title: "Newborn & baby photography workshop 🇩🇰 Denmark"
 event: "Newborn and baby photography workshop with Viktoria Iljin"
 event_url:
 location:
