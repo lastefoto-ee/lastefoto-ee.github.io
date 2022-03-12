@@ -12,7 +12,7 @@ address:
   postcode:
   country: Denmark
 summary: My two-day workshop on newborn and baby photography will focus on posing newborns, photographing babies, lighting, equipment and settings, shooting angles, wrapping, using props, editing workflows, and more. 
-abstract: My two-day workshop on newborn and baby photography will focus on posing newborns, photographing babies, lighting, equipment and settings, shooting angles, wrapping, using props, editing workflows, and more. After the workshop, you will be able to plan photo sessions scenarios, perfect newborn poses, and be inspired with new ideas. You will learn how to make the most of an hour for a photo session of a baby up to one year old, with a variety of props. The workshop is suitable for both beginners and experienced photographers in this field.
+abstract: My two-day workshop on newborn and baby photography will focus on posing newborns, photographing babies, lighting, equipment and settings, shooting angles, wrapping, using props, editing workflows, and more. After the workshop, you will be able to plan photo sessions scenarios, perfect newborn poses, and be inspired with new ideas. You will learn how to make the most of an hour for a photo session of a baby up to one year old, with a variety of props. The workshop is suitable for both beginners and experienced photographers.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -150,7 +150,7 @@ _The second day of the workshop begins at 10:00 and ends at 17:00. Snacks and re
 
 We photograph babies (4-10 months) at this particular age range because they are at a stage where they are beginning to develop their personalities and unique expressions.
 
-We'll discuss important topics such as: the selection of props, change of set-ups, communication with the baby, posing on a beanbag and in props, pictures with parents. How to keep a client from newborn shooting for up to a year? Shooting scenario. Post-processing in three minutes.
+**10:00** - We'll discuss important topics such as: the selection of props, change of set-ups, communication with the baby, posing on a beanbag and in props, pictures with parents. How to keep a client from newborn shooting for up to a year? Shooting scenario. Post-processing in three minutes.
 
 **12:00** - Coffee/Tea Break
 
