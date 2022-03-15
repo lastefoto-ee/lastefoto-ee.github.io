@@ -80,8 +80,6 @@ _A non refundable retainer of [200€](https://buy.stripe.com/28o2c0801aWp21qfZ0
 
 - TRANSLATION: The workshop is held in English translated to Danish. 
 
-- COVID-19 RESTRICTIONS: All participants are required either to be vaccinated or have recovery certificate or valid (<48h) negative antigen covid test and wear face masks. 
-
 - CANCELLATION: Deposit and full payment is not refundable unless you sell your seat to other photographer.
 
 - PERMISSION REGARDING IMAGE USAGE: Photographs taken during workshop can be used in attendees online portfolio (website and social media). Submitting images to magazines, exhibitions or competitions is not allowed as well as using them for workshop or session adverting.
@@ -100,6 +98,7 @@ _A non refundable retainer of [200€](https://buy.stripe.com/28o2c0801aWp21qfZ0
 **What’s included**
 - Newborn and Baby Photography 2-day workshop
 - Adobe Photoshop actions used by Viktoria Iljin for retouching newborn, baby and macro images
+- Discount certificates for two month newborn photography online course
 - Refreshments/snacks
 
 **What’s not included**
