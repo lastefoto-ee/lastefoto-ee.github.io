@@ -78,7 +78,7 @@ _A non refundable retainer of [200€](https://buy.stripe.com/6oE4k85RT5C56hG148
 
 **Important information**
 
-- TRANSLATION: The workshop is held in English translated to Danish. 
+- TRANSLATION: The workshop is held in English translated to Dutch. 
 
 - CANCELLATION: Deposit and full payment is not refundable unless you sell your seat to other photographer.
 
