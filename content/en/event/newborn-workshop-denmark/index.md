@@ -12,7 +12,7 @@ address:
   postcode:
   country: Denmark
 summary: My two-day workshop on newborn and baby photography will focus on posing newborns, photographing babies, lighting, equipment and settings, shooting angles, wrapping, using props, editing workflows, and more. 
-abstract: My two-day workshop on newborn and baby photography will focus on posing newborns, photographing babies, lighting, equipment and settings, shooting angles, wrapping, using props, editing workflows, and more. After the workshop, you will be able to plan photo sessions scenarios, perfect newborn poses, and be inspired with new ideas. You will learn how to make the most of an hour for a photo session of a baby up to one year old, with a variety of props. The workshop is suitable for both beginners and experienced photographers.
+abstract: My two-day Silkeborg workshop on newborn and baby photography will focus on posing newborns, photographing babies, lighting, equipment and settings, shooting angles, wrapping, using props, editing workflows, and more. After the workshop, you will be able to plan photo sessions scenarios, perfect newborn poses, and be inspired with new ideas. You will learn how to make the most of an hour for a photo session of a baby up to one year old, with a variety of props. The workshop is suitable for both beginners and experienced photographers.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
