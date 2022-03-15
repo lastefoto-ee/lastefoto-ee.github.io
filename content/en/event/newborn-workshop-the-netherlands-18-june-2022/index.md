@@ -7,7 +7,7 @@ event_url:
 location:
 address:
   street:
-  city: Hoek van Holland
+  city: De Lier in Zuid-Holland
   region:
   postcode:
   country: Netherlands
@@ -70,7 +70,7 @@ A two-day workshop for a maximum of 12 participants.
 
 This event is hosted by [Nazeli Djanojan](https://www.instagram.com/by_lilit_fotografie/). If you have any questions about the event, please do not hesitate to contact her.
 
-Location: [Hoek van Holland](https://en.wikipedia.org/wiki/Hook_of_Holland), 🇳🇱 The Netherlands
+Location: [De Lier in Zuid-Holland](https://en.wikipedia.org/wiki/De_Lier), 🇳🇱 The Netherlands
 
 Cost: [600€](https://buy.stripe.com/fZedUI4NP6G9bC0dQW)
 
