@@ -72,9 +72,9 @@ This event is hosted by [Nazeli Djanojan](https://www.instagram.com/by_lilit_fot
 
 Location: [De Lier in Zuid-Holland](https://en.wikipedia.org/wiki/De_Lier), 🇳🇱 The Netherlands
 
-Cost: [600€](https://buy.stripe.com/fZedUI4NP6G9bC0dQW)
+Cost: [700€](https://buy.stripe.com/28obMA5RTfcFcG45kr)
 
-_A non refundable retainer of [200€](https://buy.stripe.com/6oE4k85RT5C56hG148) is due at the time of booking, with the remainder of [400€](https://buy.stripe.com/28o9EsfstaWp8pO3ch) due one month before the workshop._
+_A non refundable retainer of [300€](https://buy.stripe.com/28obMA2FH2pTbC08wE) is due at the time of booking, with the remainder of [400€](https://buy.stripe.com/28o9EsfstaWp8pO3ch) due one month before the workshop._
 
 **Important information**
 
@@ -164,4 +164,4 @@ The first model (4 months old baby) will have a photo shoot without photographin
 **17:00** - Awarding certificates, hugs and goodbyes
 
 
-{{< cta cta_text="💛 Book your seat now for 200€" cta_link="https://buy.stripe.com/6oE4k85RT5C56hG148" cta_new_tab="true" cta_alt_text="or pay the full amount of 600€" cta_alt_link="https://buy.stripe.com/fZedUI4NP6G9bC0dQW" cta_alt_new_tab="true" >}}
+{{< cta cta_text="💛 Book your seat now for 300€" cta_link="https://buy.stripe.com/28obMA2FH2pTbC08wE" cta_new_tab="true" cta_alt_text="or pay the full amount of 700€" cta_alt_link="https://buy.stripe.com/28obMA5RTfcFcG45kr" cta_alt_new_tab="true" >}}
