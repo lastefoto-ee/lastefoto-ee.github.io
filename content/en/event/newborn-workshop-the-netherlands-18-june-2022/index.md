@@ -141,6 +141,7 @@ The first model will have a mini photo shoot without photographing by the partic
 
 **17:30** - Hugs and goodbyes
 
+
 ![beebi-fotosessioon-126](https://www.lastefoto.ee/en/project/babies/beebi-fotosessioon-126.jpg)
 
 ## Day 2
