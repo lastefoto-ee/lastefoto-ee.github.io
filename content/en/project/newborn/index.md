@@ -74,6 +74,10 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 
 Price **410**€ 
 
+## Newborn Photo shoot outside of Estonia
+
+The price and conditions of the photo shoot are available on request.
+
 {{< figure src="newborn-photosession-67.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photosession-66.jpg" title="Newborn photo shoot in studio" >}}
 {{< figure src="newborn-photosession-65.jpg" title="Newborn photo shoot" >}}
