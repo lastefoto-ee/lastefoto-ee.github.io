@@ -1,6 +1,6 @@
 ---
 title: Fotopäev "Väike kokk"
-subtitle: Fotopäev beebidele vanuses 1 kuni 2 aastat
+subtitle: Fotopäev 1-2 aastasele lapsele
 
 # Summary for listings and search engines
 summary: Beebifotopäev toimub 15. ja 16. aprillil 2022
