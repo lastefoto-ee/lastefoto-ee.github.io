@@ -110,7 +110,7 @@ gallery_item:
 {{< cta cta_text="Registreeru fotopäevale" cta_link="/#contact" cta_new_tab="true" >}}
 
 ## Fotosessiooni hind sisaldab:
-- Väikse koka set-up: lühikesed püksid, põll ja müts (valget ja punast värvi)
+- Väikese koka set-up: lühikesed püksid, põll ja müts (valget ja punast värvi)
 - pildistamine 30 minuti jooksul kahes ettevalmistatud fototsoonis (heledates ja pruunides toonides)
 - 10-15 retušeeritud digitaalfaili
 - stuudio rent
