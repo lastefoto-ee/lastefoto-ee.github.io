@@ -1242,7 +1242,7 @@ height="760"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Cake smash photo shoot in studio: 1-year-old
-&lt;/figcaption>&lt;/figure>&lt;/p></description></item><item><title>Babies</title><link>https://www.lastefoto.ee/en/project/babies/</link><pubDate>Mon, 14 Mar 2022 06:46:17 +0300</pubDate><guid>https://www.lastefoto.ee/en/project/babies/</guid><description>&lt;h2 id="baby-photo-shoot-4-11-months---package-s">Baby photo shoot (4-11 months) - Package S&lt;/h2>
+&lt;/figcaption>&lt;/figure>&lt;/p></description></item><item><title>Babies</title><link>https://www.lastefoto.ee/en/project/babies/</link><pubDate>Sun, 10 Apr 2022 06:46:17 +0300</pubDate><guid>https://www.lastefoto.ee/en/project/babies/</guid><description>&lt;h2 id="baby-photo-shoot-4-11-months---package-s">Baby photo shoot (4-11 months) - Package S&lt;/h2>
 &lt;p>In this package, the baby is the main bias, I photograph him from various angles on a posing pillow (beanbag) and props. Family pictures are not included in this package.&lt;/p>
 &lt;p>The photo shoot includes:&lt;/p>
 &lt;ul>
@@ -1267,6 +1267,19 @@ Cake smash photo shoot in studio: 1-year-old
 &lt;/ul>
 &lt;p>Price &lt;strong>140&lt;/strong> €&lt;/p>
 &lt;p>
+&lt;figure id="figure-baby-photo-shoot">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Baby photo shoot" srcset="
+/en/project/babies/baby-photosession-21_hue83e4151484a004246db38b0a5d1b011_2591064_6d21936017ee4839451477ada564fb8d.jpg 400w,
+/en/project/babies/baby-photosession-21_hue83e4151484a004246db38b0a5d1b011_2591064_607770fc78aa4ff80aeb7282dc5517a9.jpg 760w,
+/en/project/babies/baby-photosession-21_hue83e4151484a004246db38b0a5d1b011_2591064_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/en/project/babies/baby-photosession-21_hue83e4151484a004246db38b0a5d1b011_2591064_6d21936017ee4839451477ada564fb8d.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Baby photo shoot
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photo-shoot-at-lastefoto-studio">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Baby photo shoot at LasteFoto studio" srcset="
