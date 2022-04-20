@@ -13,7 +13,7 @@ projects:
 date: "2022-04-10T09:09:53+03:00"
 
 # Date updated
-lastmod: "2022-04-10T09:09:53+03:00"
+lastmod: "2022-04-20T09:09:53+03:00"
 
 # Is this an unpublished draft?
 draft: false
@@ -36,8 +36,9 @@ authors:
 
 tags:
   - фотосессия малышей
+  - фотосессия малыша
   - малыш
-  - поверёнок
+  - поварёнок
   - фотодень
 
 categories:
