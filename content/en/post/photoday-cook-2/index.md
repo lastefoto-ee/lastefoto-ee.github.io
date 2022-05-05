@@ -163,7 +163,7 @@ gallery_item:
 - Photoday "Little Cook" is suitable for babies from 9 months old (who can sit on their own, without support) up to three years.
 
 ## When will the photo shoot take place?
-- April 27-29, 2022 from 09:00 to 16:00, in Tallinn
+- May 27-29, 2022 from 09:00 to 16:00, in Tallinn
 
 ## How long is the photo shoot?
 - We will spend approximately 40 minutes together with each baby. The duration of the photo session itself will be 20-30 minutes. It will take 10-15 minutes for babies to adapt and change clothes.

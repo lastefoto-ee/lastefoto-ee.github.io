@@ -163,7 +163,7 @@ gallery_item:
 - Fotopäev sobib beebidele alates 9. elukuust (kes oskavad iseseisvalt ilma toeta istuda) kuni kolme aastani lapsele.
 
 ## Millal fotosessioon toimub?
-- 27-29.aprillil 2022 kell 09:00 - 16:00, Tallinnas
+- 27-29.mail 2022 kell 09:00 - 16:00, Tallinnas
 
 ## Kui palju aega võtab fotosessioon?
 - Iga beebiga veedame koos umbes 40 minutit. Neist fotosessiooni enda kestvus jääb 20-30 minutiks. Kohanemiseks ja riiete vahetamiseks kulub u. 10-15 minutit.
