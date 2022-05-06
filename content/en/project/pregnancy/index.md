@@ -3,7 +3,7 @@ title: Pregnancy
 summary: photo shoots
 tags:
 - pregnancy
-date: "2021-10-16T09:42:40+03:00"
+date: "2022-05-05T09:42:40+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -96,6 +96,12 @@ gallery_item:
 - album: pregnancy-portfolio
   image: pregnancy-photosession-23.jpg
   caption: Pregnancy photo shoot in studio in Vogue style
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-24.jpg
+  caption: Pregnancy photo shoot in style of Vogue 
+- album: pregnancy-portfolio
+  image: pregnancy-photosession-25.jpg
+  caption: Pregnancy photo shoot in Tallinn
 ---
 ## Pregnancy photo shoot - Package S
 

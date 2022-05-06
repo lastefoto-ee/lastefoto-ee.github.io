@@ -3,7 +3,7 @@ title: Beebiootus
 summary: fotosessioonid
 tags:
 - beebiootus
-date: "2021-10-16T09:59:53+03:00"
+date: "2022-05-05T09:59:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -99,6 +99,12 @@ gallery_item:
 - album: beebiootus-portfolio
   image: beebiootuse-fotosessioon-23.jpg
   caption: Beebiootuse fotosessioon stuudios
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-24.jpg
+  caption: Beebiootusefotosessioon Vogue stiilis
+- album: beebiootus-portfolio
+  image: beebiootuse-fotosessioon-25.jpg
+  caption: Beebiootusefotosessioon Tallinnas
 ---
 # Beebiootusefotosessioon - Pakett S
 

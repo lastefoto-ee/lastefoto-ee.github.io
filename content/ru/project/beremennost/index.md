@@ -3,7 +3,7 @@ title: Беременность
 summary: фотосессии
 tags:
 - беременность
-date: "2021-10-16T09:52:53+03:00"
+date: "2022-05-05T09:52:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -90,6 +90,12 @@ gallery_item:
 - album: beremennost-portfolio
   image: fotosessiya-beremennosti-23.jpg
   caption: Фотосессия беременности в студии в стиле Vogue 
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-24.jpg
+  caption: Фотосессия беременности в Таллинне
+- album: beremennost-portfolio
+  image: fotosessiya-beremennosti-25.jpg
+  caption: Фотосессия беременности в студии в стиле Vogue
 ---
 ## Фотосессия беременности - Пакет S
 
