@@ -33,6 +33,7 @@ In this package, the baby is the main bias, I photograph him from various angles
 
 The photo shoot includes:
 * baby photo shoot on a posing pillow (beanbag) and in props
+* various set-ups for the baby
 * 10 processed digital photos, prepared for printing and for posting on the Internet;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * shooting for 1 hour in the studio (Peterburi tee 46, Tallinn);
@@ -47,6 +48,7 @@ In this package, the baby is also the main bias, I photograph him from different
 
 The photo shoot includes:
 * baby photo shoot on a posing pillow (beanbag) and in props
+* various set-ups for the baby
 * 15 processed digital photographs prepared for printing and for posting on the Internet;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * shooting for 1 hour in the studio (Peterburi tee 46, Tallinn);

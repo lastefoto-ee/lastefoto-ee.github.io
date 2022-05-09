@@ -5,7 +5,7 @@ tags:
 - vastsündinud
 - beebid
 - cake smash
-date: "2021-10-16T09:57:53+03:00"
+date: "2022-05-09T09:57:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -34,7 +34,9 @@ Pakett «Beebi esimene eluaasta» - unikaalne kingitus värsketele vanematele!
 
 Pakett sisaldab: 
 * vastsündinu fotosessioon LasteFoto stuudios 2-3 tunni jooksul; 
+* erinevad set-up'id vastsündinud beebi jaoks
 * kolm 1-tunnist fotosessiooni LasteFoto stuudios; 
+* erinevad set-up'd beebi jaoks
 * vastsündinu fotosessiooni tulemuseks on 25 töödeldud pilti, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks; 
 * iga järgmise fotosessiooni tulemuseks on 20 retušeeritud ja töödeldud fotot, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks; 
 * tort ja õhupallid (15 tk) "Cake smash" fotosessiooniks; 

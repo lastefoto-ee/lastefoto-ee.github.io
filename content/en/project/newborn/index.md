@@ -35,6 +35,7 @@ Family shots are not included in this package.
 
 The photo shoot includes:
 * photo shoot of a newborn on a posing pillow (beanbag)
+* various set-ups for the newborn
 * 7 retouched digital and printed photos 10x15cm;
 _if desired, the choice of photos for retouching is carried out by you_
 * shooting for 2 hours in the LasteFoto newborn studio (Peterburi tee 46, Tallinn);
@@ -49,6 +50,7 @@ In this package, the newborn (5-14 days) is the main bias. I photograph him from
 
 The photo shoot includes:
 * photo shoot of a newborn on a posing pillow (beanbag) and in the props
+* various set-ups for the newborn
 * 17 retouched digital and printed photos 10x15cm;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * family shots and photos with siblings
@@ -64,6 +66,7 @@ In this package, the newborn (5-14 days) is the main bias. I photograph him from
 
 The photo shoot includes:
 * photo shoot of a newborn on a posing pillow (beanbag) and in the props
+* various set-ups for the newborn
 * 30 retouched digital and printed photos 10x15cm;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * family shots and photos with siblings

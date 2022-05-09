@@ -3,7 +3,7 @@ title: Vastsündinud
 summary: fotosessioonid
 tags:
 - vastsündinud
-date: "2022-04-27T06:53:53+03:00"
+date: "2022-05-09T06:53:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -34,6 +34,7 @@ Fotosessiooni käigus pildistan 5-14 päeva beebit poseerimiseks mõeldud padja 
 
 Fotosessioon sisaldab: 
 * beebi pildistamine poseerimispadja peal (beanbag'il) 
+* erinevad set-up'id beebi jaoks
 * 7 töödeldud digi- ja paberpilti 10x15cm. 
 _soovi korral piltide valik toimub Tellija poolt_ 
 * pildistamine Lastefoto vastsündinu stuudios 2 tunni jooksul (Peterburi tee 46, Tallinn). 
@@ -49,6 +50,7 @@ Fotosessiooni käigus pildistan 5-14 päeva beebit poseerimiseks mõeldud padja 
 
 Fotosessioon sisaldab: 
 * beebi pildistamine poseerimispadja peal (beanbag'il) ja rekvisiidis 
+* erinevad set-up'id beebi jaoks
 * 17 töödeldud digi- ja paberpilti 10x15cm. 
 _soovi korral piltide valik toimub Tellija poolt_ 
 * fotod pereliikmetega ning ühine perepilt. 
@@ -65,6 +67,7 @@ Fotosessiooni käigus pildistan 5-14 päeva beebit poseerimiseks mõeldud padja 
 
 Fotosessioon sisaldab: 
 * beebi pildistamine poseerimispadja peal (beanbag'il) ja rekvisiidis 
+* erinevad set-up'id beebi jaoks
 * 30 töödeldud digi- ja paberpilti 10x15cm.
 _soovi korral piltide valik toimub Tellija poolt_ 
 * fotod pereliikmetega ning ühine perepilt. 

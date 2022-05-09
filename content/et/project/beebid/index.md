@@ -33,6 +33,7 @@ Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanba
 
 Fotosessioon sisaldab: 
 * beebi pildistamine poseerimise padja peal (beanbag'il) ja rekvisiidis
+* erinevad set-up'id beebi jaoks
 * 10 töödeldud digipilti, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks. 
 _soovi korral piltide valik toimub Tellija poolt_ 
 * pildistamine stuudios 1 tunni jooksul (Peterburi tee 46, Tallinn). 
@@ -47,6 +48,7 @@ Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanba
 
 Fotosessioon sisaldab: 
 * beebi pildistamine poseerimise padja peal (beanbag'il) ja rekvisiidis
+* erinevad set-up'id beebi jaoks
 * 15 töödeldud digipilti, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks. 
 _Soovi korral piltide valik toimub Tellija poolt_ 
 * pildistamine stuudios 1 tunni jooksul (Peterburi tee 46, Tallinn). 
