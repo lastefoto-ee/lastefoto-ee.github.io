@@ -3,7 +3,7 @@ title: Малыши
 summary: фотосессии
 tags:
 - малыши
-date: "2022-04-26T06:50:53+03:00"
+date: "2022-05-09T06:50:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -57,6 +57,7 @@ _по желанию выбор фотографий на ретушь осущ�
 
 Цена **140**€ 
 
+{{< figure src="fotosessiya-malysha-24.jpg" title="Фотосессия малышки в студии" >}}
 {{< figure src="fotosessiya-malysha-22.jpg" title="Фотосессия малыша в Таллинне" >}}
 {{< figure src="fotosessiya-malysha-21.jpg" title="Фотосессия малышки в студии" >}}
 {{< figure src="fotosessiya-malysha-20.jpg" title="Фотосессия малышей первого года жизни" >}}
