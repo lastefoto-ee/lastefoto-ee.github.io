@@ -41,8 +41,8 @@ Price **170**€
 
 Maternity hospital photo shoots in Ravi and Pelgulinna
 
-{{< figure src="maternity-hospital-photosession-1.jpg" title="Maternity hospital photo shoot" >}}
-{{< figure src="maternity-hospital-photosession-2.jpg" title="Maternity hospital photo shoot in Pelgulinna" >}}
-{{< figure src="maternity-hospital-photosession-3.jpg" title="Maternity hospital outdoor photo shoot" >}}
-{{< figure src="maternity-hospital-photosession-4.jpg" title="Maternity hospital session in Tallinn" >}}
-{{< figure src="maternity-hospital-photosession-5.jpg" title="2 days old baby in Pelgulinna" >}}
+{{< figure src="maternity-hospital-photo-shoot-1.jpg" title="Maternity hospital photo shoot" >}}
+{{< figure src="maternity-hospital-photo-shoot-2.jpg" title="Maternity hospital photo shoot in Pelgulinna" >}}
+{{< figure src="maternity-hospital-photo-shoot-3.jpg" title="Maternity hospital outdoor photo shoot" >}}
+{{< figure src="maternity-hospital-photo-shoot-4.jpg" title="Maternity hospital session in Tallinn" >}}
+{{< figure src="maternity-hospital-photo-shoot-5.jpg" title="2 days old baby in Pelgulinna" >}}

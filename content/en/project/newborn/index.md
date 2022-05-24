@@ -82,71 +82,71 @@ Price **410**€
 The price and conditions of the photo shoot are available on request.
 
 {{< figure src="newborn-photo-shoot-68.jpg" title="Newborn babygirl photo shoot" >}}
-{{< figure src="newborn-photosession-67.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-66.jpg" title="Newborn photo shoot in studio" >}}
-{{< figure src="newborn-photosession-65.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photosession-62.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-61.jpg" title="Newborn babygirl photo shoot in studio" >}}
-{{< figure src="newborn-photosession-63.jpg" title="Newborn babygirl photo shoot in studio" >}}
-{{< figure src="newborn-photosession-64.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photosession-50.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-53.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-52.jpg" title="Newborn babygirl photo shoot in studio" >}}
-{{< figure src="newborn-photosession-55.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-59.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-60.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photosession-58.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-51.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-57.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-56.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-54.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-41.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photosession-49.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-48.jpg" title="Newborn twins photo shoot in studio" >}}
-{{< figure src="newborn-photosession-1.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photosession-47.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photosession-2.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-3.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-4.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-5.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-6.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photosession-7.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-8.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-9.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-10.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-11.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-12.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-13.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photosession-14.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-15.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-16.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-17.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-18.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photosession-19.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-20.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-21.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-22.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-23.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photosession-24.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-25.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-26.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-27.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-28.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-29.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photosession-30.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-31.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-32.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-33.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-34.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-35.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photosession-36.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-37.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-38.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-39.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-40.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-41.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photosession-42.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photosession-43.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photosession-44.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photosession-45.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photosession-46.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-67.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-66.jpg" title="Newborn photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-65.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-62.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-61.jpg" title="Newborn babygirl photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-63.jpg" title="Newborn babygirl photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-64.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-50.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-53.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photo-shoot-52.jpg" title="Newborn babygirl photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-55.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-59.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-60.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-58.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-51.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photo-shoot-57.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-56.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-54.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-41.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-49.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-48.jpg" title="Newborn twins photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-1.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-47.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-2.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-3.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photo-shoot-4.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-5.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-6.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-7.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-8.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-9.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photo-shoot-10.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-11.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-12.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-13.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-14.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-15.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photo-shoot-16.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-17.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-18.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-19.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-20.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photo-shoot-21.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-22.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-23.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-24.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-25.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photo-shoot-26.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-27.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-28.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-29.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-30.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-31.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photo-shoot-32.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-33.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-34.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-35.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-36.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-37.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photo-shoot-38.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-39.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-40.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-41.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-42.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-43.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photo-shoot-44.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-45.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-46.jpg" title="Newborn baby photo shoot in studio" >}}
