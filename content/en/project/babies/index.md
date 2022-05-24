@@ -3,7 +3,7 @@ title: Babies
 summary: photo shoots
 tags:
 - babies
-date: "2022-05-09T06:46:17+03:00"
+date: "2022-05-24T06:46:17+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -57,26 +57,30 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 
 Price **140** €
 
-{{< figure src="baby-photo-shoot-24.jpg" title="Baby photo shoot in the studio" >}}
+{{< figure src="baby-photo-shoot-26.jpg" title="Baby photo shoot in Tallinn" >}}
+{{< figure src="baby-photo-shoot-25.jpg" title="Baby photo shoot at LasteFoto studio" >}}
+{{< figure src="baby-photo-shoot-5.jpg" title="Baby photo shoot in the studio" >}}
 {{< figure src="baby-photo-shoot-22.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photosession-21.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photosession-20.jpg" title="Baby photo shoot at LasteFoto studio" >}}
-{{< figure src="baby-photosession-18.jpg" title="Baby photo shoot in Tallinn" >}}
-{{< figure src="baby-photosession-17.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photosession-19.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photosession-15.jpg" title="Baby photo shoot at LasteFoto studio" >}}
-{{< figure src="baby-photosession-1.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photosession-2.jpg" title="Baby photo shoot in Tallinn" >}}
-{{< figure src="baby-photosession-3.jpg" title="Photo shoot of your baby" >}}
-{{< figure src="baby-photosession-4.jpg" title="Baby photo shoot at LasteFoto studio" >}}
-{{< figure src="baby-photosession-5.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photosession-6.jpg" title="Baby photo shoot in studio" >}}
-{{< figure src="baby-photosession-7.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photosession-8.jpg" title="Baby photo shoot in Tallinn" >}}
-{{< figure src="baby-photosession-9.jpg" title="Photo shoot of your baby" >}}
-{{< figure src="baby-photosession-10.jpg" title="Baby photo shoot at LasteFoto studio" >}}
-{{< figure src="baby-photosession-11.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photosession-16.jpg" title="Baby photo shoot in Tallinn" >}}
-{{< figure src="baby-photosession-12.jpg" title="Baby photo shoot in studio" >}}
-{{< figure src="baby-photosession-13.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photosession-14.jpg" title="Baby photo shoot in Tallinn" >}}
+{{< figure src="baby-photo-shoot-27.jpg" title="Baby photo shoot in Tallinn" >}}
+{{< figure src="baby-photo-shoot-21.jpg" title="Baby photo shoot" >}}
+{{< figure src="baby-photo-shoot-28.jpg" title="Baby photo shoot in the studio" >}}
+{{< figure src="baby-photo-shoot-24.jpg" title="Baby photo shoot at LasteFoto studio" >}}
+{{< figure src="baby-photo-shoot-18.jpg" title="Baby photo shoot in Tallinn" >}}
+{{< figure src="baby-photo-shoot-17.jpg" title="Baby photo shoot" >}}
+{{< figure src="baby-photo-shoot-19.jpg" title="Baby photo shoot" >}}
+{{< figure src="baby-photo-shoot-15.jpg" title="Baby photo shoot at LasteFoto studio" >}}
+{{< figure src="baby-photo-shoot-1.jpg" title="Baby photo shoot" >}}
+{{< figure src="baby-photo-shoot-2.jpg" title="Baby photo shoot in Tallinn" >}}
+{{< figure src="baby-photo-shoot-3.jpg" title="Photo shoot of your baby" >}}
+{{< figure src="baby-photo-shoot-4.jpg" title="Baby photo shoot at LasteFoto studio" >}}
+{{< figure src="baby-photo-shoot-20.jpg" title="Baby photo shoot" >}}
+{{< figure src="baby-photo-shoot-6.jpg" title="Baby photo shoot in studio" >}}
+{{< figure src="baby-photo-shoot-7.jpg" title="Baby photo shoot" >}}
+{{< figure src="baby-photo-shoot-8.jpg" title="Baby photo shoot in Tallinn" >}}
+{{< figure src="baby-photo-shoot-9.jpg" title="Photo shoot of your baby" >}}
+{{< figure src="baby-photo-shoot-10.jpg" title="Baby photo shoot at LasteFoto studio" >}}
+{{< figure src="baby-photo-shoot-11.jpg" title="Baby photo shoot" >}}
+{{< figure src="baby-photo-shoot-16.jpg" title="Baby photo shoot in Tallinn" >}}
+{{< figure src="baby-photo-shoot-12.jpg" title="Baby photo shoot in studio" >}}
+{{< figure src="baby-photo-shoot-13.jpg" title="Baby photo shoot" >}}
+{{< figure src="baby-photo-shoot-14.jpg" title="Baby photo shoot in Tallinn" >}}
