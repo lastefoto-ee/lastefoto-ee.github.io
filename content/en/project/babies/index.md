@@ -3,7 +3,7 @@ title: Babies
 summary: photo shoots
 tags:
 - babies
-date: "2022-05-24T06:46:17+03:00"
+date: "2022-06-19T06:46:17+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -57,6 +57,7 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 
 Price **140** €
 
+{{< figure src="baby-photo-shoot-29.jpg" title="Baby photo shoot with flowers in Tallinn" >}}
 {{< figure src="baby-photo-shoot-26.jpg" title="Baby photo shoot in Tallinn" >}}
 {{< figure src="baby-photo-shoot-25.jpg" title="Baby photo shoot at LasteFoto studio" >}}
 {{< figure src="baby-photo-shoot-5.jpg" title="Baby photo shoot in the studio" >}}

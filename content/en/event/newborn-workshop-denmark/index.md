@@ -65,6 +65,10 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+draft: true
+
+
 ---
 A two-day workshop for a maximum of 12 participants. 
 
