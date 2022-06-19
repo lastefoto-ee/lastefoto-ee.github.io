@@ -123,6 +123,19 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/ul>
 &lt;p>Цена &lt;strong>140&lt;/strong>€&lt;/p>
 &lt;p>
+&lt;figure id="figure-фотосессия-малышки-с-цветами-в-студии-в-таллинне">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Фотосессия малышки с цветами в студии в Таллинне" srcset="
+/ru/project/malyshi/fotosessiya-malysha-29_hue904f64ea57b85bc3eb5ec8ac6bfbd3d_723134_f29cd02d5a314ba80d4044ae09816711.jpg 400w,
+/ru/project/malyshi/fotosessiya-malysha-29_hue904f64ea57b85bc3eb5ec8ac6bfbd3d_723134_2c77d25c3dc3054724a37ee0a3064863.jpg 760w,
+/ru/project/malyshi/fotosessiya-malysha-29_hue904f64ea57b85bc3eb5ec8ac6bfbd3d_723134_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/ru/project/malyshi/fotosessiya-malysha-29_hue904f64ea57b85bc3eb5ec8ac6bfbd3d_723134_f29cd02d5a314ba80d4044ae09816711.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Фотосессия малышки с цветами в студии в Таллинне
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-съемка-малышей-в-студии-в-таллинне">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Съемка малышей в студии в Таллинне" srcset="
