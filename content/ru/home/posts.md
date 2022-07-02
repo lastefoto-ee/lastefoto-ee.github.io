@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Мой блог
-subtitle: Статьи о фотографии новорожденных и беременных
+subtitle: Статьи о фотографии новорожденных, малышей и беременных
 
 content:
   # Page type to display. E.g. post, talk, publication...

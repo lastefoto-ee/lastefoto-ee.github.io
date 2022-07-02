@@ -37,7 +37,7 @@ authors:
 tags:
   - baby photo shoot
   - babies
-  - littel cook
+  - little cook
   - photoday
 
 categories:
