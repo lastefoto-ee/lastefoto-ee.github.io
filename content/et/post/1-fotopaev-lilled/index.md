@@ -165,9 +165,9 @@ gallery_item:
 
 ## Fotosessiooni hind sisaldab:
 - kuni 1,5-aastastele beebidele on stuudios erinevaid kleite ja bodysid. Beebidele alates 1,5 eluaastast palun riietus ise ette valmistuda. Pange tähele, et igat värvi pidulikud kleidid ilma suurte jooniste ja pealdisteta on hea valik
-- värsked lilled (lillede sordid ja värvid võivad erineda)
 - pildistamine 30 minuti jooksul
 - 10-12 retušeeritud digitaalfaili
+- värsked lilled (lillede sordid ja värvid võivad erineda)
 - stuudio rent
 
 ## Milliseid pilte saame teha?
