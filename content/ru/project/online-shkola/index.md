@@ -4,7 +4,7 @@ summary: по съемке новорожденных
 tags:
 - обучение 
 - новорожденные
-date: "2022-05-24T06:48:53+03:00"
+date: "2022-07-06T06:48:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -71,6 +71,6 @@ _для начинающих и практикующих фотографов_
 
 Программу, дату старта и ответы на часто задаваемые вопросы можно найти здесь: [newbornphotoschool.com](https://newbornphotoschool.com/)
 
-Стартуем - 1 июня 2022 года.
+Стартуем - 31 августа 2022 года.
 
 {{< cta cta_text="Напишите мне, если у вас остались вопросы" cta_link="/ru/#contact" cta_new_tab="false" >}}
