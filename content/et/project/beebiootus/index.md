@@ -111,7 +111,7 @@ gallery_item:
 * 1-2 erinevat set-upi 
 * 10 digifaili 
 * abi poseerimisel
-* 1-tunnine fotosessioon stuudios (stuudio rent on sees)
+* 1-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
 
 Fotosessiooni hind **160**€ 
@@ -122,7 +122,7 @@ Fotosessiooni hind **160**€
 * siluett pildid mustal/valgel taustal
 * 15 digifaili 
 * abi poseerimisel
-* 2-tunnine fotosessioon stuudios (stuudio rent on sees)
+* 2-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
 
 Fotosessiooni hind **235**€
@@ -133,7 +133,7 @@ Fotosessiooni hind **235**€
 * siluett pildid mustal/valgel taustal, soovi korral ka värvilisel taustal
 * 20 digifaili 
 * abi poseerimisel
-* 2-tunnine fotosessioon stuudios (stuudio rent on sees)
+* 2-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * meik ja lokid (1 inimesele)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
 

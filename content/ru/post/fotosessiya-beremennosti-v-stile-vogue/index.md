@@ -8,7 +8,7 @@ authors: ["admin"]
 tags: ["фотосессия беременности", "беременность", "Vogue", "фотосессия в стиле Vogue"]
 categories: ["беременность"]
 date: "2021-10-06T09:31:53+03:00"
-lastmod: "2021-10-06T09:31:53+03:00"
+lastmod: "2022-07-06T09:31:53+03:00"
 featured: false
 draft: false
 

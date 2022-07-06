@@ -5,10 +5,10 @@ title: "Beebiootuse fotosessioon Vogue stiilis"
 subtitle: "Ilus beebiootuse fotosessioon"
 summary: "Ilus beebiootuse fotosessioon"
 authors: ["admin"]
-tags: ["beebiootus", "lapseootus", "Vogue"]
+tags: ["beebiootus", "lapseootus", "Vogue", "fotosessioon Vogue stiilis"]
 categories: ["beebiootus"]
 date: "2021-10-06T10:00:53+03:00"
-lastmod: "2021-10-06T10:00:53+03:00"
+lastmod: "2022-07-06T10:00:53+03:00"
 featured: false
 draft: false
 

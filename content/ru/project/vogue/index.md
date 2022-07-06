@@ -30,19 +30,19 @@ slides: ""
 weight: 8
 
 gallery_item:
-- album: beremennost-portfolio
+- album: vogue-fotosessija
   image: fotosessija-v-stile-vogue-1.jpg
   caption: Фотосессия в стиле Vogue в студии 
-- album: beremennost-portfolio
+- album: vogue-fotosessija
   image: fotosessija-v-stile-vogue-2.jpg
   caption: Детская фотосессия в студии 
-- album: beremennost-portfolio
+- album: vogue-fotosessija
   image: fotosessija-v-stile-vogue-3.jpg
   caption: Фотосессия в минималистическом стиле в студии 
-- album: beremennost-portfolio
+- album: vogue-fotosessija
   image: ffotosessija-v-stile-vogue-4.jpg
   caption: Фотосессия в стиле Vogue в студии в Таллинне 
-- album: beremennost-portfolio
+- album: vogue-fotosessija
   image: fotosessija-v-stile-vogue-5.jpg
   caption: Фотосессия Мама и малыш в студии 
 ---
