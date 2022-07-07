@@ -52,7 +52,7 @@ Kas soovite samu kaadreid endale või oma beebile?
 
 {{< cta cta_text="Broneeri fotosessioon" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="true" >}}
 
-{{< figure src="./fotosessija-v-stile-vogue-1.jpg" title="Fotosessioon Vogue stiilis Tallinnas" >}}
-{{< figure src="./fotosessija-v-stile-vogue-2.jpg" title="Lapsefotosessioon stuudios" >}}
-{{< figure src="./fotosessija-v-stile-vogue-3.jpg" title="Lapsefotosessioon Tallinnas" >}}
-{{< figure src="./fotosessija-v-stile-vogue-4.jpg" title="Vogue stiilis fotosessioon" >}}
+{{< figure src="./fotosessioon-vogue-stiilis-1.jpg" title="Fotosessioon Vogue stiilis Tallinnas" >}}
+{{< figure src="./fotosessioon-vogue-stiilis-2.jpg" title="Lapsefotosessioon stuudios" >}}
+{{< figure src="./fotosessioon-vogue-stiilis-3.jpg" title="Lapsefotosessioon Tallinnas" >}}
+{{< figure src="./fotosessioon-vogue-stiilis-4.jpg" title="Vogue stiilis fotosessioon" >}}

@@ -52,7 +52,7 @@ Do you want the same shots for yourself or for your grown-up baby?
 
 {{< cta cta_text="Book a photo  shoot" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="true" >}}
 
-{{< figure src="./fotosessija-v-stile-vogue-1.jpg" title="Photo shoot in Vogue style in Tallinn" >}}
-{{< figure src="./fotosessija-v-stile-vogue-2.jpg" title="Photo shoot in the studio" >}}
-{{< figure src="./fotosessija-v-stile-vogue-3.jpg" title="Photo shoot in Vogue style in the studio in Tallinn" >}}
-{{< figure src="./fotosessija-v-stile-vogue-4.jpg" title="Photo shoot in Vogue style" >}}
+{{< figure src="./photo-shoot-in-vogue-style-1.jpg" title="Photo shoot in Vogue style in Tallinn" >}}
+{{< figure src="./photo-shoot-in-vogue-style-2.jpg" title="Photo shoot in the studio" >}}
+{{< figure src="./photo-shoot-in-vogue-style-3.jpg" title="Photo shoot in Vogue style in the studio in Tallinn" >}}
+{{< figure src="./photo-shoot-in-vogue-style-4.jpg" title="Photo shoot in Vogue style" >}}
