@@ -28,51 +28,57 @@ weight: 3
 
 ---
 
-## Vastsündinu fotosessioon - Pakett S 
+## Vastsündinu fotosessioon - Pakett S
 
-Fotosessiooni käigus pildistan 5-14 päeva beebit poseerimiseks mõeldud padja peal (beanbag). Ühistpilti ega võtteid pereliikmetega antud paketi raames ei tee. 
+_Ideaalne aeg vastsündinu pildistamiseks on 5-14 päeva vanuselt_
+
+Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag). Ühistpilti ega võtteid pereliikmetega antud paketi raames ei tee. 
 
 Fotosessioon sisaldab: 
-* beebi pildistamine poseerimispadja peal (beanbag'il) 
 * erinevad set-up'id beebi jaoks
-* 7 töödeldud digi- ja paberpilti 10x15cm. 
-_soovi korral piltide valik toimub Tellija poolt_ 
-* pildistamine Lastefoto vastsündinu stuudios 2 tunni jooksul (Peterburi tee 46, Tallinn). 
-* retušeeritud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada. 
+* 7 digi- ja paberpilti 10x15cm. 
+_soovi korral pilte saab ise valida eeltöödeldud galeriist_ 
+* erinevate mütsikeste, kangaste, korvikeste kasutus. Kasutavate aksessuaaride ja kangaste pesu.
+* pildistamine Lastefoto stuudios 1-2 tunni jooksul (sõltuvalt väikese modelli tujust). 
+* töödeldud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada. 
 * kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk. 
 * lisapildi töötlus 10€ / pilt. 
 
 Fotosessiooni hind **185**€ 
 
-## Vastsündinu fotosessioon - Pakett M 
+## Vastsündinu fotosessioon - Pakett M
 
-Fotosessiooni käigus pildistan 5-14 päeva beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis, teeme ühist perepilti ja ka pilte emme-issiga ja õdede-vendadega. 
+_Ideaalne aeg vastsündinu pildistamiseks on 5-14 päeva vanuselt_
 
-Fotosessioon sisaldab: 
-* beebi pildistamine poseerimispadja peal (beanbag'il) ja rekvisiidis 
+Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis, teeme ühist perepilti ja ka pilte emme-issiga ja õdede-vendadega. 
+
+Fotosessioon sisaldab:
 * erinevad set-up'id beebi jaoks
-* 17 töödeldud digi- ja paberpilti 10x15cm. 
-_soovi korral piltide valik toimub Tellija poolt_ 
+* 17 digi- ja paberpilti 10x15cm. 
+_soovi korral pilte saab ise valida eeltöödeldud galeriist_ 
+* erinevate mütsikeste, kangaste, korvikeste kasutus. Kasutavate aksessuaaride ja kangaste pesu.
 * fotod pereliikmetega ning ühine perepilt. 
-* pildistamine LasteFoto vastsündinu stuudios 2-3 tunni jooksul (Peterburi tee 46, Tallinn). 
-* retušeeritud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada. 
+* pildistamine LasteFoto stuudios 2-3 tunni jooksul (sõltuvalt väikese modelli tujust). 
+* töödeldud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada. 
 * kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk.
 * lisapildi töötlus 9€ / pilt. 
 
-Fotosessiooni hind **290**€ 
+Fotosessiooni hind **290**€
 
-## Vastsündinu fotosessioon - Pakett L 
+## Vastsündinu fotosessioon - Pakett L
 
-Fotosessiooni käigus pildistan 5-14 päeva beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis, teeme ühist perepilti ja ka pilte emme-issiga ja õdede-vendadega. 
+_Ideaalne aeg vastsündinu pildistamiseks on 5-14 päeva vanuselt_
+
+Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis, teeme ühist perepilti ja ka pilte emme-issiga ja õdede-vendadega. 
 
 Fotosessioon sisaldab: 
-* beebi pildistamine poseerimispadja peal (beanbag'il) ja rekvisiidis 
 * erinevad set-up'id beebi jaoks
-* 30 töödeldud digi- ja paberpilti 10x15cm.
-_soovi korral piltide valik toimub Tellija poolt_ 
+* 30 digi- ja paberpilti 10x15cm.
+_soovi korral pilte saab ise valida eeltöödeldud galeriist_
+* erinevate mütsikeste, kangaste, korvikeste kasutus. Kasutavate aksessuaaride ja kangaste pesu.
 * fotod pereliikmetega ning ühine perepilt. 
-* pildistamine Lastefoto vastsündinu stuudios 2-3 tunni jooksul (Peterburi tee 46, Tallinn). 
-* retušeeritud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada; 
+* pildistamine Lastefoto stuudios 2-4 tunni jooksul (sõltuvalt väikese modelli tujust). 
+* töödeldud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada; 
 * fotoraamat 20 х 20 cm. 
 * kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk.
 * lisapildi töötlus 8€ / pilt. 

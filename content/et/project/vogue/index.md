@@ -53,8 +53,8 @@ gallery_item:
 Stiilsed minimalistlikus stiilis "Ema ja beebi" (beebidele alates 6-7 elukuust) ja laste fotosessioonid (3-10 aastasele lapsele). 
 
 Fotosessioon sisaldab:
-* 10 töödeldud digi- ja paberpilti 10x15cm. _Soovi korral piltide valik toimub Tellija poolt_
-* abi poseerimisel
+* 10 töödeldud digi- ja paberpilti 10x15cm. _soovi korral pilte saab ise valida eeltöödeldud galeriist_
+* nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
 * 1-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * lisapildi töötlus 5€ / pilt
 

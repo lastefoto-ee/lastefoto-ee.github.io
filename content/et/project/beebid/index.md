@@ -32,12 +32,11 @@ weight: 5
 Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis. Ühistpilti ega võtteid pereliikmetega antud paketi raames ei tee. 
 
 Fotosessioon sisaldab: 
-* beebi pildistamine poseerimise padja peal (beanbag'il) ja rekvisiidis
 * erinevad set-up'id beebi jaoks
-* 10 töödeldud digipilti, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks. 
-_soovi korral piltide valik toimub Tellija poolt_ 
+* 10 digi- ja paberpilti 10x15cm. 
+_soovi korral pilte saab ise valida eeltöödeldud galeriist_
+* erinevate aksessuaaride ja korvikeste kasutust.
 * pildistamine stuudios 1 tunni jooksul (Peterburi tee 46, Tallinn). 
-* prinditud pildid 10x15cm 
 * lisapildi töötlus 5€ / pilt. 
 
 Hind **110**€ 
@@ -47,12 +46,11 @@ Hind **110**€
 Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis, teeme ühist perepilti ja ka pilte emme-issiga ja õdede-vendadega.
 
 Fotosessioon sisaldab: 
-* beebi pildistamine poseerimise padja peal (beanbag'il) ja rekvisiidis
 * erinevad set-up'id beebi jaoks
-* 15 töödeldud digipilti, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks. 
-_Soovi korral piltide valik toimub Tellija poolt_ 
+* 15 digi- ja paberpilti 10x15cm. 
+_soovi korral pilte saab ise valida eeltöödeldud galeriist_
+* erinevate aksessuaaride ja korvikeste kasutust. 
 * pildistamine stuudios 1 tunni jooksul (Peterburi tee 46, Tallinn). 
-* prinditud pildid 10x15cm 
 * lisapildi töötlus 5€ / pilt. 
 
 Hind **140**€ 
