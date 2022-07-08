@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Contact me
+title: Contact
 subtitle: Drop me a line to book a photo shoot
 
 content:
