@@ -49,4 +49,4 @@ subtitle = "Väike Lugu"
  # CSS class.
  css_class = ""
 +++
-{{< video library="true" src="vastsundinu-fotosessioon-Tallinnas.mp4" controls="no" >}}
+{{< video library="true" src="vastsundinu-fotosessioon-Tallinnas-1.mp4" controls="no" >}}
