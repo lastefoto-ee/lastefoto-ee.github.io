@@ -49,3 +49,4 @@ subtitle ="БОЛЬШОГО СЧАСТЬЯ"
  # CSS class.
  css_class = ""
 +++
+{{< video library="true" src="fotosessioon-Tallinnas-vastsundinud-beebi.mp4" controls="no" >}}
