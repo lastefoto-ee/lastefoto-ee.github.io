@@ -3,7 +3,7 @@ title: Newborn
 summary: photo shoots
 tags:
 - newborn
-date: "2022-07-07T05:43:10+03:00"
+date: "2022-07-10T05:43:10+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -75,7 +75,7 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 * USB drive with all retouched photos in individually designed package;
 * retouching of additional photos 8 € / photo
 
-Price **410**€ 
+Price **440**€ 
 
 ## Newborn Photo shoot outside of Estonia
 
