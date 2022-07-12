@@ -3,7 +3,7 @@ title: Newborn
 summary: photo shoots
 tags:
 - newborn
-date: "2022-07-10T05:43:10+03:00"
+date: "2022-07-12T05:43:10+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -34,13 +34,12 @@ In this package, the newborn (5-14 days) is the main bias. I photograph him from
 Family shots are not included in this package.
 
 The photo shoot includes:
-* photo shoot of a newborn on a posing pillow (beanbag)
-* various set-ups for the newborn
+* various set-ups for the newborn;
 * 7 retouched digital and printed photos 10x15cm;
 _if desired, the choice of photos for retouching is carried out by you_
 * shooting for 2 hours in the LasteFoto newborn studio (Peterburi tee 46, Tallinn);
 * USB drive with all retouched photos in individually designed package;
-* retouching of additional photos 10 € / photo
+* retouching of additional photos 10 € / photo;
 
 Price **185**€ 
 
@@ -49,14 +48,13 @@ Price **185**€
 In this package, the newborn (5-14 days) is the main bias. I photograph him from various angles on a posing pillow (beanbag) and props.  We also take  general family photos and separate frames with mom-dad and brother-sister.
 
 The photo shoot includes:
-* photo shoot of a newborn on a posing pillow (beanbag) and in the props
-* various set-ups for the newborn
+* various set-ups for the newborn;
 * 17 retouched digital and printed photos 10x15cm;
 _if desired, the choice of photos for retouching is carried out by the Customer_
-* family shots and photos with siblings
+* family shots and photos with siblings;
 * shooting for 2-3 hours in the LasteFoto newborn studio (Peterburi tee 46, Tallinn);
 * USB drive with all retouched photos in individually designed package;
-* retouching of additional photos 9 € / photo
+* retouching of additional photos 9 € / photo;
 
 Price **290**€ 
 
@@ -65,15 +63,14 @@ Price **290**€
 In this package, the newborn (5-14 days) is the main bias. I photograph him from various angles on a posing pillow (beanbag) and props.  We also take  general family photos and separate frames with mom-dad and brother-sister.
 
 The photo shoot includes:
-* photo shoot of a newborn on a posing pillow (beanbag) and in the props
-* various set-ups for the newborn
+* various set-ups for the newborn;
 * 30 retouched digital and printed photos 10x15cm;
 _if desired, the choice of photos for retouching is carried out by the Customer_
-* family shots and photos with siblings
+* family shots and photos with siblings;
 * shooting for 2-3 hours in the LasteFoto newborn studio (Peterburi tee 46, Tallinn);
-* photobook 20 x 20 cm
+* photobook 20 x 20 cm;
 * USB drive with all retouched photos in individually designed package;
-* retouching of additional photos 8 € / photo
+* retouching of additional photos 8 € / photo;
 
 Price **440**€ 
 
@@ -81,7 +78,8 @@ Price **440**€
 
 The price and conditions of the photo shoot are available on request.
 
-{{< figure src="newborn-photo-shoot-69.jpg" title="Newborn photo shoot in Tallinna" >}}
+{{< figure src="newborn-photo-shoot-70.jpg" title="Newborn baby photo shoot in the studio in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-69.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-68.jpg" title="Newborn babygirl photo shoot" >}}
 {{< figure src="newborn-photo-shoot-67.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-66.jpg" title="Newborn photo shoot in studio" >}}

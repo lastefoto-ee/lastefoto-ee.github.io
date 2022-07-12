@@ -3,7 +3,7 @@ title: Vastsündinud
 summary: fotosessioonid
 tags:
 - vastsündinud
-date: "2022-07-10T05:53:53+03:00"
+date: "2022-07-12T05:53:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -85,6 +85,7 @@ _soovi korral pilte saab ise valida eeltöödeldud galeriist_
 
 Fotosessiooni hind **440**€ 
 
+{{< figure src="vastsundinu-fotosessioon-70.jpg" title="Vastsündinu pildistamine stuudios" >}}
 {{< figure src="vastsundinu-fotosessioon-69.jpg" title="Vastsündinu fotosessioon stuudios" >}}
 {{< figure src="vastsundinu-fotosessioon-68.jpg" title="Vastsündinud beebitüdruku pilt" >}}
 {{< figure src="vastsundinu-fotosessioon-67.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
