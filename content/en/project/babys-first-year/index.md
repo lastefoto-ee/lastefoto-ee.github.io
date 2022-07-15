@@ -5,7 +5,7 @@ tags:
 - newborn photo shoot
 - baby photo shoot
 - baby's first year
-date: "2022-05-09T20:19:54+02:00"
+date: "2022-07-15T07:19:54+02:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,7 +39,7 @@ Baby's First Year package includes
 * various set-ups for the newborn
 * 3 one-hour photo shoots (20 pictures each)
 * various set-ups for the baby
-* 1 cake and 15 balloons for the first birthday foto session
+* 1 cake and 10 balloons for the first birthday foto session
 * 1 photo of your choice printed on canvas with a stretcher 40x60 cm
 * 1 premium-class, hardcover, photo book measuring 30x30 cm and containing 20 spreads
 * 1 custom designed USB drive with all 85 pictures ready for printing or posting online

@@ -5,7 +5,7 @@ tags:
 - vastsündinud
 - beebid
 - cake smash
-date: "2022-05-09T09:57:53+03:00"
+date: "2022-07-15T08:57:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,7 +39,7 @@ Pakett sisaldab:
 * erinevad set-up'd beebi jaoks
 * vastsündinu fotosessiooni tulemuseks on 25 töödeldud pilti, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks; 
 * iga järgmise fotosessiooni tulemuseks on 20 retušeeritud ja töödeldud fotot, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks; 
-* tort ja õhupallid (15 tk) "Cake smash" fotosessiooniks; 
+* tort ja õhupallid (10 tk) "Cake smash" fotosessiooniks; 
 * kõikide fotodega individuaalselt kujundatud pakendis USB-mälupulka; 
 * teie valikul üks foto prinditud lõuendile raami mõõtudega 40х60cm; 
 * teie poolt valitud parimate fotode alusel koostatud "Premium" klassi fotoraamat, mõõtudega 30х30cm (20 lehte). 

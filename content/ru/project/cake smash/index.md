@@ -3,7 +3,7 @@ title: Cake smash
 summary: фотосессии
 tags:
 - cake smash
-date: "2022-03-05T09:44:53+03:00"
+date: "2022-07-15T08:44:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,6 +39,7 @@ weight: 6
 
 Фотосессия cake smash в студии в Таллинне. Продолжительность фотосессии 1 час. 
 
+{{< figure src="cake-smash-fotosessiya-18.jpg" title="Фотосессия Сake smash в студии" >}}
 {{< figure src="cake-smash-fotosessiya-17.jpg" title="Сake smash фотосессия" >}}
 {{< figure src="cake-smash-фотосессия-16.jpg" title="Фотосессия первого дня рождения в студии" >}}
 {{< figure src="cake-smash-фотосессия-1.jpg" title="Сake smash фотосессия в Таллинне" >}}

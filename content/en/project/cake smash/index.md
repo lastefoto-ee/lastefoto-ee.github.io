@@ -3,7 +3,7 @@ title: Cake smash
 summary: photo shoots
 tags:
 - cake smash
-date: "2022-03-05T09:46:17+03:00"
+date: "2022-07-15T08:46:17+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -37,20 +37,21 @@ weight: 8
 
 Price **170** €
 
-{{< figure src="cake-smash-photo-shoot-17.jpg" title="Cakesmash photo shoot" >}}
+{{< figure src="cake-smash-photo-shoot-18.jpg" title="Photo shoot of Baby's first birthday" >}}
+{{< figure src="cake-smash-photo-shoot-17.jpg" title="Cake smash photo shoot" >}}
 {{< figure src="cake-smash-photo-shoot-16.jpg" title="Baby first birthday" >}}
-{{< figure src="cake-smash-photo-shoot-15.jpg" title="Cakesmash photo shoot at LasteFoto studio" >}}
-{{< figure src="cake-smash-photo-shoot-14.jpg" title="Cakesmash photo shoot" >}}
-{{< figure src="cake-smash-photo-shoot-13.jpg" title="Cakesmash photo shoot in Tallinn" >}}
-{{< figure src="cake-smash-photo-shoot-1.jpg" title="Cakesmash photo shoot" >}}
-{{< figure src="cake-smash-photo-shoot-2.jpg" title="Cakesmash photo shoot in Tallinn" >}}
+{{< figure src="cake-smash-photo-shoot-15.jpg" title="Cake smash photo shoot at LasteFoto studio" >}}
+{{< figure src="cake-smash-photo-shoot-14.jpg" title="Cake smash photo shoot" >}}
+{{< figure src="cake-smash-photo-shoot-13.jpg" title="Cake smash photo shoot in Tallinn" >}}
+{{< figure src="cake-smash-photo-shoot-1.jpg" title="Cake smash photo shoot" >}}
+{{< figure src="cake-smash-photo-shoot-2.jpg" title="Cake smash photo shoot in Tallinn" >}}
 {{< figure src="cake-smash-photo-shoot-3.jpg" title="Baby first birthday" >}}
-{{< figure src="cake-smash-photo-shoot-4.jpg" title="Cakesmash photo shoot at LasteFoto studio" >}}
-{{< figure src="cake-smash-photo-shoot-5.jpg" title="Cakesmash photo shoot" >}}
-{{< figure src="cake-smash-photo-shoot-6.jpg" title="Cakesmash photo shoot in Tallinn" >}}
+{{< figure src="cake-smash-photo-shoot-4.jpg" title="Cake smash photo shoot at LasteFoto studio" >}}
+{{< figure src="cake-smash-photo-shoot-5.jpg" title="Cake smash photo shoot" >}}
+{{< figure src="cake-smash-photo-shoot-6.jpg" title="Cake smash photo shoot in Tallinn" >}}
 {{< figure src="cake-smash-photo-shoot-7.jpg" title="Baby first birthday" >}}
-{{< figure src="cake-smash-photo-shoot-8.jpg" title="Cakesmash photo shoot at LasteFoto studio" >}}
-{{< figure src="cake-smash-photo-shoot-9.jpg" title="Cakesmash photo shoot" >}}
-{{< figure src="cake-smash-photo-shoot-10.jpg" title="Cakesmash photo shoot in Tallinn" >}}
+{{< figure src="cake-smash-photo-shoot-8.jpg" title="Cake smash photo shoot at LasteFoto studio" >}}
+{{< figure src="cake-smash-photo-shoot-9.jpg" title="Cake smash photo shoot" >}}
+{{< figure src="cake-smash-photo-shoot-10.jpg" title="Cake smash photo shoot in Tallinn" >}}
 {{< figure src="cake-smash-photo-shoot-11.jpg" title="Baby first birthday" >}}
-{{< figure src="cake-smash-photo-shoot-12.jpg" title="Cakesmash photo shoot at LasteFoto studio" >}}
+{{< figure src="cake-smash-photo-shoot-12.jpg" title="Cake smash photo shoot at LasteFoto studio" >}}
