@@ -3,7 +3,7 @@ title: Cake smash
 summary: fotosessioonid
 tags:
 - cake smash
-date: "2022-07-15T08:58:53+03:00"
+date: "2022-07-17T08:58:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,31 +27,24 @@ slides: ""
 weight: 8
 ---
 
-## "Cake smash" fotosessioon 
+## "Cake smash" fotosessioon **170**€ (1 tund)
 
-* 1-tunnine fotosessioon LasteFoto stuudios 
-* tort 
-* õhupallid (10 tk.) 
-* 20 töödeldud digipilti, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks. 
-* lisapildi töötlus 5€ / pilt
+_Alates september 2022 tehtud broneeringutele uus hind – 210 €_
 
-Fotosessiooni hind **170**€ 
+Hind sisaldab:
 
-{{< figure src="cake-smash-fotosessioon-18.jpg" title="Cake smash stuudios" >}}
-{{< figure src="cake-smash-fotosessioon-17.jpg" title="Cake smash fotosessioon" >}}
-{{< figure src="cake-smash-fotosessioon-16.jpg" title="Cake smash fotosessioon Tallinnas" >}}
-{{< figure src="cake-smash-fotosessioon-1.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
-{{< figure src="cake-smash-fotosessioon-2.jpg" title="Cake smash fotosessioon Tallinnas" >}}
-{{< figure src="cake-smash-fotosessioon-3.jpg" title="Cake smash fotosessioon stuudios" >}}
-{{< figure src="cake-smash-fotosessioon-4.jpg" title="Stuudio cake smash pildistamine" >}}
-{{< figure src="cake-smash-fotosessioon-5.jpg" title="Cake smash fotosessioon" >}}
-{{< figure src="cake-smash-fotosessioon-6.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
-{{< figure src="cake-smash-fotosessioon-7.jpg" title="Cake smash fotosessioon Tallinnas" >}}
+* beebi individuaalsed portreed, fotod sünnipäevalapsest tordiga ja vannis (kui laps ei karda vett), ühine perefoto (soovi korral);
+* 20 töödeldud digitaalfaili;
+* tort;
+* õhupallid (10 tk.);
+* lisapildi töötlus 5€ / pilt;
+
+{{< figure src="cake-smash-fotosessioon-9.jpg" title="Cake smash stuudios" >}}
 {{< figure src="cake-smash-fotosessioon-8.jpg" title="Cake smash fotosessioon" >}}
-{{< figure src="cake-smash-fotosessioon-9.jpg" title="Stuudio cake smash pildistamine" >}}
-{{< figure src="cake-smash-fotosessioon-10.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
-{{< figure src="cake-smash-fotosessioon-11.jpg" title="Cake smash fotosessioon Tallinnas" >}}
-{{< figure src="cake-smash-fotosessioon-12.jpg" title="Cake smash fotosessioon" >}}
-{{< figure src="cake-smash-fotosessioon-13.jpg" title="Stuudio cake smash pildistamine" >}}
-{{< figure src="cake-smash-fotosessioon-14.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
-{{< figure src="cake-smash-fotosessioon-15.jpg" title="Cake smash fotosessioon Tallinnas" >}}
+{{< figure src="cake-smash-fotosessioon-7.jpg" title="Cake smash fotosessioon Tallinnas" >}}
+{{< figure src="cake-smash-fotosessioon-6.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
+{{< figure src="cake-smash-fotosessioon-5.jpg" title="Cake smash fotosessioon Tallinnas" >}}
+{{< figure src="cake-smash-fotosessioon-4.jpg" title="Cake smash fotosessioon stuudios" >}}
+{{< figure src="cake-smash-fotosessioon-3.jpg" title="Stuudio cake smash pildistamine" >}}
+{{< figure src="cake-smash-fotosessioon-2.jpg" title="Cake smash fotosessioon" >}}
+{{< figure src="cake-smash-fotosessioon-1.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
