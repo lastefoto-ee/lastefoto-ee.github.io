@@ -1,6 +1,6 @@
 ---
 title: Cake smash
-summary: photo shoots
+summary: first birthday photo shoot
 tags:
 - cake smash
 date: "2022-07-17T08:46:17+03:00"
@@ -27,14 +27,17 @@ slides: ""
 weight: 8
 ---
 
-## photo shoot "Cake smash" **170** € (1 hour)
+## photo shoot "Cake smash" (1 hour)
+
+Price **170** €
 
 _For bookings made from September 2022, the new price - 210 €_
 
 The price includes:
 
-* individual portraits of the baby, photos with a cake and in a bath (if the baby is not afraid of water), a family photo (optional);
+* individual portraits of the baby (1-2 cute set-ups for this), photos with a cake and in a bath (if the baby is not afraid of water), a family photo (optional);
 * 20 digital photos;
+_if desired, the choice of photos for retouching is carried out by the Customer_
 * cake;
 * balloons (10 pcs);
 * retouching of additional photos 5 € / photo

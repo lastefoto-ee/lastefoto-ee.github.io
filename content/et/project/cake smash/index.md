@@ -1,6 +1,6 @@
 ---
 title: Cake smash
-summary: fotosessioonid
+summary: fotosessioon esimesele sünnipäevale
 tags:
 - cake smash
 date: "2022-07-17T08:58:53+03:00"
@@ -27,14 +27,17 @@ slides: ""
 weight: 8
 ---
 
-## "Cake smash" fotosessioon **170**€ (1 tund)
+## "Cake smash" fotosessioon (1 tund) 
+
+Hind **170**€
 
 _Alates september 2022 tehtud broneeringutele uus hind – 210 €_
 
 Hind sisaldab:
 
-* beebi individuaalsed portreed, fotod sünnipäevalapsest tordiga ja vannis (kui laps ei karda vett), ühine perefoto (soovi korral);
+* beebi individuaalsed portreed (1-2 armsat set-up'i), fotod sünnipäevalapsest tordiga ja vannis (kui laps ei karda vett), ühine perefoto (soovi korral);
 * 20 töödeldud digitaalfaili;
+_soovi korral pilte saab ise valida eeltöödeldud galeriist_
 * tort;
 * õhupallid (10 tk.);
 * lisapildi töötlus 5€ / pilt;

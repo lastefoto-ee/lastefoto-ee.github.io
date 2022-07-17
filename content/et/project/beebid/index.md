@@ -1,9 +1,9 @@
 ---
 title: Beebid
-summary: fotosessioonid
+summary: fotosessioon beebidele vanuses 4-11 kuud
 tags:
 - beebid
-date: "2022-07-12T05:06:53+03:00"
+date: "2022-07-17T05:06:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,60 +27,49 @@ slides: ""
 weight: 5
 
 ---
-## Beebi fotosessioon (4-11 kuud) - Pakett S 
+## Beebi fotosessioon (4-11 kuud) - Pakett S (1 tund)
+
+Hind **110**€
+
+_Alates september 2022 tehtud broneeringutele uus hind – 150 €_
 
 Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis. Ühistpilti ega võtteid pereliikmetega antud paketi raames ei tee. 
 
-Fotosessioon sisaldab: 
-* erinevad set-up'id beebi jaoks
-* 10 digi- ja paberpilti 10x15cm. 
+Hind sisaldab: 
+* 2-3 armsat set-up'i beebi jaoks;
+* erinevate aksessuaaride ja rekvisiitide kasutus;
+* 10 digi- ja paberpilti 10x15cm;
 _soovi korral pilte saab ise valida eeltöödeldud galeriist_
-* erinevate aksessuaaride ja korvikeste kasutust.
-* pildistamine stuudios 1 tunni jooksul (Peterburi tee 46, Tallinn). 
-* lisapildi töötlus 5€ / pilt. 
+* lisapildi töötlus 5€ / pilt;
 
-Hind **110**€ 
+## Beebi fotosessioon (4-11 kuud) - Pakett M (1 tund)
 
-## Beebi fotosessioon (4-11 kuud) - Pakett M 
+Hind **140**€
+
+_Alates september 2022 tehtud broneeringutele uus hind – 180 €_
 
 Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis, teeme ühist perepilti ja ka pilte emme-issiga ja õdede-vendadega.
 
 Fotosessioon sisaldab: 
-* erinevad set-up'id beebi jaoks
-* 15 digi- ja paberpilti 10x15cm. 
+* 2-3 unikaalset set-up'i beebi jaoks;
+* erinevate aksessuaaride ja rekvisiitide kasutus;
+* 15 digi- ja paberpilti 10x15cm;
 _soovi korral pilte saab ise valida eeltöödeldud galeriist_
-* erinevate aksessuaaride ja korvikeste kasutust. 
-* pildistamine stuudios 1 tunni jooksul (Peterburi tee 46, Tallinn). 
 * lisapildi töötlus 5€ / pilt. 
 
-Hind **140**€ 
-
-{{< figure src="beebi-fotosessioon-30.jpg" title="Beebipildistamine stuudios" >}}
-{{< figure src="beebi-fotosessioon-29.jpg" title="Beebifotosessioon lilledega Tallinnas" >}}
-{{< figure src="beebi-fotosessioon-26.jpg" title="Beebipildistamine Tallinna stuudios" >}}
-{{< figure src="beebi-fotosessioon-25.jpg" title="Beebipildid" >}}
-{{< figure src="beebi-fotosessioon-5.jpg" title="Beebipildistamine Tallinnas" >}}
-{{< figure src="beebi-fotosessioon-22.jpg" title="Beebipildid" >}}
-{{< figure src="beebi-fotosessioon-27.jpg" title="Beebi fotosessioon Tallinnas" >}}
-{{< figure src="beebi-fotosessioon-21.jpg" title="Beebipildid" >}}
-{{< figure src="beebi-fotosessioon-28.jpg" title="Beebifotosessioon" >}}
-{{< figure src="beebi-fotosessioon-24.jpg" title="Beebi pildistamine Tallinna stuudios" >}}
-{{< figure src="beebi-fotosessioon-18.jpg" title="Beebipildistamine" >}}
-{{< figure src="beebi-fotosessioon-17.jpg" title="Beebi fotosessioon Tallinnas" >}}
-{{< figure src="beebi-fotosessioon-19.jpg" title="Beebipildid" >}}
-{{< figure src="beebi-fotosessioon-15.jpg" title="Beebipildistamine Tallinna stuudios" >}}
-{{< figure src="beebi-fotosessioon-1.jpg" title="Beebi fotosessioon" >}}
-{{< figure src="beebi-fotosessioon-2.jpg" title="Beebifotosessioon Tallinnas" >}}
-{{< figure src="beebi-fotosessioon-3.jpg" title="Beebipildistamine" >}}
-{{< figure src="beebi-fotosessioon-4.jpg" title="Beebi pildistamine Tallinna stuudios" >}}
-{{< figure src="beebi-fotosessioon-20.jpg" title="Beebipildid" >}}
-{{< figure src="beebi-fotosessioon-6.jpg" title="Beebifotosessioon stuudios" >}}
-{{< figure src="beebi-fotosessioon-7.jpg" title="Beebi fotosessioon" >}}
-{{< figure src="beebi-fotosessioon-8.jpg" title="Beebifotosessioon Tallinnas" >}}
-{{< figure src="beebi-fotosessioon-9.jpg" title="Beebipildistamine" >}}
-{{< figure src="beebi-fotosessioon-10.jpg" title="Beebipildistamine Tallinna stuudios" >}}
-{{< figure src="beebi-fotosessioon-11.jpg" title="Beebipildid" >}}
-{{< figure src="beebi-fotosessioon-16.jpg" title="Beebi pildistamine Tallinna stuudio" >}}
-{{< figure src="beebi-fotosessioon-12.jpg" title="Beebifotosessioon" >}}
-{{< figure src="beebi-fotosessioon-13.jpg" title="Beebifotosessioon Tallinnas" >}}
+{{< figure src="beebi-fotosessioon-16.jpg" title="Beebipildistamine stuudios" >}}
+{{< figure src="beebi-fotosessioon-15.jpg" title="Beebifotosessioon lilledega Tallinnas" >}}
 {{< figure src="beebi-fotosessioon-14.jpg" title="Beebipildistamine Tallinna stuudios" >}}
+{{< figure src="beebi-fotosessioon-13.jpg" title="Beebipildid" >}}
+{{< figure src="beebi-fotosessioon-12.jpg" title="Beebipildistamine Tallinnas" >}}
+{{< figure src="beebi-fotosessioon-11.jpg" title="Beebipildid" >}}
+{{< figure src="beebi-fotosessioon-10.jpg" title="Beebi fotosessioon Tallinnas" >}}
+{{< figure src="beebi-fotosessioon-9.jpg" title="Beebipildid" >}}
+{{< figure src="beebi-fotosessioon-8.jpg" title="Beebifotosessioon" >}}
+{{< figure src="beebi-fotosessioon-7.jpg" title="Beebi pildistamine Tallinna stuudios" >}}
+{{< figure src="beebi-fotosessioon-6.jpg" title="Beebipildistamine" >}}
+{{< figure src="beebi-fotosessioon-5.jpg" title="Beebi fotosessioon Tallinnas" >}}
+{{< figure src="beebi-fotosessioon-4.jpg" title="Beebipildid" >}}
+{{< figure src="beebi-fotosessioon-3.jpg" title="Beebipildistamine Tallinna stuudios" >}}
+{{< figure src="beebi-fotosessioon-2.jpg" title="Beebi fotosessioon" >}}
+{{< figure src="beebi-fotosessioon-1.jpg" title="Beebifotosessioon Tallinnas" >}}

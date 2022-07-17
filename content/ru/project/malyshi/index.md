@@ -1,9 +1,9 @@
 ---
 title: Малыши
-summary: фотосессии
+summary: фотосессии для малышей 4-11 месяцев
 tags:
 - малыши
-date: "2022-07-12T05:50:53+03:00"
+date: "2022-07-17T05:50:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -28,59 +28,50 @@ weight: 5
 
 ---
 
-## Фотосессия малыша (4-11 месяцев) - Пакет S 
+## Фотосессия малыша 4-11 месяцев - Пакет S (1 час)
 
-Основной уклон делается на малыша, я фотографирую его в различных ракурсах на позировочной подушке (beanbag) и в реквизите. Семейные кадры в данный пакет не входят.
+Цена **110**€
 
-В фотосессию входит:
-* милые образы для малыша
+_На бронирования, сделанные с сентября 2022, новая цена – 150 €_
+
+Основной уклон делается на малыша, я фотографирую его в различных ракурсах на специальной позировочной подушке (beanbag) и в реквизите. Семейные кадры в данный пакет не входят.
+
+В цену входит:
+* 2-3 милых образа для малыша;
+* использование различных аксессуаров и реквизита;
 * 10 дигитальных и напечатанных фотографий размером 10х15см;
 _по желанию выбор фотографий на ретушь осуществляется Заказчиком_
-* съёмка в течение 1 часа в студии (Peterburi tee 46, Tallinn);
-* обработка дополнительных фотографий 5€ / фотография
-
-Цена **110**€ 
+* обработка дополнительных фотографий 5€ / фотография;
 
 
-## Фотосессия малыша (4-11 месяцев) - Пакет М 
+## Фотосессия малыша 4-11 месяцев - Пакет М (1 час)
 
-Основной уклон делается на малыша, я фотографирую его в различных ракурсах на позировочной подушке (beanbag) и реквизите, делаем общие семейные фотографии и отдельные кадры с мамой-папой и братом-сестрой.  
+Цена **140**€
 
-В фотосессию входит:
-* различные образы для малыша
+_На бронирования, сделанные с сентября 2022, новая цена – 180 €_
+
+Основной уклон делается на малыша, я фотографирую его в различных ракурсах на специальной позировочной подушке (beanbag) и реквизите, делаем общие семейные фотографии и отдельные кадры с мамой-папой и братом-сестрой.  
+
+В цену входит:
+* 2-3 уникальных образа для малыша;
+* использование различных аксессуаров и реквизита;
 * 15 дигитальных и напечатанных фотографий размером 10х15см;
 _по желанию выбор фотографий на ретушь осуществляется Заказчиком_
-* съёмка в течение 1 часа в студии (Peterburi tee 46, Tallinn);
 * обработка дополнительных фотографий 5€ / фотография
 
-Цена **140**€ 
-
-{{< figure src="fotosessiya-malysha-30.jpg" title="Фотосессия малыша" >}}
-{{< figure src="fotosessiya-malysha-29.jpg" title="Фотосессия малышки с цветами в студии в Таллинне" >}}
-{{< figure src="fotosessiya-malysha-26.jpg" title="Съемка малышей в студии в Таллинне" >}}
-{{< figure src="fotosessiya-malysha-25.jpg" title="Фотографии малышей" >}}
-{{< figure src="fotosessiya-malysha-5.jpg" title="Фотосессия малыша в студии" >}}
-{{< figure src="fotosessiya-malysha-22.jpg" title="Фотосессия малыша в Таллинне" >}}
-{{< figure src="fotosessiya-malysha-27.jpg" title="Фотосессия малышей" >}}
-{{< figure src="fotosessiya-malysha-21.jpg" title="Фотосессия малышки в студии" >}}
-{{< figure src="fotosessiya-malysha-28.jpg" title="Фотосессия малыша" >}}
-{{< figure src="fotosessiya-malysha-24.jpg" title="Фотосессия малышей первого года жизни" >}}
-{{< figure src="fotosessiya-malysha-18.jpg" title="Фотосессия малышки в студии в Таллинне" >}}
-{{< figure src="fotosessiya-malysha-17.jpg" title="Фотосессия малышей в Таллинне" >}}
-{{< figure src="fotosessiya-malysha-19.jpg" title="Фотосессия малышей" >}}
-{{< figure src="fotosessiya-malysha-15.jpg" title="Съемка малышей в студии в Таллинне" >}}
-{{< figure src="fotosessiya-malysha-1.jpg" title="Фотосессия малышей" >}}
-{{< figure src="fotosessiya-malysha-2.jpg" title="Фотосессия малышей в Таллинне" >}}
-{{< figure src="fotosessiya-malysha-3.jpg" title="Фотосессия малышей первого года жизни" >}}
-{{< figure src="fotosessiya-malysha-4.jpg" title="Съемка малышей в студии в Таллинне" >}}
-{{< figure src="fotosessiya-malysha-20.jpg" title="Фотографии малышей" >}}
-{{< figure src="fotosessiya-malysha-6.jpg" title="Фотосессия малышки в студии Таллинна" >}}
-{{< figure src="fotosessiya-malysha-7.jpg" title="Фотографии малышей" >}}
-{{< figure src="fotosessiya-malysha-8.jpg" title="Фотосессия малышей в Таллинне" >}}
-{{< figure src="fotosessiya-malysha-9.jpg" title="Фотосессия малышей первого года жизни" >}}
-{{< figure src="fotosessiya-malysha-10.jpg" title="Съемка малышей в студии в Таллинне" >}}
-{{< figure src="fotosessiya-malysha-11.jpg" title="Фотографии малышей" >}}
-{{< figure src="fotosessiya-malysha-16.jpg" title="Съемка малышей в студии в Таллинне" >}}
-{{< figure src="fotosessiya-malysha-12.jpg" title="Фотосессия малышей в Таллинне" >}}
-{{< figure src="fotosessiya-malysha-13.jpg" title="Фотосессия малышей первого года жизни" >}}
+{{< figure src="fotosessiya-malysha-16.jpg" title="Фотосессия малыша" >}}
+{{< figure src="fotosessiya-malysha-15.jpg" title="Фотосессия малышки с цветами в студии в Таллинне" >}}
 {{< figure src="fotosessiya-malysha-14.jpg" title="Съемка малышей в студии в Таллинне" >}}
+{{< figure src="fotosessiya-malysha-13.jpg" title="Фотографии малышей" >}}
+{{< figure src="fotosessiya-malysha-12.jpg" title="Фотосессия малыша в студии" >}}
+{{< figure src="fotosessiya-malysha-11.jpg" title="Фотосессия малыша в Таллинне" >}}
+{{< figure src="fotosessiya-malysha-10.jpg" title="Фотосессия малышей" >}}
+{{< figure src="fotosessiya-malysha-9.jpg" title="Фотосессия малышки в студии" >}}
+{{< figure src="fotosessiya-malysha-8.jpg" title="Фотосессия малыша" >}}
+{{< figure src="fotosessiya-malysha-7.jpg" title="Фотосессия малышей первого года жизни" >}}
+{{< figure src="fotosessiya-malysha-6.jpg" title="Фотосессия малышки в студии в Таллинне" >}}
+{{< figure src="fotosessiya-malysha-5.jpg" title="Фотосессия малышей в Таллинне" >}}
+{{< figure src="fotosessiya-malysha-4.jpg" title="Фотосессия малышей" >}}
+{{< figure src="fotosessiya-malysha-3.jpg" title="Съемка малышей в студии в Таллинне" >}}
+{{< figure src="fotosessiya-malysha-2.jpg" title="Фотосессия малышей" >}}
+{{< figure src="fotosessiya-malysha-1.jpg" title="Фотосессия малышей в Таллинне" >}}
