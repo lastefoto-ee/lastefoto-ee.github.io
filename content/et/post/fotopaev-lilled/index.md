@@ -159,12 +159,12 @@ gallery_item:
 - Iga beebiga veedame koos umbes 40 minutit. Neist fotosessiooni enda kestvus jääb 20-30 minutiks. Kohanemiseks ja riiete vahetamiseks kulub u. 10-15 minutit.
 
 ## Mis on fotosessiooni hind?
-- Osalemise hind - 97€.
+- Osalemise hind - 77€.
 
 {{< cta cta_text="Registreeru fotopäevale" cta_link="https://calendly.com/lastefoto/fotopaev-lilled" cta_new_tab="true" >}}
 
 ## Fotosessiooni hind sisaldab:
-- kuni 1,5-aastastele beebidele on stuudios erinevaid kleite ja bodysid. Beebidele alates 1,5 eluaastast palun riietus ise ette valmistuda. Pange tähele, et igat värvi pidulikud kleidid ilma suurte jooniste ja pealdisteta on hea valik
+- kuni 1,5-aastastele beebidele pakun erinevaid kleite, bodysid jne. Beebidele alates 1,5 eluaastast palun riietus ise ette valmistuda. Pange tähele, et igat värvi pidulik riietus ilma suurte jooniste ja pealdisteta on hea valik
 - pildistamine 30 minuti jooksul
 - 10-12 retušeeritud digitaalfaili
 - värsked lilled (lillede sordid ja värvid võivad erineda)

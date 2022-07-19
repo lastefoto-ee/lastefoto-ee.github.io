@@ -158,12 +158,12 @@ gallery_item:
 - We will spend approximately 40 minutes together. The duration of the photo session itself will be 20-30 minutes. It will take 10-15 minutes for babies to adapt and change clothes.
 
 ## How much does a photo shoot cost?
-- Participation fee - 97€.
+- Participation fee - 77€.
 
 {{< cta cta_text="Book time for a photo day" cta_link="https://calendly.com/lastefoto/fotopaev-lilled" cta_new_tab="true" >}}
 
 ## What is included in the cost of a photo shoot?
-- we offer a variety of dresses and bodysuits for babies up to 1.5 years old in the studio. You have to prepare an outfit by yourself for babies aged 1.5 years and older. Please note, that festive dresses of any color without large drawings and inscriptions are a good choise.
+- we offer a variety of dresses, bodysuits, etc for babies up to 1.5 years old in the studio. You have to prepare an outfit by yourself for babies aged 1.5 years and older. Please note, that festive outfit of any color without large drawings and inscriptions are a good choise.
 - photo shoot for 30 minutes
 - 10-12 retouched digital photos
 - natural flowers (varieties and colors of flowers may differ from those shown in the examples)
