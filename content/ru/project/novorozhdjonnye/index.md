@@ -3,7 +3,7 @@ title: Newborn
 summary: новорожденные
 tags:
 - новорожденные
-date: "2022-07-10T05:49:53+03:00"
+date: "2022-07-20T05:49:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -74,73 +74,38 @@ _по желанию выбор фотографий на ретушь осущ�
 
 Стоимость фотосессии **440**€ 
 
-{{< figure src="fotosessiya-novorozhdennykh-70.jpg" title="Фотосессия новорожденной малышки с родителями" >}}
-{{< figure src="fotosessiya-novorozhdennykh-69.jpg" title="Фотосессия новорожденной малышки, 12 дней" >}}
-{{< figure src="fotosessiya-novorozhdennykh-68.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-67.jpg" title="Фотосессия новорожденной малышки в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-66.jpg" title="Фотосессия новорожденного в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-65.jpg" title="Фотосессия новорожденной малышки" >}}
-{{< figure src="fotosessiya-novorozhdennykh-62.jpg" title="Фотосессия новорожденной малышки в студии в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-61.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-63.jpg" title="Съемка новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-64.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-50.jpg" title="Съемка новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-53.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-52.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-55.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-59.jpg" title="Фотосессия новорожденной малышки в студии в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-60.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-58.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-51.jpg" title="Фотосессия новорожденной малышки в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-57.jpg" title="Съемка новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-56.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-54.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-49.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-48.jpg" title="Фотосессия новорожденных малышек в студии в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-1.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-47.jpg" title="Фотосессия новорожденной малышки в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-2.jpg" title="Съемка новорожденного в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-3.jpg" title="Фотосессия новорожденного малыша в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-4.jpg" title="Фотосессия новорожденного в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-5.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-6.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-7.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-8.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-9.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-10.jpg" title="Фотосессия новорожденного малыша в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-11.jpg" title="Съемка новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-12.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-13.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-14.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-15.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-16.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-17.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-18.jpg" title="Фотосессия новорожденного малыша в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-19.jpg" title="Съемка новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-20.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-21.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-22.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-23.jpg" title="Фотосессия новорожденного малыша в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-24.jpg" title="Съемка новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-25.jpg" title="Фотосессия новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-35.jpg" title="Фотосессия новорожденной малышки с родителями" >}}
+{{< figure src="fotosessiya-novorozhdennykh-34.jpg" title="Фотосессия новорожденной малышки, 12 дней" >}}
+{{< figure src="fotosessiya-novorozhdennykh-33.jpg" title="Фотосессия новорожденного в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-32.jpg" title="Фотосессия новорожденной малышки в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-31.jpg" title="Фотосессия новорожденного в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-30.jpg" title="Фотосессия новорожденной малышки" >}}
+{{< figure src="fotosessiya-novorozhdennykh-29.jpg" title="Фотосессия новорожденной малышки в студии в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-28.jpg" title="Фотосессия новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-27.jpg" title="Съемка новорожденных в Таллинне" >}}
 {{< figure src="fotosessiya-novorozhdennykh-26.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-27.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-28.jpg" title="Фотосессия новорожденного малыша в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-29.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-30.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-31.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-32.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-33.jpg" title="Фотосессия новорожденного малыша в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-34.jpg" title="Съемка новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-35.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-36.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-37.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-38.jpg" title="Фотосессия новорожденного малыша в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-39.jpg" title="Съемка новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-40.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-41.jpg" title="Фотосессия новорожденного в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-42.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-43.jpg" title="Фотосессия новорожденного малыша в студии" >}}
-{{< figure src="fotosessiya-novorozhdennykh-44.jpg" title="Съемка новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-45.jpg" title="Фотосессия новорожденных в Таллинне" >}}
-{{< figure src="fotosessiya-novorozhdennykh-46.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-25.jpg" title="Съемка новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-24.jpg" title="Фотосессия новорожденного в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-23.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-22.jpg" title="Фотосессия новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-21.jpg" title="Фотосессия новорожденной малышки в студии в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-20.jpg" title="Фотосессия новорожденного в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-19.jpg" title="Фотосессия новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-18.jpg" title="Фотосессия новорожденной малышки в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-17.jpg" title="Съемка новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-16.jpg" title="Фотосессия новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-15.jpg" title="Фотосессия новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-14.jpg" title="Фотосессия новорожденного в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-13.jpg" title="Фотосессия новорожденных малышек в студии в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-12.jpg" title="Фотосессия новорожденного в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-11.jpg" title="Фотосессия новорожденной малышки в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-10.jpg" title="Съемка новорожденного в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-9.jpg" title="Фотосессия новорожденного малыша в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-8.jpg" title="Фотосессия новорожденного в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-7.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-6.jpg" title="Фотосессия новорожденного в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-5.jpg" title="Фотосессия новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-4.jpg" title="Фотосессия новорожденного в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-3.jpg" title="Фотосессия новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-2.jpg" title="Фотосессия новорожденного малыша в студии" >}}
+{{< figure src="fotosessiya-novorozhdennykh-1.jpg" title="Съемка новорожденных в Таллинне" >}}

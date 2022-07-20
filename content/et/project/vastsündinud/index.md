@@ -3,7 +3,7 @@ title: Vastsündinud
 summary: fotosessioonid
 tags:
 - vastsündinud
-date: "2022-07-12T05:53:53+03:00"
+date: "2022-07-20T05:53:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -85,74 +85,38 @@ _soovi korral pilte saab ise valida eeltöödeldud galeriist_
 
 Fotosessiooni hind **440**€ 
 
-{{< figure src="vastsundinu-fotosessioon-70.jpg" title="Vastsündinu pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-69.jpg" title="Vastsündinu fotosessioon stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-68.jpg" title="Vastsündinud beebitüdruku pilt" >}}
-{{< figure src="vastsundinu-fotosessioon-67.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-66.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-65.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="vastsundinu-fotosessioon-62.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-61.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-63.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="vastsundinu-fotosessioon-64.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-50.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-53.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-52.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="vastsundinu-fotosessioon-55.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-59.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-60.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-58.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-51.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="vastsundinu-fotosessioon-57.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-56.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-54.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-35.jpg" title="Vastsündinu pildistamine stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-34.jpg" title="Vastsündinu fotosessioon stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-33.jpg" title="Vastsündinud beebitüdruku pilt" >}}
+{{< figure src="vastsundinu-fotosessioon-32.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
 {{< figure src="vastsundinu-fotosessioon-31.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-49.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-48.jpg" title="Vastsündinud kaksikute fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-1.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-47.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-2.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-3.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-4.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-5.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="vastsundinu-fotosessioon-6.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-7.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-8.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-9.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-10.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-11.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-12.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="vastsundinu-fotosessioon-13.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-14.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-15.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-16.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-17.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="vastsundinu-fotosessioon-18.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-19.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-20.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-21.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-22.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="vastsundinu-fotosessioon-23.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-24.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-25.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-26.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-30.jpg" title="Vastsündinu pilt" >}}
+{{< figure src="vastsundinu-fotosessioon-29.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-28.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
 {{< figure src="vastsundinu-fotosessioon-27.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="vastsundinu-fotosessioon-28.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-29.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-30.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-31.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-32.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="vastsundinu-fotosessioon-33.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-34.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-35.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-36.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-37.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="vastsundinu-fotosessioon-38.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-39.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-40.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-41.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-42.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="vastsundinu-fotosessioon-43.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="vastsundinu-fotosessioon-44.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-45.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="vastsundinu-fotosessioon-46.jpg" title="Vastsündinu pilt" >}}
+{{< figure src="vastsundinu-fotosessioon-26.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-25.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-24.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-23.jpg" title="Vastsündinu pilt" >}}
+{{< figure src="vastsundinu-fotosessioon-22.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-21.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-20.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-19.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-18.jpg" title="Vastsündinu pilt" >}}
+{{< figure src="vastsundinu-fotosessioon-17.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-16.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-15.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-14.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-13.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-12.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-11.jpg" title="Vastsündinud kaksikute fotosessioon stuudios Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-10.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-9.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-8.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-7.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-6.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-5.jpg" title="Vastsündinu pilt" >}}
+{{< figure src="vastsundinu-fotosessioon-4.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-3.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-2.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-1.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
