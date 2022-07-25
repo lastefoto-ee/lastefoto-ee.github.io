@@ -757,7 +757,7 @@ height="760"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Cake smash photo shoot in studio: 1-year-old
-&lt;/figcaption>&lt;/figure>&lt;/p></description></item><item><title>Babies</title><link>https://www.lastefoto.ee/en/project/babies/</link><pubDate>Sun, 17 Jul 2022 05:46:17 +0300</pubDate><guid>https://www.lastefoto.ee/en/project/babies/</guid><description>&lt;h2 id="baby-photo-shoot-4-11-months---package-s-1-hour">Baby photo shoot (4-11 months) - Package S (1 hour)&lt;/h2>
+&lt;/figcaption>&lt;/figure>&lt;/p></description></item><item><title>Babies</title><link>https://www.lastefoto.ee/en/project/babies/</link><pubDate>Mon, 25 Jul 2022 05:46:17 +0300</pubDate><guid>https://www.lastefoto.ee/en/project/babies/</guid><description>&lt;h2 id="baby-photo-shoot-4-11-months---package-s-1-hour">Baby photo shoot (4-11 months) - Package S (1 hour)&lt;/h2>
 &lt;p>Price &lt;strong>110&lt;/strong> €&lt;/p>
 &lt;p>&lt;em>For bookings made from September 2022, the new price - 150 €&lt;/em>&lt;/p>
 &lt;p>In this package, the baby is the main bias, I photograph him from various angles on a posing pillow (beanbag) and props. Family pictures are not included in this package.&lt;/p>
@@ -782,6 +782,19 @@ Cake smash photo shoot in studio: 1-year-old
 &lt;li>retouching of additional photos 5 € / photo&lt;/li>
 &lt;/ul>
 &lt;p>
+&lt;figure id="figure-baby-photo-shoot">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Baby photo shoot" srcset="
+/en/project/babies/baby-photo-shoot-17_hu79cd003df14a57750d08044a7382a336_572004_33f7f9de5d2692554513aa1330e7d531.jpg 400w,
+/en/project/babies/baby-photo-shoot-17_hu79cd003df14a57750d08044a7382a336_572004_f4dadcf62b1a444ebabec32c5fb6a7d3.jpg 760w,
+/en/project/babies/baby-photo-shoot-17_hu79cd003df14a57750d08044a7382a336_572004_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/en/project/babies/baby-photo-shoot-17_hu79cd003df14a57750d08044a7382a336_572004_33f7f9de5d2692554513aa1330e7d531.jpg"
+width="507"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Baby photo shoot
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-baby-photo-shoot-in-the-studio-on-tallinn">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Baby photo shoot in the studio on Tallinn" srcset="
