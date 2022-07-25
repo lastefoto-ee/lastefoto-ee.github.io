@@ -3,7 +3,7 @@ title: Beebid
 summary: fotosessioon beebidele vanuses 4-11 kuud
 tags:
 - beebid
-date: "2022-07-17T05:06:53+03:00"
+date: "2022-07-25T05:06:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -57,6 +57,7 @@ Fotosessioon sisaldab:
 _soovi korral pilte saab ise valida eeltöödeldud galeriist_
 * lisapildi töötlus 5€ / pilt. 
 
+{{< figure src="beebi-fotosessioon-17.jpg" title="Beebifotosessioon stuudios" >}}
 {{< figure src="beebi-fotosessioon-16.jpg" title="Beebipildistamine stuudios" >}}
 {{< figure src="beebi-fotosessioon-15.jpg" title="Beebifotosessioon lilledega Tallinnas" >}}
 {{< figure src="beebi-fotosessioon-14.jpg" title="Beebipildistamine Tallinna stuudios" >}}
