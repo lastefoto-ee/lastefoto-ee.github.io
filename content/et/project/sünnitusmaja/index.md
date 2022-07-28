@@ -3,7 +3,7 @@ title: Sünnitusmaja
 summary: fotosessioonid
 tags:
 - sünnitusmaja
-date: "2021-10-16T09:55:53+03:00"
+date: "2022-07-27T09:55:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,8 +40,8 @@ Hind **170**€
 
 Vastsündinud beebide fotosessioonid Tallinna sünnitusmajades. Sessiooni saab teha Ravi ja Pelgulinna sünnitusmajades. Sessiooni kestvus - 1-2 tundi. 
 
-{{< figure src="fotosessioon-sunnitusmajas-1.jpg" title="Vastsündinu fotosessioon Tallinna sünnitusmajas" >}}
-{{< figure src="fotosessioon-sunnitusmajas-2.jpg" title="Beebi pildistamine sünnitusmajas" >}}
-{{< figure src="fotosessioon-sunnitusmajas-3.jpg" title="Vastsündinu pildistamines" >}}
-{{< figure src="fotosessioon-sunnitusmajas-4.jpg" title="Vastsündinud beebi fotosessioon sünnitusmajas" >}}
-{{< figure src="fotosessioon-sunnitusmajas-5.jpg" title="Beebi pilt sünnitusmajas" >}}
+{{< figure src="fotosessioon-sunnitusmajas-1.jpg" title="Vastsündinu fotosessioon Pelgulinna sünnitusmajas" >}}
+{{< figure src="fotosessioon-sunnitusmajas-2.jpg" title="Beebi pildistamine Pelgulinna sünnitusmajas" >}}
+{{< figure src="fotosessioon-sunnitusmajas-3.jpg" title="Vastsündinu pildistamine" >}}
+{{< figure src="fotosessioon-sunnitusmajas-4.jpg" title="Vastsündinud beebi fotosessioon Pelgulinna sünnitusmajas" >}}
+{{< figure src="fotosessioon-sunnitusmajas-5.jpg" title="Beebipildistamine Pelgulinna sünnitusmajas" >}}
