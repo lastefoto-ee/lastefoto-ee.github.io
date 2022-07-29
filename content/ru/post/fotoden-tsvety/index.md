@@ -146,7 +146,7 @@ gallery_item:
   caption: Фотодень с цветами для малышей
 
 ---
-{{< cta cta_text="Запишись на фотодень" cta_link="https://calendly.com/lastefoto/fotopaev-lilled" cta_new_tab="true" cta_alt_text="или узнай больше о фотосессии малышей" cta_alt_link="/ru/project/malyshi/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Запишись на фотодень" cta_link="/ru/#contact" cta_new_tab="true" cta_alt_text="или узнай больше о фотосессии малышей" cta_alt_link="/ru/project/malyshi/" cta_alt_new_tab="false" >}}
 
 {{< toc >}}
 
@@ -162,7 +162,7 @@ gallery_item:
 ## Сколько стоит фотосессия?
 - Стоимость участия - 77€.
 
-{{< cta cta_text="Запишись на фотодень" cta_link="https://calendly.com/lastefoto/fotopaev-lilled" cta_new_tab="true" >}}
+{{< cta cta_text="Запишись на фотодень" cta_link="/ru/#contact" cta_new_tab="true" >}}
 
 ## Что входит в стоимость фотосессии?
 - для малышей до 1.5 лет в студии есть разнообразные платья, боди, комбинезоны. Для малышей от 1.5 лет и старше прошу подготовить наряд самостоятельно: подойдёт праздничная одежда любых цветов, без крупных рисунков и надписей
@@ -186,4 +186,4 @@ gallery_item:
 
 {{< gallery album="flowers-3" >}}
 
-{{< cta cta_text="Запишись на фотодень" cta_link="https://calendly.com/lastefoto/fotopaev-lilled" cta_new_tab="true" >}}
+{{< cta cta_text="Запишись на фотодень" cta_link="/ru/#contact" cta_new_tab="true" >}}

@@ -155,7 +155,7 @@ gallery_item:
 
 
 ---
-{{< cta cta_text="Book time for a photo day" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk" cta_new_tab="true" cta_alt_text="or find out more about babies photo shoot" cta_alt_link="/ru/project/malyshi/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" cta_alt_text="or find out more about babies photo shoot" cta_alt_link="/ru/project/malyshi/" cta_alt_new_tab="false" >}}
 
 {{< toc >}}
 
@@ -171,7 +171,7 @@ gallery_item:
 ## How much does a photo shoot cost?
 - Participation fee - 65€.
 
-{{< cta cta_text="Book time for a photo day" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk" cta_new_tab="true" >}}
+{{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" >}}
 
 ## What is included in the cost of a photo shoot?
 - cook's set-up: shorts, apron and cap (white and red)
@@ -191,4 +191,4 @@ Below are the photos that can be taken during the photo shoot.
 
 {{< gallery album="povarenok" >}}
 
-{{< cta cta_text="Book time for a photo day" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk" cta_new_tab="true" >}}
+{{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" >}}

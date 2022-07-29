@@ -155,7 +155,7 @@ gallery_item:
   caption: Фотосессия малыша 
 
 ---
-{{< cta cta_text="Запишись на фотодень" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk" cta_new_tab="true" cta_alt_text="или узнай больше о фотосессии малышей" cta_alt_link="/ru/project/malyshi/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Запишись на фотодень" cta_link="/ru/#contact" cta_new_tab="true" cta_alt_text="или узнай больше о фотосессии малышей" cta_alt_link="/ru/project/malyshi/" cta_alt_new_tab="false" >}}
 
 {{< toc >}}
 
@@ -171,7 +171,7 @@ gallery_item:
 ## Сколько стоит фотосессия?
 - Стоимость участия - 65€.
 
-{{< cta cta_text="Запишись на фотодень" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk" cta_new_tab="true" >}}
+{{< cta cta_text="Запишись на фотодень" cta_link="/ru/#contact" cta_new_tab="true" >}}
 
 ## Что входит в стоимость фотосессии?
 - одежда поверёнка: шортики, фартук и колпачок (белого и красного цвета)
@@ -191,4 +191,4 @@ gallery_item:
 
 {{< gallery album="povarenok" >}}
 
-{{< cta cta_text="Запишись на фотодень" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk" cta_new_tab="true" >}}
+{{< cta cta_text="Запишись на фотодень" cta_link="/ru/#contact" cta_new_tab="true" >}}

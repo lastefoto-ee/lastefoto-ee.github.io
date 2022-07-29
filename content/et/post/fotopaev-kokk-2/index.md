@@ -155,7 +155,7 @@ gallery_item:
   caption: Beebipildistamine 
 
 ---
-{{< cta cta_text="Registreeru fotopäevale" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk" cta_new_tab="true" cta_alt_text="või saa lisateavet beebi fotosessiooni kohta" cta_alt_link="/project/beebid/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Registreeru fotopäevale" cta_link="/#contact" cta_new_tab="true" cta_alt_text="või saa lisateavet beebi fotosessiooni kohta" cta_alt_link="/project/beebid/" cta_alt_new_tab="false" >}}
 
 {{< toc >}}
 
@@ -171,7 +171,7 @@ gallery_item:
 ## Mis on fotosessiooni hind?
 - Osalemise hind - 65€.
 
-{{< cta cta_text="Registreeru fotopäevale" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk" cta_new_tab="true" >}}
+{{< cta cta_text="Registreeru fotopäevale" cta_link="/#contact" cta_new_tab="true" >}}
 
 ## Fotosessiooni hind sisaldab:
 - Väikese koka set-up: lühikesed püksid, põll ja müts (valget ja punast värvi)
@@ -190,4 +190,4 @@ Allpool on toodud võimalikud pildid, mida fotosessiooni ajal teha saab.
 
 {{< gallery album="povarenok" >}}
 
-{{< cta cta_text="Registreeru fotopäevale" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk" cta_new_tab="true" >}}
+{{< cta cta_text="Registreeru fotopäevale" cta_link="/#contact" cta_new_tab="true" >}}

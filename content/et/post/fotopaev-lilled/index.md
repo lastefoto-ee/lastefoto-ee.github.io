@@ -145,7 +145,7 @@ gallery_item:
   caption: Beebifotosessioon Tallinnas
 
 ---
-{{< cta cta_text="Registreeru fotopäevale" cta_link="https://calendly.com/lastefoto/fotopaev-lilled" cta_new_tab="true" cta_alt_text="või saa lisateavet beebi fotosessiooni kohta" cta_alt_link="/project/beebid/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Registreeru fotopäevale" cta_link="/#contact" cta_new_tab="true" cta_alt_text="või saa lisateavet beebi fotosessiooni kohta" cta_alt_link="/project/beebid/" cta_alt_new_tab="false" >}}
 
 {{< toc >}}
 
@@ -161,7 +161,7 @@ gallery_item:
 ## Mis on fotosessiooni hind?
 - Osalemise hind - 77€.
 
-{{< cta cta_text="Registreeru fotopäevale" cta_link="https://calendly.com/lastefoto/fotopaev-lilled" cta_new_tab="true" >}}
+{{< cta cta_text="Registreeru fotopäevale" cta_link="/#contact" cta_new_tab="true" >}}
 
 ## Fotosessiooni hind sisaldab:
 - kuni 1,5-aastastele beebidele pakun erinevaid kleite, bodysid jne. Beebidele alates 1,5 eluaastast palun riietus ise ette valmistuda. Pange tähele, et igat värvi pidulik riietus ilma suurte jooniste ja pealdisteta on hea valik
@@ -185,4 +185,4 @@ Allpool on toodud võimalikud pildid, mida fotosessiooni ajal teha saab.
 
 {{< gallery album="flowers-3" >}}
 
-{{< cta cta_text="Registreeru fotopäevale" cta_link="https://calendly.com/lastefoto/fotopaev-lilled" cta_new_tab="true" cta_new_tab="true" >}}
+{{< cta cta_text="Registreeru fotopäevale" cta_link="/#contact" cta_new_tab="true" cta_new_tab="true" >}}
