@@ -3,7 +3,7 @@ title: Cake smash
 summary: fotosessioon esimesele sünnipäevale
 tags:
 - cake smash
-date: "2022-07-25T08:58:53+03:00"
+date: "2022-08-12T08:58:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -42,6 +42,8 @@ _soovi korral pilte saab ise valida eeltöödeldud galeriist_
 * õhupallid (10 tk.);
 * lisapildi töötlus 5€ / pilt;
 
+{{< figure src="cake-smash-fotosessioon-12.jpg" title="Cake smash fotosessioon" >}}
+{{< figure src="cake-smash-fotosessioon-11.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
 {{< figure src="cake-smash-fotosessioon-10.jpg" title="Beebi esimese sünnipäeva fotosessioon" >}}
 {{< figure src="cake-smash-fotosessioon-9.jpg" title="Cake smash stuudios" >}}
 {{< figure src="cake-smash-fotosessioon-8.jpg" title="Cake smash fotosessioon" >}}

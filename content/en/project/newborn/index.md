@@ -3,7 +3,7 @@ title: Newborn
 summary: photo shoots
 tags:
 - newborn
-date: "2022-07-20T05:43:10+03:00"
+date: "2022-08-12T05:43:10+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -78,6 +78,10 @@ Price **440**€
 
 The price and conditions of the photo shoot are available on request.
 
+{{< figure src="newborn-photo-shoot-39.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-38.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-37.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photo-shoot-36.jpg" title="Newborn baby photo shoot in studio" >}}
 {{< figure src="newborn-photo-shoot-35.jpg" title="Newborn baby photo shoot in the studio in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-34.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-33.jpg" title="Newborn babygirl photo shoot" >}}
