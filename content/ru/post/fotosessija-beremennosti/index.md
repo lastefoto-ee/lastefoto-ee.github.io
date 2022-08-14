@@ -45,12 +45,92 @@ categories:
   - беременность
 
 gallery_item:
-- album: siluety
-  image: fotosessiya-beremennosti-11.jpg
-  caption: Фотосессия беременности в студии 
-
+- album: post-beebiootuse-fotosessioon-1
+  image: lapseootuse-fotosessioon-1.jpg
+  caption: Фотосессия беременности в студии
+- album: post-beebiootuse-fotosessioon-1
+  image: lapseootuse-fotosessioon-2.jpg
+  caption: Фотосессия беременности в стиле Vogue
+- album: post-beebiootuse-fotosessioon-1
+  image: lapseootuse-fotosessioon-3.jpg
+  caption: Фотосессия беременности 
+- album: post-beebiootuse-fotosessioon-1
+  image: lapseootuse-fotosessioon-4.jpg
+  caption: Фотосессия беременности в Таллинне
+- album: post-beebiootuse-fotosessioon-1 copy
+  image: lapseootuse-fotosessioon-5.jpg
+  caption: Фотосессия беременности в студии
+- album: post-beebiootuse-fotosessioon-1 copy
+  image: lapseootuse-fotosessioon-6.jpg
+  caption: Фотосессия беременности в стиле Vogue
+- album: post-beebiootuse-fotosessioon-1 copy
+  image: lapseootuse-fotosessioon-7.jpg
+  caption: Фотосессия беременности 
+- album: post-beebiootuse-fotosessioon-1 copy
+  image: lapseootuse-fotosessioon-8.jpg
+  caption: Фотосессия беременности в Таллинне
+- album: post-beebiootuse-fotosessioon-2
+  image: lapseootuse-fotosessioon-1.jpg
+  caption: Фотосессия беременности в студии
+- album: post-beebiootuse-fotosessioon-2
+  image: lapseootuse-fotosessioon-2.jpg
+  caption: Фотосессия беременности в стиле Vogue
+- album: post-beebiootuse-fotosessioon-2
+  image: lapseootuse-fotosessioon-3.jpg
+  caption: Фотосессия беременности 
+- album: post-beebiootuse-fotosessioon-2
+  image: lapseootuse-fotosessioon-4.jpg
+  caption: Фотосессия беременности в Таллинне
+- album: post-beebiootuse-fotosessioon-2 copy
+  image: lapseootuse-fotosessioon-5.jpg
+  caption: Фотосессия беременности в студии
+- album: post-beebiootuse-fotosessioon-2 copy
+  image: lapseootuse-fotosessioon-6.jpg
+  caption: Фотосессия беременности в стиле Vogue
+- album: post-beebiootuse-fotosessioon-2 copy
+  image: lapseootuse-fotosessioon-7.jpg
+  caption: Фотосессия беременности 
+- album: post-beebiootuse-fotosessioon-2 copy
+  image: lapseootuse-fotosessioon-8.jpg
+  caption: Фотосессия беременности в Таллинне 
+- album: post-beebiootuse-fotosessioon-3
+  image: lapseootuse-fotosessioon-1.jpg
+  caption: Фотосессия беременности в студии
+- album: post-beebiootuse-fotosessioon-3
+  image: lapseootuse-fotosessioon-2.jpg
+  caption: Фотосессия беременности в стиле Vogue
+- album: post-beebiootuse-fotosessioon-3
+  image: lapseootuse-fotosessioon-3.jpg
+  caption: Фотосессия беременности 
+- album: post-beebiootuse-fotosessioon-3
+  image: lapseootuse-fotosessioon-4.jpg
+  caption: Фотосессия беременности в Таллинне
+- album: post-beebiootuse-fotosessioon-3 copy
+  image: lapseootuse-fotosessioon-5.jpg
+  caption: Фотосессия беременности в студии
+- album: post-beebiootuse-fotosessioon-3 copy
+  image: lapseootuse-fotosessioon-6.jpg
+  caption: Фотосессия беременности в стиле Vogue
+- album: post-beebiootuse-fotosessioon-3 copy
+  image: lapseootuse-fotosessioon-7.jpg
+  caption: Фотосессия беременности 
+- album: post-beebiootuse-fotosessioon-3 copy
+  image: lapseootuse-fotosessioon-8.jpg
+  caption: Фотосессия беременности в Таллинне
+- album: post-beebiootuse-fotosessioon-4
+  image: lapseootuse-fotosessioon-1.jpg
+  caption: Фотосессия беременности в студии
+- album: post-beebiootuse-fotosessioon-4
+  image: lapseootuse-fotosessioon-2.jpg
+  caption: Фотосессия беременности в стиле Vogue
+- album: post-beebiootuse-fotosessioon-4
+  image: lapseootuse-fotosessioon-3.jpg
+  caption: Фотосессия беременности 
+- album: post-beebiootuse-fotosessioon-4
+  image: lapseootuse-fotosessioon-4.jpg
+  caption: Фотосессия беременности в Таллинне
 ---
-Обычно при подготовке к фотосессии у всех возникает огромное количество вопросов. И чаще всего эти вопросы одинаковые... 
+Обычно при подготовке к фотосессии беременности у всех возникает большое количество вопросов. И чаще всего эти вопросы одинаковые... 
 
 Чтобы вы перед съемкой чувствовали себя уверенно и комфортно, я решила ответить на наиболее популярные из них:
 
@@ -97,6 +177,5 @@ gallery_item:
 Любые! Аксессуары присутствуют на любых фотографиях! Они способны сделать снимок более индивидуальынм и трогательным. 
 
 {{< gallery album="post-beebiootuse-fotosessioon-4" >}}
-
 
 {{< cta cta_text="Записаться на фотосессию" cta_link="https://www.lastefoto.ee/ru/#contact" cta_new_tab="true" >}}
