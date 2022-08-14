@@ -1,6 +1,6 @@
 ---
-title: Для фотографов
-summary: новорожденных и малышей постарше
+title: Экшены для Photoshop и пресеты для Lightroom
+summary: для фотографов новорожденных и малышей постарше
 tags:
 - обучение 
 - обработка
@@ -27,7 +27,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 10
+weight: 11
 ---
 ## Представляю набор экшенов для Adobe Photoshop, созданных мной специально для обработки фотографий с фотосессии новорожденных.
 

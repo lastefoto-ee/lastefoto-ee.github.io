@@ -1,6 +1,6 @@
 ---
 title: Beebiootus 
-summary: fotosessioonid
+summary: fotosessioon Vogue stiilis alates 28. nädalast
 tags:
 - beebiootus
 date: "2022-08-11T09:59:53+03:00"
@@ -106,6 +106,8 @@ gallery_item:
   image: beebiootuse-fotosessioon-25.jpg
   caption: Beebiootusefotosessioon Tallinnas
 ---
+> Kui rasedus kulgeb sujuvalt ja komplikatsioonideta, siis ideaalne aeg fotosessiooniks on _28-36 nädalat_. Kui kõht hakkas varakult kasvama või on oodata kaksikuid, saab fotosessiooni teha alates 26. nädalast.
+
 # Beebiootusefotosessioon - Pakett S
 
 * 1-2 erinevat set-upi 

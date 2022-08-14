@@ -1,6 +1,6 @@
 ---
 title: Онлайн-школа
-summary: по съемке новорожденных
+summary: обучение съемке новорожденных для начинающих и практикующих фотографов
 tags:
 - обучение 
 - новорожденные
@@ -25,7 +25,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 8
+weight: 10
 ---
 ## Обучение съемке новорожденных в онлайн-школе
 _для начинающих и практикующих фотографов_
