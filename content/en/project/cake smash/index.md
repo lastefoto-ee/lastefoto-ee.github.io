@@ -3,7 +3,7 @@ title: Cake smash
 summary: first birthday photo shoot
 tags:
 - cake smash
-date: "2022-08-12T08:46:17+03:00"
+date: "2022-08-14T08:46:17+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -42,6 +42,7 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 * balloons (10 pcs);
 * retouching of additional photos 5 € / photo
 
+{{< figure src="cake-smash-photo-shoot-13.jpg" title="Cake smash photo shoot" >}}
 {{< figure src="cake-smash-photo-shoot-12.jpg" title="Cake smash photo shoot in Tallinn" >}}
 {{< figure src="cake-smash-photo-shoot-11.jpg" title="Cake smash photo shoot" >}}
 {{< figure src="cake-smash-photo-shoot-10.jpg" title="Cake smash photo shoot in Tallinn" >}}
