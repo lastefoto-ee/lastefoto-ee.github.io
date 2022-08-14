@@ -7,7 +7,7 @@ tags:
 - Vogue
 - fotosessioon Vogue stiilis
 
-date: "2022-07-06T09:46:53+03:00"
+date: "2022-08-14T09:46:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -37,6 +37,9 @@ gallery_item:
 - album: vogue-fotosessija
   image: fotosessija-v-stile-vogue-2.jpg
   caption: Lapsefotosessioon stuudios 
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-1.jpg
+  caption: Lapse pildistamine stuudios Tallinnas 
 - album: vogue-fotosessija
   image: fotosessija-v-stile-vogue-3.jpg
   caption: Vogue stiilis lapsefotosessioon 

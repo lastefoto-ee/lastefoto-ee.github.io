@@ -6,7 +6,7 @@ tags:
 - мама и малыш
 - Vogue
 - фотосессия в стиле Vogue
-date: "2022-07-06T09:46:53+03:00"
+date: "2022-08-14T09:46:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -44,7 +44,10 @@ gallery_item:
   caption: Фотосессия в стиле Vogue в студии в Таллинне 
 - album: vogue-fotosessija
   image: fotosessija-v-stile-vogue-5.jpg
-  caption: Фотосессия Мама и малыш в студии 
+  caption: Фотосессия Мама и малыш в студии
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-1.jpg
+  caption: Детская фотосессия в стиле Vogue
 ---
 
 ## Фотосессии в стиле Vogue
