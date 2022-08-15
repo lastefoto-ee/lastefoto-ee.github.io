@@ -1,5 +1,5 @@
 ---
-title: For photographers
+title: Photoshop actions and Lightroom presets
 summary: for newborn and sitter photographers
 tags:
 - photoshop
@@ -28,7 +28,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 10
+weight: 9
 ---
 ## I present a set of actions for Adobe Photoshop, created by me specifically for processing photos from a newborn photo shoot.
 

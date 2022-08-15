@@ -1,10 +1,10 @@
 ---
 title: Maternity
-summary: hospital photo shoots
+summary: photo shoot in maternity hospital on the 2-3rd day
 tags:
 - matenity
 - hospital photo shoot
-date: "2021-10-16T09:40:10+03:00"
+date: "2022-08-14T09:40:10+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -1,9 +1,9 @@
 ---
 title: Sünnitusmaja
-summary: fotosessioonid
+summary: fotosessioon sünnitusmajas beebi 2-3 elupäeval
 tags:
 - sünnitusmaja
-date: "2022-07-27T09:55:53+03:00"
+date: "2022-08-15T06:55:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

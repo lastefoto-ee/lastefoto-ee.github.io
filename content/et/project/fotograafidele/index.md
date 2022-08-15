@@ -1,5 +1,5 @@
 ---
-title: Fotograafidele
+title: Photoshop action and Lightroom presets
 summary: vastsündinu ja väikelaste fotograafidele
 tags:
 - koolitus 
@@ -29,7 +29,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 10
+weight: 9
 ---
 ## Tutvustan Adobe Photoshop´i action seti, mille olen loonud spetsiaalselt vastsündinud beebide piltide töötlemiseks.
 

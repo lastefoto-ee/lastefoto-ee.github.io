@@ -1,6 +1,6 @@
 ---
 title: Newborn
-summary: photo shoots
+summary: photo shoot for babies during the first 5-14 days
 tags:
 - newborn
 date: "2022-08-12T05:43:10+03:00"

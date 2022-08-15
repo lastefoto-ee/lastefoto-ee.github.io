@@ -1,9 +1,9 @@
 ---
 title: Värvid
-summary: fotosessioonid
+summary: fotosessioon lastele vanuses 1,5-3 aastat söödavate värvidega
 tags:
 - värvid
-date: "2021-10-16T09:54:53+03:00"
+date: "2022-08-15T06:54:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -24,7 +24,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 9
+weight: 7
 ---
 
 # Fotosessioon "Noor abstraktsionist" 

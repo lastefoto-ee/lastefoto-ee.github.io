@@ -1,6 +1,6 @@
 ---
 title: Baby's First Year
-summary: 4 photo shoots
+summary: Capture your baby’s growth and development in their first year with 4 photo shoots. Save precious memories for when they are a newborn, 3-month-old, 6-month-old, and 1-year-old.
 tags:
 - newborn photo shoot
 - baby photo shoot

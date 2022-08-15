@@ -1,6 +1,6 @@
 ---
 title: Edible colors
-summary: photo shoots
+summary: photo shoot for kids 1.5-3 years old with edible colors
 tags:
 - colors
 date: "2021-10-16T09:46:17+03:00"
@@ -24,7 +24,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 9
+weight: 7
 ---
 
 ## Photoshoot "Young abstractionist"

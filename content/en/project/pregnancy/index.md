@@ -1,6 +1,6 @@
 ---
 title: Pregnancy 
-summary: photo shoots
+summary: photo shoot in Vogue style from 28 weeks
 tags:
 - pregnancy
 date: "2022-08-11T09:42:40+03:00"
@@ -103,6 +103,8 @@ gallery_item:
   image: pregnancy-photo-shoot-25.jpg
   caption: Pregnancy photo shoot in Tallinn
 ---
+>If the pregnancy proceeds calmly and without complications, then the ideal time for a photo shoot will be 28-36 weeks. If the tummy began to grow early or twins are expected, a photo shoot can be carried out starting from the 26th week.
+
 ## Pregnancy photo shoot - Package S
 
 * 1-2 set ups

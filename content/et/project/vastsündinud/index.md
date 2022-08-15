@@ -1,9 +1,9 @@
 ---
 title: Vastsündinud
-summary: fotosessioonid
+summary: fotosessioon beebi 5-14 elupäeval
 tags:
 - vastsündinud
-date: "2022-08-12T05:53:53+03:00"
+date: "2022-08-15T05:53:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

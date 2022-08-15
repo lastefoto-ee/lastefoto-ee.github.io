@@ -24,7 +24,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 8
+weight: 6
 ---
 
 ## photo shoot "Cake smash" (1 hour)

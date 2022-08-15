@@ -1,6 +1,6 @@
 ---
 title: Fotosessioon Vogue stiilis
-summary: fotosessioonid
+summary: fotosessioon lastele alates 3 eluaastast
 tags:
 - lapsed
 - ema ja beebi
