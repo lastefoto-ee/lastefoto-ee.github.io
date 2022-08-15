@@ -47,8 +47,21 @@ gallery_item:
   image: fotosessija-v-stile-vogue-4.jpg
   caption: Fotosessioon Vogue stiilis Tallinnas 
 - album: vogue-fotosessija
-  image: fotosessija-v-stile-vogue-5.jpg
-  caption: Ema ja beebi fotosessioon stuudios Tallinnas 
+  image: lastefotosessioon-Vogue-stiilis-2.jpg
+  caption: Lapse pildistamine stuudios Tallinnas 
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-3.jpg
+  caption: Lapse pildistamine Vogue stiilis
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-4.jpg
+  caption: Perepildistamine stuudios Tallinnas 
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-5.jpg
+  caption: Lapse pildistamine stuudios 
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-6.jpg
+  caption: Fotosessioon Ema ja tütar 
+
 ---
 
 ## Fotosessioon Vogue stiilis

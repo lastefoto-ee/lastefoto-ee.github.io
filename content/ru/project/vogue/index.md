@@ -1,6 +1,6 @@
 ---
 title: Фотосессия в стиле Vogue
-summary: фотосессия для детей 3-10 лет
+summary: фотосессия для детей от 3 лет
 tags:
 - дети
 - мама и малыш
@@ -43,11 +43,23 @@ gallery_item:
   image: ffotosessija-v-stile-vogue-4.jpg
   caption: Фотосессия в стиле Vogue в студии в Таллинне 
 - album: vogue-fotosessija
-  image: fotosessija-v-stile-vogue-5.jpg
-  caption: Фотосессия Мама и малыш в студии
-- album: vogue-fotosessija
   image: lastefotosessioon-Vogue-stiilis-1.jpg
   caption: Детская фотосессия в стиле Vogue
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-2.jpg
+  caption: Детская фотосессия в студии
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-3.jpg
+  caption: Детская фотосессия в Таллинне
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-4.jpg
+  caption: Семейная фотосессия в стиле Vogue
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-5.jpg
+  caption: Детская фотосессия в стиле минимализм
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-6.jpg
+  caption: Фотосессия Мама и дочка
 ---
 
 ## Фотосессии в стиле Vogue

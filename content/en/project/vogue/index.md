@@ -44,11 +44,23 @@ gallery_item:
   image: ffotosessija-v-stile-vogue-4.jpg
   caption: Photo shoot in Vogue style in the studio in Tallinn
 - album: vogue-fotosessija
-  image: fotosessija-v-stile-vogue-5.jpg
-  caption: Mother and baby photo shoot in the studio
-- album: vogue-fotosessija
   image: lastefotosessioon-Vogue-stiilis-1.jpg
   caption: Children photo shoot in Vogue style 
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-2.jpg
+  caption: Children photo shoot in in Tallinn
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-3.jpg
+  caption: Children photo shoot in the studio
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-4.jpg
+  caption: Family photo shoot in Vogue style 
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-5.jpg
+  caption: Children photo shoot in Vogue style 
+- album: vogue-fotosessija
+  image: lastefotosessioon-Vogue-stiilis-6.jpg
+  caption: Photo shoot Mother and daughter 
 ---
 
 ## Photo shoot in Vogue style
