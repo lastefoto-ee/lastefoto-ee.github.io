@@ -91,7 +91,7 @@ Pildistamist broneerides saadan valikuks õhupallide paleti. Saate valida mis ta
 
 # Veeprotseduurid
 
-Kui laps vett ei karda, siis pärast tordiga pildistamist liigume edasi veeprotseduuride juurde. Võtke kaasa rätik, vannivaht ja oma lemmikmänguasjad.
+Kui laps vett ei karda, siis pärast tordiga pildistamist liigume edasi veeprotseduuride juurde. Võtke kaasa rätik, vannivaht ja beebi lemmikud vannimänguasjad.
 
 {{< figure src="./cake-smash-fotosessioon-7.jpg" title="Cake Smash fotosessioon Tallinna stuudios" >}}
 
