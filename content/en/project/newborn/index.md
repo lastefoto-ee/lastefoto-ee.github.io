@@ -3,7 +3,7 @@ title: Newborn
 summary: photo shoot for babies during the first 5-14 days
 tags:
 - newborn
-date: "2022-08-12T05:43:10+03:00"
+date: "2022-08-31T05:43:10+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -42,6 +42,8 @@ _if desired, the choice of photos for retouching is carried out by you_
 * retouching of additional photos 10 € / photo;
 
 Price **185**€ 
+
+{{< figure src="newborn-photo-shoot-s-package.jpg" title="Newborn photo shoot. Example of the result of the minimum package" >}}
 
 ## Newborn photo shoot - Package M
 

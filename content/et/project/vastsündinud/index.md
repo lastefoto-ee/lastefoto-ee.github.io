@@ -3,7 +3,7 @@ title: Vastsündinud
 summary: fotosessioon beebi 5-14 elupäeval
 tags:
 - vastsündinud
-date: "2022-08-15T05:53:53+03:00"
+date: "2022-08-31T05:53:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -45,6 +45,8 @@ _soovi korral pilte saab ise valida eeltöödeldud galeriist_
 * lisapildi töötlus 10€ / pilt. 
 
 Fotosessiooni hind **185**€ 
+
+{{< figure src="vastsundinu-pildistamine-s-pakett.jpg" title="Vastsündinu fotosessiooni S pakett, näidispildid" >}}
 
 ## Vastsündinu fotosessioon - Pakett M
 
