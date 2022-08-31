@@ -190,7 +190,7 @@ gallery_item:
 ## Fotosessiooni hind sisaldab:
 - Väikese koka set-up: lühikesed püksid, põll ja müts (valget ja punast värvi)
 - pildistamine 30 minuti jooksul kahes ettevalmistatud fototsoonis (heledas ja tumedas toonis)
-- 10-15 retušeeritud digitaalfaili. Töötlemata pildid ei sisaldu fotosessiooni hinnas.
+- 10-15 retušeeritud digitaalfaili. Töötlemata pildid ei sisaldu fotosessiooni hinnas
 - stuudio rent
 
 ## Milliseid pilte saame teha?
