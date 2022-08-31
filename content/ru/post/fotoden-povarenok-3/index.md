@@ -93,7 +93,6 @@ gallery_item:
 - album: fotoden-povarenok
   image: fotoden-povarenok-16.jpg
   caption: Фотодень поваренок
-
 - album: fotoden-povarenok-1
   image: fotoden-povarenok-1.jpg
   caption: Фотосессия малыша Поварёнок в студии  
@@ -168,7 +167,7 @@ gallery_item:
   caption: Фотосессия малыша 
 - album: fotoden-povarenok-1
   image: fotoden-povar-25.jpg
-  caption: Фотосессия малыша 
+  caption: Фотосессия малыша в студии
 ---
 {{< cta cta_text="Запишись на фотодень" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk-oktoober" cta_new_tab="true" cta_alt_text="или узнай больше о фотосессии малышей" cta_alt_link="/ru/project/malyshi/" cta_alt_new_tab="false" >}}
 
