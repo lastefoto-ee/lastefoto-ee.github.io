@@ -1,5 +1,5 @@
 ---
-title: Photoshop action
+title: Adobe Photoshop actions
 summary: vastsündinu ja väikelaste fotograafidele
 tags:
 - koolitus 

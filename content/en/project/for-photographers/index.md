@@ -1,5 +1,5 @@
 ---
-title: Photoshop actions
+title: Adobe Photoshop actions
 summary: for newborn and sitter photographers
 tags:
 - photoshop
