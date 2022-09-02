@@ -3,7 +3,7 @@ title: Cake smash
 summary: first birthday photo shoot
 tags:
 - cake smash
-date: "2022-08-14T08:46:17+03:00"
+date: "2022-09-02T08:46:17+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,9 +29,7 @@ weight: 6
 
 ## photo shoot "Cake smash" (1 hour)
 
-Price **170** €
-
-_For bookings made from September 2022, the new price - 210 €_
+Price **180** €
 
 The price includes:
 

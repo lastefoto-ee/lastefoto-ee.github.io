@@ -3,7 +3,7 @@ title: Cake smash
 summary: фотосессия на первый день рождения
 tags:
 - cake smash
-date: "2022-08-14T08:44:53+03:00"
+date: "2022-09-02T08:44:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,9 +29,7 @@ weight: 6
 
 ## Фотосессия "Cake smash" / "Крушение тортика" (1 час) 
 
-Цена **170**€
-
-_На бронирования, сделанные с сентября 2022, новая цена – 210 €_
+Цена **180**€
 
 В цену входит: 
 

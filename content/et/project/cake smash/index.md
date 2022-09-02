@@ -3,7 +3,7 @@ title: Cake smash
 summary: fotosessioon esimesele sünnipäevale
 tags:
 - cake smash
-date: "2022-08-14T08:58:53+03:00"
+date: "2022-09-02T08:58:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,9 +29,7 @@ weight: 6
 
 ## "Cake smash" fotosessioon (1 tund) 
 
-Hind **170**€
-
-_Alates september 2022 tehtud broneeringutele uus hind – 210 €_
+Hind **180**€
 
 Hind sisaldab:
 
