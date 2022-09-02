@@ -1,5 +1,5 @@
 ---
-title: Экшены для Photoshop и пресеты для Lightroom
+title: Экшены для Adobe Photoshop
 summary: для фотографов новорожденных и малышей постарше
 tags:
 - обучение 

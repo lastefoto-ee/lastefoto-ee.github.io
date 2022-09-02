@@ -1,5 +1,5 @@
 ---
-title: Photoshop actions and Lightroom presets
+title: Photoshop actions
 summary: for newborn and sitter photographers
 tags:
 - photoshop

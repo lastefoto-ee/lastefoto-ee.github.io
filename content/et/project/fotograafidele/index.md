@@ -1,5 +1,5 @@
 ---
-title: Photoshop action and Lightroom presets
+title: Photoshop action
 summary: vastsündinu ja väikelaste fotograafidele
 tags:
 - koolitus 
