@@ -3,7 +3,7 @@ title: Beebid
 summary: fotosessioon beebidele vanuses 4-11 kuud
 tags:
 - beebid
-date: "2022-07-25T05:06:53+03:00"
+date: "2022-09-08T05:06:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,31 +29,27 @@ weight: 5
 ---
 ## Beebi fotosessioon (4-11 kuud) - Pakett S (1 tund)
 
-Hind **110**€
-
-_Alates september 2022 tehtud broneeringutele uus hind – 150 €_
+Hind **130**€
 
 Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis. Ühistpilti ega võtteid pereliikmetega antud paketi raames ei tee. 
 
 Hind sisaldab: 
 * 2-3 armsat set-up'i beebi jaoks;
 * erinevate aksessuaaride ja rekvisiitide kasutus;
-* 10 digi- ja paberpilti 10x15cm;
+* 12 digi- ja paberpilti 10x15cm;
 _soovi korral pilte saab ise valida eeltöödeldud galeriist_
 * lisapildi töötlus 5€ / pilt;
 
 ## Beebi fotosessioon (4-11 kuud) - Pakett M (1 tund)
 
-Hind **140**€
-
-_Alates september 2022 tehtud broneeringutele uus hind – 180 €_
+Hind **170**€
 
 Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis, teeme ühist perepilti ja ka pilte emme-issiga ja õdede-vendadega.
 
 Fotosessioon sisaldab: 
 * 2-3 unikaalset set-up'i beebi jaoks;
 * erinevate aksessuaaride ja rekvisiitide kasutus;
-* 15 digi- ja paberpilti 10x15cm;
+* 20 digi- ja paberpilti 10x15cm;
 _soovi korral pilte saab ise valida eeltöödeldud galeriist_
 * lisapildi töötlus 5€ / pilt. 
 

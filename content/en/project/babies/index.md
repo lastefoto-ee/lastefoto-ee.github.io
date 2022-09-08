@@ -3,7 +3,7 @@ title: Babies
 summary: photo shoot for 4-11 months babies
 tags:
 - babies
-date: "2022-07-25T05:46:17+03:00"
+date: "2022-09-08T05:46:17+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,31 +29,27 @@ weight: 5
 ---
 ## Baby photo shoot (4-11 months) - Package S (1 hour)
 
-Price **110** €
-
-_For bookings made from September 2022, the new price - 150 €_
+Price **130** €
 
 In this package, the baby is the main bias, I photograph him from various angles on a posing pillow (beanbag) and props. Family pictures are not included in this package.
 
 The price includes:
 * 2-3 cute set-ups for the baby;
 * the use of various accessories and props;
-* 10 retouched digital and printed photos 10x15cm;
+* 12 retouched digital and printed photos 10x15cm;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * retouching of additional photos 5 € / photo
 
 ## Baby photo shoot (4-11 months) - Package M (1 hour)
 
-Price **140** €
-
-_For bookings made from September 2022, the new price - 180 €_
+Price **170** €
 
 In this package, the baby is also the main bias, I photograph him from different angles on a posing pillow (beanbag) and props. We'll make general family photos and separate pictures with mom-dad and brother-sister.
 
 The price includes:
 * 2-3 unique set-ups for the baby;
 * the use of various accessories and props;
-* 15 retouched digital and printed photos 10x15cm;
+* 20 retouched digital and printed photos 10x15cm;
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * retouching of additional photos 5 € / photo
 
