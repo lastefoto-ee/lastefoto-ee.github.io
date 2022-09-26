@@ -3,7 +3,7 @@ title: Newborn
 summary: photo shoot for babies during the first 5-14 days
 tags:
 - newborn
-date: "2022-08-31T05:43:10+03:00"
+date: "2022-09-26T05:43:10+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -80,6 +80,13 @@ Price **440**€
 
 The price and conditions of the photo shoot are available on request.
 
+{{< figure src="newborn-photo-shoot-46.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-45.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-44.jpg" title="Newborn photo shoot" >}}
+{{< figure src="newborn-photo-shoot-43.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-42.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="newborn-photo-shoot-41.jpg" title="Newborn studio session" >}}
+{{< figure src="newborn-photo-shoot-40.jpg" title="Newborn baby photo shoot in studio" >}}
 {{< figure src="newborn-photo-shoot-39.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-38.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-37.jpg" title="Newborn studio session" >}}
