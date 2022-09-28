@@ -99,7 +99,7 @@ The company is the main processor of personal data and transfers the personal da
 4.1 The Buyer has the opportunity to receive goods in the Photographer office in Tallinn: Peterburi tee 46, after the Photographer reported the readiness of the goods.
 If desired, the Goods are delivered to the Buyer through the postbox or courier. In this case, the cost of delivery is added to the cost of goods. If the Buyer chooses the delivery service, it undertakes to provide an accurate shipping address.
 
-4.2 Service (photoservice) is carried out in the studio of the Photographer at Peterburi tee 46, in Tallinn to the time consistent with the Иuyer.
+4.2 Service (photoservice) is carried out in the studio of the Photographer at Peterburi tee 46, in Tallinn to the time consistent with the Buyer.
 
 ## Rights, obligations and responsibilities of the Company
 5.1 The Company has the right at any time to unilaterally change the terms of service of the Website. Changes to the Terms of Service take effect from the day they are posted on the Website.
