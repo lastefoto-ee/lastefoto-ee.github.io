@@ -13,7 +13,7 @@ projects:
 date: "2022-08-31T06:08:53+03:00"
 
 # Date updated
-lastmod: "2022-08-31T06:08:53+03:00"
+lastmod: "2022-10-06T06:08:53+03:00"
 
 # Is this an unpublished draft?
 draft: false
@@ -169,7 +169,7 @@ gallery_item:
   caption: Beebi fotosessioon Tallinnas
 
 ---
-{{< cta cta_text="Registreeru fotopäevale" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk-oktoober" cta_alt_text="või saa lisateavet beebi fotosessiooni kohta" cta_alt_link="/project/beebid/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Registreeru fotopäevale" cta_link="/#contact" cta_alt_text="või saa lisateavet beebi fotosessiooni kohta" cta_alt_link="/project/beebid/" cta_alt_new_tab="true" >}}
 
 {{< toc >}}
 
@@ -185,7 +185,7 @@ gallery_item:
 ## Mis on fotosessiooni hind?
 - Osalemise hind - 69 €.
 
-{{< cta cta_text="Registreeru fotopäevale" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk-oktoober" cta_new_tab="true" >}}
+{{< cta cta_text="Registreeru fotopäevale" cta_link="/#contact" cta_new_tab="true" >}}
 
 ## Fotosessiooni hind sisaldab:
 - Väikese koka set-up: lühikesed püksid, põll ja müts (valget ja punast värvi)
@@ -204,4 +204,4 @@ Allpool on toodud võimalikud pildid, mida fotosessiooni ajal teha saab.
 
 {{< gallery album="fotoden-povarenok-1" >}}
 
-{{< cta cta_text="Registreeru fotopäevale" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk-oktoober" cta_new_tab="true" >}}
+{{< cta cta_text="Registreeru fotopäevale" cta_link="/#contact" cta_new_tab="true" >}}

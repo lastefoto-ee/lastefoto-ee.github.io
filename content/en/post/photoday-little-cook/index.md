@@ -13,7 +13,7 @@ projects:
 date: "2022-08-31T06:08:53+03:00"
 
 # Date updated
-lastmod: "2022-08-31T06:08:53+03:00"
+lastmod: "2022-10-06T06:08:53+03:00"
 
 # Is this an unpublished draft?
 draft: false
@@ -169,7 +169,7 @@ gallery_item:
   caption: Baby photo shoot in the studio of Tallinn
 
 ---
-{{< cta cta_text="Book time for a photo day" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk-oktoober" cta_new_tab="true" cta_alt_text="or find out more about babies photo shoot" cta_alt_link="/ru/project/malyshi/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" cta_alt_text="or find out more about babies photo shoot" cta_alt_link="/ru/project/malyshi/" cta_alt_new_tab="false" >}}
 
 {{< toc >}}
 
@@ -185,7 +185,7 @@ gallery_item:
 ## How much does a photo shoot cost?
 - Participation fee - 69 €.
 
-{{< cta cta_text="Book time for a photo day" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk-oktoober" cta_new_tab="true" >}}
+{{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" >}}
 
 ## What is included in the cost of a photo shoot?
 - cook's set-up: shorts, apron and cap (white and red)
@@ -205,4 +205,4 @@ Below are the photos that can be taken during the photo shoot.
 
 {{< gallery album="fotoden-povarenok-1" >}}
 
-{{< cta cta_text="Book time for a photo day" cta_link="https://calendly.com/lastefoto/fotopaev-vaike-kokk-oktoober" cta_new_tab="true" >}}
+{{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" >}}
