@@ -41,11 +41,12 @@ tags:
   - фотосессия малыша
   - новый год
   - фотосессия с подарками
+  - фотосессия с подарком
 
 categories:
   - малыши
 ---
-{{< cta cta_text="Запишись на фотодень" cta_link="https://calendly.com/lastefoto/joulu-mini" cta_new_tab="true" cta_alt_text="или узнай больше о фотосессии малышей" cta_alt_link="/ru/project/malyshi/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Запишись на фотодень" cta_link="https://calendly.com/lastefoto/joulu-minid" cta_new_tab="true" cta_alt_text="или узнай больше о фотосессии малышей" cta_alt_link="/ru/project/malyshi/" cta_alt_new_tab="true" >}}
 
 {{< toc >}}
 
@@ -68,12 +69,12 @@ categories:
 - Фотосессия на красном ИЛИ на сером фоне - 130 €
 - Фотосессия на красном И на сером фоне - 170 €
 
-{{< cta cta_text="Запишись на фотодень" cta_link="https://calendly.com/lastefoto/joulu-mini" cta_new_tab="true" >}}
+{{< cta cta_text="Запишись на фотодень" cta_link="https://calendly.com/lastefoto/joulu-minid" cta_new_tab="true" >}}
 
 ## Что входит в стоимость фотосессии?
 - 10-15 дигитальных фотографий с ретушью, если вы выбрали съемку на одном фоне. Необработанные фотографии не входят в стоимость фотосессии
 - 15-20 дигитальных фотографий с ретушью, если вы выбрали съемку на двух фонах. Необработанные фотографии не входят в стоимость фотосессии
-- фотосессия в течение 1-2 часов в двух подготовленных фото-зонах (красный и/или серый)
+- фотосессия в течение 1-2 часов в подготовленных фото-зонах (красный и/или серый)
 - одежда для малышей возрастом до 1.5-2 лет (в студии есть праздничные платья, комбинезоны, боди, подходящие для съёмки)
 - аренда студии
 
@@ -90,4 +91,4 @@ categories:
 {{< figure src="./novogodnjaja-fotosessiya-7.jpg" title="Новогодняя фотосессия в студии" >}}
 {{< figure src="./novogodnjaja-fotosessiya-8.jpg" title="Новогодняя фотосессия в Таллинне" >}}
 
-{{< cta cta_text="Запишись на фотодень" cta_link="https://calendly.com/lastefoto/joulu-mini" cta_new_tab="true" >}}
+{{< cta cta_text="Запишись на фотодень" cta_link="https://calendly.com/lastefoto/joulu-minid" cta_new_tab="true" >}}
