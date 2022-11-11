@@ -47,7 +47,7 @@ tags:
 categories:
   - babies
 ---
-{{< cta cta_text="Book time for a photo day" cta_link="https://calendly.com/lastefoto/joulu-minid" cta_new_tab="true" cta_alt_text="or find out more about babies photo shoot" cta_alt_link="/ru/project/malyshi/" cta_alt_new_tab="true" >}}
+{{< cta cta_text="Book time for a photo shoot" cta_link="/en/#contact" cta_new_tab="true" cta_alt_text="or find out more about babies photo shoot" cta_alt_link="/ru/project/malyshi/" cta_alt_new_tab="true" >}}
 
 {{< toc >}}
 
@@ -59,9 +59,7 @@ categories:
 Do you want the same? Then this photo shoot is for you!
 
 ## When will the photo shoot take place?
-- November 25 from 09:00 to 16:00, in Tallinn - a photo shoot on a _RED_ background
-- November 26 from 09:00 to 16:00, in Tallinn - a photo shoot on a _GREY_ background
-- 2.12 and 10.12 from 09:00 to 16:00, in Tallinn - a photo shoot on _RED and GREY_ backgrounds
+At any time convenient for you.
 
 ## How long is the photo shoot?
 - If you have chosen a photo shoot on one background (red or gray), then we will spend about an hour together. The duration of the photo shoot itself will be 30-40 minutes. It will take 10-15 minutes to adapt and change clothes.
@@ -71,7 +69,7 @@ Do you want the same? Then this photo shoot is for you!
 - Photo shoot on a red OR gray background - 130 €
 - Photo shoot on a red AND gray background - 170 €
 
-{{< cta cta_text="Book time for a photo day" cta_link="https://calendly.com/lastefoto/joulu-minid" cta_new_tab="true" >}}
+{{< cta cta_text="Book time for a photo shoot" cta_link="/en/#contact" cta_new_tab="true" >}}
 
 ## What is included in the cost of a photo shoot?
 - 10-15 retouched digital files if you choose to shoot on one background. Raw files are not included in the cost of the photo shoot
@@ -93,4 +91,4 @@ Below are the photos that can be taken during the photo shoot.
 {{< figure src="./christmas-photo-shoot-7.jpg" title="New Year's photo shoot in the studio" >}}
 {{< figure src="./christmas-photo-shoot-8.jpg" title="Christmas photo shoot in Tallinn" >}}
 
-{{< cta cta_text="Book time for a photo day" cta_link="https://calendly.com/lastefoto/joulu-minid" cta_new_tab="true" >}}
+{{< cta cta_text="Book time for a photo shoot" cta_link="/en/#contact" cta_new_tab="true" >}}

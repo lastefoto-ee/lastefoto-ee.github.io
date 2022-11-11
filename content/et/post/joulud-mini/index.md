@@ -46,7 +46,7 @@ tags:
 categories:
   - beebid
 ---
-{{< cta cta_text="Registreeru fotopäevale" cta_link="https://calendly.com/lastefoto/joulu-minid" cta_new_tab="true" cta_alt_text="või saa lisateavet beebi fotosessiooni kohta" cta_alt_link="/project/beebid/" cta_alt_new_tab="true" >}}
+{{< cta cta_text="Registreeru fotosessioonile" cta_link="/#contact" cta_new_tab="true" cta_alt_text="või saa lisateavet beebi fotosessiooni kohta" cta_alt_link="/project/beebid/" cta_alt_new_tab="true" >}}
 
 {{< toc >}}
 
@@ -57,19 +57,17 @@ categories:
 Kas tunned, et tahad sama? Siis on see fotosessioon just Sulle!
 
 ## Millal fotosessioon toimub?
-- 25.novembril kell 09.00-16.00, Tallinnas - fotosessioon _PUNASEL_ taustal
-- 26.novembril kell 09.00-16.00, Tallinnas - fotosessioon _HALLIL_ taustal
-- 2.12 ja 10.12 kell 09:00-16:00, Tallinnas - fotosessioon _PUNASEL ja HALLIL_ taustal
+Teile sobival ajal.
 
 ## Kui palju aega võtab fotosessioon?
-- Kui oled valinud fotosessiooni ühel taustal (punane või hall), siis veedame Sinuga koos umbes tunni. Fotosessiooni enda kestvus on 30-40 minutit. Kohanemiseks ja riiete vahetamiseks kulub 10-15 minutit.
-- Kui oled valinud fotosessiooni kasutades kahte tausta (punane ja hall), siis veedame koos kaks tundi. Fotosessiooni enda kestus on 60-90 minutit. Kohanemine, riietumine, tausta ja rekvisiitide vahetamine võtab aega 15-30 minutit.
+- Kui soovite teha fotosessiooni ühel taustal (punane või hall), siis veedame Sinuga koos umbes tunni. Fotosessiooni enda kestvus on 30-40 minutit. Kohanemiseks ja riiete vahetamiseks kulub 10-15 minutit.
+- Kui soovite teha fotosessiooni kasutades kahte tausta (punane ja hall), siis veedame koos kaks tundi. Fotosessiooni enda kestus on 60-90 minutit. Kohanemine, riietumine, tausta ja rekvisiitide vahetamine võtab aega 15-30 minutit.
 
 ## Mis on fotosessiooni hind?
 - Pildistamine punasel VÕI hallil taustal - 130 €
 - Pildistamine punasel JA hallil taustal - 170 €
 
-{{< cta cta_text="Registreeru fotopäevale" cta_link="https://calendly.com/lastefoto/joulu-minid" cta_new_tab="true" >}}
+{{< cta cta_text="Registreeru fotosessioonile" cta_link="/#contact" cta_new_tab="true" >}}
 
 ## Fotosessiooni hind sisaldab:
 - 10–15 retušeeritud digifaili, kui otsustate pildistada ühel taustal. Töötlemata pildid ei sisaldu fotosessiooni hinnas
@@ -90,4 +88,4 @@ Allpool on toodud võimalikud pildid, mida fotosessiooni ajal teha saab.
 {{< figure src="./joulu-fotosessioon-tallinnas-7.jpg" title="Jõulufotosessioon" >}}
 {{< figure src="./joulu-fotosessioon-tallinnas-8.jpg" title="Jõulu-minid Tallinnas" >}}
 
-{{< cta cta_text="Registreeru fotopäevale" cta_link="https://calendly.com/lastefoto/joulu-minid" cta_new_tab="true" >}}
+{{< cta cta_text="Registreeru fotosessioonile" cta_link="/#contact" cta_new_tab="true" >}}
