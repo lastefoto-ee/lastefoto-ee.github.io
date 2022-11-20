@@ -3,7 +3,7 @@ title: Babies
 summary: photo shoot for 4-11 months babies
 tags:
 - babies
-date: "2022-09-26T05:46:17+03:00"
+date: "2022-11-20T05:46:17+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -53,9 +53,6 @@ The price includes:
 _if desired, the choice of photos for retouching is carried out by the Customer_
 * retouching of additional photos 5 € / photo
 
-{{< figure src="baby-photo-shoot-18.jpg" title="Baby photo shoot at LasteFoto studio" >}}
-{{< figure src="baby-photo-shoot-17.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photo-shoot-16.jpg" title="Baby photo shoot in the studio on Tallinn" >}}
 {{< figure src="baby-photo-shoot-15.jpg" title="Baby photo shoot with flowers in Tallinn" >}}
 {{< figure src="baby-photo-shoot-14.jpg" title="Baby photo shoot in Tallinn" >}}
 {{< figure src="baby-photo-shoot-13.jpg" title="Baby photo shoot at LasteFoto studio" >}}
