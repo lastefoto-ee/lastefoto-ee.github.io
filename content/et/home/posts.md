@@ -8,7 +8,7 @@ headless: true
 
 
 # Order that this section appears on the page.
-weight: 40
+weight: 60
 
 title: Minu blogi
 subtitle: Artiklid vastsündinud beebide ja lapseootel naiste pildistamisest

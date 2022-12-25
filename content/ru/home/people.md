@@ -1,7 +1,7 @@
 ---
 widget: people
 headless: true  # This file represents a page section.
-weight: 14
+weight: 20
 title: "Отзывы"
 subtitle: "довольных клиентов"
 content:

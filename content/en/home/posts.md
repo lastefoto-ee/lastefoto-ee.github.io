@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 60
 
 title: My articles
 subtitle: Newborn, baby and pregnancy photography related posts
