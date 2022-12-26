@@ -3,7 +3,7 @@ title: Cake smash
 summary: фотосессия на первый день рождения
 tags:
 - cake smash
-date: "2022-09-02T08:44:53+03:00"
+date: "2022-12-26T08:44:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,6 +40,7 @@ _по желанию выбор фотографий на ретушь осущ�
 * воздушные шары (10 шт);
 * обработка дополнительных фотографий 5€ / фотография;
 
+{{< figure src="cake-smash-fotosessiya-14.jpg" title="Сake smash фотосессия" >}}
 {{< figure src="cake-smash-fotosessiya-13.jpg" title="Сake smash фотосессия" >}}
 {{< figure src="cake-smash-fotosessiya-12.jpg" title="Сake smash фотосессия в Таллинне" >}}
 {{< figure src="cake-smash-fotosessiya-11.jpg" title="Фотосессия cake smash в студии" >}}

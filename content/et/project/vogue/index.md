@@ -7,7 +7,7 @@ tags:
 - Vogue
 - fotosessioon Vogue stiilis
 
-date: "2022-08-14T09:46:53+03:00"
+date: "2022-12-26T09:46:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -61,7 +61,9 @@ gallery_item:
 - album: vogue-fotosessija
   image: lastefotosessioon-Vogue-stiilis-6.jpg
   caption: Fotosessioon Ema ja tütar 
-
+- album: vogue-fotosessija
+  image: perefotosessioon-Vogue-stiilis-7.jpg
+  caption: Fotosessioon Ema ja poeg 
 ---
 
 ## Fotosessioon Vogue stiilis

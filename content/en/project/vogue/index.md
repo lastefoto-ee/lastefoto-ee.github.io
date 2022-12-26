@@ -7,7 +7,7 @@ tags:
 - Vogue
 - photo shoot in Vogue style
 
-date: "2022-08-14T09:46:53+03:00"
+date: "2022-12-26T09:46:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -61,6 +61,9 @@ gallery_item:
 - album: vogue-fotosessija
   image: lastefotosessioon-Vogue-stiilis-6.jpg
   caption: Photo shoot Mother and daughter 
+- album: vogue-fotosessija
+  image: perefotosessioon-Vogue-stiilis-7.jpg
+  caption: Photo shoot Mother and baby boy 
 ---
 
 ## Photo shoot in Vogue style

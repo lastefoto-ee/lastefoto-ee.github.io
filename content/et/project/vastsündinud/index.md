@@ -3,7 +3,7 @@ title: Vastsündinud
 summary: fotosessioon beebi 5-14 elupäeval
 tags:
 - vastsündinud
-date: "2022-09-26T05:53:53+03:00"
+date: "2022-12-26T05:53:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -87,6 +87,10 @@ _soovi korral pilte saab ise valida eeltöödeldud galeriist_
 
 Fotosessiooni hind **440**€ 
 
+{{< figure src="vastsundinu-fotosessioon-50.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
+{{< figure src="vastsundinu-fotosessioon-49.jpg" title="Vastsündinu pilt" >}}
+{{< figure src="vastsundinu-fotosessioon-48.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
+{{< figure src="vastsundinu-fotosessioon-47.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
 {{< figure src="vastsundinu-fotosessioon-46.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
 {{< figure src="vastsundinu-fotosessioon-45.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
 {{< figure src="vastsundinu-fotosessioon-44.jpg" title="Vastsündinu pilt" >}}

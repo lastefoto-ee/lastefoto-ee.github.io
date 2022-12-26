@@ -3,7 +3,7 @@ title: Beebid
 summary: fotosessioon beebidele vanuses 4-11 kuud
 tags:
 - beebid
-date: "2022-11-20T05:06:53+03:00"
+date: "2022-12-26T05:06:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -53,7 +53,17 @@ Fotosessioon sisaldab:
 _soovi korral pilte saab ise valida eeltöödeldud galeriist_
 * lisapildi töötlus 5€ / pilt. 
 
-{{< figure src="beebi-fotosessioon-15.jpg" title="Beebifotosessioon lilledega Tallinnas" >}}
+{{< figure src="beebi-fotosessioon-25.jpg" title="Beebi jõulu fotosessioon Tallinnas" >}}
+{{< figure src="beebi-fotosessioon-24.jpg" title="Beebi jõulu pildid" >}}
+{{< figure src="beebi-fotosessioon-23.jpg" title="Beebi jõulufotosessioon" >}}
+{{< figure src="beebi-fotosessioon-22.jpg" title="Beebi jõulupildistamine Tallinna stuudios" >}}
+{{< figure src="beebi-fotosessioon-21.jpg" title="Beebipildistamine" >}}
+{{< figure src="beebi-fotosessioon-20.jpg" title="Beebi fotosessioon Tallinnas" >}}
+{{< figure src="beebi-fotosessioon-19.jpg" title="Beebipildid" >}}
+{{< figure src="beebi-fotosessioon-18.jpg" title="Beebipildistamine Tallinna stuudios" >}}
+{{< figure src="beebi-fotosessioon-17.jpg" title="Beebi fotosessioon" >}}
+{{< figure src="beebi-fotosessioon-16.jpg" title="Beebifotosessioon Tallinnas" >}}
+{{< figure src="beebi-fotosessioon-15.jpg" title="Beebifotosessioon Tallinnas" >}}
 {{< figure src="beebi-fotosessioon-14.jpg" title="Beebipildistamine Tallinna stuudios" >}}
 {{< figure src="beebi-fotosessioon-13.jpg" title="Beebipildid" >}}
 {{< figure src="beebi-fotosessioon-12.jpg" title="Beebipildistamine Tallinnas" >}}

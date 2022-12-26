@@ -3,7 +3,7 @@ title: Newborn
 summary: фотосессия для малышей в течение первых 5-14 дней
 tags:
 - новорожденные
-date: "2022-09-26T05:49:53+03:00"
+date: "2022-12-26T05:49:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -76,6 +76,10 @@ _по желанию выбор фотографий на ретушь осущ�
 
 Стоимость фотосессии **440**€ 
 
+{{< figure src="fotosessiya-novorozhdennykh-50.jpg" title="Съемка новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-49.jpg" title="Фотосессия новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-48.jpg" title="Фотосессия новорожденных в Таллинне" >}}
+{{< figure src="fotosessiya-novorozhdennykh-47.jpg" title="Фотосессия новорожденного в студии" >}}
 {{< figure src="fotosessiya-novorozhdennykh-46.jpg" title="Фотосессия новорожденного малыша в студии в Таллинне" >}}
 {{< figure src="fotosessiya-novorozhdennykh-45.jpg" title="Фотосессия новорожденного в студии" >}}
 {{< figure src="fotosessiya-novorozhdennykh-44.jpg" title="Фотосессия новорожденных в Таллинне" >}}
