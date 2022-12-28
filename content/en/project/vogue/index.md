@@ -1,6 +1,6 @@
 ---
 title: Photo shoot in Vogue style
-summary: photo shoot for children from 3 years old
+summary: photo shoot for children from 2 years old
 tags:
 - children
 - mother and baby

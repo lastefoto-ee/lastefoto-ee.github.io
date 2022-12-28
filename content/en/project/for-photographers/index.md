@@ -6,7 +6,7 @@ tags:
 - photoshop actions
 - black and white actions
 - actions for Adobe Photoshop
-- reataching
+- retaching
 date: "2022-04-27T06:15:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
