@@ -47,34 +47,34 @@ categories:
 ---
 Must-valge vastsündinu fotograafia on klassikaline ja ajatu viis vastsündinu ilu ja loomulikkuse jäädvustamiseks. Ilma segavate värvideta võimaldavad must-valged kaadrid keskenduda foto detailidele ja emotsioonidele, luues ajatuid ja püsivaid kaadreid.
 
-{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-1.jpg" title="Newborn photo shoot in the studio in Tallinn" >}}
+{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-1.jpg" title="Vastsündinu fotosessioon Tallinna stuudios" >}}
 
 Siin on mõned näpunäited must-valgetele vastsündinu fotodele klassikalise hõngu lisamiseks:
 
 1. Valige õige vastsündinu fotograaf: otsige vastsündinu fotograafi, kellel on must-valge vastsündinute fotograafia kogemus ja portfoolio, mis näitab nende oskusi. Samuti on oluline valida vastsündinu fotograafi, kellel on õrn, kannatlik ja hoolitsev käitumine, sest vastsündinud võivad olla ettearvamatud.
 
-{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-3.jpg" title="Newborn twins photo shoot in the studio in Tallinn" >}}
+{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-3.jpg" title="Vastsündinud kaksikute pildistamine Tallinnas" >}}
 
 2. Planeerige vastsündinu fotosessioon ette: vastsündinu pildistamise fotosessiooni peetakse tavaliselt beebi esimestel elunädalatel, kui ta on veel väga unine ja painduv. Oluline on vastsündinu fotosessioon broneerida võimalikult varakult, et tagada fotograafi ajakavas koht.
 
-{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-2.jpg" title="Family photo shoot with newborn in the studio in Tallinn" >}}
+{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-2.jpg" title="Perepildistamine vastsündinud beebiga stuudios" >}}
 
 3. Kaaluge valgustust: must-valge fotograafia tugineb kontrastile ja valgustusele, et tekitada draama ja pildi vastu huvi. Vastsündinu pildistamise planeerimisel arvestage ruumi valgustusega ja valige koht, kus on loomulikku valgust või hästi hajutatud kunstvalgust.
 
-{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-4.jpg" title="Macro shots taken at the newborn photo shoot" >}}
+{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-4.jpg" title="Macro kaadrid tehtud vastsündinu fotosessioonil" >}}
 
 4. Katsetage poosidega: vastsündinute pildistamisel saab kasutada palju erinevaid poose, alates traditsioonilistest poseeritud võtetest kuni avameelsemate life-style piltideni. Katsetage erinevate poosidega, et leida, mis sobib vastsündinu jaoks kõige paremini ja loob kõige silmatorkavamad must-valged pildid.
 
-{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-5.jpg" title="Newborn photo shoot in the studio" >}}
+{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-5.jpg" title="Vastsündinu pildistamine stuudios" >}}
 
 5. Keskenduge emotsioonidele: must-valge fotograafia suudab keskenduda foto emotsioonidele ja detailidele, nii et laske oma vastsündinu ilmetel ja isiksusel piltidelt läbi paista. Jäädvustades siiraid hetki, mis näitavad vastsündinu tõelist ilu ja loomulikkust, saate luua ajatuid fotosid.
 
-{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-6.jpg" title="Family shots taken at the newborn photo shoot in Tallinn" >}}
+{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-6.jpg" title="Perepildid tehtud vastsündinu fotosessioonil" >}}
 
 6. Lisage tekstuuriga rekvisiite: must-valge fotograafia suudab esile tõsta tekstuuri ja detaile, seega kaaluge tekstuuriga rekvisiitide lisamist vastsündinud fotodele. See võib hõlmata keeruliste mustrite või tekstuuridega tekke, mähiseid või korvikesi.
 
-{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-7.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-7.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
 
 Loodame, et need näpunäited aitavad teil luua kauneid ja ajatuid must-valgeid vastsündinu fotosid. Ärge unustage valida fotograaf, keda usaldate, planeerige fotosessioon ette ning keskenduge piltidel emotsioonidele ja detailidele. Veidi planeerides saate luua vapustavaid must-valgeid pilte.
 
-{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-8.jpg" title="Macro shots taken at the newborn photo shoot" >}}
+{{< figure src="./vastsundinu-fotosessioon-must-valge-pilt-8.jpg" title="Macro kaadrid tehtud vastsündinu fotosessioonil" >}}
