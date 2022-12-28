@@ -51,11 +51,11 @@ Black and white newborn photography is a classic and timeless way to document th
 
 Here are some tips for adding a classic touch to your newborn photography with black and white images:
 
-1. Choose the right photographer: Look for a photographer who has experience with black and white newborn photography and a portfolio that showcases their skills. It's also important to choose someone who has a gentle, patient, and nurturing demeanor, as newborns can be unpredictable.
+1. Choose the right newborn photographer: Look for a newborn photographer who has experience with black and white photography and a portfolio that showcases their skills. It's also important to choose a newborn photographer who has a gentle, patient, and nurturing demeanor, as newborns can be unpredictable.
 
 {{< figure src="./newborn-photo-shoot-black-and-white-picture-3.jpg" title="Newborn twins photo shoot in the studio in Tallinn" >}}
 
-2. Plan ahead: Newborn photography sessions are typically held within the first few weeks of a baby's life, when they are still very sleepy and pliable. It's important to book your session as early as possible to ensure that you have a spot on the photographer's schedule.
+2. Plan a newborn photo shoot ahead: Newborn photography sessions are typically held within the first few weeks of a baby's life, when they are still very sleepy and pliable. It's important to book your newborn session as early as possible to ensure that you have a spot on the photographer's schedule.
 
 {{< figure src="./newborn-photo-shoot-black-and-white-picture-2.jpg" title="Family photo shoot with newborn in the studio in Tallinn" >}}
 
@@ -63,7 +63,7 @@ Here are some tips for adding a classic touch to your newborn photography with b
 
 {{< figure src="./newborn-photo-shoot-black-and-white-picture-4.jpg" title="Macro shots taken at the newborn photo shoot" >}}
 
-4. Experiment with poses: There are many different poses that can be used in newborn photography, from traditional posed shots to more candid, lifestyle-type images. Experiment with different poses to find what works best for your newborn and creates the most striking black and white images.
+4. Experiment with poses: There are many different poses that can be used in newborn photography, from traditional posed shots to more candid, lifestyle-type images. Experiment with different poses to find what works best for newborn and creates the most striking black and white images.
 
 {{< figure src="./newborn-photo-shoot-black-and-white-picture-5.jpg" title="Newborn photo shoot in the studio" >}}
 
@@ -75,6 +75,6 @@ Here are some tips for adding a classic touch to your newborn photography with b
 
 {{< figure src="./newborn-photo-shoot-black-and-white-picture-7.jpg" title="Newborn photo shoot in Tallinn" >}}
 
-We hope that these tips will help you create beautiful and timeless black and white newborn photographs. Remember to choose a photographer who you trust, plan ahead, and focus on emotion and detail in the images. With a little bit of thought and planning, you can create stunning black and white images
+We hope that these tips will help you create beautiful and timeless black and white newborn photographs. Remember to choose a newborn photographer who you trust, plan ahead, and focus on emotion and detail in the images. With a little bit of thought and planning, you can create stunning black and white images.
 
 {{< figure src="./newborn-photo-shoot-black-and-white-picture-8.jpg" title="Macro shots taken at the newborn photo shoot" >}}

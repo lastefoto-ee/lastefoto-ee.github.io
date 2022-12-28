@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Цены
-subtitle: и работы
+title: Портфолио
+subtitle: и цены
 
 content:
   # Page type to display. E.g. project.
