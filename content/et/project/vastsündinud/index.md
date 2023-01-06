@@ -3,7 +3,7 @@ title: Vastsündinud
 summary: fotosessioon beebi 5-14 elupäeval
 tags:
 - vastsündinud
-date: "2022-12-26T05:53:53+03:00"
+date: "2023-01-06T05:53:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,65 +27,51 @@ slides: ""
 weight: 3
 
 ---
-
-## Vastsündinu fotosessioon - Pakett S
-
-_Ideaalne aeg vastsündinu pildistamiseks on 5-14 päeva vanuselt_
-
-Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag). Ühistpilti ega võtteid pereliikmetega antud paketi raames ei tee. 
-
-Fotosessioon sisaldab: 
-* erinevad set-up'id beebi jaoks
-* 7 digi- ja paberpilti 10x15cm. 
-_soovi korral pilte saab ise valida eeltöödeldud galeriist_ 
-* erinevate mütsikeste, kangaste, korvikeste kasutus. Kasutavate aksessuaaride ja kangaste pesu.
-* pildistamine Lastefoto stuudios 1-2 tunni jooksul (sõltuvalt väikese modelli tujust). 
-* töödeldud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada. 
-* kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk. 
-* lisapildi töötlus 10€ / pilt. 
-
-Fotosessiooni hind **185**€ 
-
-{{< figure src="vastsundinu-pildistamine-s-pakett.jpg" title="Vastsündinu fotosessiooni S pakett, näidispildid" >}}
-
-## Vastsündinu fotosessioon - Pakett M
+## Minipakett (1-2,5 tundi) *320*€ 
 
 _Ideaalne aeg vastsündinu pildistamiseks on 5-14 päeva vanuselt_
 
-Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis, teeme ühist perepilti ja ka pilte emme-issiga ja õdede-vendadega. 
+Hind sisaldab:
+1. 2-3 erinevat set-up’i beebi jaoks;
+2. ühine perepilt. Võtted pereliikmetega eraldi antud paketti ei kuulu;
+3. 17 digi- ja paberpilti 10x15cm; _Soovi korral pilte saab ise valida eeltöödeldud galeriist._
+4. iga foto individuaaltöötlust (beebiakne, ketendava naha jms eemaldus);
+5. erinevate mütsikeste, kangaste, korvikeste kasutus. Kasutavate aksessuaaride ja kangaste pesu;
+6. nõustamine enne fotosessiooni ja juhendamine fotosessiooni ajal;
+7. pildistamine Lastefoto stuudios 1-2,5 tunni jooksul (sõltuvalt väikese modelli tujust);
+8. töödeldud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada;
+9. kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk;
+10. lisapildi töötlus 10€ / pilt;
 
-Fotosessioon sisaldab:
-* erinevad set-up'id beebi jaoks
-* 17 digi- ja paberpilti 10x15cm. 
-_soovi korral pilte saab ise valida eeltöödeldud galeriist_ 
-* erinevate mütsikeste, kangaste, korvikeste kasutus. Kasutavate aksessuaaride ja kangaste pesu.
-* fotod pereliikmetega ning ühine perepilt. 
-* pildistamine LasteFoto stuudios 2-3 tunni jooksul (sõltuvalt väikese modelli tujust). 
-* töödeldud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada. 
-* kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk.
-* lisapildi töötlus 9€ / pilt. 
+{{< figure src="vastsundinu-fotosessioon-tallinnas-minipakett.jpg" title="Vastsündinu fotosessioon Tallinnas, näidispildid" >}}
 
-Fotosessiooni hind **290**€
-
-## Vastsündinu fotosessioon - Pakett L
+## Täispakett (2-4 tundi) *410*€ 
 
 _Ideaalne aeg vastsündinu pildistamiseks on 5-14 päeva vanuselt_
 
-Fotosessiooni käigus pildistan beebit poseerimiseks mõeldud padja peal (beanbag) ja rekvisiidis, teeme ühist perepilti ja ka pilte emme-issiga ja õdede-vendadega. 
+Hind sisaldab:
+1. 3-4 erinevat set-up’i beebi jaoks;
+2. fotod eraldi pereliikmetega ja ühine perepilt;
+3. 25 digi- ja paberpilti 10x15cm; *Soovi korral pilte saab ise valida eeltöödeldud galeriist*
+4. iga foto individuaaltöötlust (beebiakne, ketendava naha jms eemaldus);
+5. erinevate mütsikeste, kangaste, korvikeste kasutus. Kasutavate aksessuaaride ja kangaste pesu;
+6. nõustamine enne fotosessiooni ja juhendamine fotosessiooni ajal;
+7. pildistamine LasteFoto stuudios 2-4 tunni jooksul (sõltuvalt väikese modelli tujust);
+8. töödeldud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada;
+9. kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk;
+10. lisapildi töötlus 8€ / pilt;
 
-Fotosessioon sisaldab: 
-* erinevad set-up'id beebi jaoks
-* 30 digi- ja paberpilti 10x15cm.
-_soovi korral pilte saab ise valida eeltöödeldud galeriist_
-* erinevate mütsikeste, kangaste, korvikeste kasutus. Kasutavate aksessuaaride ja kangaste pesu.
-* fotod pereliikmetega ning ühine perepilt. 
-* pildistamine Lastefoto stuudios 2-4 tunni jooksul (sõltuvalt väikese modelli tujust). 
-* töödeldud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada; 
-* fotoraamat 20 х 20 cm. 
-* kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk.
-* lisapildi töötlus 8€ / pilt. 
+> Lapse sünd on kahtlemata üks imelisemaid sündmusi elus. Need pisikesed näpud ja väikesed näojooned on silmarõõm ja oleks viga jätta see hetk jäädvustamata. Alles siis, kui nad on nii väikesed ja nii armsad. Laske meil jäädvustada teie lapse ilu kaunilt ja kunstiliselt.
 
-Fotosessiooni hind **440**€ 
+- soovitatav on ette broneerida vastsündinu fotosessiooni aeg.
+- vastsündinute pildistamine toimub esimese 14 elupäeva jooksul, seega tuleks lapse sünnist teatada esimesel võimalusel, olenemata sellest, kui kaua te sünnitusmajas viibite.
+- vähemalt üks päev enne pildistamist soovitatakse emadel mitte süüa järgmisi toitu: kohvi, šokolaadi, tsitruselised, brokkoli, küüslauk, vürtsikas toit ja pähklid. Nende nõuannete järgimine suurendab rahuliku ja unise lapse võimalusi.
+- kui võimalik, hoidke oma beebit enne pildistamist 1-2 tundi ärkvel ja söötke teda vahetult enne stuudiosse minekut. Valige riided, mida on lihtne maha võtta ja mis ei jäta jälgi. 
+- palun võtke oma lutt kaasa, isegi kui te otsustate seda mitte kasutada. Sageli on lutt eduka pildistamise võti.
+- perepildi jaoks on soovitatav kasutada neutraalse (nt valge, hall või must) või rikkaliku värviga t-särki/pluusi/kleiti (emale). Vältige pikki varrukaid ja trükiseid/pilte riietel.
+- stuudios on võimalik teha teed, pikemateks pildistamisteks võite võtta kaasa väikese snäki.
+- lapsevanemad on oodatud saatma meile oma pildi- ja värvisoovid, kuid palume arvestada, et kahjuks ei saa me nende täitumist garanteerida. Kõik vastsündinud on erinevad ja kõik ei ole valmis võtma samu poose või magama piisavalt sügavalt pildistamise ajal.
+- pildistamise ajal vastutavad vanemad ka vanemate õdede-vendade eest, kes viibivad stuudios.
 
 {{< figure src="vastsundinu-fotosessioon-50.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
 {{< figure src="vastsundinu-fotosessioon-49.jpg" title="Vastsündinu pilt" >}}

@@ -3,7 +3,7 @@ title: Newborn
 summary: photo shoot for babies during the first 5-14 days
 tags:
 - newborn
-date: "2022-12-26T05:43:10+03:00"
+date: "2023-01-06T05:43:10+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,58 +27,55 @@ slides: ""
 weight: 3
 
 ---
+## Mini-package (1-2,5 hours) *320*€ 
 
-## Newborn Photo shoot - Package S
+_The ideal time for newborn photography is 5-14 days of age_.
 
-In this package, the newborn (5-14 days) is the main bias. I photograph him from various angles on a posing pillow (beanbag) and props. 
-Family shots are not included in this package.
+Price includes:
+1. 2-3 different set-ups for the baby;
+2. a family photo. Snapshots with family members are not included in this package;
+3. 17 digital and paper images 10x15cm; *If desired, you can choose the images yourself from the pre-edited gallery.*
+4. individual retouching of each photo (removal of baby acne, flaky skin, etc.);
+5. use of various hats, fabrics, baskets. Washing of accessories and fabrics used;
+6. consultation before and accompaniment during the photo shoot;
+7. taking photos in the LasteFoto Studio for 1-2,5 hours (depending on the mood of the little model);
+8. a web gallery of retouched images, which you can also share if you wish;
+9. a USB memory stick with all retouched photos in individually designed package;
+10. retouching of additional photos 10 € / photo;
 
-The photo shoot includes:
-* various set-ups for the newborn;
-* 7 retouched digital and printed photos 10x15cm;
-_if desired, the choice of photos for retouching is carried out by you_
-* shooting for 2 hours in the LasteFoto newborn studio (Peterburi tee 46, Tallinn);
-* USB drive with all retouched photos in individually designed package;
-* retouching of additional photos 10 € / photo;
+{{< figure src="newborn-photo-shoot-in-tallinn-minipackage.jpg" title="Newborn photo shoot in Tallinn, sample images" >}}
 
-Price **185**€ 
+## Full-package (2-4 hours) *410*€ 
 
-{{< figure src="newborn-photo-shoot-s-package.jpg" title="Newborn photo shoot. Example of the result of the minimum package" >}}
+_The ideal time for newborn photography is 5-14 days of age_.
 
-## Newborn photo shoot - Package M
-
-In this package, the newborn (5-14 days) is the main bias. I photograph him from various angles on a posing pillow (beanbag) and props.  We also take  general family photos and separate frames with mom-dad and brother-sister.
-
-The photo shoot includes:
-* various set-ups for the newborn;
-* 17 retouched digital and printed photos 10x15cm;
-_if desired, the choice of photos for retouching is carried out by the Customer_
-* family shots and photos with siblings;
-* shooting for 2-3 hours in the LasteFoto newborn studio (Peterburi tee 46, Tallinn);
-* USB drive with all retouched photos in individually designed package;
-* retouching of additional photos 9 € / photo;
-
-Price **290**€ 
-
-## Newborn Photo shoot - Package L
-
-In this package, the newborn (5-14 days) is the main bias. I photograph him from various angles on a posing pillow (beanbag) and props.  We also take  general family photos and separate frames with mom-dad and brother-sister.
-
-The photo shoot includes:
-* various set-ups for the newborn;
-* 30 retouched digital and printed photos 10x15cm;
-_if desired, the choice of photos for retouching is carried out by the Customer_
-* family shots and photos with siblings;
-* shooting for 2-3 hours in the LasteFoto newborn studio (Peterburi tee 46, Tallinn);
-* photobook 20 x 20 cm;
-* USB drive with all retouched photos in individually designed package;
-* retouching of additional photos 8 € / photo;
-
-Price **440**€ 
+Price includes:
+1. 2-3 different set-ups for the baby;
+2. photos with family members separately and a family photo;
+3. 25 digital and paper images 10x15cm; *If desired, you can choose the images yourself from the pre-edited gallery.*
+4. individual retouching of each photo (removal of baby acne, flaky skin, etc.);
+5. use of various hats, fabrics, baskets. Washing of accessories and fabrics used;
+6. consultation before and accompaniment during the photo shoot;
+7. taking photos in the LasteFoto Studio for 2-4 hours (depending on the mood of the little model);
+8. a web gallery of retouched images, which you can also share if you wish;
+9. a USB memory stick with all retouched photos in individually designed package;
+10. retouching of additional photos 10 € / photo;
 
 ## Newborn Photo shoot outside of Estonia
 
 The price and conditions of the photo shoot are available on request.
+
+> The birth of a child is undoubtedly one of the most wonderful events in life. Those tiny fingers and little facial features are a delight to the eyes, and it would be a mistake not to capture the very moment. It's only once they're so small and so cute. Let us capture your baby's beauty in a beautiful and artistic way.
+
+- it is advisable to book a time for the newborn photo shoot in advance.
+- newborn photo shoot takes place during the first 14 days of a baby's life, so it is essential to announce the baby's birth at the first opportunity, no matter how long you will be in the maternity hospital.
+- at least one day before the photo shoot, mothers are advised not to eat the following foods: coffee, chocolate, citrus fruits, broccoli, garlic, spicy foods and nuts. Following this advice will increase the chances of a calm and sleepy baby.
+- if possible, keep your baby awake for 1-2 hours before the photo shoot and feed him/her just before going to the studio.Choose clothes that are easy to remove and leave no marks. 
+- please bring your baby's pacifier with you, even if you choose not to use it. Often the pacifier is the key to a successful photo shoot.
+- for a family shot you will need a T-shirt/blouse/dress (for mum) in a neutral (e.g. white, grey or black) or saturated colour. Avoid long sleeves and patterns/lettering on the clothes.
+- you can make tea in the studio, for longer shoots take a small snack with you.
+- parents are welcome to send us their image and colour wishes, but please note that we unfortunately cannot guarantee that they will come true. All newborns are different and not all are willing to take the same poses or sleep deeply enough during the photo shoot.
+- during the photo shoot, parents are also responsible for the older siblings who are in the studio.
 
 {{< figure src="newborn-photo-shoot-50.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-49.jpg" title="Newborn photo shoot in studio" >}}
