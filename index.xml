@@ -122,6 +122,11 @@
 &lt;li>kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk;&lt;/li>
 &lt;li>lisapildi töötlus 10€ / pilt;&lt;/li>
 &lt;/ol>
+&lt;ul class="cta-group">
+&lt;li>
+&lt;a href="https://www.lastefoto.ee/#contact" class="btn btn-primary px-3 py-3">💛 Broneeri fotosessioon kohe&lt;/a>
+&lt;/li>
+&lt;/ul>
 &lt;figure id="figure-vastsündinu-fotosessioon-tallinnas-näidispildid">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu fotosessioon Tallinnas, näidispildid" srcset="
@@ -150,6 +155,11 @@ Vastsündinu fotosessioon Tallinnas, näidispildid
 &lt;li>kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk;&lt;/li>
 &lt;li>lisapildi töötlus 8€ / pilt;&lt;/li>
 &lt;/ol>
+&lt;ul class="cta-group">
+&lt;li>
+&lt;a href="https://www.lastefoto.ee/#contact" class="btn btn-primary px-3 py-3">💛 Jäädvustada Beebi ilu kaunilt ja kunstiliselt&lt;/a>
+&lt;/li>
+&lt;/ul>
 &lt;blockquote>
 &lt;p>Lapse sünd on kahtlemata üks imelisemaid sündmusi elus. Need pisikesed näpud ja väikesed näojooned on silmarõõm ja oleks viga jätta see hetk jäädvustamata. Alles siis, kui nad on nii väikesed ja nii armsad. Laske meil jäädvustada teie lapse ilu kaunilt ja kunstiliselt.&lt;/p>
 &lt;/blockquote>
@@ -163,6 +173,11 @@ Vastsündinu fotosessioon Tallinnas, näidispildid
 &lt;li>stuudios on võimalik teha teed, pikemateks pildistamisteks võite võtta kaasa väikese snäki.&lt;/li>
 &lt;li>lapsevanemad on oodatud saatma meile oma pildi- ja värvisoovid, kuid palume arvestada, et kahjuks ei saa me nende täitumist garanteerida. Kõik vastsündinud on erinevad ja kõik ei ole valmis võtma samu poose või magama piisavalt sügavalt pildistamise ajal.&lt;/li>
 &lt;li>pildistamise ajal vastutavad vanemad ka vanemate õdede-vendade eest, kes viibivad stuudios.&lt;/li>
+&lt;/ul>
+&lt;ul class="cta-group">
+&lt;li>
+&lt;a href="https://www.lastefoto.ee/#contact" class="btn btn-primary px-3 py-3">💛 Broneeri fotosessioon kohe&lt;/a>
+&lt;/li>
 &lt;/ul>
 &lt;p>
 &lt;figure id="figure-vastsündinu-fotosessioon-stuudios-tallinnas">
@@ -191,6 +206,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu pilt
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinud-beebi-pildistamine-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinud beebi pildistamine stuudios" srcset="
@@ -217,6 +233,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu fotosessioon Tallinnas
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-pildistamine-tallinna-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu pildistamine Tallinna stuudios" srcset="
@@ -243,6 +260,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu fotosessioon stuudios Tallinnas
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-pilt">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu pilt" srcset="
@@ -269,6 +287,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu fotosessioon Tallinnas
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinud-beebi-pildistamine-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinud beebi pildistamine stuudios" srcset="
@@ -295,6 +314,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu fotosessioon Tallinnas
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinud-beebi-pildistamine-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinud beebi pildistamine stuudios" srcset="
@@ -321,6 +341,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu fotosessioon Tallinnas
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinud-beebi-pildistamine-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinud beebi pildistamine stuudios" srcset="
@@ -347,6 +368,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu fotosessioon Tallinnas
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinud-beebi-pildistamine-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinud beebi pildistamine stuudios" srcset="
@@ -373,6 +395,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu pildistamine stuudios
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-fotosessioon-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu fotosessioon stuudios" srcset="
@@ -399,6 +422,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinud beebitüdruku pilt
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-pildistamine-tallinna-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu pildistamine Tallinna stuudios" srcset="
@@ -425,6 +449,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu fotosessioon stuudios Tallinnas
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-pilt">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu pilt" srcset="
@@ -451,6 +476,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu fotosessioon stuudios Tallinnas
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinud-beebi-pildistamine-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinud beebi pildistamine stuudios" srcset="
@@ -477,6 +503,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu pilt
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-fotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu fotosessioon Tallinnas" srcset="
@@ -503,6 +530,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu pildistamine Tallinna stuudios
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-fotosessioon-stuudios-tallinnas">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu fotosessioon stuudios Tallinnas" srcset="
@@ -529,6 +557,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu pilt
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-fotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu fotosessioon Tallinnas" srcset="
@@ -555,6 +584,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinud beebi pildistamine stuudios
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-pildistamine-tallinna-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu pildistamine Tallinna stuudios" srcset="
@@ -581,6 +611,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu fotosessioon stuudios Tallinnas
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-pilt">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu pilt" srcset="
@@ -607,6 +638,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinud beebi pildistamine stuudios
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-fotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu fotosessioon Tallinnas" srcset="
@@ -633,6 +665,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinud beebi pildistamine stuudios
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-pildistamine-tallinna-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu pildistamine Tallinna stuudios" srcset="
@@ -659,6 +692,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu fotosessioon stuudios Tallinnas
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-fotosessioon-stuudios-tallinnas">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu fotosessioon stuudios Tallinnas" srcset="
@@ -685,6 +719,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinud kaksikute fotosessioon stuudios Tallinnas
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-fotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu fotosessioon Tallinnas" srcset="
@@ -711,6 +746,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinud beebi pildistamine stuudios
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinud-beebi-pildistamine-stuudios">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinud beebi pildistamine stuudios" srcset="
@@ -737,6 +773,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu pildistamine Tallinna stuudios
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-fotosessioon-stuudios-tallinnas">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu fotosessioon stuudios Tallinnas" srcset="
@@ -763,6 +800,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu pilt
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-fotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu fotosessioon Tallinnas" srcset="
@@ -789,6 +827,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinud beebi pildistamine stuudios
 &lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>
 &lt;figure id="figure-vastsündinu-fotosessioon-tallinnas">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu fotosessioon Tallinnas" srcset="
@@ -814,7 +853,8 @@ height="507"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinud beebi pildistamine stuudios
-&lt;/figcaption>&lt;/figure>&lt;/p></description></item><item><title>Kasva minuga</title><link>https://www.lastefoto.ee/project/esimene-eluaasta/</link><pubDate>Mon, 15 Aug 2022 06:57:53 +0300</pubDate><guid>https://www.lastefoto.ee/project/esimene-eluaasta/</guid><description>&lt;h2 id="beebi-esimene-eluaasta">Beebi esimene eluaasta&lt;/h2>
+&lt;/figcaption>&lt;/figure>
+&lt;a href="https://www.lastefoto.ee/#contact">💛 Broneeri vastsündinu fotosessioon&lt;/a>&lt;/p></description></item><item><title>Kasva minuga</title><link>https://www.lastefoto.ee/project/esimene-eluaasta/</link><pubDate>Mon, 15 Aug 2022 06:57:53 +0300</pubDate><guid>https://www.lastefoto.ee/project/esimene-eluaasta/</guid><description>&lt;h2 id="beebi-esimene-eluaasta">Beebi esimene eluaasta&lt;/h2>
 &lt;p>Pakett «Beebi esimene eluaasta» - unikaalne kingitus värsketele vanematele!&lt;/p>
 &lt;p>Pakett sisaldab:&lt;/p>
 &lt;ul>
