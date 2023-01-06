@@ -43,6 +43,8 @@ Price includes:
 9. a USB memory stick with all retouched photos in individually designed package;
 10. retouching of additional photos 10 € / photo;
 
+{{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
+
 {{< figure src="newborn-photo-shoot-in-tallinn-minipackage.jpg" title="Newborn photo shoot in Tallinn, sample images" >}}
 
 ## Full-package (2-4 hours) *410*€ 
@@ -61,6 +63,8 @@ Price includes:
 9. a USB memory stick with all retouched photos in individually designed package;
 10. retouching of additional photos 10 € / photo;
 
+{{< cta cta_text="💛 Order your photo shoot right now!" cta_link="/en/#contact" cta_new_tab="true" >}}
+
 ## Newborn Photo shoot outside of Estonia
 
 The price and conditions of the photo shoot are available on request.
@@ -77,53 +81,80 @@ The price and conditions of the photo shoot are available on request.
 - parents are welcome to send us their image and colour wishes, but please note that we unfortunately cannot guarantee that they will come true. All newborns are different and not all are willing to take the same poses or sleep deeply enough during the photo shoot.
 - during the photo shoot, parents are also responsible for the older siblings who are in the studio.
 
+{{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
+
 {{< figure src="newborn-photo-shoot-50.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-49.jpg" title="Newborn photo shoot in studio" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-48.jpg" title="Newborn photo shoot" >}}
 {{< figure src="newborn-photo-shoot-47.jpg" title="Newborn picture" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-46.jpg" title="Newborn baby photo shoot in studio" >}}
 {{< figure src="newborn-photo-shoot-45.jpg" title="Newborn picture" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-44.jpg" title="Newborn photo shoot" >}}
 {{< figure src="newborn-photo-shoot-43.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-42.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-41.jpg" title="Newborn studio session" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-40.jpg" title="Newborn baby photo shoot in studio" >}}
 {{< figure src="newborn-photo-shoot-39.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-38.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-37.jpg" title="Newborn studio session" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-36.jpg" title="Newborn baby photo shoot in studio" >}}
 {{< figure src="newborn-photo-shoot-35.jpg" title="Newborn baby photo shoot in the studio in Tallinn" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-34.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-33.jpg" title="Newborn babygirl photo shoot" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-32.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-31.jpg" title="Newborn photo shoot in studio" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-30.jpg" title="Newborn photo shoot" >}}
 {{< figure src="newborn-photo-shoot-29.jpg" title="Newborn picture" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-28.jpg" title="Newborn babygirl photo shoot in studio" >}}
 {{< figure src="newborn-photo-shoot-27.jpg" title="Newborn babygirl photo shoot in studio" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-26.jpg" title="Newborn photo shoot" >}}
 {{< figure src="newborn-photo-shoot-25.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-24.jpg" title="Newborn studio session" >}}
 {{< figure src="newborn-photo-shoot-23.jpg" title="Newborn babygirl photo shoot in studio" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-22.jpg" title="Newborn picture" >}}
 {{< figure src="newborn-photo-shoot-21.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-20.jpg" title="Newborn photo shoot" >}}
 {{< figure src="newborn-photo-shoot-19.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-18.jpg" title="Newborn studio session" >}}
 {{< figure src="newborn-photo-shoot-17.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-16.jpg" title="Newborn picture" >}}
 {{< figure src="newborn-photo-shoot-15.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-14.jpg" title="Newborn photo shoot" >}}
 {{< figure src="newborn-photo-shoot-13.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-12.jpg" title="Newborn twins photo shoot in studio" >}}
 {{< figure src="newborn-photo-shoot-11.jpg" title="Newborn photo shoot" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-10.jpg" title="Newborn photo shoot" >}}
 {{< figure src="newborn-photo-shoot-9.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-8.jpg" title="Newborn studio session" >}}
 {{< figure src="newborn-photo-shoot-7.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-6.jpg" title="Newborn picture" >}}
 {{< figure src="newborn-photo-shoot-5.jpg" title="Newborn photo shoot" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-4.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-3.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-2.jpg" title="Newborn studio session" >}}
 {{< figure src="newborn-photo-shoot-1.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}

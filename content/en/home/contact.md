@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Contact
-subtitle: Drop me a line to book a photo shoot
+title: Book now
+subtitle: Drop me a line or a ring
 
 content:
   # Automatically link email and phone or display as text?

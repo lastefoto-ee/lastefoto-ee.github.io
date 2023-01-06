@@ -20,7 +20,7 @@ et:
       - name: Blogi
         url: '#posts'
         weight: 20
-      - name: Kontakt
+      - name: Broneeri kohe
         url: '#contact'
         weight: 40
 ru:
@@ -40,7 +40,7 @@ ru:
       - name: Блог
         url: '#posts'
         weight: 20
-      - name: Контакт
+      - name: Забронируй сейчас
         url: '#contact'
         weight: 40
 en:
@@ -60,7 +60,7 @@ en:
       - name: Blog
         url: '#posts'
         weight: 20
-      - name: Contact
+      - name: Book now
         url: '#contact'
         weight: 40
 

@@ -49,7 +49,7 @@ Price: 980€
 
 _Partial payment available_
 
-{{< cta cta_text="Book your package today!" cta_link="/en/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="💛 Book your package today!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
 _or use Facebook/WhatsApp button in the bottom right corner for faster answers_
 

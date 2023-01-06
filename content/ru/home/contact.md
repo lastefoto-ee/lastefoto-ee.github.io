@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Свяжись со мной
-subtitle: напиши пару строк, чтобы забронировать фотосессию
+title: Забронируй сейчас
+subtitle: напиши пару строк или позвони
 
 content:
   # Automatically link email and phone or display as text?
