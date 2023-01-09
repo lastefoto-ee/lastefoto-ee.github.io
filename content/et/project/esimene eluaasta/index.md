@@ -5,7 +5,7 @@ tags:
 - vastsündinud
 - beebid
 - cake smash
-date: "2022-08-15T06:57:53+03:00"
+date: "2023-01-09T06:57:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,23 +29,27 @@ slides: ""
 weight: 4
 
 ---
-## Beebi esimene eluaasta 
-Pakett «Beebi esimene eluaasta» - unikaalne kingitus värsketele vanematele! 
+## Beebi esimene eluaasta *1400*€ (on võimalik maksta osade kaupa)
+_Pakett «Beebi esimene eluaasta» - unikaalne kingitus värsketele vanematele!_ 
 
-Pakett sisaldab: 
-* vastsündinu fotosessioon LasteFoto stuudios 2-3 tunni jooksul; 
-* erinevad set-up'id vastsündinud beebi jaoks
-* kolm 1-tunnist fotosessiooni LasteFoto stuudios; 
-* erinevad set-up'd beebi jaoks
-* vastsündinu fotosessiooni tulemuseks on 25 töödeldud pilti, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks; 
-* iga järgmise fotosessiooni tulemuseks on 20 retušeeritud ja töödeldud fotot, mis on prindikõlblikud ning sobivad Internetis väljapanemiseks; 
-* tort ja õhupallid (10 tk) "Cake smash" fotosessiooniks; 
-* kõikide fotodega individuaalselt kujundatud pakendis USB-mälupulka; 
-* teie valikul üks foto prinditud lõuendile raami mõõtudega 40х60cm; 
-* teie poolt valitud parimate fotode alusel koostatud "Premium" klassi fotoraamat, mõõtudega 30х30cm (20 lehte). 
+Hind sisaldab: 
+1. vastsündinu täis-fotosessioon LasteFoto stuudios 2-4 tunni jooksul;
+2. 3-4 erinevat set-up’i vastsündinud beebi jaoks;
+3. kolm 1-tunnist beebi täis-fotosessiooni (k.a. CakeSmash fotosessioon) LasteFoto stuudios;
+4. 2-3 erinevat set-up’i beebi jaoks;
+5. erinevate mütsikeste, kangaste, korvikeste kasutus. Kasutavate aksessuaaride ja kangaste pesu.
+6. vastsündinu fotosessiooni tulemuseks on 25 töödeldud digipilti. _Soovi korral pilte saab ise valida eeltöödeldud galeriist_;
+7. iga järgmise beebi fotosessiooni tulemuseks on 20 töödeldud digipilti. _Soovi korral pilte saab ise valida eeltöödeldud galeriist_;
+8. fotod eraldi pereliikmetega ja ühised perepildid igal fotosessioonil;
+9. iga foto individuaaltöötlust. Töötlemata pildid ei kuulu paketi hinna sisse, kuid neid on võimalik lisaks juurde osta;
+10. 20 paberpilti kõigi fotosessioonide tulemuste põhjal;
+11. tort ja õhupallid (10 tk) “Cake smash” fotosessiooniks;
+12. nõustamine enne fotosessiooni ja juhendamine fotosessiooni ajal;
+13. töödeldud piltidest koostatud veebigaleriid, mida soovi korral saate ka jagada;
+14. kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk;
+15. teie valikul üks foto prinditud lõuendile raami mõõtudega 40х60cm;
+16. teie poolt valitud parimate fotode alusel koostatud “Premium” klassi fotoraamat, mõõtudega 30х30cm (15 lehte).
 
-Paketi hind 980€ 
-_Paketi eest on võimalik maksta osade kaupa_
 
 {{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="/project/vastsundinud/" cta_alt_new_tab="false" >}}
 

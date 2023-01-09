@@ -5,7 +5,7 @@ tags:
 - newborn photo shoot
 - baby photo shoot
 - baby's first year
-date: "2022-01-31T18:14:14+02:00"
+date: "2023-01-09T08:14:14+02:00"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://www.lastefoto.ee/en/project/babys-first-year/"
@@ -42,16 +42,25 @@ weight: 4
 
 Capture your baby's growth and development in their first year with 4 photo shoots. Save precious memories for when they are a newborn, 3-month-old, 6-month-old, and 1-year-old.
 
-Baby's First Year package includes
+Price includes:
+1. newborn photo shoot lasting 2-4 hours at LasteFoto studio;
+2. 3-4 various set-ups for the newborn;
+3. three baby photo shoots (including CakeSmash photo shoot) at LasteFoto studio;
+4. 2-3 various set-ups for the baby;
+5. use of various hats, fabrics, baskets. Washing of accessories and fabrics used;
+6. 25 digital photos from the newborn photoshoot. _If desired, you can choose the images yourself from the pre-edited gallery;_
+7. 20 digital photos for each following photoshoot. _If desired, you can choose the images yourself from the pre-edited gallery;_
+8. photos with family members separately and a family photos at each photo shoot;
+9. individual retouching of each photo. Raw images are not included in the price but can be purchased additionally;
+10. 20 printed photos at the end of all photo shoots;
+11. 1 cake and 10 balloons for the Cake Smash foto shoot;
+12. consultation before and accompaniment during the photo shoots;
+13. online galleries with retouched photos for you to share;
+14. 1 custom designed USB drive with all retouched pictures ready for printing or posting online;
+15. 1 photo of your choice printed on canvas with a stretcher 40x60 cm;
+16. 1 premium-class, hardcover, photo book measuring 30x30 cm and containing 15 spreads;
 
-* 1 three-hour photo shoot of your newborn (25 pictures)
-* 3 one-hour photo shoots (20 pictures each)
-* 1 cake and 15 balloons for the first birthday foto session
-* 1 photo of your choice printed on canvas with a stretcher 40x60 cm
-* 1 premium-class, hardcover, photo book measuring 30x30 cm and containing 20 spreads
-* 1 custom designed USB drive with all 85 pictures ready for printing or posting online
-
-Price: 980€
+Price 1400 €
 
 _Partial payment available_
 {{< cta cta_text="Book your package today!" cta_link="/en/#contact" cta_new_tab="true" >}}

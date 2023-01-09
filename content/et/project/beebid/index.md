@@ -45,7 +45,7 @@ Hind sisaldab:
 
 {{< figure src="beebi-fotosessioon-tallinnas.jpg" title="Beebifotosessioon Tallinnas, näidispildid" >}}
 
-## Täispakett (1 tund) 290€
+## Täispakett (1 tund) *290*€
 _Parim aeg beebi jäädvustamiseks on 4-11 elukuu._ 
 
 Hind sisaldab:
