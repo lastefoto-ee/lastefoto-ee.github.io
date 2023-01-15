@@ -63,6 +63,8 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 11. a web gallery of retouched images, which you can also share if you wish;
 12. retouching of additional photos 8 € / photo;
 
+{{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
+
 > _Schedule your Cake Smash photo shoot keeping naps and bedtime in mind_
 
 When planning a cake smash photo shoot, keep bedtime in mind. The goal of cake smash photo shoot is to capture your baby's personality, so we want to make sure they are well rested. If your baby is on a schedule and takes naps at the same time every day, I will work around that schedule. If your baby is not on a schedule but is happiest at certain times of the day, please schedule the session during that time.
