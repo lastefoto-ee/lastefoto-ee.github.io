@@ -34,7 +34,7 @@ _Ideaalne aeg vastsündinu pildistamiseks on 5-14 päeva vanuselt_
 Hind sisaldab:
 1. 2-3 erinevat set-up’i beebi jaoks;
 2. ühine perepilt. Võtted pereliikmetega eraldi antud paketti ei kuulu;
-3. 17 digi- ja paberpilti 10x15cm; _Soovi korral pilte saab ise valida eeltöödeldud galeriist._
+3. 17 digi- ja paberpilti 10x15cm. Töötlemata pildid ei kuulu fotosessiooni hinna sisse; _Soovi korral pilte saab ise valida eeltöödeldud galeriist._
 4. iga foto individuaaltöötlust (beebiakne, ketendava naha jms eemaldus). Töötlemata pildid ei kuulu paketi hinna sisse, kuid neid on võimalik lisaks juurde osta;
 5. erinevate mütsikeste, kangaste, korvikeste kasutus. Kasutavate aksessuaaride ja kangaste pesu;
 6. nõustamine enne fotosessiooni ja juhendamine fotosessiooni ajal;
@@ -54,7 +54,7 @@ _Ideaalne aeg vastsündinu pildistamiseks on 5-14 päeva vanuselt_
 Hind sisaldab:
 1. 3-4 erinevat set-up’i beebi jaoks;
 2. fotod eraldi pereliikmetega ja ühine perepilt;
-3. 25 digi- ja paberpilti 10x15cm; *Soovi korral pilte saab ise valida eeltöödeldud galeriist*
+3. 25 digi- ja paberpilti 10x15cm. Töötlemata pildid ei kuulu fotosessiooni hinna sisse; *Soovi korral pilte saab ise valida eeltöödeldud galeriist*
 4. iga foto individuaaltöötlust (beebiakne, ketendava naha jms eemaldus). Töötlemata pildid ei kuulu paketi hinna sisse, kuid neid on võimalik lisaks juurde osta;
 5. erinevate mütsikeste, kangaste, korvikeste kasutus. Kasutavate aksessuaaride ja kangaste pesu;
 6. nõustamine enne fotosessiooni ja juhendamine fotosessiooni ajal;

@@ -43,7 +43,7 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 10. a web gallery of retouched images, which you can also share if you wish;
 11. retouching of additional photos 8 € / photo;
 
-{{< figure src="cake-smash-fotosessiya-v-tallinne-3.jpg" title="Cake Smash photo shoot in Tallinn" >}}
+{{< figure src="cake-smash-photo-shoot-in-tallinn-3.jpg" title="Cake Smash photo shoot in Tallinn" >}}
 
 ## Full-package (1-2 hours) *290*€ 
 _A cake smash photo shoot is an absolutely wonderful way to celebrate your little one’s first birthday._
@@ -55,7 +55,7 @@ Price includes:
 4. photos in a bath (optional and if the baby is not afraid of water);
 5. 25 digital photos
 _if desired, the choice of photos for retouching is carried out by the Customer_
-6. all good photos with minimal color and light correction;
+6. all raw (unretouched) photos with minimal color and light correction;
 7. cake;
 8. balloons (10 pcs);
 9. consultation before and accompaniment during the photo shoot;
@@ -63,7 +63,7 @@ _if desired, the choice of photos for retouching is carried out by the Customer_
 11. a web gallery of retouched images, which you can also share if you wish;
 12. retouching of additional photos 8 € / photo;
 
-> _Schedule your Cake Smash photo shoot keeping naps nad bedtime in mind_
+> _Schedule your Cake Smash photo shoot keeping naps and bedtime in mind_
 
 When planning a cake smash photo shoot, keep bedtime in mind. The goal of cake smash photo shoot is to capture your baby's personality, so we want to make sure they are well rested. If your baby is on a schedule and takes naps at the same time every day, I will work around that schedule. If your baby is not on a schedule but is happiest at certain times of the day, please schedule the session during that time.
 
@@ -75,10 +75,10 @@ Although I usually advise feeding your child before a session to prevent them fr
 
 Have your baby's favorite food on hand if you are concerned that your child won't eat the cake right away. Whatever their "always makes them happy" food is — bring those with you. We can hide those little snacks in the icing or part of the cake to encourage them to really dig into that cake.
 
-{{< figure src="cake-smash-fotosessiya-v-tallinne-3.jpg" title="Cake Smash photo shoot in Tallinn" >}}
-{{< figure src="cake-smash-fotosessiya-v-tallinne-2.jpg" title="Cake Smash photo shoot" >}}
-{{< figure src="cake-smash-fotosessiya-v-tallinne-4.jpg" title="Baby's first birthday" >}}
-{{< figure src="cake-smash-fotosessiya-v-tallinne-1.jpg" title="Cake Smash photo shoot in a studio" >}}
-{{< figure src="cake-smash-fotosessiya-v-tallinne-5.jpg" title="Cake Smash photo shoot in Tallinn" >}}
+{{< figure src="cake-smash-photo-shoot-in-tallinn-3.jpg" title="Cake Smash photo shoot in Tallinn" >}}
+{{< figure src="cake-smash-photo-shoot-in-tallinn-2.jpg" title="Cake Smash photo shoot" >}}
+{{< figure src="cake-smash-photo-shoot-in-tallinn-4.jpg" title="Baby's first birthday" >}}
+{{< figure src="cake-smash-photo-shoot-in-tallinn-1.jpg" title="Cake Smash photo shoot in a studio" >}}
+{{< figure src="cake-smash-photo-shoot-in-tallinn-5.jpg" title="Cake Smash photo shoot in Tallinn" >}}
 
 {{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
