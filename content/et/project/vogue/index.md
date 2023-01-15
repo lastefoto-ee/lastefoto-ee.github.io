@@ -70,4 +70,4 @@ Hind sisaldab:
 
 {{< gallery album="vogue-fotosessioon" >}}
 
-[💛 Broneeri fotosessioon](/#contact)
+{{< cta cta_text="💛 Broneeri fotosessioon" cta_link="/#contact" cta_new_tab="false" >}}
