@@ -81,3 +81,5 @@ Hoidke käepärast lapse lemmiktoit, kui olete mures, et laps ei söö tordi koh
 {{< figure src="cake-smash-fotosessioon-tallinnas-4.jpg" title="Lapse esimene sünnipäev" >}}
 {{< figure src="cake-smash-fotosessioon-tallinnas-1.jpg" title="Cake Smash fotosessioon stuudios" >}}
 {{< figure src="cake-smash-fotosessioon-tallinnas-5.jpg" title="Cake Smash pildistamine Tallinnas" >}}
+
+{{< cta cta_text="💛 Jäädvustada lapse esimene sünnipäev" cta_link="/#contact" cta_new_tab="false" >}}
