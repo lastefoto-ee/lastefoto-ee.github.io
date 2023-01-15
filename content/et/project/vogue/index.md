@@ -7,7 +7,7 @@ tags:
 - Vogue
 - fotosessioon Vogue stiilis
 
-date: "2022-12-26T09:46:53+03:00"
+date: "2023-01-15T09:46:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,19 +39,10 @@ gallery_item:
   caption: Lapsefotosessioon stuudios 
 - album: vogue-fotosessija
   image: lastefotosessioon-Vogue-stiilis-1.jpg
-  caption: Lapse pildistamine stuudios Tallinnas 
-- album: vogue-fotosessija
-  image: fotosessija-v-stile-vogue-3.jpg
-  caption: Vogue stiilis lapsefotosessioon 
-- album: vogue-fotosessija
-  image: fotosessija-v-stile-vogue-4.jpg
-  caption: Fotosessioon Vogue stiilis Tallinnas 
+  caption: Lapse pildistamine stuudios Tallinnas  
 - album: vogue-fotosessija
   image: lastefotosessioon-Vogue-stiilis-2.jpg
   caption: Lapse pildistamine stuudios Tallinnas 
-- album: vogue-fotosessija
-  image: lastefotosessioon-Vogue-stiilis-3.jpg
-  caption: Lapse pildistamine Vogue stiilis
 - album: vogue-fotosessija
   image: lastefotosessioon-Vogue-stiilis-4.jpg
   caption: Perepildistamine stuudios Tallinnas 
@@ -65,17 +56,18 @@ gallery_item:
   image: perefotosessioon-Vogue-stiilis-7.jpg
   caption: Fotosessioon Ema ja poeg 
 ---
+## Fotosessioon Vogue stiilis (1-1,5 tundi) *210*€ 
 
-## Fotosessioon Vogue stiilis
+Stiilsed minimalistlikus stiilis "Ema ja beebi" (beebidele alates 6-7 elukuust) ja laste fotosessioonid (2-10 aastasele lapsele). 
 
-Stiilsed minimalistlikus stiilis "Ema ja beebi" (beebidele alates 6-7 elukuust) ja laste fotosessioonid (3-10 aastasele lapsele). 
+Hind sisaldab:
+1. 15 töödeldud digipilti; _Soovi korral pilte saab ise valida eeltöödeldud galeriist._
+2. iga foto individuaaltöötlust. Töötlemata pildid ei kuulu paketi hinna sisse, kuid neid on võimalik lisaks juurde osta;
+3. nõustamine enne fotosessiooni ja juhendamine sessiooni ajal;
+4. pildistamine Lastefoto stuudios 1-1,5 tunni jooksul;
+5. töödeldud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada;
+6. lisapildi töötlus 8€/pilt
 
-Fotosessioon sisaldab:
-* 10 töödeldud digi- ja paberpilti 10x15cm. _soovi korral pilte saab ise valida eeltöödeldud galeriist_
-* nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
-* 1-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
-* lisapildi töötlus 5€ / pilt
+{{< gallery album="vogue-fotosessioon" >}}
 
-Fotosessiooni hind **160**€
-
-{{< gallery album="vogue-fotosessija" >}}
+[💛 Broneeri fotosessioon](/#contact)

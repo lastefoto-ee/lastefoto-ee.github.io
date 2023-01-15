@@ -7,7 +7,7 @@ tags:
 - Vogue
 - photo shoot in Vogue style
 
-date: "2022-12-26T09:46:53+03:00"
+date: "2023-01-15T09:46:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -38,12 +38,6 @@ gallery_item:
   image: fotosessija-v-stile-vogue-2.jpg
   caption: Children photo shoot in the studio 
 - album: vogue-fotosessija
-  image: fotosessija-v-stile-vogue-3.jpg
-  caption: Photo shoot in the studio
-- album: vogue-fotosessija
-  image: ffotosessija-v-stile-vogue-4.jpg
-  caption: Photo shoot in Vogue style in the studio in Tallinn
-- album: vogue-fotosessija
   image: lastefotosessioon-Vogue-stiilis-1.jpg
   caption: Children photo shoot in Vogue style 
 - album: vogue-fotosessija
@@ -52,9 +46,6 @@ gallery_item:
 - album: vogue-fotosessija
   image: lastefotosessioon-Vogue-stiilis-3.jpg
   caption: Children photo shoot in the studio
-- album: vogue-fotosessija
-  image: lastefotosessioon-Vogue-stiilis-4.jpg
-  caption: Family photo shoot in Vogue style 
 - album: vogue-fotosessija
   image: lastefotosessioon-Vogue-stiilis-5.jpg
   caption: Children photo shoot in Vogue style 
@@ -65,17 +56,18 @@ gallery_item:
   image: perefotosessioon-Vogue-stiilis-7.jpg
   caption: Photo shoot Mother and baby boy 
 ---
+## Photo shoot in Vogue style (1-1,5 hours) *210*€ 
 
-## Photo shoot in Vogue style
+Stylish "Mom and baby" (for babies from 6-7 months) and children's photo shoots (for children 2-10 years old) in a minimalist style.
 
-Stylish "Mom and baby" (for babies from 6-7 months) and children's photo shoots (for children 3-10 years old) in a minimalist style.
+Price includes:
+1. 15 digital images; _If desired, you can choose the images yourself from the pre-edited gallery._
+2. individual retouching of each photo. Raw images are not included in the price but can be purchased additionally;
+3. consultation before and accompaniment during the photo shoot;
+4. taking photos in the LasteFoto Studio for 1-1,5 hours;
+5. a web gallery of retouched images, which you can also share if you wish;
+6. retouching of additional photos 8 €/photo;
 
-The photo shoot includes:
-* 10 retouched digital and printed photos 10x15cm; _if desired, the choice of photos for retouching is carried out by you_
-* assistance in posing
-* 1 hour of shooting in the studio (studio rent is included in the price)
-* retouching of additional photos 5 € / photo
+{{< gallery album="vogue-fotosessioon" >}}
 
-Price **160**€
-
-{{< gallery album="vogue-fotosessija" >}}
+{{< cta cta_text="💛 Schedule your photo shoot right now!" cta_link="/en/#contact" cta_new_tab="true" >}}
