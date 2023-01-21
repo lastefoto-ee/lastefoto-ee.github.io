@@ -1,9 +1,9 @@
 ---
 title: Baby photo shoot during the first year of life
-subtitle: The nuances of a baby photo session are different at each age
+subtitle: The nuances of a baby photo shoot are different at each age
 
 # Summary for listings and search engines
-summary: The nuances of a baby photo session are different at each age
+summary: The nuances of a baby photo shoot are different at each age
 
 # Link this post with a project
 projects: 
@@ -55,7 +55,7 @@ categories:
   - babies
 
 ---
-Which is preferable: a photo session with a newborn or one taken at 3, 6, or 9 months? In order to get the most variety of images, how many photo shootings per year are ideal? Such questions are frequently made by young parents. Additionally, while the frequency of photo shootings is decided by each family individually based on their preferences and finances, the details of photo shoots at each age may be worthwhile as a recommendation.
+A photo shoot with a newborn or one taken at 3, 6, or 9 months - which is preferable? In order to get the most variety of images, how many photo shootings per year are ideal? Such questions are frequently made by young parents. Additionally, while the frequency of photo shootings is decided by each family individually based on their preferences and finances, the details of photo shoots at each age may be worthwhile as a recommendation.
 
 {{< figure src="./baby-photo-shoot-1.jpg" title="Baby photo shoot in Tallinn" >}}
 
@@ -84,4 +84,4 @@ Photographing a baby at 8-9 months is difficult because they are constantly tryi
 {{< figure src="./photobook-2.jpg" title="Photobook, details" >}}
 {{< figure src="./photobook-3.jpg" title="Photobook, detais" >}}
 
-{{< cta cta_text="Book newborn photo shoot" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Book baby photo shoot" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="true" >}}

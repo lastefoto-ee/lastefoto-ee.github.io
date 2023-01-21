@@ -1,9 +1,9 @@
 ---
 title: Beebi pildistamine esimese eluaasta jooksul
-subtitle: Beebifotosessiooni nüansid on igas vanuses erinevad
+subtitle: Beebi pildistamise nüansid on igas vanuses erinevad
 
 # Summary for listings and search engines
-summary: Beebifotosessiooni nüansid on igas vanuses erinevad
+summary: Beebi pildistamise nüansid on igas vanuses erinevad
 
 # Link this post with a project
 projects: 
@@ -56,7 +56,7 @@ categories:
   - beebid
 
 ---
-Kumb on eelistatavam: kas fotosessioon vastsündinuga või fotosessioon 3, 6 või 9 kuu vanuselt? Mitu pildistamist aastas on ideaalne, et saada võimalikult erinevaid pilte? Selliseid küsimusi esitavad sageli värsked vanemad. Kuigi fotosessioonide sageduse otsustab iga pere individuaalselt lähtudes oma eelistustest ja rahalistest võimalustest, võib soovitustena tasuda igas vanuses tehtud fotosessioonide detailid.
+Kas pildistamine vastsündinud beebiga või fotosessioon 3, 6 või 9 kuu vanuselt - kumb on eelistatavam? Mitu pildistamist aastas on ideaalne, et saada võimalikult erinevaid pilte? Selliseid küsimusi esitavad sageli värsked vanemad. Kuigi fotosessioonide sageduse otsustab iga pere individuaalselt lähtudes oma eelistustest ja rahalistest võimalustest, võib soovitustena tasuda igas vanuses tehtud fotosessioonide detailid.
 
 {{< figure src="./beebi-pildistamine-1.jpg" title="Beebi pildistamine Tallinnas" >}}
 
@@ -85,4 +85,4 @@ Beebid õpivad 6-7 kuu vanuselt iseseisvalt istuma, mis suurendab oluliselt olem
 {{< figure src="./fotoraamat-2.jpg" title="Fotoraamat, detaalid" >}}
 {{< figure src="./fotoraamat-3.jpg" title="Fotoraamat, detaalid" >}}
 
-{{< cta cta_text="Broneeri aeg vastsündinu fotosessioonile" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Broneeri aeg beebi fotosessioonile" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="true" >}}
