@@ -7,7 +7,12 @@ summary: Как подготовиться к фотосессии новоро�
 
 # Link this post with a project
 projects: 
-  - novorozhdjonnye
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Новорожденные
+    url: 'https://www.lastefoto.ee/ru/project/novorozhdjonnye/'
 
 # Date published
 date: "2023-01-14T06:09:53+03:00"
@@ -37,8 +42,6 @@ authors:
 tags:
   - фотосессия новорожденного
   - новорожденные
-  - черно-белые фотографии
-  - черно-белые экшены
 
 categories:
   - новорожденные

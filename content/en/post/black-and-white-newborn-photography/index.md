@@ -7,7 +7,12 @@ summary: Tips for adding a classic touch to your newborn photography with black 
 
 # Link this post with a project
 projects: 
-  - newborn
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Newborn Photography
+    url: 'https://www.lastefoto.ee/en/project/newborn/'
 
 # Date published
 date: "2022-12-28T06:09:53+03:00"

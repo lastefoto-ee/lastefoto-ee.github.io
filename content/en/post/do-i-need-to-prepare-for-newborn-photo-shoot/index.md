@@ -7,7 +7,12 @@ summary: Is it necessary to prepare for a newborn photo shoot?
 
 # Link this post with a project
 projects: 
-  - newborn
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Newborn Photography
+    url: 'https://www.lastefoto.ee/en/project/newborn/'
 
 # Date published
 date: "2023-01-14T06:09:53+03:00"

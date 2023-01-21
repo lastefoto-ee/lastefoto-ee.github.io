@@ -7,7 +7,12 @@ summary: Фотосессии малышки в течение первого г
 
 # Link this post with a project
 projects:
-  - rasti-so-mnoi
+
+links:
+  - icon_pack: fas
+    icon: heart
+    name: Первый год жизни малыша
+    url: 'https://www.lastefoto.ee/ru/project/rasti-so-mnoi/'
 
 # Date published
 date: "2021-10-31T16:59:53+03:00"
@@ -35,6 +40,7 @@ authors:
   - admin
 
 tags:
+  - первый год жизни малыша
   - малыш
   - новорожденные
   - cake smash
