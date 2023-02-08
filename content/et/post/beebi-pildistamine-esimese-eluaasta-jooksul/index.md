@@ -61,7 +61,7 @@ Kas pildistamine vastsündinud beebiga või fotosessioon 3, 6 või 9 kuu vanusel
 {{< figure src="./beebi-pildistamine-1.jpg" title="Beebi pildistamine Tallinnas" >}}
 
 # Beebi pildistamine - olulised detailid
-Kuigi vanemad tunnevad sageli, et see on "liiga vara", on nüüd ideaalne aeg pildistamiseks, kui teie beebi on just sündinud. Tavaliselt magab beebi rahulikult, nii et ta ei ole isegi teadlik poseerimisest või rekvisiitide vahetamisest. Lisaks on väga oluline ka see, et beebid ei tunne sel ajal sageli koolikuteid.
+Kuigi vanemad tunnevad sageli, et esimeseks pildistamiseks on "liiga vara", on ideaalne aeg fotosessiooni tegemiseks siis, kui teie beebi on just sündinud. Tavaliselt magab beebi rahulikult, nii et ta ei ole isegi teadlik poseerimisest või rekvisiitide vahetamisest. Lisaks on väga oluline ka see, et beebid ei tunne sel ajal sageli koolikuteid.
 
 {{< figure src="./beebi-pildistamine-2.jpg" title="Beebi pildistamine" >}}
 
@@ -70,11 +70,11 @@ Kuigi vanemad tunnevad sageli, et see on "liiga vara", on nüüd ideaalne aeg pi
 
 {{< figure src="./beebi-pildistamine-3.jpg" title="Beebi pildistamine stuudios Tallinnas" >}}
 
-Kui teil mingil põhjusel ei olnud vastsündinute ajal aega pildistamiseks, siis on aeg kaaluda seda, kui laps on kolme kuu vanune ja koliik on juba kaugele selja taha jäänud. Sellisel juhul pööratakse tähelepanu lapse ärkamisperioodidele, tunnetele ning mänguasjade ja ümbritseva maailma tundmaõppimisele. Muide, beebid mahuvad selles vanuses ja ka 4-5 kuu vanusena suurepäraselt korvidesse ja muudesse sarnastesse rekvisiitidesse, kuigi nad on harva nõus neis enam magama, kuid näevad siiski väga armsad välja.
+Kui teil mingil põhjusel ei olnud vastsündinu ajal aega pildistamiseks, siis on aeg kaaluda seda, kui laps on kolme kuu vanune ja koliikud on juba kaugele selja taha jäänud. Sellisel juhul pööratakse tähelepanu lapse ärkamisperioodidele, tunnetele ning mänguasjade ja ümbritseva maailma tundmaõppimisele.Muide, beebid mahuvad selles vanuses ja ka 4-5 kuu vanusena suurepäraselt korvidesse ja muudesse sarnastesse rekvisiitidesse, kuigi nad on harva nõus neis enam magama, kuid näevad siiski väga armsad välja.
 
 {{< figure src="./beebi-pildistamine-4.jpg" title="Beebi esimese sünnipäeva fotosessioon Tallinnas" >}}
 
-Beebid õpivad 6-7 kuu vanuselt iseseisvalt istuma, mis suurendab oluliselt olemasolevate pildistamisstsenaariumide arvu. Kui planeerite pildistamise sel ajal, saate palju suurepäraseid kaadreid. 
+6-7 kuu vanuselt beebid õpivad iseseisvalt istuma, mis suurendab oluliselt olemasolevate pildistamisstsenaariumide arvu. Kui planeerite pildistamise sel ajal, saate palju suurepäraseid kaadreid. 
 
 8-9 kuu vanuse beebi pildistamine on keeruline, sest ta üritab pidevalt kaadrist välja tulla, ringi liikuda ja uurida kõike, mis on tema käeulatuses. Siiski ei ole beebifotograafi jaoks midagi võimatut, nii et isegi kui teie ei suuda oma beebit kuidagi jäädvustada, õnnestub see professionaalsel beebifotograafil.
 
