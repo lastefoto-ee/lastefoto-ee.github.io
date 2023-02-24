@@ -26,9 +26,9 @@ et:
 ru:
   languageCode: ru
   contentDir: content/ru
-  title: Виктория Ильин
+  title: Фотограф Беременности и Новорожденных
   params:
-    description: Фотограф новорожденных и беременных в Таллинне - Виктория Ильин
+    description: Фотограф беременности запечатлеет красоту и уникальность вашего беременного тела, а после родов - очарование вашего малыша на всю жизнь.
   menu:  
     main:
       - name: Обо мне
@@ -46,9 +46,9 @@ ru:
 en:
   languageCode: en
   contentDir: content/en
-  title: Viktoria Iljin
+  title: Maternity and Newborn Photographer
   params:
-    description: Newborn and pregnancy photographer in Tallinn - Viktoria Iljin
+    description: From capturing the beauty of your pregnant belly to the tiny details of your newborn, we strive to create timeless and artistic images that you will cherish for a lifetime. 
   menu:
     main:
       - name: About me
