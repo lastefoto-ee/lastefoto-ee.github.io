@@ -26,7 +26,7 @@ et:
 ru:
   languageCode: ru
   contentDir: content/ru
-  title: Фотограф Новорожденных
+  title: Фотостудия
   params:
     description: Фотограф новорожденных и беременности запечатлеет красоту и уникальность вашего беременного тела, а после родов - очарование вашего новорожденного малыша.
   menu:  
@@ -46,7 +46,7 @@ ru:
 en:
   languageCode: en
   contentDir: content/en
-  title: Newborn Photographer
+  title: Photo studio
   params:
     description: From capturing the beauty of your pregnant belly to the tiny details of your newborn, we strive to create timeless and artistic images that you will cherish for a lifetime. 
   menu:
