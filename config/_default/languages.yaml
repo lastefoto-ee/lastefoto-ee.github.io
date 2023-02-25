@@ -26,9 +26,9 @@ et:
 ru:
   languageCode: ru
   contentDir: content/ru
-  title: Фотограф Беременности и Новорожденных
+  title: Фотограф Новорожденных
   params:
-    description: Фотограф беременности запечатлеет красоту и уникальность вашего беременного тела, а после родов - очарование вашего малыша на всю жизнь.
+    description: Фотограф беременности и новорожденных запечатлеет красоту и уникальность вашего беременного тела, а после родов - очарование вашего малыша.
   menu:  
     main:
       - name: Обо мне
@@ -46,7 +46,7 @@ ru:
 en:
   languageCode: en
   contentDir: content/en
-  title: Maternity and Newborn Photographer
+  title: Newborn Photographer
   params:
     description: From capturing the beauty of your pregnant belly to the tiny details of your newborn, we strive to create timeless and artistic images that you will cherish for a lifetime. 
   menu:
