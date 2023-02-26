@@ -56,13 +56,13 @@ Lisaks, kõigist riietest, mänguasjadest ja muudest sarnastest asjadest kasvab 
 
 {{< figure src="./beebi-fotosessioon-1.jpg" title="Beebi fotosessioon Tallinnas" >}}
 
-# Kinkekaart beebi fotosessiooniks on ideaalne kingitus lapse sünniks.
+## Kinkekaart beebi fotosessiooniks on ideaalne kingitus lapse sünniks.
 
 Beebifotosessiooni kinkekaart muutub tõeliselt kasulikuks kingituseks, sest vanemad saavad ise valida, millal ja millistel tingimustel seda kasutada. Mõned pered soovivad, et beebi esmakordne fotosessioon oleks kindlasti kodus, teistele on mugavam kasutada spetsialiseerunud fotostuudiot. Selline valikuvabadus on täiesti võimalik, nagu ka erinevad võimalused valmis fotode esitlemiseks, beebi esimese fotoraamatu tegemiseks ja muud võimalused, mida piirab vaid kinkekaardi nominaalväärtus. Just kinkekaardi kasutamise maksimaalne paindlikkus teeb sellest parima kingituse beebiiga perele - sest kinkekaart võib kehtida kuni ühe aasta.
 
 {{< figure src="./beebi-fotosessioon-2.jpg" title="Naeratav beebi vanematega" >}}
 
-# Kingitus beebi sünniks: üllatus või mitte üllatus?
+## Kingitus beebi sünniks: üllatus või mitte üllatus?
  
 Erilist tähelepanu tuleks pöörata sellele, kas on vaja teha kingitus beebi sünniks üllatusena või tasub siiski eelnevalt arutada vanematega oma soovi kinkida kinkekaart beebifotosessiooniks. Ebameeldivate olukordade vältimiseks on parem oma soovist tulevastele vanematele teada anda ja selleks on mitu põhjust.
 

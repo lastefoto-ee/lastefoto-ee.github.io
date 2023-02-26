@@ -50,12 +50,12 @@ Arstid ja fotograafid defineerivad nn vastsündinute perioodi erinevalt.
 
 {{< figure src="./vastsundinu-fotosessioon-1.jpg" title="Vastsündinu pildistamise seanss Tallinnas" >}}
 
-# Vastsündinute periood arstide jaoks
+## Vastsündinute periood arstide jaoks
 Arstid määravad vastsündinu perioodi 28 päeva pärast lapse sündi. Vastsündinud beebil kulub uue keskkonnaga kohanemiseks just nii palju aega. Seda väljendab keha üks tähtsamaid omadusi – esimesel neljal elunädalal magab vastsündinud beebi tavaliselt palju. Pärast seda perioodi algab täiesti erinev elu - kiire areng, suurenenud aktiivsus, uneperioodid vähenevad ja ärkveloleku perioodid pikenevad.
 
 {{< figure src="./vastsundinu-fotosessioon-2.jpg" title="Vastsündinu pildistamine" >}}
 
-# Mida aga fotograafid arvavad?
+## Mida aga fotograafid arvavad?
 Vastsündinu fotograafi jaoks on vastsündinu fotosessiooniks sobiv periood tavaliselt beebi kaks esimest elunädalat. _Miks nii?_ See on lihtne: sel perioodil on beebi uni võimalikult tugev ja rahulik. Beebit ei saa äratada ei soovitud poosi pannes ega riideid vahetades. Beebi magab rahulikult ja fotograaf töötab ka rahulikult.
 
 See aga ei tähenda, et beebit järgmise kahe nädala jooksul pildistada ei saaks. Lihtsalt fotosessiooni kestus võib pikeneda ja võib-olla ei saa beebit kõigisse soovitud poosidesse panna.
@@ -64,7 +64,7 @@ Seetõttu tuleks vastsündinu fotosessioon eelnevalt broneerida, soovitavalt ras
 
 {{< figure src="./vastsundinu-fotosessioon-3.jpg" title="Vastsündinu pildistamine stuudios" >}}
 
-# Mida teha, kui ei jõudnud õigel ajal vastsündinu fotosessioonile?
+## Mida teha, kui ei jõudnud õigel ajal vastsündinu fotosessioonile?
 Soovitatud perioodil vastsündinu fotosessiooni teha ei saanud, aga pildistada ikka tahad? Pole probleemi! Kuid ärge lükake oma beebi esimest fotosessiooni määramata ajaks edasi. Pidage meeles, et iga päevaga muutub teie beebi uni üha tundlikumaks. Lisaks võib gaasivalu hakata beebit häirima. Seega, kui olete broneerinud pildistamise umbes ühe kuu vanusele beebile, on kõige parem pildistamise ajal tegutseda vastavalt olukorrale. Set-up'e saab planeerida ja fotograafiga soovitud poose läbi arutada, kuid kahjuks ei saa fotograaf anda garantiid, et kõik planeeritud saab teoks. Parim lahendus oleks loobuda rasketest poosidest ja pildistada väikese modelli tuju järgi. Sel juhul on ootusi vähem, atmosfäär fotosessioonil on mugavam ja saate kindlasti palju ilusaid pilte.
 
 {{< figure src="./vastsundinu-fotosessioon-4.jpg" title="Vastsündinu pildistamine stuudios Tallinnas" >}}

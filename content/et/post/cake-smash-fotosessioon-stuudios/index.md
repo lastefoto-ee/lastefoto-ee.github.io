@@ -44,7 +44,7 @@ categories:
   - cake smash
 
 ---
-# Mis on Cake Smash fotosessioon?
+## Mis on Cake Smash fotosessioon?
 See on särav foto-sündmus, kui beebi jaoks valmistatakse tordi, millega ta saab teha mida iganes – purustada, kätega süüa, end määrida, kreemitada või lihtsalt vaikselt kõrval istuda (jah-jah, seda ka juhtub). Ja kogu see lõbu jäädvustatakse piltidele.
 
 {{< figure src="./cake-smash-fotosessioon-1.jpg" title="Cake Smash fotosessioon Tallinnas" >}}
@@ -57,25 +57,25 @@ Suure hulga sugulaste olemasolu fotosessioonil väsitab beebi väga kiiresti. Pi
 
 {{< figure src="./cake-smash-fotosessioon-8.jpg" title="Cake Smash fotosessioon" >}}
 
-# Millal teha Cake Smash fotosessiooni?
+## Millal teha Cake Smash fotosessiooni?
 Fotosessiooni tehakse tavaliselt mitte sünnipäeva päeval, vaid paar päeva/nädalat enne või pärast pidu.
 
 {{< figure src="./cake-smash-fotosessioon-2.jpg" title="Cake Smash fotosessioon stuudios" >}}
 
-# Milliseid riideid võtta sünnipäevalapsele ja vanematele perepiltide tegemiseks?
+## Milliseid riideid võtta sünnipäevalapsele ja vanematele perepiltide tegemiseks?
 Soovitan kaasa võtta vähemalt 2 komplekti riideid. Esimene on nutikas - fotosessiooni formaalseks osaks, teine ​​- mida pole kahju määrida ja/või lihtne puhastada. On soovitav, et riided oleksid ilma suurte jooniste ja pealdisteta. Värvide järgi võivad need olla mis tahes pastell- või küllastunud toonid, mis on omavahel kombineeritud.
-## Mida võtta tüdruku jaoks:
+### Mida võtta tüdruku jaoks:
 - bodyd, seelikud, õrnad kleidid
-## Mida võtta poisile:
+### Mida võtta poisile:
 - teksad, püksid, lühikesed püksid, särgid, bodyd, traksid
-## Perepildistamiseks
+### Perepildistamiseks
 - teksad/püksid sobivad kõige paremini, emale - nt. seelik ja tavaline topp (t-särgid, särgid)
 
 Kui teil on vanemad lapsed, siis lapse pildistamiseks venna/õega soovitan poisile võtta rahustavates värvides särk ja heledad teksad/püksid ning tüdrukule - kleit.
 
 {{< figure src="./cake-smash-fotosessioon-3.jpg" title="Cake Smash fotosessioon" >}}
 
-# Tort
+## Tort
 Tordi tellin oma kondiitri käest, kellega olen mitu aastat koostööd teinud. Tavaliselt on tegemist kohupiima ja banaanitäidisega biskviidiga, kaunistuseks kasutatakse mascarponepõhist kreemi.
 
 {{< figure src="./cake-smash-fotosessioon-4.jpg" title="Tort esimeseks sünnipäevaks" >}}
@@ -84,12 +84,12 @@ Koogi võite ka ise tellida või asendada millegi muuga. Näiteks sõõrikutega.
 
 {{< figure src="./cake-smash-fotosessioon-5.jpg" title="Esimese sünnipäeva fotosessioon" >}}
 
-# Õhupallid
+## Õhupallid
 Pildistamist broneerides saadan valikuks õhupallide paleti. Saate valida mis tahes värvid. Kuid ärge üle pingutage. 2-3 värvi näevad pildil ilusti välja.
 
 {{< figure src="./cake-smash-fotosessioon-6.jpg" title="Cake Smash fotosessioon Tallinnas" >}}
 
-# Veeprotseduurid
+## Veeprotseduurid
 
 Kui laps vett ei karda, siis pärast tordiga pildistamist liigume edasi veeprotseduuride juurde. Võtke kaasa rätik, vannivaht ja beebi lemmikud vannimänguasjad.
 

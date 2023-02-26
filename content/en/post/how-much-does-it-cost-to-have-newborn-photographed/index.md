@@ -50,7 +50,7 @@ categories:
 ---
 With what do many parents-to-be start when choosing a newborn photographer for their baby? Generally with the price.
 
-# What exactly is included in the price of a newborn photographer?
+## What exactly is included in the price of a newborn photographer?
 
 There are only three elements that affect the final price of a newborn photography session: 
 - The photo shooting location (at home or in a studio)
@@ -59,12 +59,12 @@ There are only three elements that affect the final price of a newborn photograp
 
 {{< figure src="./newborn-photo-shoot-1.jpg" title="Newborn photo shoot in Tallinn" >}}
 
-# Home or studio newborn photography session. Where will it be cheaper?
+## Home or studio newborn photography session. Where will it be cheaper?
 These days, there are a lot of newborn photographers with their own studios. A studio newborn photo shoot won't cost significantly more than a home photo session. Everything will be set up for the photo shoot when you simply need to show up at the studio at the appointed hour.
 
 {{< figure src="./newborn-photo-shoot-2.jpg" title="Newborn photo shoot in the studio" >}}
 
-# What is included in the cost of a newborn photo shoot
+## What is included in the cost of a newborn photo shoot
 Newborn photo shoots are typically priced as packages. This is practical because you can see at a glance what you will get at the end of the photo shoot.
 
 Pay attention to the following details: 
@@ -77,7 +77,7 @@ It's important to understand what you expect at this point in the decision-makin
 
 {{< figure src="./newborn-photo-shoot-3.jpg" title="Newborn photo shoot" >}}
 
-# Who offers a discounted newborn photo shoot? 
+## Who offers a discounted newborn photo shoot? 
 
 A newborn photo shoot is by no means the least expensive kind of photo session. To ensure the baby is fully safe throughout the photo shoot, the newborn photographer must acquire a lot of knowledge. The expense is also raised by the usage of numerous different props in the photo shoot. 
 

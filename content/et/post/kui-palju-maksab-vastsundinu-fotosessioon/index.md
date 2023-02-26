@@ -51,7 +51,7 @@ categories:
 ---
 Millega alustavad paljud tulevased lapsevanemad oma beebile vastsündinu fotograafi valimisel? Tavaliselt hinnast.
 
-# Mida täpselt hõlmab vastsündinute fotograafi hind?
+## Mida täpselt hõlmab vastsündinute fotograafi hind?
 
 On vaid kolm elementi, mis mõjutavad vastsündinu fotosessiooni lõplikku hinda: 
 - pildistamiskoht (kodus või stuudios)
@@ -60,12 +60,12 @@ On vaid kolm elementi, mis mõjutavad vastsündinu fotosessiooni lõplikku hinda
 
 {{< figure src="./vastsundinu-fotosessioon-1.jpg" title="Vastsündinu fotosessioon" >}}
 
-# Kodune või stuudio vastsündinu fotosessioon. Kus saab see odavamalt?
+## Kodune või stuudio vastsündinu fotosessioon. Kus saab see odavamalt?
 Tänapäeval on palju vastsündinu fotograafe, kellel on oma stuudio. Stuudio vastsündinu fotosessioon ei maksa oluliselt rohkem kui kodune fotosessioon. Kõik pannakse fotosessiooniks valmis, samas kui te peate lihtsalt kokkulepitud ajal stuudiosse tulema.
 
 {{< figure src="./vastsundinu-fotosessioon-2.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
 
-# Mida sisaldab vastsündinu fotosessiooni hind?
+## Mida sisaldab vastsündinu fotosessiooni hind?
 Vastsündinu fotosessiooni hinna puhul on tavaliselt tegemist pakettidega. See on praktiline, sest nii näete kohe, mida saate fotosessiooni tulemusena.
 
 Pöörake tähelepanu järgmistele detailidele: 
@@ -78,7 +78,7 @@ Oluline on mõista, mida te otsusetegemise protsessi etapis ootate. Sest kui ost
 
 {{< figure src="./vastsundinu-fotosessioon-3.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
 
-# Kes võib pakkuda vastsündinu fotosessiooni soodushinnaga? 
+## Kes võib pakkuda vastsündinu fotosessiooni soodushinnaga? 
 
 Vastsündinu fotosessioon ei ole sugugi kõige odavam fotosessioon. Selleks, et tagada vastsündinud beebi täielik turvalisus kogu fotosessiooni vältel, peab vastsündinu fotograaf omandama palju teadmisi. Kulusid tõstab ka arvukate erinevate rekvisiitide kasutamine fotosessioonil. 
 

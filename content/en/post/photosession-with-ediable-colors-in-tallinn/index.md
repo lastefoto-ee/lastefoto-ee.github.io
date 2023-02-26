@@ -32,15 +32,15 @@ projects: []
 Does your kid create delicious beet puree streaks on the walls and is passionate about drawing?
 Then the photo shoot **Young Abstract Artist** with canvas and edible colors is what you need to unleash the potential of your genius!
 
-* Bright, juicy shots
-* Fast photo shoot (will end before the onset of the creative crisis)
-* Canvas with a masterpiece - as a gift
+- Bright, juicy shots
+- Fast photo shoot (will end before the onset of the creative crisis)
+- Canvas with a masterpiece - as a gift
 
 Although this type of photo shoot is an absolute novelty in Tallinn, I have already managed to shoot enough to reveal interesting patterns.
 
 ![baby photo shoot with colors](./photosession-with-ediable-colors-1.jpg)
 
-# As with the “Cake Smash!” photo shoot, not all kids immediately take to the “dirty” business. And that's okay.
+## As with the “Cake Smash!” photo shoot, not all kids immediately take to the “dirty” business. And that's okay.
 
 ![baby photo shoot](./photosession-with-ediable-colors-2.jpg)
 
@@ -52,7 +52,7 @@ I always take this time with a margin, and also take into account additional bre
 
 ! photo shoot with colors](./photosession-with-ediable-colors-4.jpg)
 
-# Surprisingly but not all kids love getting dirty.
+## Surprisingly but not all kids love getting dirty.
 Just yesterday I had a little princess on the session, who didn't want to get her sweet fingers dirty.
 
 ! photo shoot with colors in Tallinn](./photosession-with-ediable-colors-5.jpg)

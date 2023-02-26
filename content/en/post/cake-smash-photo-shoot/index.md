@@ -44,7 +44,7 @@ categories:
   - cake smash
 
 ---
-# What is a Cake Smash photo shoot?
+## What is a Cake Smash photo shoot?
 This is a bright photo event when a cake is made for a baby which he can do whatever he wants - crush, eat with his hands, get dirty, smear cream or just sit quietly next to him (yes-yes, this happens too). And all this fun will be captured in the photographs.
 
 {{< figure src="./cake-smash-photo-shoot-1.jpg" title="Cake Smash photo shoot in Tallinn" >}}
@@ -57,25 +57,25 @@ The presence of a large number of relatives on the photo shoot very quickly tire
 
 {{< figure src="./cake-smash-photo-shoot-8.jpg" title="Cake Smash in Tallinn" >}}
 
-# When to do a Cake Smash photo shoot?
+## When to do a Cake Smash photo shoot?
 A photo shoot is usually carried out not on the birthday day itself, but a few days/weeks before or after.
 
 {{< figure src="./cake-smash-photo-shoot-2.jpg" title="Фотосессия Cake Smash в студии" >}}
 
-# What clothes to take for the birthday baby and for parents to take family shots?
+## What clothes to take for the birthday baby and for parents to take family shots?
 I recommend bringing at least 2 sets of clothes with you. The first one is smart - for the formal part of the photo shoot, the second - which is not a pity to get dirty and/or easy to clear. It is desirable that the clothes were without large drawings and inscriptions. It can be any pastel or saturated colors that are combined with each other.
-## What can I take for a girl:
+### What can I take for a girl:
 - bodysuits, skirts, delicate dresses
-## What can I take for a boy:
+### What can I take for a boy:
 - jeans, pants, shorts, shirts, bodysuits, suspenders
-## For family pictures
+### For family pictures
 - jeans/trousers are best, for mom - a skirt and a plain top (t-shirts, shirts)
 
 If you have older children, then for a photo of a baby with a brother/sister, I recommend for the boy a shirt in soothing colors and light jeans/trousers, and for the girl - a dress.
 
 {{< figure src="./cake-smash-photo-shoot-3.jpg" title="Cake Smash photo shoot" >}}
 
-# Cake
+## Cake
 I order the cake from my pastry chef, with whom I have been cooperating for several years. Usually it is a biscuit with curd-banana filling, mascarpone-based cream is used as a decoration.
 
 {{< figure src="./cake-smash-photo-shoot-4.jpg" title="Cake for first birhtday" >}}
@@ -84,12 +84,12 @@ You can bring your own cake or replace it with something else. For example, donu
 
 {{< figure src="./cake-smash-photo-shoot-5.jpg" title="Cake Smash photo shoot for 1st Birthday" >}}
 
-# Balloons
+## Balloons
 I send you a palette of balloons to choose from when booking a Cake Smash photo shoot. You can choose any colors. But don't overdo it. 2-3 colors look beautiful on the photo.
 
 {{< figure src="./cake-smash-photo-shoot-6.jpg" title="Cake Smash photo shoot in Tallinn" >}}
 
-# Water procedures
+## Water procedures
 
 If the baby is not afraid of water, then after the photos with the cake, we move on to water procedures. Bring along a towel, bath foam and baby's favorite bath toys.
 

@@ -59,12 +59,12 @@ A photo shoot with a newborn or one taken at 3, 6, or 9 months - which is prefer
 
 {{< figure src="./baby-photo-shoot-1.jpg" title="Baby photo shoot in Tallinn" >}}
 
-# Baby photo shoot - important details
+## Baby photo shoot - important details
 Although parents frequently feel that it is "too early," now is the ideal time for a photo shoot if your baby has just been born. The baby normally sleeps soundly, so they aren't even aware of posing or switching between props. Additionally, it is also very important to note that babies often do not experience colic at this time.
 
 {{< figure src="./baby-photo-shoot-2.jpg" title="Baby photo shoot" >}}
 
-# What a photo shoot with an older baby should look like
+## What a photo shoot with an older baby should look like
 It is preferable to delay the photo session for babies older than four weeks until they are three months old. At this age, colic can be relatively frequent, which makes sleeping habits more disturbed and shortens the amount of time a baby is awake for a proper photo shoot.
 
 {{< figure src="./baby-photo-shoot-3.jpg" title="Baby photo session in the studio in Tallinn" >}}

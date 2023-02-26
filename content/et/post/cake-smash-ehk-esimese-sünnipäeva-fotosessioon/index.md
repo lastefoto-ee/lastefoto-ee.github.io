@@ -41,15 +41,15 @@ Kuid sellel fotosessioonil on paar nüanssi, millest peaksite eelnevalt teadma, 
 
 ![cake smash fotosessioon stuudios](./cake-smash-esimese-sünnipäeva-fotosessioon-2.jpg)
 
-* On olemas võimalus, et teie, tavaliselt aktiivne ja uudishimulik beebi, kardab torti.
+- On olemas võimalus, et teie, tavaliselt aktiivne ja uudishimulik beebi, kardab torti.
 See on tõesti suur ja hirmutav asi. Nii et ole valmis liituma oma lapsega tordi hävitusel!
 
 ![cake smash fotosessioon stuudios](./cake-smash-esimese-sünnipäeva-fotosessioon-3.jpg)
 
-* Tore, kui teil on kaasas kaks riidekomplekti: üks imearmsate perepiltide jaoks fotosessiooni alguses ja teine - ​​kreemjas määrduvate plekkide jaoks.
-* Kuna fotosessioon on väga emotsionaalne sündmus, eriti kui lubatakse midagi näole ja põrandale määrida, on parem teha fotosessiooni paar nädalat enne sünnipäeva, muidu võib laps kogeda liiga palju muljeid.
+- Tore, kui teil on kaasas kaks riidekomplekti: üks imearmsate perepiltide jaoks fotosessiooni alguses ja teine - ​​kreemjas määrduvate plekkide jaoks.
+- Kuna fotosessioon on väga emotsionaalne sündmus, eriti kui lubatakse midagi näole ja põrandale määrida, on parem teha fotosessiooni paar nädalat enne sünnipäeva, muidu võib laps kogeda liiga palju muljeid.
 
 ![cake smash fotosessioon stuudios](./cake-smash-esimese-sünnipäeva-fotosessioon-4.jpg)
 
-* Samal põhjusel arvestage fotosessiooni aja valimisel kindlasti lapse une- ja ärkveloleku rütmi, et väsimus ei mõjutaks meie lõbusaid kaadreid.
-* Ma saan ise sobiva tordi eest hoolitseda. Kuid kui soovite tingimata enda oma tuua, siis konsulteerige minuga eelnevalt: räägin teile peensustest, mis on CAKE SMASH fotosessiooni visuaalse komponendi jaoks olulised.
+- Samal põhjusel arvestage fotosessiooni aja valimisel kindlasti lapse une- ja ärkveloleku rütmi, et väsimus ei mõjutaks meie lõbusaid kaadreid.
+- Ma saan ise sobiva tordi eest hoolitseda. Kuid kui soovite tingimata enda oma tuua, siis konsulteerige minuga eelnevalt: räägin teile peensustest, mis on CAKE SMASH fotosessiooni visuaalse komponendi jaoks olulised.

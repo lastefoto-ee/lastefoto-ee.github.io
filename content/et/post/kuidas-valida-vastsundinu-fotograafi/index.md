@@ -34,19 +34,19 @@ Teie mitte lihtsalt valite fotograafi, teie valite spetsialisti, kes professiona
 
 ![vastsündinu pildistamine](./vastsundinu-fotograaf-1.jpg)
 
-* Alusatge fotograafi otsingut olles beebiootel. Kui beebi sünnib, teil ei ole selleks lihtsalt aega. Ja vastsündinu fotosessiooniks ideaalne periood (4-15 päevi) jookseb nähtamatult.
+- Alusatge fotograafi otsingut olles beebiootel. Kui beebi sünnib, teil ei ole selleks lihtsalt aega. Ja vastsündinu fotosessiooniks ideaalne periood (4-15 päevi) jookseb nähtamatult.
 
 ![vastsündinu fotosessioon](./vastsundinu-fotograaf-2.jpg)
 
-* Valige fotograafi, kes spetsialiseerub vastsündinu pildistamisel. Vaadake portfoolio läbi. Kui vajalik, küsige fotograafi näidata ühe sessiooni seeriat, nii saate paremini aru kas antud pildistamise stiil sobib teile või mitte.
+- Valige fotograafi, kes spetsialiseerub vastsündinu pildistamisel. Vaadake portfoolio läbi. Kui vajalik, küsige fotograafi näidata ühe sessiooni seeriat, nii saate paremini aru kas antud pildistamise stiil sobib teile või mitte.
 
 ![vastsündinu pildistamine Tallinnas](./vastsundinu-fotograaf-3.jpg)
 
-* Lugege teiste kliente arvamusi. Küsige kui kaua fotograaf vastsündinuid pildistab, kus ja kelle juures õppis.
+- Lugege teiste kliente arvamusi. Küsige kui kaua fotograaf vastsündinuid pildistab, kus ja kelle juures õppis.
 
 ![vastsündinu fotosessioon stuudios Tallinnas](./vastsundinu-fotograaf-4.jpg)
 
-* Ärge valige fotograafi, baseerudes ainult vastsündinu fotosessiooni hinnal. Vastsündinu fotosessiooni hind ei saa madal olla - peale vajaliku rekvisiidi, mis on vaja osta ja fotosessiooniks ette valmistada, professionaalne vastsündinu fotograaf õpib erinevatel kallidel workshop'idel, et mitte ainult rõõmustada teid ilusate piltidega vaid tagada teie beebi turvalisust fotosessiooni ajal. Turvalisus - on kõige olulisem vastsündinu fotosessioonil. Fotosessiooni hind on muidugi väga tähtis, aga ärge tehke seda peamiseks kriteeriumiks.
+- Ärge valige fotograafi, baseerudes ainult vastsündinu fotosessiooni hinnal. Vastsündinu fotosessiooni hind ei saa madal olla - peale vajaliku rekvisiidi, mis on vaja osta ja fotosessiooniks ette valmistada, professionaalne vastsündinu fotograaf õpib erinevatel kallidel workshop'idel, et mitte ainult rõõmustada teid ilusate piltidega vaid tagada teie beebi turvalisust fotosessiooni ajal. Turvalisus - on kõige olulisem vastsündinu fotosessioonil. Fotosessiooni hind on muidugi väga tähtis, aga ärge tehke seda peamiseks kriteeriumiks.
 
 ![vastsündinu pildistamine stuudios](./vastsundinu-fotograaf-5.jpg)
 

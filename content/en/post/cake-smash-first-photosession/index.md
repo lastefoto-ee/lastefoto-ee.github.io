@@ -43,17 +43,17 @@ But this shooting has a couple of nuances that you should know about in advance 
 
 ![cake smash session](./cake-smash-first-photosession-2.jpg)
 
-* There are chances that your normally active and inquisitive baby will get scared of the cake.
+- There are chances that your normally active and inquisitive baby will get scared of the cake.
 This is really a big and scary thing. So get ready to join the confectionery wreck with your baby!
 
 ![cake smash photo shoot in Tallinn](./cake-smash-first-photosession-3.jpg)
 
-* It will be great if you have two sets of clothes with you: one for a dignified and noble family shooting at the beginning and the other - for greasy stains from cream and filling at the end.
-* Since photo shoot is a very emotional event, especially if you can smear something on the face and the floor, then it is better not to do it on the birth day itself: the baby may have too many impressions.
+- It will be great if you have two sets of clothes with you: one for a dignified and noble family shooting at the beginning and the other - for greasy stains from cream and filling at the end.
+- Since photo shoot is a very emotional event, especially if you can smear something on the face and the floor, then it is better not to do it on the birth day itself: the baby may have too many impressions.
 
 ![cake smash photo shoot in studio](./cake-smash-first-photosession-4.jpg)
 
-* For the same reason, be sure to consider the rhythm of the child's sleep and wakefulness when choosing the time to shoot, so that fatigue does not affect our funny session in any way.
-* I myself can take care of a suitable cake. But if you certainly want to bring your own, then consult with me in advance: I will suggest the subtleties that are important for the visual component of the "CAKE SMASH" photo shoot.
+- For the same reason, be sure to consider the rhythm of the child's sleep and wakefulness when choosing the time to shoot, so that fatigue does not affect our funny session in any way.
+- I myself can take care of a suitable cake. But if you certainly want to bring your own, then consult with me in advance: I will suggest the subtleties that are important for the visual component of the "CAKE SMASH" photo shoot.
 
 Smiles to you, sweet treats and memorable frames! ♥ Sign up for shooting!
