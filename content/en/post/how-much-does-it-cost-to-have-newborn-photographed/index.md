@@ -43,7 +43,6 @@ tags:
   - newborn photo shoot
   - newborn session
   - newborn
-  - gift certificate
 
 categories:
   - newborn

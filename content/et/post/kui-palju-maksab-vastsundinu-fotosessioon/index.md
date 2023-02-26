@@ -40,16 +40,13 @@ authors:
   - admin
 
 tags:
-- beebi esimene eluaasta
-- beebi pildistamine
-- beebi fotosessioon
 - vastsündinu fotosessioon 
 - vastsündinu pildistamine
 - vastsündinu pildistamine stuudios
 - vastsündinud
 
 categories:
-  - beebid
+  - vastsündinud
 
 ---
 Millega alustavad paljud tulevased lapsevanemad oma beebile vastsündinu fotograafi valimisel? Tavaliselt hinnast.
