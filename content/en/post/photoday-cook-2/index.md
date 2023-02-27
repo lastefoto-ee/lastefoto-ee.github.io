@@ -7,7 +7,12 @@ summary: Photo day for kids will take place on May 27-29, 2022
 
 # Link this post with a project
 projects: 
-  - babies
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Baby photo shoot price
+    url: 'https://www.lastefoto.ee/en/project/babies/'
 
 # Date published
 date: "2022-05-01T06:08:53+03:00"

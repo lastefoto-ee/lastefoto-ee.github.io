@@ -7,7 +7,12 @@ summary: Раннее бронирование фотосессии новоро
 
 # Link this post with a project
 projects: 
-  - novorozhdjonnye
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоиомсть фотосессии новорожденного
+    url: 'https://www.lastefoto.ee/ru/project/novorozhdjonnye/'
 
 # Date published
 date: "2021-10-09T09:03:53+03:00"

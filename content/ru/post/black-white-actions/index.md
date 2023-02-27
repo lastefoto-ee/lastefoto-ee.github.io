@@ -7,8 +7,16 @@ summary: Набор из 10 Черно-Белых экшенов для Adobe Ph
 
 # Link this post with a project
 projects:
-  - obuchenie
-  - онлайн-школа
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость индивидуального обучения
+    url: 'https://www.lastefoto.ee/ru/project/obuchenie/'
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость обучения в онлайн-школе
+    url: 'https://www.lastefoto.ee/ru/project/online-shkola/'
 
 # Date published
 date: "2022-03-05T08:20:53+03:00"

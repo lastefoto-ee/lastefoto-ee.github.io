@@ -11,7 +11,7 @@ projects:
 links:
   - icon_pack: fas
     icon: baby
-    name: Newborn photography
+    name: Newborn photo shoot price
     url: 'https://www.lastefoto.ee/en/project/newborn/'
 
 # Date published

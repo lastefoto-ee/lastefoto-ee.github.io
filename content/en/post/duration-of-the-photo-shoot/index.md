@@ -7,8 +7,16 @@ summary: How long does it take to shoot with a newborn and an older toddler?
 
 # Link this post with a project
 projects: 
-  - newborn
-  - babies
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Newborn photo shoot price
+    url: 'https://www.lastefoto.ee/en/project/newborn/'
+  - icon_pack: fas
+    icon: baby
+    name: Baby photo shoot price
+    url: 'https://www.lastefoto.ee/en/project/babies/'
 
 # Date published
 date: "2022-04-30T09:09:53+03:00"

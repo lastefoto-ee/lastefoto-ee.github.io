@@ -27,7 +27,7 @@ profile: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [kraski]
+projects: []
 ---
 Малыш создаёт восхитительные разводы свекольным пюре на стенах и не равнодушен к рисованию?
 Тогда фотосессия **Юный абстракционист** с холстом и съедобными красками - это то, что нужно, чтобы раскрыть потенциал вашего гения!

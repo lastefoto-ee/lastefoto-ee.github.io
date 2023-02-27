@@ -7,8 +7,6 @@ summary: 10 must-valge action set Adobe Photoshop'i jaoks
 
 # Link this post with a project
 projects:
-  - koolitus
-  - online-kool
 
 # Date published
 date: "2022-03-05T08:20:53+03:00"

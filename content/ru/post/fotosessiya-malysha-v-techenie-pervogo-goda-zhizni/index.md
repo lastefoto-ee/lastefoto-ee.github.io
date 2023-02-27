@@ -11,11 +11,11 @@ projects:
 links:
   - icon_pack: fas
     icon: heart
-    name: Первый год жизни малыша
+    name: Первый год жизни малыша - стоимость фотосессии
     url: 'https://www.lastefoto.ee/ru/project/rasti-so-mnoi/'
   - icon_pack: fas
     icon: baby
-    name: Малыши
+    name: Стоимость фотосессии малыша
     url: 'https://www.lastefoto.ee/ru/project/malyshi/'
 
 # Date published

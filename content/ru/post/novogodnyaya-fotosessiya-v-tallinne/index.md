@@ -7,7 +7,12 @@ summary: Новогодние мини-фотосессии для семей с
 
 # Link this post with a project
 projects: 
-  - malyshi
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость фотосессии малыша
+    url: 'https://www.lastefoto.ee/ru/project/malyshi/'
 
 # Date published
 date: "2022-11-08T06:09:53+03:00"

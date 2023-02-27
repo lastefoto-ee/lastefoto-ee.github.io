@@ -5,9 +5,11 @@ subtitle: Kui palju aega võtab väikelapsega pildistamine?
 # Summary for listings and search engines
 summary: Beebifotosessioon stuudios Tallinnas
 
-# Link this post with a project
-projects: 
-  - beebid
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Beebi fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/beebid/'
 
 # Date published
 date: "2022-06-19T09:09:53+03:00"

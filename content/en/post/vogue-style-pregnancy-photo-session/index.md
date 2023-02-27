@@ -7,7 +7,12 @@ summary: Stylish pregnancy photos
 
 # Link this post with a project
 projects: 
-  - pregnancy
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Pregnancy photo shoot price
+    url: 'https://www.lastefoto.ee/en/project/pregnancy/'
 
 # Date published
 date: "2021-10-14T09:31:53+03:00"

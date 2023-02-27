@@ -7,7 +7,12 @@ summary: Классические кадры на фотосессии ново�
 
 # Link this post with a project
 projects: 
-  - novorozhdjonnye
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоиомсть фотосессии новорожденного
+    url: 'https://www.lastefoto.ee/ru/project/novorozhdjonnye/'
 
 # Date published
 date: "2021-10-07T09:04:53+03:00"

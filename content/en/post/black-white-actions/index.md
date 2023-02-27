@@ -7,8 +7,6 @@ summary: A set of 10 Black and White Actions for Adobe Photoshop
 
 # Link this post with a project
 projects:
-  - education
-  - online-school
 
 # Date published
 date: "2022-03-05T08:20:53+03:00"

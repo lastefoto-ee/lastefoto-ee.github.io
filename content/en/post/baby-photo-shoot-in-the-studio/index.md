@@ -7,7 +7,12 @@ summary: Baby photo shoot in the studio in Tallinn
 
 # Link this post with a project
 projects: 
-  - babies
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Baby photo shoot price
+    url: 'https://www.lastefoto.ee/en/project/babies/'
 
 # Date published
 date: "2022-06-19T09:09:53+03:00"

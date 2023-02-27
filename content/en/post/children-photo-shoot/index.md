@@ -7,7 +7,12 @@ summary: Photo shoot in Vogue style
 
 # Link this post with a project
 projects: 
-  - vogue
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Children photo shoot price
+    url: 'https://www.lastefoto.ee/en/project/vogue/'
 
 # Date published
 date: "2022-07-07T06:09:53+03:00"

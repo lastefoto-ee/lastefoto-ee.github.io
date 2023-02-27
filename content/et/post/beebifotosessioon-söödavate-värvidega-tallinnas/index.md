@@ -27,7 +27,7 @@ profile: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [värvid]
+projects: []
 ---
 Kas teie beebi loob seintele veetlevaid plekke peedipüree abiga ega ole joonistamise suhtes ükskõikne?
 Siis fotosessioon **Noor abstraktsionist** lõuendi ja söödavate värvidega - on just see, mis on vaja teie väikese geeniuse potentsiaali näitamiseks.

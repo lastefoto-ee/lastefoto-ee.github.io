@@ -7,7 +7,12 @@ summary: Vastsündinud fotosessiooni varajane broneerimine
 
 # Link this post with a project
 projects: 
-  - vastsündinud
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Vastsündinu fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/vastsundinud/'
 
 # Date published
 date: "2021-10-09T09:17:53+03:00"

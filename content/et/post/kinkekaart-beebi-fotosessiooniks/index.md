@@ -11,7 +11,7 @@ projects:
 links:
   - icon_pack: fas
     icon: baby
-    name: Vastsündinu fotograafia
+    name: Vastsündinu fotosessiooni hind
     url: 'https://www.lastefoto.ee/project/vastsundinud/'
 
 # Date published

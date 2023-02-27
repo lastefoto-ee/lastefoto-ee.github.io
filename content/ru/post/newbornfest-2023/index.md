@@ -11,11 +11,11 @@ projects:
 links:
   - icon_pack: fas
     icon: heart
-    name: Новорожденные
+    name: Стоимость фотосессии новорожденного
     url: 'https://www.lastefoto.ee/ru/project/novorozhdjonnye/'
   - icon_pack: fas
     icon: baby
-    name: Беременность
+    name: Стоимость фотосессии беременности
     url: 'https://www.lastefoto.ee/ru/project/beremennost/'
 
 # Date published

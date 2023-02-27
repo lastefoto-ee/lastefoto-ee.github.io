@@ -7,7 +7,12 @@ summary: Mida peaksid vanemad vastsündinu fotosessioonil tegema?
 
 # Link this post with a project
 projects: 
-  - vastsündinud
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Vastsündinu fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/vastsundinud/'
 
 # Date published
 date: "2022-10-14T06:09:53+03:00"

@@ -7,8 +7,16 @@ summary: Продолжительность съемки с маленьким �
 
 # Link this post with a project
 projects: 
-  - novorozhdjonnye
-  - malyshi
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость фотосессии малыша
+    url: 'https://www.lastefoto.ee/ru/project/malyshi/'
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость фотосессии новорожденного
+    url: 'https://www.lastefoto.ee/ru/project/novorozhdjonnye/'
 
 # Date published
 date: "2022-04-30T09:09:53+03:00"

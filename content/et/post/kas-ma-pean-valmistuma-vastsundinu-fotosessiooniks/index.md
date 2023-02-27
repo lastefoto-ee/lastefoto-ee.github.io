@@ -5,9 +5,11 @@ subtitle: Kas on vajalik vastsündinu fotosessiooniks ette valmistuda?
 # Summary for listings and search engines
 summary: Kas on vajalik vastsündinu fotosessiooniks ette valmistuda?
 
-# Link this post with a project
-projects: 
-  - vastsündinud
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Vastsündinu fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/vastsundinud/'
 
 # Date published
 date: "2023-01-14T06:09:53+03:00"

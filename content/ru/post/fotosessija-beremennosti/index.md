@@ -7,8 +7,12 @@ summary: Фотосессия беременности в стиле Vogue
 
 # Link this post with a project
 projects: 
-  - beremennost
-  - vogue
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость фотосессии беременности
+    url: 'https://www.lastefoto.ee/ru/project/beremennost/'
 
 # Date published
 date: "2022-08-12T06:09:53+03:00"

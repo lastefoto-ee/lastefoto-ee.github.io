@@ -7,7 +7,12 @@ summary: Фотодень для малышей состоится 15 и 16 ап
 
 # Link this post with a project
 projects: 
-  - malyshi
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость фотосессии малыша
+    url: 'https://www.lastefoto.ee/ru/project/malyshi/'
 
 # Date published
 date: "2022-04-10T09:09:53+03:00"

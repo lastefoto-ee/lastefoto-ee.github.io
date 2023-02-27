@@ -27,7 +27,7 @@ profile: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [vastsündinud]
+projects: []
 ---
 Vastsündinu fotograafi valimine - on päris oluline asi. Vastsündinu pildistamise turg kasvab väga kiiresti ja vastsündinu fotograafe on väga palju. Kuidas teha õige valiku?
 Teie mitte lihtsalt valite fotograafi, teie valite spetsialisti, kes professionaalselt ja turvaliselt pildistab teie beebi.

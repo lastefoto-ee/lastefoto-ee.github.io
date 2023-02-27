@@ -11,7 +11,7 @@ projects:
 links:
   - icon_pack: fas
     icon: heart
-    name: Первый год жизни малыша
+    name: Первый год жизни малыша - стоимость фотосессии
     url: 'https://www.lastefoto.ee/ru/project/rasti-so-mnoi/'
 
 # Date published

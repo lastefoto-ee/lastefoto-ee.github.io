@@ -11,14 +11,14 @@ projects:
 links:
   - icon_pack: fas
     icon: baby
-    name: Vastsündinu fotograafia
+    name: Vastsündinu fotosessiooni hind
     url: 'https://www.lastefoto.ee/project/vastsundinud/'
 
 # Date published
 date: "2023-02-26T06:09:53+03:00"
 
 # Date updated
-lastmod: "2023-01-21T06:09:53+03:00"
+lastmod: "2023-02-26T06:09:53+03:00"
 
 # Is this an unpublished draft?
 draft: false

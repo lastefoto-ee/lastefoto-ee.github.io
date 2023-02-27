@@ -7,7 +7,12 @@ summary: Подготовка к фотосессии Cake Smash
 
 # Link this post with a project
 projects: 
-  - cake smash
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость фотосессии Cake Smash
+    url: 'https://www.lastefoto.ee/ru/project/cake-smash/'
 
 # Date published
 date: "2022-08-22T06:09:53+03:00"

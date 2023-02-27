@@ -7,8 +7,16 @@ summary: Kui kaua võtab aega vastsündinu ja väikelapse pildistamine?
 
 # Link this post with a project
 projects: 
-  - vastsündinud
-  - beebid
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Vastsündinu fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/vastsundinud/'
+  - icon_pack: fas
+    icon: baby
+    name: Beebi fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/beebid/'
 
 # Date published
 date: "2022-04-30T09:09:53+03:00"

@@ -7,7 +7,12 @@ summary: Ettevalmistus lapseootuse pildistamiseks
 
 # Link this post with a project
 projects:
-  - beebiootus
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Beebiootusefotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/beebiootus/'
 
 # Date published
 date: "2021-10-08T09:18:53+03:00"

@@ -7,7 +7,12 @@ summary: Jõulu-minid igas vanuses lastega peredele
 
 # Link this post with a project
 projects: 
-  - beebid
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Beebi fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/beebid/'
 
 # Date published
 date: "2022-11-08T06:08:53+03:00"

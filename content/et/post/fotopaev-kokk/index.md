@@ -7,7 +7,12 @@ summary: Beebifotopäev toimub 15. ja 16. aprillil 2022
 
 # Link this post with a project
 projects: 
-  - beebid
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Beebi fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/beebid/'
 
 # Date published
 date: "2022-04-10T15:09:53+03:00"

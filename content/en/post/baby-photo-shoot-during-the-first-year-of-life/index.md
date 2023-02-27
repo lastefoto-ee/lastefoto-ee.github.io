@@ -11,11 +11,11 @@ projects:
 links:
   - icon_pack: fas
     icon: heart
-    name: Baby's First Year
+    name: Baby's First Year - photo shoot price
     url: 'https://www.lastefoto.ee/en/project/babys-first-year/'
   - icon_pack: fas
     icon: baby
-    name: Baby photography
+    name: Baby photo shoot price
     url: 'https://www.lastefoto.ee/en/project/babies/'
 
 # Date published

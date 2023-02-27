@@ -27,7 +27,7 @@ profile: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [newborn]
+projects: []
 ---
 Choosing a photographer for your newborn baby is a very responsible thing. The newborn photography market is developing very quickly and a large number of photographers offer their services.
 

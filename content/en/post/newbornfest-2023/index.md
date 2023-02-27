@@ -11,11 +11,11 @@ projects:
 links:
   - icon_pack: fas
     icon: baby
-    name: Newborn photography
+    name: Newborn photo shoot price
     url: 'https://www.lastefoto.ee/en/project/newborn/'
   - icon_pack: fas
     icon: heart
-    name: Maternity Photography
+    name: Maternity photo shoot price
     url: 'https://www.lastefoto.ee/en/project/pregnancy/'
 
 # Date published

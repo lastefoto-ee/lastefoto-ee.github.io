@@ -7,7 +7,12 @@ summary: Preparing for the Cake Smash photo shoot
 
 # Link this post with a project
 projects: 
-  - cake smash
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Cake Smash photo shoot price
+    url: 'https://www.lastefoto.ee/en/project/cake-smash/'
 
 # Date published
 date: "2022-08-22T12:09:53+03:00"

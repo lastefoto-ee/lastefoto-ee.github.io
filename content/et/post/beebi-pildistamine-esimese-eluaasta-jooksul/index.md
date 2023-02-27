@@ -11,11 +11,11 @@ projects:
 links:
   - icon_pack: fas
     icon: heart
-    name: Beebi esimene eluaasta
+    name: Beebi esimese eluaasta projekti hind
     url: 'https://www.lastefoto.ee/project/esimene-eluaasta/'
   - icon_pack: fas
     icon: baby
-    name: Beebi fotograafia
+    name: Beebi fotosessiooni hind
     url: 'https://www.lastefoto.ee/project/beebid/'
 
 # Date published

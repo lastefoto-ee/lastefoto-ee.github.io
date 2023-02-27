@@ -7,7 +7,12 @@ summary: Beebiootuse pildistamise fotopäev toimub 28. mail 2021
 
 # Link this post with a project
 projects: 
-  - beebiootus
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Beebiootusefotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/beebiootus/'
 
 # Date published
 date: "2021-10-10T09:20:53+03:00"

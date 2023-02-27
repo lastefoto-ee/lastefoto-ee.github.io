@@ -7,8 +7,12 @@ summary: Beebiootusefotosessioon Vogue stiilis
 
 # Link this post with a project
 projects: 
-  - beebiootus
-  - vogue
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Beebiootusefotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/beebiootus/'
 
 # Date published
 date: "2022-08-14T06:09:53+03:00"

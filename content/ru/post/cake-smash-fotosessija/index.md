@@ -7,7 +7,12 @@ summary: Cake smash фотосессия в студии
 
 # Link this post with a project
 projects:
-  - cake smash
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость фотосессии Cake Smash
+    url: 'https://www.lastefoto.ee/ru/project/cake-smash/'
 
 # Date published
 date: "2022-02-22T13:20:53+03:00"

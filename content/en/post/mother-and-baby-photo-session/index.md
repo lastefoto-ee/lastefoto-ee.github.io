@@ -7,7 +7,12 @@ summary: Stylish photos of mom and baby
 
 # Link this post with a project
 projects: 
-  - babies
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Baby photo shoot price
+    url: 'https://www.lastefoto.ee/en/project/babies/'
 
 # Date published
 date: "2021-10-13T09:34:53+03:00"

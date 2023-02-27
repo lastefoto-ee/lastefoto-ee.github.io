@@ -9,7 +9,7 @@ date: "2023-01-06T05:49:53+03:00"
 external_link: ""
 
 image:
-  caption: Photo by Viktoria Iljin
+  caption: Фотограф новорожденных Виктория Ильин
   focal_point: Smart
 
 links: []

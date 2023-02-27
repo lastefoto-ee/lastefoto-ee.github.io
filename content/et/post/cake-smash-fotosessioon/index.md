@@ -7,7 +7,12 @@ summary: Cake smash fotosessioon stuudios
 
 # Link this post with a project
 projects:
-  - cake smash
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Cake Smash fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/cake-smash/'
 
 # Date published
 date: "2022-02-22T13:20:53+03:00"

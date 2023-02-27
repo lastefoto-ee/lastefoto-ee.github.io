@@ -7,7 +7,12 @@ summary: Beebi fotosessioon esimese eluaasta jooksul
 
 # Link this post with a project
 projects:
-  - esimene eluaasta
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Minu esimene eluaasta fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/esimene-eluaasta/'
 
 # Date published
 date: "2021-10-31T16:59:53+03:00"

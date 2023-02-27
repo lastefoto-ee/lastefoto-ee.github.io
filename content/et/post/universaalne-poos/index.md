@@ -7,7 +7,12 @@ summary: Klassikalised kaadrid vastsündinu fotosessioonil
 
 # Link this post with a project
 projects: 
-  - vastsündinud
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Vastsündinu fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/vastsundinud/'
 
 # Date published
 date: "2021-10-07T09:16:53+03:00"

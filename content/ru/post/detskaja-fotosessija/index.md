@@ -7,7 +7,12 @@ summary: Фотосессия в стиле Vogue
 
 # Link this post with a project
 projects: 
-  - vogue
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость фотосессии в стиле Vogue
+    url: 'https://www.lastefoto.ee/ru/project/vogue/'
 
 # Date published
 date: "2022-07-06T06:09:53+03:00"

@@ -7,7 +7,12 @@ summary: Early booking of a newborn photo shoot
 
 # Link this post with a project
 projects: 
-  - newborn
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Newborn photo shoot price
+    url: 'https://www.lastefoto.ee/en/project/newborn/'
 
 # Date published
 date: "2021-10-09T09:30:53+03:00"

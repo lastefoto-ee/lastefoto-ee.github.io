@@ -11,11 +11,11 @@ projects:
 links:
   - icon_pack: fas
     icon: heart
-    name: Vastsündinu Fotograafia
+    name: Vastsündinu fotosessiooni hind
     url: 'https://www.lastefoto.ee/project/vastsundinud/'
   - icon_pack: fas
     icon: baby
-    name: Beebiootuse Fotograafia
+    name: Beebiootuse fotosessiooni hind
     url: 'https://www.lastefoto.ee/project/beebiootus/'
 
 # Date published

@@ -7,8 +7,12 @@ summary: Pregnancy photo shoot in Vogue style
 
 # Link this post with a project
 projects: 
-  - pregnancy
-  - vogue
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Pregnancy photo shoot price
+    url: 'https://www.lastefoto.ee/en/project/pregnancy/'
 
 # Date published
 date: "2022-08-19T06:09:53+03:00"

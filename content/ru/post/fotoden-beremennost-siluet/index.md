@@ -7,7 +7,12 @@ summary: Фотодень для беременных состоится 28 ма
 
 # Link this post with a project
 projects: 
-  - beremennost
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость фотосессии беременности
+    url: 'https://www.lastefoto.ee/ru/project/beremennost/'
 
 # Date published
 date: "2021-10-10T09:10:53+03:00"

@@ -7,7 +7,12 @@ summary: Stiilne lapseootuse fotosessioon
 
 # Link this post with a project
 projects: 
-  - beebiootus
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Beebiootuse fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/beebid/'
 
 # Date published
 date: "2021-10-11T09:19:53+03:00"

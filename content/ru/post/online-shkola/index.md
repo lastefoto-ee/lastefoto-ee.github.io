@@ -7,7 +7,12 @@ summary: Представляю вам мой новый проект - онла
 
 # Link this post with a project
 projects:
-  - онлайн-школа
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость обучения в онлайн-школе
+    url: 'https://www.lastefoto.ee/ru/project/online-shkola/'
 
 # Date published
 date: "2021-11-18T12:05:53+03:00"

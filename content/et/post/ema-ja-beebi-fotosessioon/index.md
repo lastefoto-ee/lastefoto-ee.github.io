@@ -6,7 +6,12 @@ subtitle: Stiilsed fotod emast ja beebist
 summary: Stiilsed fotod emast ja beebist
 # Link this post with a project
 projects: 
-  - beebid
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Beebi fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/beebid/'
 
 # Date published
 date: "2021-10-13T09:21:53+03:00"

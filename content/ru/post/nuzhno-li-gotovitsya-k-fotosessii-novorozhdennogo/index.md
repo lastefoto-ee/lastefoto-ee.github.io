@@ -11,7 +11,7 @@ projects:
 links:
   - icon_pack: fas
     icon: baby
-    name: Новорожденные
+    name: Стоимость фотосессии новорожденного
     url: 'https://www.lastefoto.ee/ru/project/novorozhdjonnye/'
 
 # Date published

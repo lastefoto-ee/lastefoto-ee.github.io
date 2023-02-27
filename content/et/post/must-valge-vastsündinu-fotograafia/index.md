@@ -7,7 +7,12 @@ summary: Must-valgele vastsündinufotole klassikalise hõngu lisamine
 
 # Link this post with a project
 projects: 
-  - vastsündinud
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Vastsündinu fotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/vastsundinud/'
 
 # Date published
 date: "2022-12-28T06:09:53+03:00"

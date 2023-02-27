@@ -7,7 +7,12 @@ summary: Фотосессия малышки в стадии в Таллинне
 
 # Link this post with a project
 projects: 
-  - malyshi
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость фотосессии малыша
+    url: 'https://www.lastefoto.ee/ru/project/malyshi/'
 
 # Date published
 date: "2022-06-19T09:09:53+03:00"

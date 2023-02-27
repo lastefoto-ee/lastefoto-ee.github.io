@@ -7,7 +7,12 @@ summary: Stiilsed ja ajatud beebiootuse pildid
 
 # Link this post with a project
 projects: 
-  - beebiootus
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Beebiootusefotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/beebiootus/'
 
 # Date published
 date: "2021-10-14T09:22:53+03:00"

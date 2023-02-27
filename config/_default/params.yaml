@@ -80,9 +80,9 @@ edit_page:
     book: false
 show_related:
   book: true
-  page: true
-  post: true
-  project: true
+  page: false
+  post: false
+  project: false
   publication: true
   event: true
 reading_time: false

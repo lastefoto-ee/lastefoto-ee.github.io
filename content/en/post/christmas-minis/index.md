@@ -7,7 +7,12 @@ summary: Christmas mini-photo shoots for families with kids of all ages
 
 # Link this post with a project
 projects: 
-  - babies
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Baby photo shoot price
+    url: 'https://www.lastefoto.ee/en/project/babies/'
 
 # Date published
 date: "2022-11-08T06:08:53+03:00"

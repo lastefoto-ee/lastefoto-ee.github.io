@@ -7,7 +7,12 @@ summary: Vogue stiilis fotosessioon
 
 # Link this post with a project
 projects: 
-  - vogue
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Lastefotosessiooni hind
+    url: 'https://www.lastefoto.ee/project/vogue/'
 
 # Date published
 date: "2022-07-06T06:09:53+03:00"

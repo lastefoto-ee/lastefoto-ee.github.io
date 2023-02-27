@@ -7,7 +7,12 @@ summary: Photo day for pregnant ladies will take place on May 28, 2021 in Tallin
 
 # Link this post with a project
 projects: 
-  - pregnancy
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Pregnancy photo shoot price
+    url: 'https://www.lastefoto.ee/en/project/pregnancy/'
 
 # Date published
 date: "2021-10-10T09:33:53+03:00"

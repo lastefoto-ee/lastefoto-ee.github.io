@@ -7,7 +7,12 @@ summary: Стильная фотосессия беременности
 
 # Link this post with a project
 projects: 
-  - beremennost
+
+links:
+  - icon_pack: fas
+    icon: baby
+    name: Стоимость фотосессии беременности
+    url: 'https://www.lastefoto.ee/ru/project/beremennost/'
 
 # Date published
 date: "2021-10-14T09:08:53+03:00"
