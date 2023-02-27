@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /publication_types/
+Disallow: /en/admin/
+Disallow: /en/categories/
+Disallow: /en/tags/
+Disallow: /en/publication_types/
+Disallow: /ru/admin/
+Disallow: /ru/categories/
+Disallow: /ru/tags/
+Disallow: /ru/publication_types/
+Sitemap: https://www.lastefoto.ee/sitemap.xml
