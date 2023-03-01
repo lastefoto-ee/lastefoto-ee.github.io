@@ -1,5 +1,5 @@
 ---
-title: Kasva minuga
+title: Beebi esimene eluaasta - Kasva minuga!
 summary: Beebi esimese eluaasta jooksul me kohtume neli korda. Fotosessioonide tegemiseks on parim aeg siis, kui Teie laps on kuni kahenädalane, kolmekuune, umbes pooleaastane ning ühe aasta vanuses (“Cake smash” fotosessioon).
 tags:
 - vastsündinud
