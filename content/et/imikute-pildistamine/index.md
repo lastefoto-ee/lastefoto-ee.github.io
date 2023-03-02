@@ -18,7 +18,7 @@ links:
 date: "2023-02-27T06:09:53+03:00"
 
 # Date updated
-lastmod: "2023-01-27T06:09:53+03:00"
+lastmod: "2023-02-27T06:09:53+03:00"
 
 # Is this an unpublished draft?
 draft: false
