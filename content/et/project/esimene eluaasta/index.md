@@ -55,7 +55,7 @@ Hind sisaldab:
 
 _Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast, või helista +37255599546_
 
-{{< figure src="/tallinn/featured.jpg" title="Beebi esimene eluaasta" >}}
+{{< figure src="beebi-esimene-eluaasta.jpg" title="Beebi esimene eluaasta" >}}
 
 {{< video library="true" src="esimene-eluaasta-fotoraamat.mp4" controls="no" >}}
 
