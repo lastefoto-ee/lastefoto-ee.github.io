@@ -888,7 +888,14 @@ või uuri lisa 👶 vastsündinu fotosessioonist &lt;i class="fas fa-angle-right
 &lt;p>&lt;em>Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast, või helista +37255599546&lt;/em>&lt;/p>
 &lt;figure id="figure-beebi-esimene-eluaasta">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://www.lastefoto.ee/tallinn/featured.jpg" alt="Beebi esimene eluaasta" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Beebi esimene eluaasta" srcset="
+/project/esimene-eluaasta/beebi-esimene-eluaasta_hu685bc4386a2a4d3f360e5d345bfebebf_1277051_efaa66ee833e2666cb7b2c6c77a00fb9.jpg 400w,
+/project/esimene-eluaasta/beebi-esimene-eluaasta_hu685bc4386a2a4d3f360e5d345bfebebf_1277051_a03c4bf35b8b2067fd8492ac4d01702d.jpg 760w,
+/project/esimene-eluaasta/beebi-esimene-eluaasta_hu685bc4386a2a4d3f360e5d345bfebebf_1277051_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/esimene-eluaasta/beebi-esimene-eluaasta_hu685bc4386a2a4d3f360e5d345bfebebf_1277051_efaa66ee833e2666cb7b2c6c77a00fb9.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Beebi esimene eluaasta
 &lt;/figcaption>&lt;/figure>
