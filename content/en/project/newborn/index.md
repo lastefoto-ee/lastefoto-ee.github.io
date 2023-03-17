@@ -3,7 +3,7 @@ title: Newborn
 summary: photo shoot for babies during the first 5-14 days
 tags:
 - newborn
-date: "2023-01-06T05:43:10+03:00"
+date: "2023-03-17T05:43:10+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -83,78 +83,28 @@ The price and conditions of the photo shoot are available on request.
 
 {{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
-{{< figure src="newborn-photo-shoot-50.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photo-shoot-49.jpg" title="Newborn photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-tallinn-1.jpg" title="Newborn photo shoot in the studio in Tallinn, babygirl 10 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-2.jpg" title="Infant photo session in Tallinn, babyboy 19 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-3.jpg" title="Newborn photo shoot in the studio, babygirl 11 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-4.jpg" title="Newborn photo session in Tallinn, babygirl 10 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-5.jpg" title="Infant photo session, babyboy 11 days old" >}}
 {{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-48.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photo-shoot-47.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-tallinn-6.jpg" title="Infant photo shoot in the studio in Tallinn, babyboy 18 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-7.jpg" title="Newborn photo session in Tallinn, babygirl 14 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-8.jpg" title="Newborn photography workshop, babygirl 12 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-9.jpg" title="Newborn twins photo shoot in Tallinn, babygirls 12 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-10.jpg" title="Infant photo session, babygirl 8 days old" >}}
 {{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-46.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photo-shoot-45.jpg" title="Newborn picture" >}}
+{{< figure src="newborn-photo-shoot-tallinn-11.jpg" title="Newborn photo shoot in the studio in Tallinn, babygirl 11 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-12.jpg" title="Infant photo session in Tallinn, babyboy 12 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-13.jpg" title="Newborn photo shoot in the studio, babygirl 14 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-14.jpg" title="Newborn photo session in Tallinn, babygirl 53 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-15.jpg" title="Infant photo session, babyboy 11 days old" >}}
 {{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-44.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photo-shoot-43.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-42.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photo-shoot-41.jpg" title="Newborn studio session" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-40.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photo-shoot-39.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-38.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photo-shoot-37.jpg" title="Newborn studio session" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-36.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< figure src="newborn-photo-shoot-35.jpg" title="Newborn baby photo shoot in the studio in Tallinn" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-34.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photo-shoot-33.jpg" title="Newborn babygirl photo shoot" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-32.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photo-shoot-31.jpg" title="Newborn photo shoot in studio" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-30.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photo-shoot-29.jpg" title="Newborn picture" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-28.jpg" title="Newborn babygirl photo shoot in studio" >}}
-{{< figure src="newborn-photo-shoot-27.jpg" title="Newborn babygirl photo shoot in studio" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-26.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photo-shoot-25.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-24.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photo-shoot-23.jpg" title="Newborn babygirl photo shoot in studio" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-22.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photo-shoot-21.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-20.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photo-shoot-19.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-18.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photo-shoot-17.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-16.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photo-shoot-15.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-14.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photo-shoot-13.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-12.jpg" title="Newborn twins photo shoot in studio" >}}
-{{< figure src="newborn-photo-shoot-11.jpg" title="Newborn photo shoot" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-10.jpg" title="Newborn photo shoot" >}}
-{{< figure src="newborn-photo-shoot-9.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-8.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photo-shoot-7.jpg" title="Newborn baby photo shoot in studio" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-6.jpg" title="Newborn picture" >}}
-{{< figure src="newborn-photo-shoot-5.jpg" title="Newborn photo shoot" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-4.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< figure src="newborn-photo-shoot-3.jpg" title="Newborn photo shoot in Tallinn" >}}
-{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="newborn-photo-shoot-2.jpg" title="Newborn studio session" >}}
-{{< figure src="newborn-photo-shoot-1.jpg" title="Newborn baby photo shoot in studio" >}}
+{{< figure src="newborn-photo-shoot-tallinn-16.jpg" title="Newborn photo shoot in the studio in Tallinn, babygirl 14 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-17.jpg" title="Infant photo session in Tallinn, babygirl 14 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-18.jpg" title="Newborn photo shoot in the studio, babygirl 12 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-19.jpg" title="Infant photo session in Tallinn, babyboy 14 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-20.jpg" title="Newborn photography workshop, babygirl 6 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-21.jpg" title="Newborn photo session in Tallinn, babygirl 9 days old" >}}
 {{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
