@@ -3,7 +3,7 @@ title: Vastsündinud
 summary: fotosessioon beebi 5-14 elupäeval
 tags:
 - vastsündinud
-date: "2023-01-06T05:53:53+03:00"
+date: "2023-03-19T05:53:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -47,7 +47,7 @@ Hind sisaldab:
 
 {{< figure src="vastsundinu-fotosessioon-tallinnas-minipakett.jpg" title="Vastsündinu fotosessioon Tallinnas, näidispildid" >}}
 
-## Täispakett (2-4 tundi) *410*€ 
+## Täispakett (2-4 tundi) *390*€ 
 
 _Ideaalne aeg vastsündinu pildistamiseks on 5-14 päeva vanuselt_
 

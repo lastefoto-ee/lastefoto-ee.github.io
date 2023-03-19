@@ -3,7 +3,7 @@ title: Newborn
 summary: photo shoot for babies during the first 5-14 days
 tags:
 - newborn
-date: "2023-03-17T05:43:10+03:00"
+date: "2023-03-19T05:43:10+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -47,7 +47,7 @@ Price includes:
 
 {{< figure src="newborn-photo-shoot-in-tallinn-minipackage.jpg" title="Newborn photo shoot in Tallinn, sample images" >}}
 
-## Full-package (2-4 hours) *410*€ 
+## Full-package (2-4 hours) *390*€ 
 
 _The ideal time for newborn photography is 5-14 days of age_.
 
