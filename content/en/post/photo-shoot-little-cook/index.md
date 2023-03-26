@@ -1,9 +1,9 @@
 ---
 title: Photo shoot "Little Cook"
-subtitle: Photo day for babies from 9 months to three years
+subtitle: Photo shoot for babies from 9 months to three years
 
 # Summary for listings and search engines
-summary: Photo day for babies from 9 months to three years
+summary: Photo shoot for babies from 9 months to three years
 
 # Link this post with a project
 projects: 
