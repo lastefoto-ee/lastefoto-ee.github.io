@@ -160,7 +160,7 @@ gallery_item:
 - Fotosessioon sobib lastele vanuses 9 kuud kuni kolm aastat.
 
 ## Millal fotosessioon toimub?
-- 7-8 Aprill 2023 kell 09:00 - 16:00, Tallinnas
+- 7-8 Aprill 2023 kell 09:00 - 16:00, Tallinnas (Peterburi tee 46, 5.korrus, ruum 513)
 
 ## Kui palju aega võtab fotosessioon?
 - Iga beebiga veedame koos umbes 40 minutit. Neist fotosessiooni enda kestvus jääb 20-30 minutiks. Kohanemiseks ja riiete vahetamiseks kulub u. 10-15 minutit.

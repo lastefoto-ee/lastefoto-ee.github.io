@@ -161,7 +161,7 @@ gallery_item:
 - Photo shoot "Little Cook" is suitable for babies from 9 months old up to three years.
 
 ## When will the photo shoot take place?
-- April 7-8, 2023 from 09:00 to 16:00, in Tallinn
+- April 7-8, 2023 from 09:00 to 16:00, in Tallinn (Peterburi mnt 46, 5th floor, room 513)
 
 ## How long is the photo shoot?
 - We will spend approximately 40 minutes together with each baby. The duration of the photo session itself will be 20-30 minutes. It will take 10-15 minutes for babies to adapt and change clothes.
