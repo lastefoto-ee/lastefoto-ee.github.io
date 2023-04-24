@@ -3,7 +3,7 @@ title: Newborn
 summary: photo shoot for babies during the first 5-14 days
 tags:
 - newborn
-date: "2023-03-19T05:43:10+03:00"
+date: "2023-04-24T05:43:10+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,7 +27,12 @@ slides: ""
 weight: 3
 
 ---
+{{< figure src="newborn-photo-shoot-tallinn-3.jpg" title="Newborn photo shoot in the studio, babygirl 11 days old" >}}
+
+{{< video library="true" src="fotoraamat-tallinn.mp4" controls="yes" >}}
+
 ## Mini-package (1-2,5 hours) *320*€ 
+<small>*payment in two instalments is possible</small>
 
 _The ideal time for newborn photography is 5-14 days of age_.
 
@@ -48,6 +53,7 @@ Price includes:
 {{< figure src="newborn-photo-shoot-in-tallinn-minipackage.jpg" title="Newborn photo shoot in Tallinn, sample images" >}}
 
 ## Full-package (2-4 hours) *390*€ 
+<small>*payment in two instalments is possible</small>
 
 _The ideal time for newborn photography is 5-14 days of age_.
 
@@ -83,9 +89,9 @@ The price and conditions of the photo shoot are available on request.
 
 {{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
+{{< video library="true" src="fotoraamat-vastsundinu-fotosessioon-tallinn.mp4" controls="yes" >}}
 {{< figure src="newborn-photo-shoot-tallinn-1.jpg" title="Newborn photo shoot in the studio in Tallinn, babygirl 10 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-2.jpg" title="Infant photo session in Tallinn, babyboy 19 days old" >}}
-{{< figure src="newborn-photo-shoot-tallinn-3.jpg" title="Newborn photo shoot in the studio, babygirl 11 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-4.jpg" title="Newborn photo session in Tallinn, babygirl 10 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-5.jpg" title="Infant photo session, babyboy 11 days old" >}}
 {{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
@@ -103,8 +109,6 @@ The price and conditions of the photo shoot are available on request.
 {{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="newborn-photo-shoot-tallinn-16.jpg" title="Newborn photo shoot in the studio in Tallinn, babygirl 14 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-17.jpg" title="Infant photo session in Tallinn, babygirl 14 days old" >}}
-{{< figure src="newborn-photo-shoot-tallinn-18.jpg" title="Newborn photo shoot in the studio, babygirl 12 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-19.jpg" title="Infant photo session in Tallinn, babyboy 14 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-20.jpg" title="Newborn photography workshop, babygirl 6 days old" >}}
-{{< figure src="newborn-photo-shoot-tallinn-21.jpg" title="Newborn photo session in Tallinn, babygirl 9 days old" >}}
 {{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
