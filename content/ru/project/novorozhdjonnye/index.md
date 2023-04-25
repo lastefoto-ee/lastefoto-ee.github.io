@@ -3,7 +3,7 @@ title: Newborn
 summary: фотосессия для малышей в течение первых 5-14 дней
 tags:
 - новорожденные
-date: "2023-04-24T05:49:53+03:00"
+date: "2023-04-25T05:49:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -87,6 +87,8 @@ _При желании вы можете выбрать фотографии д�
 
 {{< cta cta_text="💛 Запечатлей драгоценные моменты - забронируй фотосессию сегодня!" cta_link="/ru/#contact" >}}
 
+{{< video library="true" src="fotoraamat-beebifotosessioon-tallinn.mp4" controls="yes" >}}
+{{< figure src="fotosessiya-novorozhdennykh-tallinn-21.jpg" title="Фотосессия новорожденных, малыш 12 дней" >}}
 {{< video library="true" src="fotoraamat-vastsundinu-fotosessioon-tallinn.mp4" controls="yes" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-1.jpg" title="Фотосессия новорожденного в студии Таллинна, малышка 10 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-2.jpg" title="Съемка новорожденных в Таллинне, малыш 19 дней" >}}

@@ -3,7 +3,7 @@ title: Newborn
 summary: photo shoot for babies during the first 5-14 days
 tags:
 - newborn
-date: "2023-04-24T05:43:10+03:00"
+date: "2023-04-25T05:43:10+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -89,6 +89,8 @@ The price and conditions of the photo shoot are available on request.
 
 {{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
+{{< video library="true" src="fotoraamat-beebifotosessioon-tallinn.mp4" controls="yes" >}}
+{{< figure src="newborn-photo-shoot-tallinn-21.jpg" title="Infant photo session, babyboy 12 days old" >}}
 {{< video library="true" src="fotoraamat-vastsundinu-fotosessioon-tallinn.mp4" controls="yes" >}}
 {{< figure src="newborn-photo-shoot-tallinn-1.jpg" title="Newborn photo shoot in the studio in Tallinn, babygirl 10 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-2.jpg" title="Infant photo session in Tallinn, babyboy 19 days old" >}}
