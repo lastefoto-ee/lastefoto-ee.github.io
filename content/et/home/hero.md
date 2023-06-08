@@ -23,7 +23,7 @@ cta_alt:
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: 'Meil on olemas lai valik rekvisiite, et luua tõeliselt ainulaadse fotosessiooni'
+  label: 'Meil on olemas lai valik rekvisiite, et luua tõeliselt ainulaadse fotosessiooni!'
 
 author: admin
 

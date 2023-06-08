@@ -4,7 +4,7 @@ weight: 10
 headless: true  # This file represents a page section.
 active: true
 # ... Put Your Section Options Here (title etc.) ...
-title: Представляем идеальный продукт для молодых родителей!
+title: Идеальный продукт для молодых родителей!
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
 hero_media: 'hero3.png'
 
@@ -22,7 +22,7 @@ cta_alt:
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: 'У нас широкий выбор реквизита, чтобы создать действительно уникальную фотосессию.'
+  label: 'Широкий выбор реквизита позволит создать действительно уникальную фотосессию!'
 
 author: admin
 
@@ -45,4 +45,4 @@ design:
 
 author: admin
 ---
-Запечатлей рост и развитие твоего ребенка в первый год жизни с помощью 4 фотосессий.
+Запечатлей рост и развитие своего ребёнка в первый год жизни с помощью 4 фотосессий

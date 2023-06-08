@@ -23,7 +23,7 @@ cta_alt:
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: 'We have a wide range of props and backdrops available, so you can create a truly unique photo session'
+  label: 'We have a wide range of props and backdrops available, to create a truly unique photo session!'
 
 author: admin
 
