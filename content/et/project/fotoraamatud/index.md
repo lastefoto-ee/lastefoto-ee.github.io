@@ -53,7 +53,7 @@ Fotoraamatu lõplik maksumus arvutatakse lehtede arvu, kaanetüübi ja lisade p�
 {{< figure src="Box-2.png" title="Karb fotoraamatu hoidmiseks" >}}
 
 ## `Väike fotoraamat`, hind 20€
-{{< figure src="knizhka-malyshka.jpg" title="Isikupärastatud väike fotoraamat" >}}
+{{< figure src="vaike-fotoraamat.jpg" title="Isikupärastatud väike fotoraamat" >}}
 
 Prindi oma fotod kvaliteetsesse väiksesse fotoraamatusse mõõtmetega 8cm x 8cm. Raamatusse mahub 12-18 pilti, mida saab ise valida ning kohandada vastavalt soovidele. Lisaks on võimalik valida ka tiitellehe ning kaanematerjali vahel ja lisada tähtsa kuupäeva. Saadaval on nii kangast kui ka nahast kaaned ning karp, mis sobib ideaalselt väikese raamatu hoidmiseks.
 
