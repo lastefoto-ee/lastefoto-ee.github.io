@@ -74,7 +74,14 @@ Karb fotoraamatu hoidmiseks
 &lt;h2 id="väike-fotoraamat-hind-20">&lt;code>Väike fotoraamat&lt;/code>, hind 20€&lt;/h2>
 &lt;figure id="figure-isikupärastatud-väike-fotoraamat">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="knizhka-malyshka.jpg" alt="Isikupärastatud väike fotoraamat" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Isikupärastatud väike fotoraamat" srcset="
+/project/fotoraamatud/vaike-fotoraamat_hue0346a02aa9d712b8dc2c7b13b3e1ecd_7669666_c50c4d618ce0a85a2a4a009310f199c9.jpg 400w,
+/project/fotoraamatud/vaike-fotoraamat_hue0346a02aa9d712b8dc2c7b13b3e1ecd_7669666_42ba3885bdddb174e7987f6838ea750c.jpg 760w,
+/project/fotoraamatud/vaike-fotoraamat_hue0346a02aa9d712b8dc2c7b13b3e1ecd_7669666_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://www.lastefoto.ee/project/fotoraamatud/vaike-fotoraamat_hue0346a02aa9d712b8dc2c7b13b3e1ecd_7669666_c50c4d618ce0a85a2a4a009310f199c9.jpg"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Isikupärastatud väike fotoraamat
 &lt;/figcaption>&lt;/figure>
