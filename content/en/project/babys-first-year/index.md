@@ -5,7 +5,8 @@ tags:
 - newborn photo shoot
 - baby photo shoot
 - baby's first year
-date: "2023-01-09T07:19:54+02:00"
+- photobook
+date: "2023-06-10T07:19:54+02:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,6 +33,10 @@ weight: 4
 ## Baby's First Year *1400* € (_partial payment available_)
 _Capture your baby's growth and development in their first year with 4 photo shoots. Save precious memories for when they are a newborn, 3-month-old, 6-month-old, and 1-year-old._
 
+{{% callout note %}}
+We will meet 4 times during the first year of your baby's life. The best time for a photo shoot is the first 14 days of your baby's life, then at three months, at half a year and at one year for a Cake smash style photo shoot. Photos from each photo shoot will be ready within 6 weeks. The final result (canvas, photo book, printed photos and USB stick) will be ready within two months after the last photo session. The photo shoot takes place in Tallinn, unless agreed otherwise.
+{{% /callout %}}
+
 Price includes:
 1. newborn photo shoot lasting 2-4 hours at LasteFoto studio;
 2. 3-4 various set-ups for the newborn;
@@ -54,14 +59,28 @@ Price includes:
 
 _or use Facebook/WhatsApp button in the bottom right corner for faster answers_
 
-{{% callout note %}}
+{{< figure src="grow-up-with-me-4.jpg" title="Baby's First Year: 4 photo shoots during the first year of your baby's life" >}}
+{{< figure src="rasti-so-mnoi-6.jpg" title="Baby's First Year: photobook 21 spreads, canvas, printed photos, USB stick" >}}
+{{< video library="true" src="beebi-esimene-eluaasta-3.mp4" controls="no" >}}
 
-You will get your pictures as an online gallery within one month after each photo shoot. You will get your canvas, photo book and USB drive within two months after the last photo shoot. All photo shoots are in Tallinn, unless agreed otherwise. Make-up artist, florist and decorator services are available at an extra cost.
+{{< cta cta_text="💛 Book your package today!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
-{{% /callout %}}
+{{< figure src="grow-up-with-me-2.jpg" title="Baby's First Year: 4 photo shoots during the first year of your baby's life" >}}
+{{< figure src="rasti-so-mnoi-7.jpg" title="Baby's First Year: photobook 20 spreads, canvas, printed photos, USB stick" >}}
+{{< video library="true" src="beebi-esimene-eluaasta.mp4" controls="no" >}}
 
+{{< cta cta_text="💛 Book your package today!" cta_link="/en/#contact" cta_new_tab="true" >}}
+
+{{< figure src="grow-up-with-me-3.jpg" title="Baby's First Year: 4 photo shoots during the first year of your baby's life" >}}
+{{< figure src="rasti-so-mnoi-8.jpg" title="Baby's First Year: photobook 18 spreads, canvas, printed photos, USB stick" >}}
+{{< video library="true" src="beebi-esimene-eluaasta-2.mp4" controls="no" >}}
+
+{{< cta cta_text="💛 Book your package today!" cta_link="/en/#contact" cta_new_tab="true" >}}
+
+{{< figure src="grow-up-with-me.jpg" title="Baby's First Year: 4 photo shoots during the first year of your baby's life" >}}
+{{< figure src="rasti-so-mnoi-5.jpg" title="Baby's First Year: photobook 30 spreads, canvas, printed photos, USB stick" >}}
 {{< video library="true" src="esimene-eluaasta-fotoraamat.mp4" controls="no" >}}
-{{< figure src="grow-up-with-me-1.jpg" title="Newborn photo shoot in Tallinn studio" >}}
-{{< figure src="grow-up-with-me-2.jpg" title="Baby photo shoot in Tallinn: 3-month-old" >}}
-{{< figure src="grow-up-with-me-3.jpg" title="Baby studio session: 6-month-old" >}}
-{{< figure src="grow-up-with-me-4.jpg" title="Cake smash photo shoot in studio: 1-year-old" >}}
+
+{{< cta cta_text="💛 Book your package today!" cta_link="/en/#contact" cta_new_tab="true" >}}
+
+_or use Facebook/WhatsApp button in the bottom right corner for faster answers_

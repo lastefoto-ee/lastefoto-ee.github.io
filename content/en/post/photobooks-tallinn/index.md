@@ -36,6 +36,7 @@ authors:
 tags:
   - photobook in Tallinn
   - photobook printing in Tallinn
+  - photobook
 ---
 There are several benefits that a customer can enjoy by having their photographs printed into a high-quality photobook, including:
 
