@@ -5,7 +5,8 @@ tags:
 - newborn photo shoot
 - baby photo shoot
 - baby's first year
-- photobook
+- photo book
+- cake smash
 date: "2023-06-10T07:19:54+02:00"
 
 # Optional external URL for project (replaces project detail page).
@@ -60,25 +61,25 @@ Price includes:
 _or use Facebook/WhatsApp button in the bottom right corner for faster answers_
 
 {{< figure src="grow-up-with-me-4.jpg" title="Baby's First Year: 4 photo shoots during the first year of your baby's life" >}}
-{{< figure src="rasti-so-mnoi-6.jpg" title="Baby's First Year: photobook 21 spreads, canvas, printed photos, USB stick" >}}
+{{< figure src="grow-up-with-me-6.jpg" title="Baby's First Year: photobook 21 spreads, canvas, printed photos, USB stick" >}}
 {{< video library="true" src="beebi-esimene-eluaasta-3.mp4" controls="no" >}}
 
 {{< cta cta_text="💛 Book your package today!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
 {{< figure src="grow-up-with-me-2.jpg" title="Baby's First Year: 4 photo shoots during the first year of your baby's life" >}}
-{{< figure src="rasti-so-mnoi-7.jpg" title="Baby's First Year: photobook 20 spreads, canvas, printed photos, USB stick" >}}
+{{< figure src="grow-up-with-me-7.jpg" title="Baby's First Year: photobook 20 spreads, canvas, printed photos, USB stick" >}}
 {{< video library="true" src="beebi-esimene-eluaasta.mp4" controls="no" >}}
 
 {{< cta cta_text="💛 Book your package today!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
 {{< figure src="grow-up-with-me-3.jpg" title="Baby's First Year: 4 photo shoots during the first year of your baby's life" >}}
-{{< figure src="rasti-so-mnoi-8.jpg" title="Baby's First Year: photobook 18 spreads, canvas, printed photos, USB stick" >}}
+{{< figure src="grow-up-with-me-8.jpg" title="Baby's First Year: photobook 18 spreads, canvas, printed photos, USB stick" >}}
 {{< video library="true" src="beebi-esimene-eluaasta-2.mp4" controls="no" >}}
 
 {{< cta cta_text="💛 Book your package today!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
 {{< figure src="grow-up-with-me.jpg" title="Baby's First Year: 4 photo shoots during the first year of your baby's life" >}}
-{{< figure src="rasti-so-mnoi-5.jpg" title="Baby's First Year: photobook 30 spreads, canvas, printed photos, USB stick" >}}
+{{< figure src="grow-up-with-me-5.jpg" title="Baby's First Year: photobook 30 spreads, canvas, printed photos, USB stick" >}}
 {{< video library="true" src="esimene-eluaasta-fotoraamat.mp4" controls="no" >}}
 
 {{< cta cta_text="💛 Book your package today!" cta_link="/en/#contact" cta_new_tab="true" >}}
