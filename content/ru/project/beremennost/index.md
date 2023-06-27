@@ -4,7 +4,7 @@ summary: фотосессия беременности в стиле Vogue с 28
 
 tags:
 - беременность
-date: "2022-08-11T09:52:53+03:00"
+date: "2023-06-27T06:52:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,82 +21,6 @@ url_video: ""
 slides: ""
 weight: 1
 
-gallery_item:
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-1.jpg
-  caption: Фотосессия беременности в студии 
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-2.jpg
-  caption: Фотосессия беременности в стиле Vogue
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-3.jpg
-  caption: Фотосессия беременности в Таллинне
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-4.jpg
-  caption: Фотосессия беременности в студии в стиле Vogue
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-5.jpg
-  caption: Студийная фотосессия беременности
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-6.jpg
-  caption: Фотосессия беременности в стиле Vogue
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-7.jpg
-  caption: Фотосессия беременности в студии
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-8.jpg
-  caption: Фотосессия беременности в Таллинне
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-9.jpg
-  caption: Фотосессия беременности в студии в стиле Vogue
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-10.jpg
-  caption: Студийная фотосессия беременности
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-11.jpg
-  caption: Фотосессия беременности в стиле Vogue
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-12.jpg
-  caption: Фотосессия беременности в студии
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-13.jpg
-  caption: Фотосессия беременности в Таллинне
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-14.jpg
-  caption: Фотосессия беременности в студии в стиле Vogue
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-15.jpg
-  caption: Студийная фотосессия беременности
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-16.jpg
-  caption: Фотосессия беременности в стиле Vogue
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-17.jpg
-  caption: Фотосессия беременности в студии
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-18.jpg
-  caption: Фотосессия беременности в Таллинне
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-19.jpg
-  caption: Фотосессия беременности в студии в стиле Vogue
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-20.jpg
-  caption: Студийная фотосессия беременности
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-21.jpg
-  caption: Фотосессия беременности в стиле Vogue  
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-22.jpg
-  caption: Фотосессия беременности в студии 
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-23.jpg
-  caption: Фотосессия беременности в студии в стиле Vogue 
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-24.jpg
-  caption: Фотосессия беременности в Таллинне
-- album: beremennost-portfolio
-  image: fotosessiya-beremennosti-25.jpg
-  caption: Фотосессия беременности в студии в стиле Vogue
 ---
 >Если беременность протекает спокойно и без осложнений, то идеальным временем для проведения фотосессии будет _28-36 недель_. Если животик начал расти рано или ожидается двойня, фотосессию можно проводить, начиная с 26-ой недели.
 
@@ -136,4 +60,15 @@ gallery_item:
 
 Цена: **345**€
 
-{{< gallery album="beremennost-portfolio" >}}
+{{< figure src="fotosessiya-beremennosti-1.jpg" title="Фотосессия беременности в студии Таллинна" >}}
+{{< figure src="fotosessiya-beremennosti-2.jpg" title="Съемка беременности в стиле Vogue" >}}
+{{< figure src="fotosessiya-beremennosti-3.jpg" title="Съемка беременности в Таллинне" >}}
+{{< figure src="fotosessiya-beremennosti-4.jpg" title="Съемка беременности в студии" >}}
+{{< figure src="fotosessiya-beremennosti-5.jpg" title="Студийная фотосессия беременности" >}}
+{{< cta cta_text="💛 Забронируй фотосессию сегодня" cta_link="/ru/#contact" >}}
+{{< figure src="fotosessiya-beremennosti-6.jpg" title="Фотосессия беременности в студии Таллинна" >}}
+{{< figure src="fotosessiya-beremennosti-7.jpg" title="Съемка беременности в стиле Vogue" >}}
+{{< figure src="fotosessiya-beremennosti-8.jpg" title="Съемка беременности в Таллинне" >}}
+{{< figure src="fotosessiya-beremennosti-9.jpg" title="Съемка беременности в студии" >}}
+{{< figure src="fotosessiya-beremennosti-10.jpg" title="Студийная фотосессия беременности" >}}
+{{< cta cta_text="💛 Забронируй фотосессию сегодня" cta_link="/ru/#contact" >}}
