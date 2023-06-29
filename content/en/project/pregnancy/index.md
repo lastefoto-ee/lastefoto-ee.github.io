@@ -3,7 +3,7 @@ title: Pregnancy
 summary: photo shoot in Vogue style from 28 weeks
 tags:
 - pregnancy
-date: "2023-06-27T06:42:40+03:00"
+date: "2023-06-29T06:42:40+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,7 +32,7 @@ weight: 1
 ## Pregnancy photo shoot - Package S
 
 * 1-2 set ups
-* 10 digital photos 
+* 5 digital photos 
 * assistance in posing
 * 1 hour of shooting in the studio (studio rent is included in the price)
 * individual processing of each photo (including removal of stretch marks, skin imperfections, etc.)
@@ -43,7 +43,7 @@ Price **160** €
 
 * 2-3 set ups
 * silhouette on black and white backgrounds
-* 15 digital photos 
+* 12 digital photos 
 * assistance in posing
 * 2 hours of shooting in the studio (studio rent is included in the price)
 * шndividual processing of each photo (including removal of stretch marks, skin imperfections, etc.)
@@ -56,12 +56,12 @@ Price **235** €
 * silhouette on black and white backgrounds and silhouette on a colored background, if desired
 * 20 digital photos 
 * assistance in posing
-* makeup and curls (for 1 person)
 * 2 hours of shooting in the studio (studio rent is included in the price)
 * individual processing of each photo (including removal of stretch marks, skin imperfections, etc.)
 
 Price **345** €
 
+{{< figure src="pregnancy-photo-shoot-11.jpg" title="Pregnancy photo session" >}}
 {{< figure src="pregnancy-photo-shoot-1.jpg" title="Pregnancy photo shoot in the studio in Tallinn" >}}
 {{< figure src="pregnancy-photo-shoot-2.jpg" title="Pregnancy photo shoot in style of Vogue" >}}
 {{< figure src="pregnancy-photo-shoot-3.jpg" title="Pregnancy photo shoot in Tallinn" >}}
