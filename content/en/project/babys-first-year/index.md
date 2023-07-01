@@ -48,7 +48,7 @@ Price includes:
 7. 20 digital photos for each following photoshoot. _If desired, you can choose the images yourself from the pre-edited gallery;_
 8. photos with family members separately and a family photos at each photo shoot;
 9. individual retouching of each photo. Raw images are not included in the price but can be purchased additionally;
-10. 20 printed photos at the end of all photo shoots;
+10. 15 printed photos at the end of all photo shoots;
 11. 1 cake and 10 balloons for the Cake Smash foto shoot;
 12. consultation before and accompaniment during the photo shoots;
 13. online galleries with retouched photos for you to share;

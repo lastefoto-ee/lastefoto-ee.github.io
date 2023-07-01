@@ -47,7 +47,7 @@ Hind sisaldab:
 7. iga järgmise beebi fotosessiooni tulemuseks on 20 töödeldud digipilti. _Soovi korral pilte saab ise valida eeltöödeldud galeriist_;
 8. fotod eraldi pereliikmetega ja ühised perepildid igal fotosessioonil;
 9. iga foto individuaaltöötlust. Töötlemata pildid ei kuulu paketi hinna sisse, kuid neid on võimalik lisaks juurde osta;
-10. 20 paberpilti kõigi fotosessioonide tulemuste põhjal;
+10. 15 paberpilti kõigi fotosessioonide tulemuste põhjal;
 11. tort ja õhupallid (10 tk) “Cake smash” fotosessiooniks;
 12. nõustamine enne fotosessiooni ja juhendamine fotosessiooni ajal;
 13. töödeldud piltidest koostatud veebigaleriid, mida soovi korral saate ka jagada;

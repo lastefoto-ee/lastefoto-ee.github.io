@@ -51,7 +51,7 @@ _Parim aeg beebi jäädvustamiseks on 4-11 elukuu._
 Hind sisaldab:
 1. 3-4 erinevat set-up’i beebi jaoks;
 2. fotod eraldi pereliikmetega ja ühine perepilt;
-3. 25 digi- ja paberpilti 10x15cm. _Soovi korral pilte saab ise valida eeltöödeldud galeriist_;
+3. 25 digi- ja 15 paberpilti 10x15cm. _Soovi korral pilte saab ise valida eeltöödeldud galeriist_;
 4. iga foto individuaaltöötlust. Töötlemata pildid ei kuulu paketi hinna sisse, kuid neid on võimalik lisaks juurde osta;
 5. erinevate aksessuaaride kasutus. Kasutavate aksessuaaride ja kangaste pesu;
 6. nõustamine enne fotosessiooni ja juhendamine fotosessiooni ajal;
