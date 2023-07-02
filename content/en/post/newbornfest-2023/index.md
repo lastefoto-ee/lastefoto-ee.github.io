@@ -15,7 +15,7 @@ links:
     url: 'https://www.lastefoto.ee/en/project/newborn/'
   - icon_pack: fas
     icon: heart
-    name: Maternity photo shoot price
+    name: Pregnancy photo shoot price
     url: 'https://www.lastefoto.ee/en/project/pregnancy/'
 
 # Date published

@@ -9,7 +9,7 @@ date: "2023-01-09T05:46:17+03:00"
 external_link: ""
 
 image:
-  caption: Photo by Viktoria Iljin
+  caption: Baby Photographer Viktoria Iljin
   focal_point: Smart
 
 links: []
@@ -51,7 +51,7 @@ _The best time to capture a baby is between 4-11 months of age._
 Price includes:
 1. 3-4 different set-ups for the baby;
 2. photos with family members separately and a family photo;
-3. 25 digital and 15 paper images 10x15cm; *If desired, you can choose the images yourself from the pre-edited gallery.*
+3. 25 digital and paper images 10x15cm; *If desired, you can choose the images yourself from the pre-edited gallery.*
 4. individual retouching of each photo. Raw images are not included in the package price but can be purchased additionally;
 5. use of various accessories. Washing of accessories and fabrics used;
 6. consultation before and accompaniment during the photo shoot;

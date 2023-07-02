@@ -9,7 +9,7 @@ date: "2023-06-29T06:59:53+03:00"
 external_link: ""
 
 image:
-  caption: Photo by Viktoria Iljin
+  caption: Beebiootuse Fotograaf Viktoria Iljin
   focal_point: Smart
 
 links: []

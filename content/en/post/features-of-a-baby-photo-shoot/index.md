@@ -1,9 +1,9 @@
 ---
 title: Features of a baby photo shoot - become friends with the little model
-subtitle: Newborn photography price
+subtitle: The basics of baby photography
 
 # Summary for listings and search engines
-summary: Newborn photography price
+summary: The basics of baby photography
 
 # Link this post with a project
 projects: 
@@ -29,7 +29,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'photo by Viktoria Iljin'
+  caption: 'Baby Photographer Viktoria Iljin'
   focal_point: ""
   placement: 1
   preview_only: false
@@ -52,7 +52,7 @@ categories:
 
 Baby photo shoot is a kind of magic. This is an art direction that requires unsurpassed dexterity and patience, because the baby, the main character, can be a real prankster. He won't always sit still or strike intended poses, but it's this unpredictability that makes baby photography so amazing. The flash of emotion that you capture will be unique and cannot be compared with any other genre.
 
-{{< figure src="./features-of-a-baby-photo-shoot-1.jpg" title="Newborn photo shoot in Tallinn" >}}
+{{< figure src="./features-of-a-baby-photo-shoot-1.jpg" title="Baby photo shoot in Tallinn" >}}
 
 ## Baby photography basics
 
@@ -64,7 +64,7 @@ The main rule of baby photography is no rigid posing. Children behave naturally 
 
 Outdoor photo shoots are often especially successful. Just head to the nearest playground - many of them have quite a beautiful and photogenic design. In such conditions, you will only have to keep up with an actively moving baby, who feels like a fish in water in a familiar environment.
 
-{{< figure src="./features-of-a-baby-photo-shoot-2.jpg" title="Newborn photo shoot in the studio" >}}
+{{< figure src="./features-of-a-baby-photo-shoot-2.jpg" title="Baby photo shoot in the studio" >}}
 
 ## Becoming friends with a little one
 
@@ -72,7 +72,7 @@ Considering that baby photography requires natural behavior, getting along with 
 
 If the photo shoot takes place in the studio, taking your child's favourite toy with you may be a good idea. This will help him quickly adapt to an unfamiliar environment.
 
-{{< figure src="./features-of-a-baby-photo-shoot-3.jpg" title="Newborn photo shoot" >}}
+{{< figure src="./features-of-a-baby-photo-shoot-3.jpg" title="Baby photo shoot" >}}
 
 ## Appreciate the moment
 

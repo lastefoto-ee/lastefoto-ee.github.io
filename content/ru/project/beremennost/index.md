@@ -10,7 +10,7 @@ date: "2023-06-29T06:52:53+03:00"
 external_link: ""
 
 image:
-  caption: Photo by Viktoria Iljin
+  caption: Фотограф Беременности Виктория Ильин
   focal_point: Smart
 
 links: []

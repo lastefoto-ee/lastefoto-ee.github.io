@@ -29,7 +29,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'photo by Viktoria Iljin'
+  caption: 'фотограф малышей Виктория Ильин'
   focal_point: ""
   placement: 1
   preview_only: false
