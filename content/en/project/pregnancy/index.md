@@ -32,7 +32,7 @@ weight: 1
 ## Pregnancy photo shoot - Package S
 
 * 1-2 set ups
-* 5 digital photos 
+* 7 digital photos 
 * assistance in posing
 * 1 hour of shooting in the studio (studio rent is included in the price)
 * individual processing of each photo (including removal of stretch marks, skin imperfections, etc.)
@@ -43,7 +43,7 @@ Price **160** €
 
 * 2-3 set ups
 * silhouette on black and white backgrounds
-* 12 digital photos 
+* 15 digital photos 
 * assistance in posing
 * 2 hours of shooting in the studio (studio rent is included in the price)
 * шndividual processing of each photo (including removal of stretch marks, skin imperfections, etc.)
@@ -54,7 +54,7 @@ Price **235** €
 
 * 2-3 set ups
 * silhouette on black and white backgrounds and silhouette on a colored background, if desired
-* 20 digital photos 
+* 25 digital photos 
 * assistance in posing
 * 2 hours of shooting in the studio (studio rent is included in the price)
 * individual processing of each photo (including removal of stretch marks, skin imperfections, etc.)

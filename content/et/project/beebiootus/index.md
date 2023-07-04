@@ -32,7 +32,7 @@ weight: 1
 # Beebiootusefotosessioon - Pakett S
 
 * 1-2 erinevat set-upi 
-* 5 digifaili 
+* 7 digifaili 
 * nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
 * 1-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
@@ -43,7 +43,7 @@ Fotosessiooni hind **160**€
 
 * 2-3 erinevat set-upi 
 * siluett pildid mustal/valgel taustal
-* 12 digifaili 
+* 15 digifaili 
 * nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
 * 2-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
@@ -54,7 +54,7 @@ Fotosessiooni hind **235**€
 
 * 2-3 erinevat set-upi 
 * siluett pildid mustal/valgel taustal, soovi korral ka värvilisel taustal
-* 20 digifaili 
+* 25 digifaili 
 * nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
 * 2-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
