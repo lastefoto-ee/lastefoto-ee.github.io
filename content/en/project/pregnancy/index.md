@@ -3,7 +3,7 @@ title: Pregnancy
 summary: photo shoot in Vogue style from 28 weeks
 tags:
 - pregnancy
-date: "2023-06-29T06:42:40+03:00"
+date: "2023-07-09T06:42:40+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -36,6 +36,9 @@ weight: 1
 * assistance in posing
 * 1 hour of shooting in the studio (studio rent is included in the price)
 * individual processing of each photo (including removal of stretch marks, skin imperfections, etc.)
+* please take both white and black laundry with you
+* a selection of dresses are available in the studio and are included in the photo shoot price
+* family members are advised to bring similar coloured clothes so that family photos look coherent
 
 Price **160** €
 
@@ -47,6 +50,9 @@ Price **160** €
 * assistance in posing
 * 2 hours of shooting in the studio (studio rent is included in the price)
 * шndividual processing of each photo (including removal of stretch marks, skin imperfections, etc.)
+* please take both white and black laundry with you
+* a selection of dresses are available in the studio and are included in the photo shoot price
+* family members are advised to bring similar coloured clothes so that family photos look coherent
 
 Price **235** €
 
@@ -58,6 +64,9 @@ Price **235** €
 * assistance in posing
 * 2 hours of shooting in the studio (studio rent is included in the price)
 * individual processing of each photo (including removal of stretch marks, skin imperfections, etc.)
+* please take both white and black laundry with you
+* a selection of dresses are available in the studio and are included in the photo shoot price
+* family members are advised to bring similar coloured clothes so that family photos look coherent
 
 Price **345** €
 

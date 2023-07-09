@@ -3,7 +3,7 @@ title: Beebiootus
 summary: fotosessioon Vogue stiilis alates 28. nädalast
 tags:
 - beebiootus
-date: "2023-06-29T06:59:53+03:00"
+date: "2023-07-09T06:59:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -36,6 +36,9 @@ weight: 1
 * nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
 * 1-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
+* kaasa tuleks võtta nii valget kui musta värvi pesu
+* stuudios on olemas valik kleite, mille kasutamine on sessioonihinna sees
+* pereliikmetele soovitaks kaasa võtta sarnases toonis riided, et perepildid ühtsed välja näeksid
 
 Fotosessiooni hind **160**€ 
 
@@ -47,6 +50,9 @@ Fotosessiooni hind **160**€
 * nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
 * 2-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
+* kaasa tuleks võtta nii valget kui musta värvi pesu
+* stuudios on olemas valik kleite, mille kasutamine on sessioonihinna sees
+* pereliikmetele soovitaks kaasa võtta sarnases toonis riided, et perepildid ühtsed välja näeksid
 
 Fotosessiooni hind **235**€
 
@@ -58,6 +64,9 @@ Fotosessiooni hind **235**€
 * nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
 * 2-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
+* kaasa tuleks võtta nii valget kui musta värvi pesu
+* stuudios on olemas valik kleite, mille kasutamine on sessioonihinna sees
+* pereliikmetele soovitaks kaasa võtta sarnases toonis riided, et perepildid ühtsed välja näeksid
 
 Fotosessiooni hind **345**€
 
