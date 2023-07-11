@@ -1,6 +1,6 @@
 ---
-title: Zanna Taimre
-role: Thanks a lot for a nice photo shoot and beautiful pictures. 
+title: Newborn Session
+role: Thanks a lot for a nice photo shoot and beautiful pictures. (c) Zanna Taimre
 organizations: []
 bio: ""
 interests: []
