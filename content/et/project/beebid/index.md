@@ -25,7 +25,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 weight: 5
-
+#url: /beebi/fotosessioon
 ---
 ## Minipakett (1 tund) *210*€
 _Parim aeg beebi jäädvustamiseks on 4-11 elukuu._ 
