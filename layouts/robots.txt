@@ -1,21 +1,5 @@
 User-agent: *
 Disallow: /tallinn/
 Disallow: /admin/
-Disallow: /categories/
-Disallow: /category/
-Disallow: /tags/
-Disallow: /tag/
-Disallow: /publication_types/
-Disallow: /en/admin/
-Disallow: /en/categories/
-Disallow: /en/category/
-Disallow: /en/tags/
-Disallow: /en/tag/
-Disallow: /en/publication_types/
-Disallow: /ru/admin/
-Disallow: /ru/categories/
-Disallow: /ru/category/
-Disallow: /ru/tags/
-Disallow: /ru/tag/
-Disallow: /ru/publication_types/
+
 Sitemap: https://www.lastefoto.ee/sitemap.xml
