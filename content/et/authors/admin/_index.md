@@ -100,6 +100,8 @@ Vastsündinu fotosessioon beebi esimesel kahel nädalal on imeline, võrreldamat
 Töötan oma vastsündinud beebidele spetsialiseerinud stuudios, mille olen varustanud, võttes arvesse kõiki vastsündinute pildistamise omapärasid ja nüansse.
 Kogutud parim rekvisiit ja originaalsed aksessuaarid kogu maailmast.
 
+Ma olen vastsündinute, beebide ja rasedusfotograafia festivali [NewbornFest.com](https://www.newbornfest.com/maternity-newborn-baby-photographer-estonia-viktoria-iljin.html) korraldaja ja esineja.
+
 Hea meelega avaldaksin teie loal ka teie fotosessioonipildid minu portfoolios.
 
 Kohtumiseni fotosessioonil!
