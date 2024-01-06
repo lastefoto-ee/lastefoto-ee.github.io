@@ -88,7 +88,9 @@ Hind sisaldab:
 {{< figure src="vastsundinu-fotosessioon-tallinn-28.jpg" title="Vastsündinu pildistamine Tallinnas, beebipoiss 8 päeva uus" >}}
 {{< figure src="vastsundinu-fotosessioon-tallinn-27.jpg" title="Imiku fotosessioon, beebitüdruk 17 päeva uus" >}}
 {{< figure src="vastsundinud-neliku-fotosessioon-tallinn-26.jpg" title="Neliku fotosessioon Tallinnas, beebitüdruk ja beebipoisid, 2 kuud" >}}
+{{< video library="true" src="fotoraamat-beebipildistamine-tallinn.mp4" controls="yes" >}}
 {{< figure src="vastsundinu-fotosessioon-tallinn-25.jpg" title="Vastsündinu pildistamine Tallinnas, beebipoiss 20 päeva uus" >}}
+{{< video library="true" src="fotoraamat-vastsundinu-pildistamine-tallinn.mp4" controls="yes" >}}
 {{< figure src="vastsundinu-fotosessioon-tallinn-24.jpg" title="Imiku pildistamine, beebitüdruk 13 päeva uus" >}}
 {{< figure src="vastsundinu-fotosessioon-tallinn-23.jpg" title="Vastsündinud pildistamine Tallinnas, beebitüdrukud 8 päeva uus" >}}
 [💛 Broneeri vastsündinu fotosessioon](/#contact)

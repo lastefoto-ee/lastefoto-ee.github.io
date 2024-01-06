@@ -90,7 +90,9 @@ _При желании вы можете выбрать фотографии д�
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-28.jpg" title="Съемка новорожденных в Таллинне, малыш 8 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-27.jpg" title="Фотосессия новорожденных, малышка 17 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-chetvernyashek-tallinn-26.jpg" title="Фотосессия четверняшек в студии Таллинна, малышка и малыши, 2 месяца" >}}
+{{< video library="true" src="fotoraamat-beebipildistamine-tallinn.mp4" controls="yes" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-25.jpg" title="Съемка новорожденных в Таллинне, малыш 20 дней" >}}
+{{< video library="true" src="fotoraamat-vastsundinu-pildistamine-tallinn.mp4" controls="yes" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-24.jpg" title="Фотосессия новорожденных в студии, малышка 13 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-23.jpg" title="Съемка младенцев в студии, малышка 8 дней" >}}
 {{< cta cta_text="💛 Забронируй фотосессию сегодня" cta_link="/ru/#contact" >}}

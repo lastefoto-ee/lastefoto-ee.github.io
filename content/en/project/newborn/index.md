@@ -92,7 +92,9 @@ The price and conditions of the photo shoot are available on request.
 {{< figure src="newborn-photo-shoot-tallinn-28.jpg" title="Newborn photo shoot, babyboy 8 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-27.jpg" title="Infant photo session, babygirl 17 days old" >}}
 {{< figure src="newborn-quadruplets-photo-shoot-tallinn-26.jpg" title="Quadruplets photo shoot in the studio in Tallinn, babygirl and babyboys 2 months old" >}}
+{{< video library="true" src="fotoraamat-beebipildistamine-tallinn.mp4" controls="yes" >}}
 {{< figure src="newborn-photo-shoot-tallinn-25.jpg" title="Infant photo shoot in Tallinn, babygboy 20 days old" >}}
+{{< video library="true" src="fotoraamat-vastsundinu-pildistamine-tallinn.mp4" controls="yes" >}}
 {{< figure src="newborn-photo-shoot-tallinn-24.jpg" title="Infant photo session in Tallinn, babygirl 13 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-23.jpg" title="Newborn photo session, babygirl 8 days old" >}}
 {{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
