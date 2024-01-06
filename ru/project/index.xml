@@ -402,6 +402,9 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Фотосессия четверняшек в студии Таллинна, малышка и малыши, 2 месяца
 &lt;/figcaption>&lt;/figure>
+&lt;video controls >
+&lt;source src="https://www.lastefoto.ee/media/fotoraamat-beebipildistamine-tallinn.mp4" type="video/mp4">
+&lt;/video>
 &lt;figure id="figure-съемка-новорожденных-в-таллинне-малыш-20-дней">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Съемка новорожденных в Таллинне, малыш 20 дней" srcset="
@@ -415,6 +418,9 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Съемка новорожденных в Таллинне, малыш 20 дней
 &lt;/figcaption>&lt;/figure>
+&lt;video controls >
+&lt;source src="https://www.lastefoto.ee/media/fotoraamat-vastsundinu-pildistamine-tallinn.mp4" type="video/mp4">
+&lt;/video>
 &lt;figure id="figure-фотосессия-новорожденных-в-студии-малышка-13-дней">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Фотосессия новорожденных в студии, малышка 13 дней" srcset="

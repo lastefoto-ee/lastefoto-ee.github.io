@@ -131,6 +131,9 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Quadruplets photo shoot in the studio in Tallinn, babygirl and babyboys 2 months old
 &lt;/figcaption>&lt;/figure>
+&lt;video controls >
+&lt;source src="https://www.lastefoto.ee/media/fotoraamat-beebipildistamine-tallinn.mp4" type="video/mp4">
+&lt;/video>
 &lt;figure id="figure-infant-photo-shoot-in-tallinn-babygboy-20-days-old">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Infant photo shoot in Tallinn, babygboy 20 days old" srcset="
@@ -144,6 +147,9 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Infant photo shoot in Tallinn, babygboy 20 days old
 &lt;/figcaption>&lt;/figure>
+&lt;video controls >
+&lt;source src="https://www.lastefoto.ee/media/fotoraamat-vastsundinu-pildistamine-tallinn.mp4" type="video/mp4">
+&lt;/video>
 &lt;figure id="figure-infant-photo-session-in-tallinn-babygirl-13-days-old">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Infant photo session in Tallinn, babygirl 13 days old" srcset="

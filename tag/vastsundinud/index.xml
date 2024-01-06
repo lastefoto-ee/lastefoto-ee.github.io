@@ -129,6 +129,9 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Neliku fotosessioon Tallinnas, beebitüdruk ja beebipoisid, 2 kuud
 &lt;/figcaption>&lt;/figure>
+&lt;video controls >
+&lt;source src="https://www.lastefoto.ee/media/fotoraamat-beebipildistamine-tallinn.mp4" type="video/mp4">
+&lt;/video>
 &lt;figure id="figure-vastsündinu-pildistamine-tallinnas-beebipoiss-20-päeva-uus">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Vastsündinu pildistamine Tallinnas, beebipoiss 20 päeva uus" srcset="
@@ -142,6 +145,9 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Vastsündinu pildistamine Tallinnas, beebipoiss 20 päeva uus
 &lt;/figcaption>&lt;/figure>
+&lt;video controls >
+&lt;source src="https://www.lastefoto.ee/media/fotoraamat-vastsundinu-pildistamine-tallinn.mp4" type="video/mp4">
+&lt;/video>
 &lt;figure id="figure-imiku-pildistamine-beebitüdruk-13-päeva-uus">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Imiku pildistamine, beebitüdruk 13 päeva uus" srcset="
