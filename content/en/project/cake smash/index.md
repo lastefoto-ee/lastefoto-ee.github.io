@@ -3,7 +3,7 @@ title: Cake smash
 summary: first birthday photo shoot
 tags:
 - cake smash
-date: "2023-06-29T08:46:17+03:00"
+date: "2024-01-06T08:46:17+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -77,8 +77,13 @@ Although I usually advise feeding your child before a session to prevent them fr
 
 Have your baby's favorite food on hand if you are concerned that your child won't eat the cake right away. Whatever their "always makes them happy" food is — bring those with you. We can hide those little snacks in the icing or part of the cake to encourage them to really dig into that cake.
 
-{{< figure src="cake-smash-photo-shoot-in-tallinn-8.jpg" title="Cake Smash photo shoot in Tallinn" >}}
-{{< figure src="cake-smash-photo-shoot-in-tallinn-7.jpg" title="Сhild's Birthday photo shoot in a studio" >}}
+{{< figure src="childs-birthday-photo-shoot-in-tallinn-12.jpg" title="Сhild's Birthday photo shoot" >}}
+{{< figure src="cake-smash-photo-shoot-in-tallinn-11.jpg" title="Baby's first birthday" >}}
+{{< figure src="cake-smash-photo-shoot-in-tallinn-10.jpg" title="Cake Smash photo shoot in a studio" >}}
+{{< figure src="cake-smash-photo-shoot-in-tallinn-9.jpg" title="Cake Smash photo shoot in Tallinn" >}}
+{{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
+{{< figure src="childs-birthday-photo-shoot-in-tallinn-8.jpg" title="Сhild's Birthday photo shoot in Tallinn" >}}
+{{< figure src="childs-birthday-photo-shoot-in-tallinn-7.jpg" title="Сhild's Birthday photo shoot in a studio" >}}
 {{< figure src="cake-smash-photo-shoot-in-tallinn-6.jpg" title="Baby's first birthday" >}}
 {{< figure src="cake-smash-photo-shoot-in-tallinn-3.jpg" title="Cake Smash photo shoot in Tallinn" >}}
 {{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
