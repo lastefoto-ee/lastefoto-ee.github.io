@@ -3,7 +3,7 @@ title: Pregnancy
 summary: photo shoot in Vogue style from 28 weeks
 tags:
 - pregnancy
-date: "2023-07-09T06:42:40+03:00"
+date: "2024-01-06T06:42:40+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,6 +39,8 @@ weight: 1
 * please take both white and black laundry with you
 * a selection of dresses are available in the studio and are included in the photo shoot price
 * family members are advised to bring similar coloured clothes so that family photos look coherent
+* a web gallery of retouched images, which you can also share if you wish;
+* retouching of additional photos 10€ / photo
 
 Price **160** €
 
@@ -53,6 +55,8 @@ Price **160** €
 * please take both white and black laundry with you
 * a selection of dresses are available in the studio and are included in the photo shoot price
 * family members are advised to bring similar coloured clothes so that family photos look coherent
+* a web gallery of retouched images, which you can also share if you wish;
+* retouching of additional photos 10€ / photo
 
 Price **235** €
 
@@ -67,10 +71,18 @@ Price **235** €
 * please take both white and black laundry with you
 * a selection of dresses are available in the studio and are included in the photo shoot price
 * family members are advised to bring similar coloured clothes so that family photos look coherent
+* a web gallery of retouched images, which you can also share if you wish;
+* retouching of additional photos 10€ / photo
 
 Price **345** €
 
+{{< figure src="pregnancy-photo-shoot-16.jpg" title="Pregnancy photo shoot in the studio in Tallinn" >}}
+{{< figure src="pregnancy-photo-shoot-15.jpg" title="Pregnancy photo shoot in style of Vogue" >}}
+{{< figure src="pregnancy-photo-shoot-14.jpg" title="Pregnancy photo shoot in Tallinn" >}}
+{{< figure src="pregnancy-photo-shoot-13.jpg" title="Pregnancy photo session" >}}
+{{< figure src="pregnancy-photo-shoot-12.jpg" title="Pregnancy session in Tallinn" >}}
 {{< figure src="pregnancy-photo-shoot-11.jpg" title="Pregnancy photo session" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
 {{< figure src="pregnancy-photo-shoot-1.jpg" title="Pregnancy photo shoot in the studio in Tallinn" >}}
 {{< figure src="pregnancy-photo-shoot-2.jpg" title="Pregnancy photo shoot in style of Vogue" >}}
 {{< figure src="pregnancy-photo-shoot-3.jpg" title="Pregnancy photo shoot in Tallinn" >}}
