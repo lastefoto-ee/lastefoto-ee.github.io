@@ -3,7 +3,7 @@ title: Newborn
 summary: photo shoot for babies during the first 5-14 days
 tags:
 - newborn
-date: "2023-04-25T05:43:10+03:00"
+date: "2024-01-06T05:43:10+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -89,26 +89,34 @@ The price and conditions of the photo shoot are available on request.
 
 {{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
+{{< figure src="newborn-photo-shoot-tallinn-28.jpg" title="Newborn photo shoot, babyboy 8 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-27.jpg" title="Infant photo session, babygirl 17 days old" >}}
+{{< figure src="newborn-quadruplets-photo-shoot-tallinn-26.jpg" title="Quadruplets photo shoot in the studio in Tallinn, babygirl and babyboys 2 months old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-25.jpg" title="Infant photo shoot in Tallinn, babygboy 20 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-24.jpg" title="Infant photo session in Tallinn, babygirl 13 days old" >}}
+{{< figure src="newborn-photo-shoot-tallinn-23.jpg" title="Newborn photo session, babygirl 8 days old" >}}
+{{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
+{{< figure src="newborn-twins-photo-shoot-tallinn-22.jpg" title="Newborn twins photo shoot in Tallinn, babygirl and babyboy 5 months" >}}
 {{< video library="true" src="fotoraamat-beebifotosessioon-tallinn.mp4" controls="yes" >}}
 {{< figure src="newborn-photo-shoot-tallinn-21.jpg" title="Infant photo session, babyboy 12 days old" >}}
 {{< video library="true" src="fotoraamat-vastsundinu-fotosessioon-tallinn.mp4" controls="yes" >}}
 {{< figure src="newborn-photo-shoot-tallinn-1.jpg" title="Newborn photo shoot in the studio in Tallinn, babygirl 10 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-2.jpg" title="Infant photo session in Tallinn, babyboy 19 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-4.jpg" title="Newborn photo session in Tallinn, babygirl 10 days old" >}}
-{{< figure src="newborn-photo-shoot-tallinn-5.jpg" title="Infant photo session, babyboy 11 days old" >}}
 {{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
+{{< figure src="newborn-photo-shoot-tallinn-5.jpg" title="Infant photo session, babyboy 11 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-6.jpg" title="Infant photo shoot in the studio in Tallinn, babyboy 18 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-7.jpg" title="Newborn photo session in Tallinn, babygirl 14 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-8.jpg" title="Newborn photography workshop, babygirl 12 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-9.jpg" title="Newborn twins photo shoot in Tallinn, babygirls 12 days old" >}}
-{{< figure src="newborn-photo-shoot-tallinn-10.jpg" title="Infant photo session, babygirl 8 days old" >}}
 {{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
+{{< figure src="newborn-photo-shoot-tallinn-10.jpg" title="Infant photo session, babygirl 8 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-11.jpg" title="Newborn photo shoot in the studio in Tallinn, babygirl 11 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-12.jpg" title="Infant photo session in Tallinn, babyboy 12 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-13.jpg" title="Newborn photo shoot in the studio, babygirl 14 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-14.jpg" title="Newborn photo session in Tallinn, babygirl 53 days old" >}}
-{{< figure src="newborn-photo-shoot-tallinn-15.jpg" title="Infant photo session, babyboy 11 days old" >}}
 {{< cta cta_text="💛 Order your photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
+{{< figure src="newborn-photo-shoot-tallinn-15.jpg" title="Infant photo session, babyboy 11 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-16.jpg" title="Newborn photo shoot in the studio in Tallinn, babygirl 14 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-17.jpg" title="Infant photo session in Tallinn, babygirl 14 days old" >}}
 {{< figure src="newborn-photo-shoot-tallinn-19.jpg" title="Infant photo session in Tallinn, babyboy 14 days old" >}}

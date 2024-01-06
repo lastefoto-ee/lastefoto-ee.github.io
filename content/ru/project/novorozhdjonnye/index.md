@@ -3,7 +3,7 @@ title: Newborn
 summary: фотосессия для малышей в течение первых 5-14 дней
 tags:
 - новорожденные
-date: "2023-04-25T05:49:53+03:00"
+date: "2024-01-06T05:49:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -87,26 +87,34 @@ _При желании вы можете выбрать фотографии д�
 
 {{< cta cta_text="💛 Запечатлей драгоценные моменты - забронируй фотосессию сегодня!" cta_link="/ru/#contact" >}}
 
+{{< figure src="fotosessiya-novorozhdennykh-tallinn-28.jpg" title="Съемка новорожденных в Таллинне, малыш 8 дней" >}}
+{{< figure src="fotosessiya-novorozhdennykh-tallinn-27.jpg" title="Фотосессия новорожденных, малышка 17 дней" >}}
+{{< figure src="fotosessiya-novorozhdennykh-chetvernyashek-tallinn-26.jpg" title="Фотосессия четверняшек в студии Таллинна, малышка и малыши, 2 месяца" >}}
+{{< figure src="fotosessiya-novorozhdennykh-tallinn-25.jpg" title="Съемка новорожденных в Таллинне, малыш 20 дней" >}}
+{{< figure src="fotosessiya-novorozhdennykh-tallinn-24.jpg" title="Фотосессия новорожденных в студии, малышка 13 дней" >}}
+{{< figure src="fotosessiya-novorozhdennykh-tallinn-23.jpg" title="Съемка младенцев в студии, малышка 8 дней" >}}
+{{< cta cta_text="💛 Забронируй фотосессию сегодня" cta_link="/ru/#contact" >}}
+{{< figure src="fotosessiya-novorozhdennykh-bliznetsov-tallinn-22.jpg" title="Фотосессия новорожденных близнецов в студии, малыш и малышка, 5 месяцев" >}}
 {{< video library="true" src="fotoraamat-beebifotosessioon-tallinn.mp4" controls="yes" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-21.jpg" title="Фотосессия новорожденных, малыш 12 дней" >}}
 {{< video library="true" src="fotoraamat-vastsundinu-fotosessioon-tallinn.mp4" controls="yes" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-1.jpg" title="Фотосессия новорожденного в студии Таллинна, малышка 10 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-2.jpg" title="Съемка новорожденных в Таллинне, малыш 19 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-4.jpg" title="Съемка новорожденного в студии, малышка 10 дней" >}}
-{{< figure src="fotosessiya-novorozhdennykh-tallinn-5.jpg" title="Фотосессия новорожденных, малыш 10 дней" >}}
 {{< cta cta_text="💛 Забронируй фотосессию сегодня" cta_link="/ru/#contact" >}}
+{{< figure src="fotosessiya-novorozhdennykh-tallinn-5.jpg" title="Фотосессия новорожденных, малыш 10 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-6.jpg" title="Фотосессия новорожденного в студии Таллинна, малыш 18 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-7.jpg" title="Съемка новорожденных в Таллинне, малышка 14 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-8.jpg" title="Фотосессия младенца в студии, малышка 12 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-9.jpg" title="Фотосессия новорожденных близнецов, малышки 12 дней" >}}
-{{< figure src="fotosessiya-novorozhdennykh-tallinn-10.jpg" title="Фотосессия новорожденных, малышка 8 дней" >}}
 {{< cta cta_text="💛 Забронируй фотосессию сегодня" cta_link="/ru/#contact" >}}
+{{< figure src="fotosessiya-novorozhdennykh-tallinn-10.jpg" title="Фотосессия новорожденных, малышка 8 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-11.jpg" title="Фотосессия младенца в студии Таллинна, малышка 11 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-12.jpg" title="Съемка новорожденных в Таллинне, малыш 12 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-13.jpg" title="Фотосессия новорожденных в студии, малышка 14 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-14.jpg" title="Съемка младенцев в студии, малышка 53 дня" >}}
-{{< figure src="fotosessiya-novorozhdennykh-tallinn-15.jpg" title="Фотосессия новорожденных, малыш 11 дней" >}}
 {{< cta cta_text="💛 Забронируй фотосессию сегодня" cta_link="/ru/#contact" >}}
+{{< figure src="fotosessiya-novorozhdennykh-tallinn-15.jpg" title="Фотосессия новорожденных, малыш 11 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-16.jpg" title="Фотосессия новорожденного в студии Таллинна, малышка 14 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-17.jpg" title="Съемка новорожденных в Таллинне, малышка 14 дней" >}}
 {{< figure src="fotosessiya-novorozhdennykh-tallinn-19.jpg" title="Съемка младенцев в студии, малыш 14 дня" >}}
