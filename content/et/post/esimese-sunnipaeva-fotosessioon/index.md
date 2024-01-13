@@ -1,9 +1,9 @@
 ---
 title: Esimese sünnipäeva fotosessioon - ideed ja nõuanded
-subtitle: Mida kaaluda esimese sünnipäeva pildistamisel
+subtitle: Mida kaaluda lapse esimese sünnipäeva pildistamisel
 
 # Summary for listings and search engines
-summary: Mida kaaluda esimese sünnipäeva pildistamisel
+summary: Mida kaaluda lapse esimese sünnipäeva pildistamisel
 
 # Link this post with a project
 projects: 
@@ -56,7 +56,7 @@ Teie peres toimub peagi tähtis sündmus – teie beebi saab 1-aastaseks. Lapse 
 
 ## Esimese sünnipäeva fotosessiooni kaunistused
 
-Fotostuudiot võib kaunistada õhupallide, kunst- või värskete lilledega. Sünnipäevalaps naudib kindlasti selliste rekvisiitide uurimist, nii et ei tasu loota selle turvalisusele pärast fotosessiooni lõppu. Erand - kvaliteetsed kunstlilled, mis minu fotostuudios peavad edukalt vastu rohkem kui ühele uudishimulikule modellile.
+Fotostuudiot võib kaunistada õhupallide, kunst- või värskete lilledega. Sünnipäevalaps naudib kindlasti selliste rekvisiitide uurimist, nii et ärge lootke nende terviklikkusele pärast pildistamise lõppu.
 
 {{< figure src="./esimese-sunnipaeva-fotosessioon-1.jpg" title="Esimese sünnipäeva fotosessioon" >}}
 
