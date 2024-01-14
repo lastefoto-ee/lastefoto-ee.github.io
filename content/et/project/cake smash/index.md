@@ -3,7 +3,7 @@ title: Cake smash
 summary: fotosessioon esimesele sünnipäevale
 tags:
 - cake smash
-date: "2024-01-06T08:58:53+03:00"
+date: "2024-01-14T08:58:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -76,6 +76,7 @@ Kuigi ma tavaliselt soovitan last enne fotosessiooni toita, et ta ei oleks nälj
 
 Hoidke käepärast lapse lemmiktoit, kui olete mures, et laps ei söö tordi kohe ära. Mis iganes on nende "alati õnnelikuks tegev" toit - võtke need kaasa. Neid väikseid snäkke võib peita dekoratsiooni või tordi osasse, et julgustada neid torti sööma.
 
+{{< figure src="cake-smash-fotosessioon-tallinnas-13.jpg" title="Cake Smash fotosessioon Tallinnas" >}}
 {{< figure src="lapse-sunnipaeva-fotosessioon-tallinnas-12.jpg" title="Fotosessioon lapse 3 sünnipäeva puhul" >}}
 {{< figure src="cake-smash-fotosessioon-tallinnas-11.jpg" title="Lapse esimene sünnipäev" >}}
 {{< figure src="cake-smash-fotosessioon-tallinnas-10.jpg" title="Cake Smash fotosessioon stuudios" >}}
