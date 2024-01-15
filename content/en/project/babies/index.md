@@ -3,7 +3,7 @@ title: Babies
 summary: photo shoot for 4-11 months babies
 tags:
 - babies
-date: "2023-01-09T05:46:17+03:00"
+date: "2024-01-15T05:46:17+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -75,40 +75,13 @@ Price includes:
 
 {{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
-{{< figure src="baby-photo-shoot-25.jpg" title="New Year baby photo shoot in Tallinn" >}}
-{{< figure src="baby-photo-shoot-24.jpg" title="Baby photo shoot, New Year" >}}
-{{< cta cta_text="💛 Order baby photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="baby-photo-shoot-23.jpg" title="New Year photo shoot in the studio" >}}
-{{< figure src="baby-photo-shoot-22.jpg" title="New Year shoot at LasteFoto studio" >}}
-{{< cta cta_text="💛 Order baby photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="baby-photo-shoot-21.jpg" title="Baby photo shoot in Tallinn" >}}
-{{< figure src="baby-photo-shoot-20.jpg" title="Baby photo shoot in the studio" >}}
-{{< cta cta_text="💛 Order baby photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="baby-photo-shoot-19.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photo-shoot-18.jpg" title="Baby photo shoot at LasteFoto studio" >}}
-{{< cta cta_text="💛 Order baby photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="baby-photo-shoot-17.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photo-shoot-16.jpg" title="Baby photo shoot in Tallinn" >}}
-{{< cta cta_text="💛 Order baby photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="baby-photo-shoot-15.jpg" title="Baby photo shoot in Tallinn" >}}
-{{< figure src="baby-photo-shoot-14.jpg" title="Baby photo shoot in Tallinn" >}}
-{{< cta cta_text="💛 Order baby photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="baby-photo-shoot-13.jpg" title="Baby photo shoot at LasteFoto studio" >}}
-{{< figure src="baby-photo-shoot-12.jpg" title="Baby photo shoot in the studio" >}}
-{{< cta cta_text="💛 Order baby photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="baby-photo-shoot-11.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photo-shoot-10.jpg" title="Baby photo shoot in Tallinn" >}}
-{{< cta cta_text="💛 Order baby photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="baby-photo-shoot-9.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photo-shoot-8.jpg" title="Baby photo shoot in the studio" >}}
-{{< cta cta_text="💛 Order baby photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="baby-photo-shoot-7.jpg" title="Baby photo shoot at LasteFoto studio" >}}
-{{< figure src="baby-photo-shoot-6.jpg" title="Baby photo shoot in Tallinn" >}}
-{{< cta cta_text="💛 Order baby photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
+{{< figure src="baby-photo-shoot-8.jpg" title="Baby photo shoot in the studio, 9 months old baby" >}}
+{{< figure src="baby-photo-shoot-7.jpg" title="Baby photo shoot at LasteFoto studio, 6 months old baby" >}}
+{{< figure src="baby-photo-shoot-6.jpg" title="Baby photo shoot in Tallinn, 7 months old baby" >}}
 {{< figure src="baby-photo-shoot-5.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photo-shoot-4.jpg" title="Baby photo shoot" >}}
 {{< cta cta_text="💛 Order baby photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}
-{{< figure src="baby-photo-shoot-3.jpg" title="Baby photo shoot at LasteFoto studio" >}}
-{{< figure src="baby-photo-shoot-2.jpg" title="Baby photo shoot" >}}
-{{< figure src="baby-photo-shoot-1.jpg" title="Baby photo shoot in Tallinn" >}}
+{{< figure src="baby-photo-shoot-4.jpg" title="Baby photo shoot, 11 months old baby" >}}
+{{< figure src="baby-photo-shoot-3.jpg" title="Baby photo shoot at LasteFoto studio, 10 months old baby" >}}
+{{< figure src="baby-photo-shoot-2.jpg" title="Baby photo shoot, 4 months old baby" >}}
+{{< figure src="baby-photo-shoot-1.jpg" title="Baby photo shoot in Tallinn, 3 months old baby" >}}
 {{< cta cta_text="💛 Order baby photo shoot right now" cta_link="/en/#contact" cta_new_tab="true" >}}

@@ -3,7 +3,7 @@ title: Beebid
 summary: fotosessioon beebidele vanuses 4-11 kuud
 tags:
 - beebid
-date: "2023-01-09T05:06:53+03:00"
+date: "2024-01-15T05:06:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -75,40 +75,13 @@ Hind sisaldab:
 
 {{< cta cta_text="💛 Broneeri beebi fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" >}}
 
-{{< figure src="beebi-fotosessioon-25.jpg" title="Beebi jõulu fotosessioon Tallinnas" >}}
-{{< figure src="beebi-fotosessioon-24.jpg" title="Beebi jõulu pildid" >}}
-[💛 Broneeri beebi fotosessioon](/#contact)
-{{< figure src="beebi-fotosessioon-23.jpg" title="Beebi jõulufotosessioon" >}}
-{{< figure src="beebi-fotosessioon-22.jpg" title="Beebi jõulupildistamine Tallinna stuudios" >}}
-[💛 Broneeri beebi fotosessioon](/#contact)
-{{< figure src="beebi-fotosessioon-21.jpg" title="Beebipildistamine" >}}
-{{< figure src="beebi-fotosessioon-20.jpg" title="Beebi fotosessioon Tallinnas" >}}
-[💛 Broneeri beebi fotosessioon](/#contact)
-{{< figure src="beebi-fotosessioon-19.jpg" title="Beebipildid" >}}
-{{< figure src="beebi-fotosessioon-18.jpg" title="Beebipildistamine Tallinna stuudios" >}}
-[💛 Broneeri beebi fotosessioon](/#contact)
-{{< figure src="beebi-fotosessioon-17.jpg" title="Beebi fotosessioon" >}}
-{{< figure src="beebi-fotosessioon-16.jpg" title="Beebifotosessioon Tallinnas" >}}
-[💛 Broneeri beebi fotosessioon](/#contact)
-{{< figure src="beebi-fotosessioon-15.jpg" title="Beebifotosessioon Tallinnas" >}}
-{{< figure src="beebi-fotosessioon-14.jpg" title="Beebipildistamine Tallinna stuudios" >}}
-[💛 Broneeri beebi fotosessioon](/#contact)
-{{< figure src="beebi-fotosessioon-13.jpg" title="Beebipildid" >}}
-{{< figure src="beebi-fotosessioon-12.jpg" title="Beebipildistamine Tallinnas" >}}
-[💛 Broneeri beebi fotosessioon](/#contact)
-{{< figure src="beebi-fotosessioon-11.jpg" title="Beebipildid" >}}
-{{< figure src="beebi-fotosessioon-10.jpg" title="Beebi fotosessioon Tallinnas" >}}
-[💛 Broneeri beebi fotosessioon](/#contact)
-{{< figure src="beebi-fotosessioon-9.jpg" title="Beebipildid" >}}
-{{< figure src="beebi-fotosessioon-8.jpg" title="Beebifotosessioon" >}}
-[💛 Broneeri beebi fotosessioon](/#contact)
-{{< figure src="beebi-fotosessioon-7.jpg" title="Beebi pildistamine Tallinna stuudios" >}}
-{{< figure src="beebi-fotosessioon-6.jpg" title="Beebipildistamine" >}}
-[💛 Broneeri beebi fotosessioon](/#contact)
+{{< figure src="beebi-fotosessioon-8.jpg" title="Beebifotosessioon, 9 kuune beebi" >}}
+{{< figure src="beebi-fotosessioon-7.jpg" title="Beebi pildistamine Tallinna stuudios, 6 kuune beebi" >}}
+{{< figure src="beebi-fotosessioon-6.jpg" title="Beebipildistamine, 7 kuune beebi" >}}
 {{< figure src="beebi-fotosessioon-5.jpg" title="Beebi fotosessioon Tallinnas" >}}
-{{< figure src="beebi-fotosessioon-4.jpg" title="Beebipildid" >}}
 [💛 Broneeri beebi fotosessioon](/#contact)
-{{< figure src="beebi-fotosessioon-3.jpg" title="Beebipildistamine Tallinna stuudios" >}}
-{{< figure src="beebi-fotosessioon-2.jpg" title="Beebi fotosessioon" >}}
-{{< figure src="beebi-fotosessioon-1.jpg" title="Beebifotosessioon Tallinnas" >}}
+{{< figure src="beebi-fotosessioon-4.jpg" title="Beebipildid, 11 kuune beebi" >}}
+{{< figure src="beebi-fotosessioon-3.jpg" title="Beebipildistamine Tallinna stuudios, 10 kuune beebi" >}}
+{{< figure src="beebi-fotosessioon-2.jpg" title="Beebi fotosessioon, 4 kuune beebi" >}}
+{{< figure src="beebi-fotosessioon-1.jpg" title="Beebifotosessioon Tallinnas, 3 kuune beebi" >}}
 [💛 Broneeri beebi fotosessioon](/#contact)
