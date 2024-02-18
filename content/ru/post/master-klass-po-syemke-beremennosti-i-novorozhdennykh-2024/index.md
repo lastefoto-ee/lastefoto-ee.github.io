@@ -168,11 +168,14 @@ _начинается в 9:00 и заканчивается в 17:00. Небол
 **17:00 - вручение сертификатов, обнимаемся и прощаемся**
 
 ## 🇫🇮 Хельсинки, Финляндия - 13-14 апреля, 2024
-{{< cta cta_text="💛 Забронируй место за 100€" cta_link="https://buy.stripe.com/9AQ8yH01Vd8B8vudRF" cta_new_tab="true" cta_alt_text="или внеси всю сумму сразу 550€" cta_alt_link="https://buy.stripe.com/dR68yH5mfc4x2766pe" cta_alt_new_tab="true" >}}
+{{< cta cta_text="Забронируй место за 100€" cta_link="https://buy.stripe.com/9AQ8yH01Vd8B8vudRF" cta_new_tab="true" cta_alt_text="или внеси всю сумму сразу 550€" cta_alt_link="https://buy.stripe.com/dR68yH5mfc4x2766pe" cta_alt_new_tab="true" >}}
 
-{{< cta cta_text="💛 Забронируй место на первый день воркшопа за 350€" cta_link="https://buy.stripe.com/6oE8yHdSL4C5132eVL" cta_new_tab="true" cta_alt_text="💛 Забронируй место на второй день воркшопа за 350€" cta_alt_link="https://buy.stripe.com/3cs4ireWPecF2768xo" cta_alt_new_tab="true" >}}
+{{< cta cta_text="Забронируй место на первый день воркшопа за 350€" cta_link="https://buy.stripe.com/6oE8yHdSL4C5132eVL" cta_new_tab="true" cta_alt_text="Забронируй место на второй день воркшопа за 350€" cta_alt_link="https://buy.stripe.com/3cs4ireWPecF2768xo" cta_alt_new_tab="true" >}}
 
 ## 🇨🇿 Прага, Чехия - 20-21 апреля, 2024
+{{< cta cta_text="Забронируй место за 100€" cta_link="https://buy.stripe.com/5kAdT1cOH3y19zyfZR" cta_new_tab="true" cta_alt_text="или внеси всю сумму сразу 550€" cta_alt_link="https://buy.stripe.com/dR68yH9Cvb0tdPO6pi" cta_alt_new_tab="true" >}}
+
+{{< cta cta_text="Забронируй место на первый день воркшопа за 350€" cta_link="https://buy.stripe.com/3cs5mvg0TgkNbHGfZT" cta_new_tab="true" cta_alt_text="Забронируй место на второй день воркшопа за 350€" cta_alt_link="https://buy.stripe.com/aEU5mvdSL8SleTS9Bw" cta_alt_new_tab="true" >}}
 
 ## 🇱🇻 Рига, Латвия - 4-5 мая, 2024
 
