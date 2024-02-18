@@ -170,3 +170,11 @@ Newborn photo editing (Lightroom, Photoshop) and Q&A. You will receive the Photo
 {{< cta cta_text="💛 Book your spot now for 100€" cta_link="https://buy.stripe.com/9AQ8yH01Vd8B8vudRF" cta_new_tab="true" cta_alt_text="or pay the full amount of 550€" cta_alt_link="https://buy.stripe.com/dR68yH5mfc4x2766pe" cta_alt_new_tab="true" >}}
 
 {{< cta cta_text="💛 Book your spot on the first day of the workshop for 350€" cta_link="https://buy.stripe.com/6oE8yHdSL4C5132eVL" cta_new_tab="true" cta_alt_text="💛 Book your spot on the second day of the workshop for 350€" cta_alt_link="https://buy.stripe.com/3cs4ireWPecF2768xo" cta_alt_new_tab="true" >}}
+
+## 🇨🇿 Prague, Czech Republic - April 20-21, 2024
+
+## 🇱🇻 Riga, Latvia - May 4-5, 2024
+
+## 🇩🇰 Silkeborg, Denmark - June 15-16, 2024
+
+## 🇪🇸 Marbella, Spain - Oktober 5-6, 2024
