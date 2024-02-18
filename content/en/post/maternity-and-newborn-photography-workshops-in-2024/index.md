@@ -180,4 +180,4 @@ Newborn photo editing (Lightroom, Photoshop) and Q&A. You will receive the Photo
 
 ## 🇩🇰 Silkeborg, Denmark - June 15-16, 2024
 
-## 🇪🇸 Marbella, Spain - Oktober 5-6, 2024
+## 🇪🇸 Marbella, Spain - October 5-6, 2024
