@@ -1,5 +1,5 @@
 ---
-title: All white
+title: All white session
 summary: photo shoot for children from 8 months
 tags:
 - babies
