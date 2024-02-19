@@ -3,6 +3,7 @@ title: All white фотосессия
 summary: для детей от 8 месяцев
 tags:
 - малыши
+- all white фотосессия
 date: "2024-02-16T05:50:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
