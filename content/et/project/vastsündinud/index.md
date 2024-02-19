@@ -24,7 +24,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 3
+weight: 2
 
 ---
 {{< figure src="vastsundinu-fotosessioon-tallinn-3.jpg" title="Vastsündinu fotosessioon stuudios, beebitüdruk 11 päeva uus" >}}

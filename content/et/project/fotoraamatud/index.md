@@ -26,7 +26,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 10
+weight: 8
 ---
 Mälestused beebi kasvamisest on väärt seda, et nad ei jääks seisma arvutisse.
 Et saaksite neid näha, katsuda, lehitseda, imetleda... Selleks te ju fotograafi poole pöördusite.

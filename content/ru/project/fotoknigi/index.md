@@ -27,7 +27,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 12
+weight: 8
 ---
 Незабываемые моменты взросления вашего малыша заслуживают быть напечатанными. Чтобы их можно было рассматривать, трогать, листать, восхищаться ими. Ведь именно для этого вы и обратились к услугам фотографа. 
 

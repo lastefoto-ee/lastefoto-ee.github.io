@@ -3,7 +3,7 @@ title: Beebid
 summary: fotosessioon beebidele vanuses 4-11 kuud
 tags:
 - beebid
-date: "2024-01-15T05:06:53+03:00"
+date: "2024-02-19T05:06:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -24,7 +24,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 5
+weight: 4
 #url: /beebi/fotosessioon
 ---
 ## Minipakett (1 tund) *210*€

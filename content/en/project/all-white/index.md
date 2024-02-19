@@ -44,7 +44,7 @@ Price includes:
 
 {{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
-{{< figure src="all_white_photo_shoot_1.jpg" title="Baby all white photo shoot in Tallinn, sample images" >}}
+{{< figure src="all-white-photo-shoot-1.jpg" title="Baby all white photo shoot in Tallinn, sample images" >}}
 
 ## Family package (1 hour) *220*€ 
 _Please read FAQ below_ 
@@ -58,7 +58,7 @@ Price includes:
 6. a web gallery of retouched images, which you can also share if you wish;
 7. retouching of additional photos 8 € / photo;
 
-{{< figure src="all_white_photo_shoot_3.jpg" title="Baby all white photo shoot in the studio, sample images" >}}
+{{< figure src="all-white-photo-shoot-3.jpg" title="Baby all white photo shoot in the studio, sample images" >}}
 
 {{< cta cta_text="💛 Order your photo shoot right now!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
@@ -66,7 +66,7 @@ Price includes:
 
 - What is the best age for this session?
 
-Ideally 8-9 months of age. When your baby can sit on their own, then this is normally a good time to bring them in. By this age, they often begin to show their unique personalities and it is such a beautiful time to capture photos. If ypur baby is not quite sitting up yet, don't worry, I will provide some support for them or have them laying on their back or tummy.
+Ideally 8-9 months of age. When your baby can sit on their own, then this is normally a good time to bring them in. By this age, they often begin to show their unique personalities and it is such a beautiful time to capture photos. If your baby is not quite sitting up yet, don't worry, I will provide some support for them or have them laying on their back or tummy.
 
 - What should they wear?
 
@@ -80,6 +80,8 @@ Babies at this age do not have a long attention span so we try keep it short and
 
 Ideally it would be great if your baby comes in just after or just before their nap time. Please bring some snacks and their favorite toy, if they have one. Also, if your baby enjoys a particular song or cartoon, keep it ready. We might use it to help them feel more at ease during the session.
 
-{{< figure src="all_white_photo_shoot_2.jpg" title="Baby photo shoot in Tallinn" >}}
+{{< cta cta_text="💛 Order all white photo shoot right now!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
-{{< figure src="all_white_photo_shoot_4.jpg" title="Baby all white photo session in the studio" >}}
+{{< figure src="all-white-photo-shoot-2.jpg" title="Baby photo shoot in Tallinn" >}}
+
+{{< figure src="all-white-photo-shoot-4.jpg" title="Baby all white photo session in the studio" >}}

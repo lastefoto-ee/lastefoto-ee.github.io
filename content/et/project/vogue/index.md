@@ -28,7 +28,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 8
+weight: 7
 
 gallery_item:
 - album: vogue-fotosessija

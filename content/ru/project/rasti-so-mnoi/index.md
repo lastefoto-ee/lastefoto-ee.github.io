@@ -28,7 +28,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 4
+weight: 3
 
 ---
 ## Первый год жизни малыша *1400* € (возможна оплата частями)
