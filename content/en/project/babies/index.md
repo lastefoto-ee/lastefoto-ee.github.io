@@ -24,7 +24,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 5
+weight: 4
 
 ---
 ## Mini-package (1 hour) *210*€ 
@@ -33,7 +33,7 @@ _The best time to capture a baby is between 4-11 months of age._
 Price includes:
 1. 2-3 different set-ups for the baby;
 2. a family photo. Snapshots with family members are not included in this package;
-3. 15 digital images 10x15cm; *If desired, you can choose the images yourself from the pre-edited gallery.*
+3. 15 digital images; *If desired, you can choose the images yourself from the pre-edited gallery.*
 4. individual retouching of each photo. Raw images are not included in the package price but can be purchased additionally;
 5. use of various accessories. Washing of accessories and fabrics used;
 6. consultation before and accompaniment during the photo shoot;
@@ -51,7 +51,7 @@ _The best time to capture a baby is between 4-11 months of age._
 Price includes:
 1. 3-4 different set-ups for the baby;
 2. photos with family members separately and a family photo;
-3. 25 digital and paper images 10x15cm; *If desired, you can choose the images yourself from the pre-edited gallery.*
+3. 25 digital and paper images; *If desired, you can choose the images yourself from the pre-edited gallery.*
 4. individual retouching of each photo. Raw images are not included in the package price but can be purchased additionally;
 5. use of various accessories. Washing of accessories and fabrics used;
 6. consultation before and accompaniment during the photo shoot;

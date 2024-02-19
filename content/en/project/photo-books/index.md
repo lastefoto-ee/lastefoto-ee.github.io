@@ -27,7 +27,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 10
+weight: 8
 ---
 The unforgettable moments of your little one growing up deserve to be printed. So it can be viewed, touched, leafed through and admired. After all, that's what you've turned to a photographer for. 
 
